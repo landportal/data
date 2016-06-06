@@ -113,5 +113,19 @@ WHERE {
 ORDER BY DESC(?dateTime)
 LIMIT 1
 }
+UNION
+{
+SELECT ?obs 
+FROM <http://data.landportal.info>
+WHERE {
+?obs cex:ref-area <http://data.landportal.info/geo/TZA> ;
+     cex:ref-indicator <http://data.landportal.info/indicator/FAO-LANDANDGENDER.1FB> ;
+     cex:ref-time ?time .
+?time time:hasBeginning ?timeValue .
+?timeValue time:inXSDDateTime ?dateTime }
+ORDER BY DESC(?dateTime)
+LIMIT 1
+}
+
 
 }
