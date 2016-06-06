@@ -2,10 +2,11 @@ PREFIX cex: <http://purl.org/weso/ontology/computex#>
 PREFIX ex: <http://www.example.org/rdf#>
 
 
-SELECT DISTINCT ?countryURL ?countryLabel
+SELECT DISTINCT ?countryURL ?countryISO3 ?countryLabel
 FROM <http://data.landportal.info>
 WHERE {
-?obs cex:ref-indicator <http://data.landportal.info/indicator/FAO-23045-6083> ;
-     cex:ref-area ?countryURL .
-?countryURL ex:label ?countryLabel.
+   ?obs cex:ref-indicator <http://data.landportal.info/indicator/FAO-23045-6083> ;
+        cex:ref-area ?countryURL .
+   ?countryURL ex:label ?countryLabel.
+   BIND (REPLACE(STR(?countryURL), "http://data.landportal.info/geo/","") AS ?countryISO3)
 }

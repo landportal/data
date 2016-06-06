@@ -3,7 +3,7 @@ PREFIX time: <http://www.w3.org/2006/time#>
 PREFIX ex: <http://www.example.org/rdf#>
 
 
-SELECT ?obs ?indicatorURL ?indicatorLabel ?indicatorDescription ?dateTime ?value ?unitLabel ?datasetURL ?datasetLabel ?sourceOrgURL ?sourceOrgLabel
+SELECT ?obs ?indicatorURL ?indicatorLabel ?indicatorDescription (year(?dateTime) as ?year) ?value ?unitLabel ?datasetURL ?datasetLabel ?sourceOrgURL ?sourceOrgLabel
 FROM <http://data.landportal.info>
 WHERE {
 ?obs cex:ref-indicator ?indicatorURL ;

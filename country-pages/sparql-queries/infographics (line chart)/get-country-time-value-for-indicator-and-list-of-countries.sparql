@@ -1,7 +1,7 @@
 PREFIX cex: <http://purl.org/weso/ontology/computex#>
 PREFIX time: <http://www.w3.org/2006/time#>
 
-SELECT ?countryURL ?dateTime ?value 
+SELECT ?countryISO3 (year(?dateTime) as ?year) ?value 
 FROM <http://data.landportal.info>
 WHERE {
 
@@ -10,7 +10,8 @@ WHERE {
      cex:value ?value.
      	 
      ?time time:hasBeginning ?timeValue .
-     ?timeValue time:inXSDDateTime ?dateTime
+     ?timeValue time:inXSDDateTime ?dateTime .
+     BIND (REPLACE(STR(?countryURL), "http://data.landportal.info/geo/","") AS ?countryISO3)
 
 {
 SELECT ?obs 
