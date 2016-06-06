@@ -1,0 +1,25 @@
+PREFIX cex: <http://purl.org/weso/ontology/computex#>
+PREFIX time: <http://www.w3.org/2006/time#>
+PREFIX ex: <http://www.example.org/rdf#>
+
+
+SELECT ?value ?unitLabel ?datasetURL ?datasetLabel ?sourceOrgURL ?sourceOrgLabel
+FROM <http://data.landportal.info>
+WHERE {
+
+?obs cex:ref-area <http://data.landportal.info/geo/TZA> ;
+     cex:ref-indicator <http://data.landportal.info/indicator/FAO-23045-6083> ;
+     cex:value ?value ;
+     cex:ref-time ?time .
+
+     ?time time:hasBeginning ?timeValue .
+     ?timeValue time:inXSDDateTime "2011-01-01T00:00:00Z"^^xsd:dateTime .
+
+     <http://data.landportal.info/indicator/FAO-23045-6083> ex:unit ?unitLabel ;
+     ex:dataset ?datasetURL .
+				   
+     ?datasetURL ex:label ?datasetLabel ;
+     ex:org ?sourceOrgURL .
+	
+     ?sourceOrgURL ex:label ?sourceOrgLabel.	 
+}

@@ -1,0 +1,117 @@
+PREFIX cex: <http://purl.org/weso/ontology/computex#>
+PREFIX time: <http://www.w3.org/2006/time#>
+PREFIX ex: <http://www.example.org/rdf#>
+
+
+SELECT ?obs ?indicatorURL ?indicatorLabel ?indicatorDescription ?dateTime ?value ?unitLabel ?datasetURL ?datasetLabel ?sourceOrgURL ?sourceOrgLabel
+FROM <http://data.landportal.info>
+WHERE {
+?obs cex:ref-indicator ?indicatorURL ;
+	 cex:ref-time ?time ;
+     cex:value ?value.
+     	 
+     ?indicatorURL ex:label ?indicatorLabel ;
+                   ex:description ?indicatorDescription ;
+				   ex:unit ?unitLabel ;
+				   ex:dataset ?datasetURL .
+				   
+	 ?datasetURL ex:label ?datasetLabel ;
+	             ex:org ?sourceOrgURL .
+	
+	 ?sourceOrgURL ex:label ?sourceOrgLabel.
+	 
+     ?time time:hasBeginning ?timeValue .
+     ?timeValue time:inXSDDateTime ?dateTime
+ 
+{
+SELECT ?obs 
+FROM <http://data.landportal.info>
+WHERE {
+?obs cex:ref-area <http://data.landportal.info/geo/TZA> ;
+     cex:ref-indicator <http://data.landportal.info/indicator/WB-SP.POP.TOTL> ;
+     cex:ref-time ?time .
+?time time:hasBeginning ?timeValue .
+?timeValue time:inXSDDateTime ?dateTime }
+ORDER BY DESC(?dateTime)
+LIMIT 1
+} 
+UNION
+{
+SELECT ?obs 
+FROM <http://data.landportal.info>
+WHERE {
+?obs cex:ref-area <http://data.landportal.info/geo/TZA> ;
+     cex:ref-indicator <http://data.landportal.info/indicator/WB-SP.RUR.TOTL.ZS> ;
+     cex:ref-time ?time .
+?time time:hasBeginning ?timeValue .
+?timeValue time:inXSDDateTime ?dateTime }
+ORDER BY DESC(?dateTime)
+LIMIT 1
+}
+UNION
+{
+SELECT ?obs 
+FROM <http://data.landportal.info>
+WHERE {
+?obs cex:ref-area <http://data.landportal.info/geo/TZA> ;
+     cex:ref-indicator <http://data.landportal.info/indicator/WB-NY.GDP.PCAP.PP.KD> ;
+     cex:ref-time ?time .
+?time time:hasBeginning ?timeValue .
+?timeValue time:inXSDDateTime ?dateTime }
+ORDER BY DESC(?dateTime)
+LIMIT 1
+}
+UNION
+{
+SELECT ?obs 
+FROM <http://data.landportal.info>
+WHERE {
+?obs cex:ref-area <http://data.landportal.info/geo/TZA> ;
+     cex:ref-indicator <http://data.landportal.info/indicator/FAO-6601-5110> ;
+     cex:ref-time ?time .
+?time time:hasBeginning ?timeValue .
+?timeValue time:inXSDDateTime ?dateTime }
+ORDER BY DESC(?dateTime)
+LIMIT 1
+}
+UNION
+{
+SELECT ?obs 
+FROM <http://data.landportal.info>
+WHERE {
+?obs cex:ref-area <http://data.landportal.info/geo/TZA> ;
+     cex:ref-indicator <http://data.landportal.info/indicator/FAO-23045-6083> ;
+     cex:ref-time ?time .
+?time time:hasBeginning ?timeValue .
+?timeValue time:inXSDDateTime ?dateTime }
+ORDER BY DESC(?dateTime)
+LIMIT 1
+}
+UNION
+{
+SELECT ?obs 
+FROM <http://data.landportal.info>
+WHERE {
+?obs cex:ref-area <http://data.landportal.info/geo/TZA> ;
+     cex:ref-indicator <http://data.landportal.info/indicator/DP-MOD-O-F> ;
+     cex:ref-time ?time .
+?time time:hasBeginning ?timeValue .
+?timeValue time:inXSDDateTime ?dateTime }
+ORDER BY DESC(?dateTime)
+LIMIT 1
+}
+UNION
+{
+SELECT ?obs 
+FROM <http://data.landportal.info>
+WHERE {
+?obs cex:ref-area <http://data.landportal.info/geo/TZA> ;
+     cex:ref-indicator <http://data.landportal.info/indicator/DP-MOD-O-N> ;
+     cex:ref-time ?time .
+?time time:hasBeginning ?timeValue .
+?timeValue time:inXSDDateTime ?dateTime }
+ORDER BY DESC(?dateTime)
+LIMIT 1
+}
+
+}

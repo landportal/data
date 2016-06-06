@@ -1,0 +1,66 @@
+PREFIX cex: <http://purl.org/weso/ontology/computex#>
+PREFIX time: <http://www.w3.org/2006/time#>
+PREFIX ex: <http://www.example.org/rdf#>
+
+SELECT  ?sigi ?sigiTo100 ?gini ?giniTo100 ?hdi ?hdiTo100  ?ghi ?ghiTo100
+FROM <http://data.landportal.info>
+WHERE {
+
+{
+SELECT ?hdi
+FROM <http://data.landportal.info>
+WHERE {
+?obs cex:ref-area <http://data.landportal.info/geo/TZA> ;
+     cex:ref-indicator <http://data.landportal.info/indicator/UNDP-HDI-INDEX> ;
+     cex:ref-time ?time ;
+     cex:value ?hdi .
+     ?time time:hasBeginning ?timeValue .
+     ?timeValue time:inXSDDateTime ?dateTime .
+} ORDER BY DESC(?dateTime)
+  LIMIT 1
+}
+
+{
+SELECT ?gini
+FROM <http://data.landportal.info>
+WHERE {
+?obs cex:ref-area <http://data.landportal.info/geo/TZA> ;
+     cex:ref-indicator <http://data.landportal.info/indicator/WB-SI.POV.GINI> ;
+     cex:ref-time ?time ;
+     cex:value ?gini .
+     ?time time:hasBeginning ?timeValue .
+     ?timeValue time:inXSDDateTime ?dateTime .
+} ORDER BY DESC(?dateTime)
+  LIMIT 1
+}
+
+{
+SELECT ?ghi
+FROM <http://data.landportal.info>
+WHERE {
+?obs cex:ref-area <http://data.landportal.info/geo/TZA> ;
+     cex:ref-indicator <http://data.landportal.info/indicator/IFPRI-GHI> ;
+     cex:ref-time ?time ;
+     cex:value ?ghi .
+     ?time time:hasBeginning ?timeValue .
+     ?timeValue time:inXSDDateTime ?dateTime .
+} ORDER BY DESC(?dateTime)
+  LIMIT 1
+}
+
+# OVERALL => 100 best - 0 worst
+
+# SIGI index: SIGI index ranges from 0 (= "No Inequality" - BEST) to 1 (= "very high inequality" - WORST)
+BIND (xsd:float(0.8) AS ?sigi) . # TODO Change with real value
+BIND ((xsd:float(100) - (?sigi)*100)  AS ?sigiTo100) .
+
+
+# gini index: from 0 (="Perfect equality - BEST) to 100 (= "Perfect inequality - WORST)
+BIND ((xsd:float(100) - (?gini))  AS ?giniTo100) .
+
+# HDI: from 0 (=Very low level of Human Development - WORST) to 1 (= very high level of HD - BEST)
+BIND ((?hdi)*100 AS ?hdiTo100) .
+
+# GHI: The index ranks countries on a 100 point scale, with 0 being the best (0=BEST) and 100 the worst (100=WORST)
+BIND ((xsd:float(100) - (?ghi))  AS ?ghiTo100) .
+}

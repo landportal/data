@@ -1,0 +1,14 @@
+# Obtain latest value (all are years) for indicator WB-NY.GDP.PCAP.PP.KD for Albania country (iso3 code: ALB)
+
+SELECT ?inXSDDateTime ?value
+FROM <http://data.landportal.info>
+WHERE {
+?obs <http://purl.org/weso/ontology/computex#ref-indicator> <http://data.landportal.info/indicator/WB-NY.GDP.PCAP.PP.KD> ;
+     <http://purl.org/weso/ontology/computex#ref-area> <http://data.landportal.info/geo/ALB> ;
+     <http://purl.org/weso/ontology/computex#ref-time> ?time ;
+     <http://purl.org/weso/ontology/computex#value> ?value.
+?time <http://www.w3.org/2006/time#hasBeginning> ?timeValue .
+?timeValue <http://www.w3.org/2006/time#inXSDDateTime> ?inXSDDateTime
+} 
+ORDER BY DESC(?inXSDDateTime)
+LIMIT 1
