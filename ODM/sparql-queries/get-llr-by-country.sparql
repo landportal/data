@@ -1,7 +1,7 @@
 # Get Land Library Resources from a list of countries
 
 SELECT DISTINCT ?llr ?llrLabel ?country ?countryLabel
-FROM <http://test.landportal.info>
+FROM <http://drupal-test.landportal.info>
 WHERE {
    ?llr a  <http://purl.org/ontology/bibo/Document> ;
         <http://purl.org/dc/terms/spatial> ?country ;
