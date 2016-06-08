@@ -1,3 +1,7 @@
+PREFIX cex: <http://purl.org/weso/ontology/computex#>
+PREFIX time: <http://www.w3.org/2006/time#>
+PREFIX ex: <http://www.example.org/rdf#>
+
 SELECT ?ArableLandPer ?PermanentCropsPer ?PermanentPasturesAndMedowsPer ?ForestLandPer ?OtherPer ?TotalLandHa (year(?maxdateTime) as ?year)
 FROM <http://data.landportal.info>
 WHERE {
