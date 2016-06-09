@@ -6,7 +6,7 @@ SELECT  ?sigi ?sigiTo100 ?gini ?giniTo100 ?hdi ?hdiTo100  ?ghi ?ghiTo100
 FROM <http://data.landportal.info>
 WHERE {
 
-{
+OPTIONAL{
 SELECT ?sigi
 FROM <http://data.landportal.info>
 WHERE {
@@ -20,7 +20,7 @@ WHERE {
   LIMIT 1
 }
 
-{
+OPTIONAL{
 SELECT ?hdi
 FROM <http://data.landportal.info>
 WHERE {
@@ -34,7 +34,7 @@ WHERE {
   LIMIT 1
 }
 
-{
+OPTIONAL{
 SELECT ?gini
 FROM <http://data.landportal.info>
 WHERE {
@@ -48,7 +48,7 @@ WHERE {
   LIMIT 1
 }
 
-{
+OPTIONAL{
 SELECT ?ghi
 FROM <http://data.landportal.info>
 WHERE {
