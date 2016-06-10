@@ -1,14 +1,15 @@
 # Get indicators that have, at least one value for a country.
+# Returns indicatorURL and indicatorLabel
 # Ordered by indicatorURL
 
 PREFIX cex: <http://purl.org/weso/ontology/computex#>
 PREFIX ex: <http://www.example.org/rdf#>
 
-SELECT DISTINCT ?indicatorURL 
+SELECT DISTINCT ?indicatorURL ?indicatorLabel
 FROM <http://data.landportal.info>
 WHERE {
 ?obs cex:ref-indicator ?indicatorURL ;
      cex:ref-area <http://data.landportal.info/geo/TZA> ;
      cex:value ?value.
-?indicatorURL ex:label ?indicatorLabel ;
+?indicatorURL ex:label ?indicatorLabel .
 } ORDER BY ?indicatorURL
