@@ -1,0 +1,11 @@
+PREFIX cex: <http://purl.org/weso/ontology/computex#>
+PREFIX qb: <http://purl.org/linked-data/cube#>
+
+SELECT ?indicatorURL (STR(?value) AS ?value)
+FROM <http://data.landportal.info>
+WHERE {
+   ?obs cex:ref-area <http://data.landportal.info/geo/TZA> ;
+        qb:dataSet <http://data.landportal.info/dataset/WB-LGAF2016> ;
+		cex:ref-indicator ?indicatorURL ;
+		cex:value ?value.
+} ORDER BY ?indicatorURL
