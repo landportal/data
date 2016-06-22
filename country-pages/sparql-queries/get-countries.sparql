@@ -1,0 +1,11 @@
+# Gets URL, ISO3 code and LABEL for all the countries
+# NOTE: the properties for label MUST change
+
+PREFIX ex: <http://www.example.org/rdf#>
+SELECT ?countryURL ?countryISO3 ?countryLabel
+FROM <http://data.landportal.info>
+WHERE {
+	?countryURL a <http://purl.org/weso/landbook/ontology#Country> ;
+                ex:label ?countryLabel .
+	BIND (REPLACE(STR(?countryURL), "http://data.landportal.info/geo/","") AS ?countryISO3)
+} ORDER BY ?countryURL
