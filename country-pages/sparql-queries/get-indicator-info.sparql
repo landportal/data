@@ -1,0 +1,8 @@
+PREFIX ex: <http://www.example.org/rdf#>
+SELECT ?indicatorLabel ?indicatorDescription ?indicatorUnit
+FROM <http://data.landportal.info>
+WHERE {
+  <http://data.landportal.info/indicator/FAO-23045-6083> ex:label ?indicatorLabel ;
+  ex:description ?indicatorDescription ;
+  ex:unit ?indicatorUnit .
+}
