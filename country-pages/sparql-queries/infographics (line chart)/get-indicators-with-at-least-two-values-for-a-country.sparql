@@ -1,0 +1,18 @@
+# Get indicators that have, at least two values for a country.
+# Returns indicatorURL and indicatorLabel
+# Ordered by indicatorURL
+# For debugging, query SELECT DISTINCT ?indicatorURL ?indicatorLabel (count(?obs) as ?count)
+
+PREFIX cex: <http://purl.org/weso/ontology/computex#>
+PREFIX ex: <http://www.example.org/rdf#>
+SELECT DISTINCT ?indicatorURL ?indicatorLabel
+FROM <http://data.landportal.info>
+WHERE {
+?obs cex:ref-indicator ?indicatorURL ;
+     cex:ref-area <http://data.landportal.info/geo/TZA> ;
+     cex:value ?value.
+?indicatorURL ex:label ?indicatorLabel .
+} 
+GROUP BY ?indicatorURL ?indicatorLabel
+HAVING (COUNT(?obs) >= 2)
+ORDER BY ?indicatorURL
