@@ -2,12 +2,12 @@ PREFIX cex: <http://purl.org/weso/ontology/computex#>
 PREFIX time: <http://www.w3.org/2006/time#>
 PREFIX ex: <http://www.example.org/rdf#>
 
-SELECT  ?sigi ?sigiTo100 ?gini ?giniTo100 ?hdi ?hdiTo100  ?ghi ?ghiTo100
+SELECT  ?sigi ?sigiTo100 ?sigiYear ?gini ?giniTo100 ?giniYear ?hdi ?hdiTo100 ?hdiYear ?ghi ?ghiTo100 ?ghiYear
 FROM <http://data.landportal.info>
 WHERE {
 
 OPTIONAL{
-SELECT ?sigi
+SELECT ?sigi (year(?dateTime) as ?sigiYear)
 FROM <http://data.landportal.info>
 WHERE {
 ?obs cex:ref-area <http://data.landportal.info/geo/TZA> ;
@@ -16,12 +16,13 @@ WHERE {
      cex:value ?sigi .
      ?time time:hasBeginning ?timeValue .
      ?timeValue time:inXSDDateTime ?dateTime .
+
 } ORDER BY DESC(?dateTime)
   LIMIT 1
 }
 
 OPTIONAL{
-SELECT ?hdi
+SELECT ?hdi (year(?dateTime) as ?hdiYear)
 FROM <http://data.landportal.info>
 WHERE {
 ?obs cex:ref-area <http://data.landportal.info/geo/TZA> ;
@@ -35,7 +36,7 @@ WHERE {
 }
 
 OPTIONAL{
-SELECT ?gini
+SELECT ?gini (year(?dateTime) as ?giniYear)
 FROM <http://data.landportal.info>
 WHERE {
 ?obs cex:ref-area <http://data.landportal.info/geo/TZA> ;
@@ -49,7 +50,7 @@ WHERE {
 }
 
 OPTIONAL{
-SELECT ?ghi
+SELECT ?ghi (year(?dateTime) as ?ghiYear)
 FROM <http://data.landportal.info>
 WHERE {
 ?obs cex:ref-area <http://data.landportal.info/geo/TZA> ;
