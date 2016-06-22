@@ -9,4 +9,4 @@ WHERE {
         cex:ref-area ?countryURL .
    ?countryURL ex:label ?countryLabel.
    BIND (REPLACE(STR(?countryURL), "http://data.landportal.info/geo/","") AS ?countryISO3)
-}
+} ORDER BY ?countryLabel
