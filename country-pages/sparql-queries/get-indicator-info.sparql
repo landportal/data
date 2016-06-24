@@ -1,8 +1,14 @@
 PREFIX ex: <http://www.example.org/rdf#>
-SELECT ?indicatorLabel ?indicatorDescription ?indicatorUnit
+SELECT ?indicatorLabel ?indicatorDescription ?indicatorUnit ?datasetURL ?datasetLabel ?sourceOrgURL ?sourceOrgLabel
 FROM <http://data.landportal.info>
 WHERE {
   <http://data.landportal.info/indicator/FAO-23045-6083> ex:label ?indicatorLabel ;
   ex:description ?indicatorDescription ;
-  ex:unit ?indicatorUnit .
+  ex:unit ?indicatorUnit ;
+  ex:dataset ?datasetURL .
+
+  ?datasetURL ex:label ?datasetLabel ;
+			  ex:org ?sourceOrgURL .
+	
+  ?sourceOrgURL ex:label ?sourceOrgLabel.
 }
