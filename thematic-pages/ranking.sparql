@@ -1,0 +1,32 @@
+# Ranking
+# Query to obtain the country list ordered by value for an indicator and using the latest year that the indicators has values for.
+# Returns country ISO3 code, country URL, values and year 
+# Ordered by value
+
+PREFIX cex: <http://purl.org/weso/ontology/computex#>
+PREFIX ex: <http://www.example.org/rdf#>
+
+SELECT DISTINCT ?countryISO3 ?countryURL ?value (year(?maxdateTime) as ?year)
+FROM <http://data.landportal.info>
+WHERE {
+?obs cex:ref-indicator <http://data.landportal.info/indicator/UNDP-HDI-INDEX> ;
+     cex:ref-area ?countryURL ;
+     cex:value ?value ;
+     cex:ref-time ?time .
+?time time:hasBeginning ?timeValue .
+?timeValue time:inXSDDateTime ?maxdateTime .
+BIND (REPLACE(STR(?countryURL), "http://data.landportal.info/geo/","") AS ?countryISO3)
+
+{
+# Calculate the latest year that have values for the indicator
+SELECT DISTINCT max(?dateTime) as ?maxdateTime 
+FROM <http://data.landportal.info>
+WHERE{
+?obs cex:ref-indicator <http://data.landportal.info/indicator/UNDP-HDI-INDEX> ;
+     cex:ref-time ?time .
+     ?time time:hasBeginning ?timeValue .
+     ?timeValue time:inXSDDateTime ?dateTime .
+}
+}
+
+} ORDER BY ASC(?value)
