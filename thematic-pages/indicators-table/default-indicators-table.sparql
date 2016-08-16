@@ -1,0 +1,65 @@
+PREFIX cex: <http://purl.org/weso/ontology/computex#>
+PREFIX time: <http://www.w3.org/2006/time#>
+PREFIX ex: <http://www.example.org/rdf#>
+
+SELECT DISTINCT 
+?indicatorURL
+?indicatorLabel 
+?indicatorDescription
+?minYear
+?maxYear
+?nObs
+?nYears
+?nCountryWithValue
+?perMissingValue
+?minValue
+?maxValue
+?datasetURL 
+?datasetLabel 
+?sourceOrgURL 
+?sourceOrgLabel
+FROM <http://data.landportal.info>
+WHERE {
+     	
+?obs cex:ref-indicator ?indicatorURL  .
+
+?indicatorURL  ex:label ?indicatorLabel ;
+    ex:description ?indicatorDescription ;
+	ex:dataset ?datasetURL .
+				   
+?datasetURL ex:label ?datasetLabel ;
+	ex:org ?sourceOrgURL .
+	
+?sourceOrgURL ex:label ?sourceOrgLabel.
+
+{
+# Calculate the values
+SELECT DISTINCT
+?indicatorURL
+year(min(?dateTime)) AS ?minYear
+year(max(?dateTime)) AS ?maxYear
+COUNT(?obs) AS ?nObs
+COUNT(DISTINCT(year(?dateTime))) AS ?nYears
+COUNT(DISTINCT ?country) AS ?nCountryWithValue
+min(?value) AS ?minValue
+max(?value) AS ?maxValue
+FROM <http://data.landportal.info>
+WHERE{
+
+?obs cex:ref-indicator ?indicatorURL  ;
+    cex:ref-area ?country ;
+    cex:value ?value;
+    cex:ref-time ?time .
+	 
+?time time:hasBeginning ?timeValue .
+    ?timeValue time:inXSDDateTime ?dateTime .
+
+#VALUES ?indicatorURL { <http://data.landportal.info/indicator/WB-SP.POP.TOTL> <http://data.landportal.info/indicator/WB-SP.RUR.TOTL.ZS>}
+}
+}
+
+BIND ((1-((xsd:float(?nObs))/xsd:float((?nYears*?nCountryWithValue))))*100 AS ?perMissingValue)
+
+} ORDER BY ?indicatorURL
+
+
