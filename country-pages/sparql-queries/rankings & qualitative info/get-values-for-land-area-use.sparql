@@ -59,6 +59,9 @@ WHERE{
 ?obs4 cex:ref-indicator <http://data.landportal.info/indicator/FAO-6661-5110> ;
      cex:ref-area ?countryURL ;
      cex:ref-time ?time .
+?obs5 cex:ref-indicator <http://data.landportal.info/indicator/FAO-6601-5110> ;
+     cex:ref-area ?countryURL ;
+     cex:ref-time ?time .
 
      ?time time:hasBeginning ?timeValue .
      ?timeValue time:inXSDDateTime ?dateTime .
