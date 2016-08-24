@@ -18,4 +18,4 @@ VALUES ?indicatorURL {<http://data.landportal.info/indicator/FAO-23045-6083>}
 BIND (REPLACE(STR(?countryURL), "http://data.landportal.info/geo/","") AS ?countryISO3)
 	 
 }
-ORDER BY ?dateTime ?value
+ORDER BY ?dateTime DESC(?value)
