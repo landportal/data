@@ -1,3 +1,8 @@
+# Get descriptive statistics
+# If "VALUES ?indicatorURL" is commented, all indicators are returned
+# If one concrete indicatoris needed, just add in the VALUES ?indicatorURL part
+# Ordered by indicatorURL
+
 PREFIX cex: <http://purl.org/weso/ontology/computex#>
 PREFIX time: <http://www.w3.org/2006/time#>
 PREFIX ex: <http://www.example.org/rdf#>
