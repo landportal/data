@@ -2,17 +2,17 @@ PREFIX cex: <http://purl.org/weso/ontology/computex#>
 PREFIX time: <http://www.w3.org/2006/time#>
 PREFIX ex: <http://www.example.org/rdf#>
 
-SELECT ?indicatorLabel ?indicatorDescription ?value ?unitLabel ?datasetURL ?datasetLabel ?sourceOrgURL ?sourceOrgLabel
+SELECT ?indicatorLabel ?indicatorDescription ?year ?value ?unitLabel ?datasetURL ?datasetLabel ?sourceOrgURL ?sourceOrgLabel
 FROM <http://data.landportal.info>
 WHERE {
 
-?obs cex:ref-area <http://data.landportal.info/geo/TZA> ;
+?obs cex:ref-area ?countryURL ;
      cex:ref-indicator ?indicatorURL ;
      cex:value ?value ;
      cex:ref-time ?time .
 
 ?time time:hasBeginning ?timeValue .
-     ?timeValue time:inXSDDateTime "2011-01-01T00:00:00Z"^^xsd:dateTime .
+     ?timeValue time:inXSDDateTime ?dateTime .
 
 ?indicatorURL ex:unit ?unitLabel ;
      ex:dataset ?datasetURL .
@@ -25,6 +25,9 @@ WHERE {
 ?indicatorURL ex:label ?indicatorLabel ;
               ex:description ?indicatorDescription .
 
-VALUES ?indicatorURL {<http://data.landportal.info/indicator/FAO-23045-6083>}
 
+VALUES ?countryURL { <http://data.landportal.info/geo/VNM> }
+VALUES ?indicatorURL { <http://data.landportal.info/indicator/FAO-23045-6083> }
+VALUES ?year {2007}
+FILTER (year(?dateTime) = ?year)
 }
