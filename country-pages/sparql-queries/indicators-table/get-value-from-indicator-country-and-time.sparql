@@ -25,9 +25,9 @@ WHERE {
 ?indicatorURL ex:label ?indicatorLabel ;
               ex:description ?indicatorDescription .
 
+BIND (STR(YEAR(?dateTime)) AS ?year)
 
 VALUES ?countryURL { <http://data.landportal.info/geo/VNM> }
 VALUES ?indicatorURL { <http://data.landportal.info/indicator/FAO-23045-6083> }
-VALUES ?year {2007}
-FILTER (year(?dateTime) = ?year)
+VALUES ?year {'2007'}
 }
