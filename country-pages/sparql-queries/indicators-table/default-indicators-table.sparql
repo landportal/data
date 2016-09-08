@@ -1,9 +1,10 @@
 PREFIX cex: <http://purl.org/weso/ontology/computex#>
 PREFIX time: <http://www.w3.org/2006/time#>
 PREFIX ex: <http://www.example.org/rdf#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 
 
-SELECT ?obs ?indicatorURL ?indicatorLabel ?indicatorDescription (year(?dateTime) as ?year) ?value ?unitLabel ?datasetURL ?datasetLabel ?sourceOrgURL ?sourceOrgLabel
+SELECT ?obs ?indicatorURL ?indicatorSeeAlso ?indicatorLabel ?indicatorDescription (year(?dateTime) as ?year) ?value ?unitLabel ?datasetURL ?datasetSeeAlso ?datasetLabel ?sourceURL ?sourceLabel ?sourceSeeAlso
 FROM <http://data.landportal.info>
 WHERE {
 ?obs cex:ref-indicator ?indicatorURL ;
@@ -12,13 +13,17 @@ WHERE {
      	 
      ?indicatorURL ex:label ?indicatorLabel ;
                    ex:description ?indicatorDescription ;
+				   rdfs:seeAlso ?indicatorSeeAlso;
 				   ex:unit ?unitLabel ;
 				   ex:dataset ?datasetURL .
 				   
 	 ?datasetURL ex:label ?datasetLabel ;
-	             ex:org ?sourceOrgURL .
-	
-	 ?sourceOrgURL ex:label ?sourceOrgLabel.
+				 rdfs:seeAlso ?datasetSeeAlso;
+	             ex:org ?sourceURL .
+
+				   
+	 ?sourceURL ex:label ?sourceLabel ;
+	 			   rdfs:seeAlso ?sourceSeeAlso .
 	 
      ?time time:hasBeginning ?timeValue .
      ?timeValue time:inXSDDateTime ?dateTime
