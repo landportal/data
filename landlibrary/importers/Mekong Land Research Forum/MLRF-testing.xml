@@ -1,0 +1,1271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<records>
+		<record>
+			<source-app name="Biblio" version="7.x">Drupal-Biblio</source-app>
+			<ref-type>13</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default" size="100%">Hirsch, Philip</style>
+					</author>
+					<author>
+						<style face="normal" font="default" size="100%">Mellac, Marie</style>
+					</author>
+					<author>
+						<style face="normal" font="default" size="100%">Scurrah, Natalia</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">The political economy of land governance in Viet Nam</style>
+				</title>
+			</titles>
+			<keywords>
+				<keyword>
+					<style  face="normal" font="default" size="100%">AccessToJustice</style>
+				</keyword>
+				<keyword>
+					<style  face="normal" font="default" size="100%">AgriculturalModernization</style>
+				</keyword>
+				<keyword>
+					<style  face="normal" font="default" size="100%">CivilSociety-Donors</style>
+				</keyword>
+				<keyword>
+					<style  face="normal" font="default" size="100%">Conversion-FoodSecurity</style>
+				</keyword>
+				<keyword>
+					<style  face="normal" font="default" size="100%">Dispossession-grabbing</style>
+				</keyword>
+				<keyword>
+					<style  face="normal" font="default" size="100%">Distribution</style>
+				</keyword>
+				<keyword>
+					<style  face="normal" font="default" size="100%">Environment</style>
+				</keyword>
+				<keyword>
+					<style  face="normal" font="default" size="100%">FDI</style>
+				</keyword>
+				<keyword>
+					<style  face="normal" font="default" size="100%">Formalisation-titling</style>
+				</keyword>
+				<keyword>
+					<style  face="normal" font="default" size="100%">MarginalisedPeople</style>
+				</keyword>
+				<keyword>
+					<style  face="normal" font="default" size="100%">MigrationLabour</style>
+				</keyword>
+				<keyword>
+					<style  face="normal" font="default" size="100%">Policy-law</style>
+				</keyword>
+			</keywords>
+			<dates>
+				<year>
+					<style  face="normal" font="default" size="100%">2016</style>
+				</year>
+			</dates>
+			<pages>
+				<style face="normal" font="default" size="100%">24</style>
+			</pages>
+			<language>
+				<style face="normal" font="default" size="100%">eng</style>
+			</language>
+			<abstract>
+				<style face="normal" font="default" size="100%">Viet Nam has been characterised by smallholder agriculture with relatively little private concentration of land; however, there is a new trend of growing inequality in access to land. Unlike Cambodia, Laos, and Myanmar (the other countries examined in this series), Viet Nam has seen limited development of large-scale private plantation agriculture in recent years. The loss of land by smallholders has occurred in different parts of the country in different ways and by a range of processes closely linked to the country’s rapid development toward a more industrialised, urbanised market economy. In the Mekong Delta, landlessness is associated with debt, historical patterns of landlordism, and rural to urban migration. In the Red River Delta and many other areas including medium sized urban centres, land conversion to non-agricultural uses is a significant issue. In the highlands, displacement of ethnic minorities has taken a number of forms, from migration of lowlanders to the use of land by state farms. Meanwhile, rapid coastal development, establishment of industrial estates and hydroelectric projects have displaced significant numbers of smallholders from their land.</style>
+			</abstract>
+			<custom2>
+				<style face="normal" font="default" size="100%">Vietnam</style>
+			</custom2>
+			<custom4>
+				<style face="normal" font="default" size="100%">Report</style>
+			</custom4>
+			<label>
+				<style face="normal" font="default" size="100%">0-MRLG;1-TBD;2-Vietnam;3-AccessToJustice;3-AgriculturalModernization;3-CivilSociety-Donors;3-Conversion-FoodSecurity;3-Dispossession-grabbing;3-Distribution;3-Environment;3-FDI;3-Formalisation-titling;3-MarginalisedPeople;3-MigrationLabour;3-Policy-law;4-</style>
+			</label>
+		</record>
+		<record>
+			<source-app name="Biblio" version="7.x">Drupal-Biblio</source-app>
+			<ref-type>13</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default" size="100%">Lamb, Vanessa</style>
+					</author>
+					<author>
+						<style face="normal" font="default" size="100%">Middleton, Carl</style>
+					</author>
+					<author>
+						<style face="normal" font="default" size="100%">Leonard, Rebecca</style>
+					</author>
+					<author>
+						<style face="normal" font="default" size="100%">Nga_Dao, _</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">Access to productive agricultural land by the landless, land poor and smallholder farmers in four Lower Mekong River Basin countries</style>
+				</title>
+			</titles>
+			<keywords>
+				<keyword>
+					<style  face="normal" font="default" size="100%">Dispossession-grabbing</style>
+				</keyword>
+				<keyword>
+					<style  face="normal" font="default" size="100%">MarginalisedPeople</style>
+				</keyword>
+				<keyword>
+					<style  face="normal" font="default" size="100%">Policy-law</style>
+				</keyword>
+			</keywords>
+			<dates>
+				<year>
+					<style  face="normal" font="default" size="100%">2015</style>
+				</year>
+			</dates>
+			<pages>
+				<style face="normal" font="default" size="100%">1-94</style>
+			</pages>
+			<language>
+				<style face="normal" font="default" size="100%">eng</style>
+			</language>
+			<abstract>
+				<style face="normal" font="default" size="100%">With a focus on the Lower Mekong countries, this study considers the intersecting issues of land access, livelihoods, management of risk and poverty for men and women smallholder farmers, the land poor and the landless, and how these issues might be addressed in policy and practice. While there has recently been insightful analysis concerning land access, livelihoods, and global land insecurity, we know much less regarding specific mechanisms that keep rural agricultural smallholders and the landless or land poor struggling and it is these issues that we address within this report</style>
+			</abstract>
+			<custom1>
+				<style face="normal" font="default" size="100%">Contact author</style>
+			</custom1>
+			<custom2>
+				<style face="normal" font="default" size="100%">Regional</style>
+			</custom2>
+			<custom4>
+				<style face="normal" font="default" size="100%">Report</style>
+			</custom4>
+			<label>
+				<style face="normal" font="default" size="100%">0-MRLG;1-TBD;2-Regional;3-Dispossession-grabbing;3-MarginalisedPeople;3-Policy-law;4-grey literature;5-ContactAuthor</style>
+			</label>
+		</record>
+		<record>
+			<source-app name="Biblio" version="7.x">Drupal-Biblio</source-app>
+			<ref-type>13</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default" size="100%">Sherchan, Depika</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">Cambodia: The Bitter Taste of Sugar Displacement and Dispossession in Oddar Meanchey Province</style>
+				</title>
+			</titles>
+			<keywords>
+				<keyword>
+					<style  face="normal" font="default" size="100%">Dispossession-grabbing</style>
+				</keyword>
+				<keyword>
+					<style  face="normal" font="default" size="100%">FDI</style>
+				</keyword>
+				<keyword>
+					<style  face="normal" font="default" size="100%">MarginalisedPeople</style>
+				</keyword>
+				<keyword>
+					<style  face="normal" font="default" size="100%">Policy-law</style>
+				</keyword>
+			</keywords>
+			<dates>
+				<year>
+					<style  face="normal" font="default" size="100%">2015</style>
+				</year>
+			</dates>
+			<urls>
+				<web-urls>
+					<url>
+						<style face="normal" font="default" size="100%">http://www.actionaid.org/cambodia/publications/cambodia-bitter-taste-sugar-displacement-and-dispossession-oddar-meanchey-prov</style>
+					</url>
+				</web-urls>
+			</urls>
+			<pub-location>
+				<style face="normal" font="default" size="100%">Phnom Penh</style>
+			</pub-location>
+			<pages>
+				<style face="normal" font="default" size="100%">i-x, 1-60</style>
+			</pages>
+			<language>
+				<style face="normal" font="default" size="100%">eng</style>
+			</language>
+			<abstract>
+				<style face="normal" font="default" size="100%">In 2008, three sugar companies were awarded nearly 20,000 hectares of Economic Land Concessions (ELCs) in Oddar Meanchey province. The new research finds that associated land grabbing totaling more than 17,000 hectares has affected more than 2,000 families. Of these, 214 families were forcibly evicted. Meanwhile, at least 3,000 hectares of the misappropriated land has been used for logging rather than sugar plantations, according to the report, ‘Cambodia: The Bitter Taste of Sugar’, commissioned by ActionAid and Oxfam GB. The research focuses on the activities of Angkor Sugar Company, Cambodia Cane and Sugar Valley Company and Tonle Sugar Cane Company. Since 2000, the Royal Government of Cambodia has granted more than 114,000 hectares of land through 19 such sugar concessions. Many of these focus on exports under the European Union’s ‘Everything But Arms’ (EBA) preferential trade scheme.</style>
+			</abstract>
+			<custom1>
+				<style face="normal" font="default" size="100%">Available for download</style>
+			</custom1>
+			<custom2>
+				<style face="normal" font="default" size="100%">Cambodia</style>
+			</custom2>
+			<custom4>
+				<style face="normal" font="default" size="100%">Report</style>
+			</custom4>
+			<label>
+				<style face="normal" font="default" size="100%">0-MRLG;1-TBD;2-Cambodia;3-Dispossession-grabbing;3-FDI;3-MarginalisedPeople;3-Policy-law;4-grey literature;5-AvailableForDownload</style>
+			</label>
+		</record>
+		<record>
+			<source-app name="Biblio" version="7.x">Drupal-Biblio</source-app>
+			<ref-type>13</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default" size="100%">Milne, Sarah</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">Cambodia's Unofficial Regime of Extraction: Illicit Logging in the Shadow of Transnational Governance and Investment</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">Critical Asian Studies</style>
+				</secondary-title>
+			</titles>
+			<keywords>
+				<keyword>
+					<style  face="normal" font="default" size="100%">Dispossession-grabbing</style>
+				</keyword>
+				<keyword>
+					<style  face="normal" font="default" size="100%">Environment</style>
+				</keyword>
+				<keyword>
+					<style  face="normal" font="default" size="100%">FDI</style>
+				</keyword>
+				<keyword>
+					<style  face="normal" font="default" size="100%">MarginalisedPeople</style>
+				</keyword>
+				<keyword>
+					<style  face="normal" font="default" size="100%">Policy-law</style>
+				</keyword>
+			</keywords>
+			<dates>
+				<year>
+					<style  face="normal" font="default" size="100%">2015</style>
+				</year>
+			</dates>
+			<urls>
+				<web-urls>
+					<url>
+						<style face="normal" font="default" size="100%">http://www.tandfonline.com/doi/full/10.1080/14672715.2015.1041275</style>
+					</url>
+				</web-urls>
+			</urls>
+			<volume>
+				<style face="normal" font="default" size="100%">47</style>
+			</volume>
+			<pages>
+				<style face="normal" font="default" size="100%">200-228</style>
+			</pages>
+			<language>
+				<style face="normal" font="default" size="100%">eng</style>
+			</language>
+			<abstract>
+				<style face="normal" font="default" size="100%">Cambodia has recently demonstrated one of the highest rates of deforestation in the world. While scholars have long explored the drivers of tropical forest loss, the case of Cambodia offers particular insights into the role of the state where transnational governance and regional integration are increasingly the norm. Given the significant role logging rents play in Cambodia’s post-conflict state formation, this article explores the contemporary regime and its ongoing codependent relationship with forested land. Insights are distilled from comparative analysis of illicit logging in two ethnographic case studies. Both involve foreign investments by state-owned companies – a Chinese-backed hydropower dam and Vietnamese- owned rubber concessions – and both are nestled in prominent conservation landscapes that are managed with international donor support. Together, the cases reveal how Cambodia’s current timber extraction regime works through the use and abuse of legal mechanisms associated with forest conservation and foreign investment projects, and the mobilization of elite alliances that log both for private gain and in service of the ruling party’s interests. By implication, the government’s remarkable facilitation of transnational projects for conservation and development must be reappraised and ultimately seen as constitutive of a predatory and extractive regime that continues to rely heavily upon illicit logging revenues.</style>
+			</abstract>
+			<issue>
+				<style face="normal" font="default" size="100%">2</style>
+			</issue>
+			<custom1>
+				<style face="normal" font="default" size="100%">Copyrighted journal article</style>
+			</custom1>
+			<custom2>
+				<style face="normal" font="default" size="100%">Thailand</style>
+			</custom2>
+			<custom4>
+				<style face="normal" font="default" size="100%">Journal Article</style>
+			</custom4>
+			<custom5>
+				<style face="normal" font="default" size="100%">Critical Asian Studies</style>
+			</custom5>
+			<label>
+				<style face="normal" font="default" size="100%">0-MRLG;1-TBD;2-Cambodia;3-Dispossession-grabbing;3-Environment;3-FDI;3-MarginalisedPeople;3-Policy-law;4-journal;5-CopyrightJournalArticle</style>
+			</label>
+		</record>
+		<record>
+			<source-app name="Biblio" version="7.x">Drupal-Biblio</source-app>
+			<ref-type>13</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default" size="100%">Woods, Kevin</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">Commercial Agriculture Expansion in Myanmar: Links to Deforestation, Conversion Timber, and Land Conflicts</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">Forest Trend Report Series</style>
+				</secondary-title>
+			</titles>
+			<keywords>
+				<keyword>
+					<style  face="normal" font="default" size="100%">Conversion-FoodSecurity</style>
+				</keyword>
+				<keyword>
+					<style  face="normal" font="default" size="100%">Environment</style>
+				</keyword>
+				<keyword>
+					<style  face="normal" font="default" size="100%">FDI</style>
+				</keyword>
+				<keyword>
+					<style  face="normal" font="default" size="100%">MarginalisedPeople</style>
+				</keyword>
+				<keyword>
+					<style  face="normal" font="default" size="100%">Policy-law</style>
+				</keyword>
+			</keywords>
+			<dates>
+				<year>
+					<style  face="normal" font="default" size="100%">2015</style>
+				</year>
+			</dates>
+			<urls>
+				<web-urls>
+					<url>
+						<style face="normal" font="default" size="100%">http://forest-trends.org/releases/uploads/Conversion_Timber_in_Myanmar.pdf</style>
+					</url>
+				</web-urls>
+			</urls>
+			<language>
+				<style face="normal" font="default" size="100%">eng</style>
+			</language>
+			<abstract>
+				<style face="normal" font="default" size="100%">PUBLISHER'S DESCRIPTION: An exclusive new analysis reveals that the Government of Myanmar has allocated at least 5.2 million acres and plans to allocate another 11 million acres of Southeast Asia’s last remaining biodiversity-rich high-value forests to make way for large-scale, private agribusiness projects that often never materialize. Many of these forest areas overlap with historical land claims made by Myanmar’s ethnic minority groups who will now permanently lose their land, further enflaming decades-old armed conflicts with the national government. As local communities lose out, wildlife habitat is destroyed and carbon emissions increase, while elite businessmen with strong connections to former Military-state officials profit.</style>
+			</abstract>
+			<issue>
+				<style face="normal" font="default" size="100%">i-xv, 1-58</style>
+			</issue>
+			<custom1>
+				<style face="normal" font="default" size="100%">Available for download</style>
+			</custom1>
+			<custom2>
+				<style face="normal" font="default" size="100%">Myanmar</style>
+			</custom2>
+			<custom4>
+				<style face="normal" font="default" size="100%">Report</style>
+			</custom4>
+			<custom5>
+				<style face="normal" font="default" size="100%">Forest Trend Report Series</style>
+			</custom5>
+			<label>
+				<style face="normal" font="default" size="100%">0-MRLG;1-TBD;2-Myanmar;3-Conversion-FoodSecurity;3-Environment;3-FDI;3-MarginalisedPeople;3-Policy-law;4-grey literature;5-AvailableForDownload</style>
+			</label>
+		</record>
+		<record>
+			<source-app name="Biblio" version="7.x">Drupal-Biblio</source-app>
+			<ref-type>13</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default" size="100%">Global_Witness, _</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">The Cost of Luxury: Cambodia’s illegal trade in precious wood with China</style>
+				</title>
+			</titles>
+			<keywords>
+				<keyword>
+					<style  face="normal" font="default" size="100%">AccessToJustice</style>
+				</keyword>
+				<keyword>
+					<style  face="normal" font="default" size="100%">Environment</style>
+				</keyword>
+				<keyword>
+					<style  face="normal" font="default" size="100%">MarginalisedPeople</style>
+				</keyword>
+			</keywords>
+			<dates>
+				<year>
+					<style  face="normal" font="default" size="100%">2015</style>
+				</year>
+			</dates>
+			<urls>
+				<web-urls>
+					<url>
+						<style face="normal" font="default" size="100%">https://www.globalwitness.org/campaigns/forests/cost-of-luxury/</style>
+					</url>
+				</web-urls>
+			</urls>
+			<pages>
+				<style face="normal" font="default" size="100%">1-32</style>
+			</pages>
+			<language>
+				<style face="normal" font="default" size="100%">eng</style>
+			</language>
+			<abstract>
+				<style face="normal" font="default" size="100%">This eight-month investigation recorded tonnes of rare timber being trucked out of Cambodia’s national parks and shipped to Hong Kong. Logging of luxury-grade timber is outlawed in Cambodia, and the global trade in Siamese Rosewood has been restricted since 2013, but Chinese demand for antique-style Hongmu furniture is increasing and the illegal trade has ballooned since the ban was announced. During months of interviews with loggers, state officials, police and activists, our investigators kept coming back to one man, who we’ve dubbed the 'King of Rosewood'. Cambodian tycoon Oknha Try Pheap has connections at the highest levels of government and sits at the helm of an illegal logging network that relies on collusion with state officials and enforcement agencies to fell rare trees, traffic logs across the country and load them onto boats bound for Hong Kong. This black market trade is destroying the livelihoods of indigenous and forest-dependent communities. Those who oppose the illegal loggers put their lives on the line. Cambodia’s well-known environmental defender and forest crime investigator Chut Wutty was shot dead in 2012. Six months later journalist Hang Sorei Oudom, who wrote extensively about the elite’s links to illegal forestry, was found dead in the boot of his car. Global Witness is campaigning for a stop to illegal logging in Cambodia and the immediate suspension of all imports of rare Cambodian Hongmu timber by the Peoples Republic of China and Hong Kong officials.</style>
+			</abstract>
+			<issue>
+				<style face="normal" font="default" size="100%">February</style>
+			</issue>
+			<notes>
+				<style face="normal" font="default" size="100%">Global Witness (2015). The Cost of Luxury: Cambodia’s illegal trade in precious wood with China.; Overall-rel: This report examines the complex and deeply embedded networks of patronage that underlie the illegal trade in luxury wood for export from the northeast of Cambodia to China. The report examines the extent to which state actors are complicit in illegal activities, and the degree to which Cambodian business tycoons, linked to powerful government officials, are permitted to exploit natural resources with total immunity from the law. The case study provides a detailed example of the way state-sanctioned economic land concessions can facilitate exploitative and corrupt monopoly industries.; Research-bas: This report is based on an eight-month investigation carried out across Cambodia, as well as in Vietnam and Hong Kong, by researchers working with Global Witness. Interviews were conducted with 67 informants, including state actors at various levels of government, as well as company employees, and villagers. Various investigative methods were used to obtain original documents and photographic evidence, indicating significant illegal behaviour and disregard for the law all the way up to the highest levels of government in the supply chains of luxury timber exports from Cambodia, on route to China.; AccessToJustice-rel: Activists attempting to draw attention to those who are complicit in corrupt supply chains have been persecuted, threatened, and in several prominent cases, even murdered. Local communities have also been coerced into complicity. The climate of fear consequently makes it difficult to challenge corruption and expose illegal activities or seek justice for communities affected by economic land concessions.; MarginalisedPeople-rel: State actors at various levels are complicit in the coercion of local communities to participate in the illegal timber trade they are supposed to prevent. Communities feel they have no power to resist companies from entering their land and are pressured to participate in extracting illegal logs. Once they become embedded in the supply chain, their complicity increases their vulnerability.; Policy-law-rel: Existing laws in Cambodia should, in theory, prevent the exploitation documented by Global Witness in their case study. Yet each stage of investigation reveals that laws are routinely ignored or manipulated in favour of the powerful and wealthy.;</style>
+			</notes>
+			<custom1>
+				<style face="normal" font="default" size="100%">Available for download</style>
+			</custom1>
+			<custom2>
+				<style face="normal" font="default" size="100%">Cambodia</style>
+			</custom2>
+			<custom4>
+				<style face="normal" font="default" size="100%">Report</style>
+			</custom4>
+			<research-notes>
+				<style face="normal" font="default" size="100%">Global Witness (2015). The Cost of Luxury: Cambodia’s illegal trade in precious wood with China.; Overall-rel: This report examines the complex and deeply embedded networks of patronage that underlie the illegal trade in luxury wood for export from the northeast of Cambodia to China. The report examines the extent to which state actors are complicit in illegal activities, and the degree to which Cambodian business tycoons, linked to powerful government officials, are permitted to exploit natural resources with total immunity from the law. The case study provides a detailed example of the way state-sanctioned economic land concessions can facilitate exploitative and corrupt monopoly industries.; Research-bas: This report is based on an eight-month investigation carried out across Cambodia, as well as in Vietnam and Hong Kong, by researchers working with Global Witness. Interviews were conducted with 67 informants, including state actors at various levels of government, as well as company employees, and villagers. Various investigative methods were used to obtain original documents and photographic evidence, indicating significant illegal behaviour and disregard for the law all the way up to the highest levels of government in the supply chains of luxury timber exports from Cambodia, on route to China.; AccessToJustice-rel: Activists attempting to draw attention to those who are complicit in corrupt supply chains have been persecuted, threatened, and in several prominent cases, even murdered. Local communities have also been coerced into complicity. The climate of fear consequently makes it difficult to challenge corruption and expose illegal activities or seek justice for communities affected by economic land concessions.; MarginalisedPeople-rel: State actors at various levels are complicit in the coercion of local communities to participate in the illegal timber trade they are supposed to prevent. Communities feel they have no power to resist companies from entering their land and are pressured to participate in extracting illegal logs. Once they become embedded in the supply chain, their complicity increases their vulnerability.; Policy-law-rel: Existing laws in Cambodia should, in theory, prevent the exploitation documented by Global Witness in their case study. Yet each stage of investigation reveals that laws are routinely ignored or manipulated in favour of the powerful and wealthy.;</style>
+			</research-notes>
+			<label>
+				<style face="normal" font="default" size="100%">0-MRLG;1-annotated;2-Cambodia;3-AccessToJustice;3-Environment;3-MarginalisedPeople;4-grey literature;5-AvailableForDownload</style>
+			</label>
+		</record>
+		<record>
+			<source-app name="Biblio" version="7.x">Drupal-Biblio</source-app>
+			<ref-type>13</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default" size="100%">Woods, Kevin</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">CP maize contract farming in Shan State, Myanmar: A regional case of a place-based corporate agro-feed system</style>
+				</title>
+			</titles>
+			<keywords>
+				<keyword>
+					<style  face="normal" font="default" size="100%">AgriculturalModernization</style>
+				</keyword>
+				<keyword>
+					<style  face="normal" font="default" size="100%">Dispossession-grabbing</style>
+				</keyword>
+				<keyword>
+					<style  face="normal" font="default" size="100%">FDI</style>
+				</keyword>
+				<keyword>
+					<style  face="normal" font="default" size="100%">MarginalisedPeople</style>
+				</keyword>
+			</keywords>
+			<dates>
+				<year>
+					<style  face="normal" font="default" size="100%">2015</style>
+				</year>
+			</dates>
+			<urls>
+				<web-urls>
+					<url>
+						<style face="normal" font="default" size="100%">http://www.iss.nl/fileadmin/ASSETS/iss/Research_and_projects/Research_networks/LDPI/CMCP_35-_Woods.pdf</style>
+					</url>
+				</web-urls>
+			</urls>
+			<pages>
+				<style face="normal" font="default" size="100%">i-iv, 1-27</style>
+			</pages>
+			<language>
+				<style face="normal" font="default" size="100%">eng</style>
+			</language>
+			<abstract>
+				<style face="normal" font="default" size="100%">The Bangkok-based Sino-Thai company Choern Pakard Group (CP Group), Asia's largest and most prominent agro-food/feed corporation, has led an industrial maize contract farming scheme with (ex-)poppy upland smallholders in Shan State, northern Myanmar to supply China’s chicken-feed market. Thailand, as a Middle-Income Country (MIC) and regional powerhouse, has long-tapped China’s phenomenal economic growth and undersupplied consumer demand. The study presented demonstrates how changes in multi-scalar political economies and subsequent agro-food/feed systems creates concomitant effects on rural smallholder producers linked into the globalising of production-supply chains. Thailand’s agribusiness sector ‘going out’ aimed to reduce domestic input production costs, supported through neoliberal regional investment and trade policies and crafted behind closed doors by CP executives. Since then, the ethnic minority-populated uplands of Shan State have become a major CP maize production zone for China’s market. This has triggered a historically significant agrarian transformation in Shan State, from low-input subsistence economies to cash cropping of high-input, company-owned seeds for export to foreign markets. The CP maize smallholder production scheme tends to trigger differential socio-economic outcomes and redistribution of wealth within the village. The differential dispossessory outcomes is shaped by differences in village-level household capital, lack of smallholder access to affordable rural finance, ethnic Chinese migrations, and (il)licit border economies tied to Cold War-era politics. The particularity of places, such as differences in their political history, migrations, agro-ecology, geography, and relationship to the opium economy, also influences the dynamics of village- and household-level differentiation of wealth due to CP maize cultivation in Shan State. This paper therefore showcases, through empirical village-level field research, how the corporatisation and regional-/globalisation of the chicken feed market has radically transformed agrarian relations and structures of debt and dispossession in rural, upland Shan State.</style>
+			</abstract>
+			<custom1>
+				<style face="normal" font="default" size="100%">Available for download</style>
+			</custom1>
+			<custom2>
+				<style face="normal" font="default" size="100%">Myanmar, Thailand</style>
+			</custom2>
+			<custom4>
+				<style face="normal" font="default" size="100%">Working Paper</style>
+			</custom4>
+			<label>
+				<style face="normal" font="default" size="100%">0-MRLG;1-TBD;2-Myanmar;2-Thailand;3-MarginalisedPeople;3-AgriculturalModernization;3-Dispossession-grabbing;3-FDI;4-grey literature;5-AvailableForDownload</style>
+			</label>
+		</record>
+		<record>
+			<source-app name="Biblio" version="7.x">Drupal-Biblio</source-app>
+			<ref-type>13</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default" size="100%">Ahrends, Antje</style>
+					</author>
+					<author>
+						<style face="normal" font="default" size="100%">Hollingsworth, Peter M</style>
+					</author>
+					<author>
+						<style face="normal" font="default" size="100%">Ziegler, Alan D</style>
+					</author>
+					<author>
+						<style face="normal" font="default" size="100%">Fox, Jefferson M</style>
+					</author>
+					<author>
+						<style face="normal" font="default" size="100%">Chen, Huafang</style>
+					</author>
+					<author>
+						<style face="normal" font="default" size="100%">Su, Yufang</style>
+					</author>
+					<author>
+						<style face="normal" font="default" size="100%">Xu, Jianchu</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">Current trends of rubber plantation expansion may threaten biodiversity and livelihoods</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">Global Environmental Change</style>
+				</secondary-title>
+			</titles>
+			<keywords>
+				<keyword>
+					<style  face="normal" font="default" size="100%">Environment</style>
+				</keyword>
+			</keywords>
+			<dates>
+				<year>
+					<style  face="normal" font="default" size="100%">2015</style>
+				</year>
+			</dates>
+			<urls>
+				<web-urls>
+					<url>
+						<style face="normal" font="default" size="100%">http://dx.doi.org/10.1016/j.gloenvcha.2015.06.002</style>
+					</url>
+				</web-urls>
+			</urls>
+			<publisher>
+				<style face="normal" font="default" size="100%">Elsevier Ltd</style>
+			</publisher>
+			<volume>
+				<style face="normal" font="default" size="100%">34</style>
+			</volume>
+			<pages>
+				<style face="normal" font="default" size="100%">48-58</style>
+			</pages>
+			<language>
+				<style face="normal" font="default" size="100%">eng</style>
+			</language>
+			<abstract>
+				<style face="normal" font="default" size="100%">The first decade of the new millennium saw a boom in rubber prices. This led to rapid and widespread land conversion to monoculture rubber plantations in continental SE Asia, where natural rubber production has increased &gt;50% since 2000. Here, we analyze the subsequent spread of rubber between 2005 and 2010 in combination with environmental data and reports on rubber plantation performance. We show that rubber has been planted into increasingly sub-optimal environments. Currently, 72% of plantation area is in environmentally marginal zones where reduced yields are likely. An estimated 57% of the area is susceptible to insufficient water availability, erosion, frost, or wind damage, all of which may make long-term rubber production unsustainable. In 2013 typhoons destroyed plantations worth US$&gt;250 million in Vietnam alone, and future climate change is likely to lead to a net exacerbation of environmental marginality for both current and predicted future rubber plantation area. New rubber plantations are also frequently placed on lands that are important for biodiversity conservation and ecological functions. For example, between 2005 and 2010 &gt;2500 km2 of natural tree cover and 610 km2 of protected areas were converted to plantations. Overall, expansion into marginal areas creates potential for loss-loss scenarios: clearing of high-biodiversity value land for economically unsustainable plantations that are poorly adapted to local conditions and alter landscape functions (e.g. hydrology, erosion) – ultimately compromising livelihoods, particularly when rubber prices fall.</style>
+			</abstract>
+			<custom1>
+				<style face="normal" font="default" size="100%">Copyrighted journal article</style>
+			</custom1>
+			<custom2>
+				<style face="normal" font="default" size="100%">Regional</style>
+			</custom2>
+			<custom4>
+				<style face="normal" font="default" size="100%">Journal Article</style>
+			</custom4>
+			<custom5>
+				<style face="normal" font="default" size="100%">Global Environmental Change</style>
+			</custom5>
+			<label>
+				<style face="normal" font="default" size="100%">0-MRLG;1-TBD;2-Regional;3-Environment;4-journal;5-CopyrightJournalArticle</style>
+			</label>
+		</record>
+		<record>
+			<source-app name="Biblio" version="7.x">Drupal-Biblio</source-app>
+			<ref-type>13</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default" size="100%">Lynn, Thet Aung</style>
+					</author>
+					<author>
+						<style face="normal" font="default" size="100%">Oye, Mari</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">Natural Resources and Subnational Governments in Myanmar: Key considerations for wealth sharing</style>
+				</title>
+			</titles>
+			<keywords>
+				<keyword>
+					<style  face="normal" font="default" size="100%">Distribution</style>
+				</keyword>
+				<keyword>
+					<style  face="normal" font="default" size="100%">Environment</style>
+				</keyword>
+				<keyword>
+					<style  face="normal" font="default" size="100%">Policy-law</style>
+				</keyword>
+			</keywords>
+			<dates>
+				<year>
+					<style  face="normal" font="default" size="100%">2014</style>
+				</year>
+			</dates>
+			<urls>
+				<web-urls>
+					<url>
+						<style face="normal" font="default" size="100%">http://www.asiafoundation.org/publications/pdf/1367</style>
+					</url>
+				</web-urls>
+			</urls>
+			<pages>
+				<style face="normal" font="default" size="100%">i-iii, 1-65</style>
+			</pages>
+			<language>
+				<style face="normal" font="default" size="100%">eng</style>
+			</language>
+			<abstract>
+				<style face="normal" font="default" size="100%">This report provides an overview of state and regional governments’ roles in natural resource governance, highlighting the mining, oil and gas, timber, and hydropower sectors. This report is the fourth volume in the Subnational Governance in Myanmar Discussion Paper Series, which aims to inform future analysis of the potential risks and benefits of changes to the role of subnational governments. This report is funded by the United Kingdom’s Department for International Development (DFID). From February to May 2014, researchers interviewed civil society members, political parties, subnational government officials, and business associations in Kachin and Shan States, and central-level ministries in Naypyitaw, in order to address the following questions: What are the current roles of national and subnational government in natural resource management and revenue flows in Myanmar? What discussions of natural resource wealth sharing are now taking place? What are the potential benefits, risks, and economic trade-offs involved? U Win Min, Senior Research Fellow at MDRI-CESD says, “The considerations presented in this report are crucial for the future of resource sharing, a key component of the national reconstruction process.” With wealth-sharing discussions still in an early stage, the report says that stakeholders should consider important questions about ‘which goals wealth-sharing policies would be intended to address, and the transparency, sustainability, and distributional effects of the systems they might create.’ In Myanmar, the Foundation works with partners in government, the private sector, and civil society to build the country’s capacity for regional integration, strengthen the core institutions and processes of democratic governance, and support increased access to information</style>
+			</abstract>
+			<custom1>
+				<style face="normal" font="default" size="100%">Available for download</style>
+			</custom1>
+			<custom2>
+				<style face="normal" font="default" size="100%">Myanmar</style>
+			</custom2>
+			<custom4>
+				<style face="normal" font="default" size="100%">Unpublished work</style>
+			</custom4>
+			<label>
+				<style face="normal" font="default" size="100%">0-MRLG;1-TBD;2-Myanmar;3-Distribution;3-Environment;3-Policy-law;4-grey literature;5-AvailableForDownload</style>
+			</label>
+		</record>
+				<record>
+			<source-app name="Biblio" version="7.x">Drupal-Biblio</source-app>
+			<ref-type>13</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default" size="100%">Graf, Andreas</style>
+					</author>
+					<author>
+						<style face="normal" font="default" size="100%">Kruckow, Caroline</style>
+					</author>
+					<author>
+						<style face="normal" font="default" size="100%">Gemperle, Sergio</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">‘Land Grabbing’ in Fragile and Conflict-Affected Contexts CRITICAL REFLECTION</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">KOFF Roundtable of November 27th 2012</style>
+				</secondary-title>
+			</titles>
+			<keywords>
+				<keyword>
+					<style  face="normal" font="default" size="100%">Dispossession-grabbing</style>
+				</keyword>
+				<keyword>
+					<style  face="normal" font="default" size="100%">Formalisation-titling</style>
+				</keyword>
+			</keywords>
+			<dates>
+				<year>
+					<style  face="normal" font="default" size="100%">2013</style>
+				</year>
+			</dates>
+			<urls>
+				<web-urls>
+					<url>
+						<style face="normal" font="default" size="100%">http://www.swisspeace.ch/fileadmin/user_upload/pdf/KOFF/KOFF_FriEnt_Land_Grabbing_in_Fragile_and_Conflict-Affected_Contexts.pdf</style>
+					</url>
+				</web-urls>
+			</urls>
+			<publisher>
+				<style face="normal" font="default" size="100%">Center for Peacebuilding (KOFF), Swiss Peace Foundation (swisspeace)</style>
+			</publisher>
+			<pages>
+				<style face="normal" font="default" size="100%">1-8</style>
+			</pages>
+			<language>
+				<style face="normal" font="default" size="100%">eng</style>
+			</language>
+			<abstract>
+				<style face="normal" font="default" size="100%">INTRODUCTION: Large-scale land acquisitions are a reality in most regions worldwide. Vast areas of land are leased to foreign as well as national investors on a long term basis of 30-99 years. A growing number of reports, referring to this practice as ‘land grabbing’, show that these mostly very intransparent deals tend to go along with corruption, forced evictions and other human rights violations as well as enhanced com- petition over water. The challenges associated to the large scale land acquisitions are even height- ened in conflict-prone regions, where property of and access to land and water often are among the key dividing issues. Swiss organizations in development and peace promotion are facing various negative impacts of land acquisitions in their projects. Powerful econom- ic and political interests reshape patterns of water and land management in regions where land acqui- sitions take place. Local land users in different pro- ject areas are pressured or forced to give up the land they are cultivating and living on. The organiza- tions themselves and their local partner institutions face various threats when engaging in advocacy work on the issue. This roundtable on conflict sensitive water and land management assembled representatives of Swiss civil society and state agencies. They debated the implications of land acquisition on their work as well as their responses. The event featured the two country cases of Ethiopia and Cambodia, where negative consequences of land acquisitions on development and social peace are particularly prev- alent. Moreover, the participants discussed to what extent the newly developed FAO Voluntary Guide- lines on the Responsible Governance of Tenure of Land, Fisheries and Forests (hereafter: FAO VG on Tenure)1 are a useful tool to confront the negative consequences of land acquisitions in these and other country contexts. This report picks out some of the main issues dis- cussed at the roundtable, adds some further thoughts of the authors and refers to a limited num- ber of additional sources. The first section looks at the two most prominent ways in which adverse effects of land acquisitions are addressed: support- ing land titling processes and advocacy. The se- cond session reflects the debates on the potential of the FAO VG on Tenure as a tool to fostering sus- tainable land and water management.</style>
+			</abstract>
+			<notes>
+				<style face="normal" font="default" size="100%">Graf, A., Kruckow, C., and Gemperle, S. (2013). “Land Grabbing” in Fragile and Conflict -Affected Contexts CRITICAL REFLECTION. In KOFF Roundtable of November 27th 2012 (pp. 1–8). Center for Peacebuilding (KOFF), Swiss Peace Foundation (Swisspeace).; Overall-rel: The paper provides a critical review of the Food and Agriculture Organization of the United Nation’s (FAO) Voluntary Guidelines on the Responsible Governance of Tenure of Land, Fisheries and Forests in the Context of National Food Security. While commenting on the strengths of the guidelines, and the potential it has to effect positive change in the current situation, the paper also articulates its weaknesses, giving a succinct and reflexive analysis of the ways in which the guidelines may be harnessed to exploitative agendas of state actors and powerful elites. Ultimately, the authors advocate for further development of the document.; Research-bas: This policy brief is based on a multi-stakeholder roundtable in which representatives of Swiss civil society and state agencies came together to discuss how large scale land acquisitions and land deals had negatively affected their various development projects, and to what extent the voluntary guidelines are an effective tool for addressing these issues.; CivilSociety-Donors-rel: NGOs and civil society play a pivotal role in the landscape of tenure and titling, providing access to networks, research, advocacy, and fostering linkages between local groups in order to strengthen the capacity for resistance to dispossession. Yet they are facing increasing persecution from governments, who are intensifying restrictions on their freedoms. This exacerbates the already significant problem of limited access to accurate data, and points to a larger trend in which political space to challenge dispossession is shrinking.; Dispossession-grabbing-rel: Contradiction exists within the rationale which champions formal land titles as the most effective method of increasing security of tenure. Private title is exclusive at the point in which it is granted, and enables participation in speculative real estate markets where title-holders alone hold ultimate decision-making power. Whilst prosperous land-owners may become more secure, poor farmers are made particularly vulnerable as they become pressured to sell land in the face of increasing debt or hardship. In this way the most vulnerable households become dispossessed of their land, with no legal recourse, as they are complicit in their own dispossession.; Formalisation-titling-rel: One of the key contributions of the FAOs voluntary guidelines is that it addresses the complexity and plurality of tenure arrangements, and advocates for the inclusion of customary tenure. Yet, the FAO’s formal position on increasing food security advocates for investments, which are predicated upon private formal title.;</style>
+			</notes>
+			<custom1>
+				<style face="normal" font="default" size="100%">Available for download</style>
+			</custom1>
+			<custom2>
+				<style face="normal" font="default" size="100%">Laos</style>
+			</custom2>
+			<custom4>
+				<style face="normal" font="default" size="100%">Conference Proceedings</style>
+			</custom4>
+			<custom5>
+				<style face="normal" font="default" size="100%">KOFF Roundtable of November 27th 2012</style>
+			</custom5>
+			<research-notes>
+				<style face="normal" font="default" size="100%">Graf, A., Kruckow, C., and Gemperle, S. (2013). “Land Grabbing” in Fragile and Conflict -Affected Contexts CRITICAL REFLECTION. In KOFF Roundtable of November 27th 2012 (pp. 1–8). Center for Peacebuilding (KOFF), Swiss Peace Foundation (Swisspeace).; Overall-rel: The paper provides a critical review of the Food and Agriculture Organization of the United Nation’s (FAO) Voluntary Guidelines on the Responsible Governance of Tenure of Land, Fisheries and Forests in the Context of National Food Security. While commenting on the strengths of the guidelines, and the potential it has to effect positive change in the current situation, the paper also articulates its weaknesses, giving a succinct and reflexive analysis of the ways in which the guidelines may be harnessed to exploitative agendas of state actors and powerful elites. Ultimately, the authors advocate for further development of the document.; Research-bas: This policy brief is based on a multi-stakeholder roundtable in which representatives of Swiss civil society and state agencies came together to discuss how large scale land acquisitions and land deals had negatively affected their various development projects, and to what extent the voluntary guidelines are an effective tool for addressing these issues.; CivilSociety-Donors-rel: NGOs and civil society play a pivotal role in the landscape of tenure and titling, providing access to networks, research, advocacy, and fostering linkages between local groups in order to strengthen the capacity for resistance to dispossession. Yet they are facing increasing persecution from governments, who are intensifying restrictions on their freedoms. This exacerbates the already significant problem of limited access to accurate data, and points to a larger trend in which political space to challenge dispossession is shrinking.; Dispossession-grabbing-rel: Contradiction exists within the rationale which champions formal land titles as the most effective method of increasing security of tenure. Private title is exclusive at the point in which it is granted, and enables participation in speculative real estate markets where title-holders alone hold ultimate decision-making power. Whilst prosperous land-owners may become more secure, poor farmers are made particularly vulnerable as they become pressured to sell land in the face of increasing debt or hardship. In this way the most vulnerable households become dispossessed of their land, with no legal recourse, as they are complicit in their own dispossession.; Formalisation-titling-rel: One of the key contributions of the FAOs voluntary guidelines is that it addresses the complexity and plurality of tenure arrangements, and advocates for the inclusion of customary tenure. Yet, the FAO’s formal position on increasing food security advocates for investments, which are predicated upon private formal title.;</style>
+			</research-notes>
+			<label>
+				<style face="normal" font="default" size="100%">0-MRLG;1-annotated;2-Cambodia;3-Dispossession-grabbing;3-Formalisation-titling;4-grey literature;5-AvailableForDownload</style>
+			</label>
+		</record>
+		<record>
+			<source-app name="Biblio" version="7.x">Drupal-Biblio</source-app>
+			<ref-type>13</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default" size="100%">Williams, Rhodri</style>
+					</author>
+				</authors>
+				<secondary-authors>
+					<author>
+						<style face="normal" font="default" size="100%">Unruh, John</style>
+					</author>
+					<author>
+						<style face="normal" font="default" size="100%">Williams, Rhodri C.</style>
+					</author>
+				</secondary-authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">Title through Possession or Title through Position? Respect for Housing, Land and Property Rights in Cambodia</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">Land and Post‐Conflict Peacebuilding</style>
+				</secondary-title>
+			</titles>
+			<keywords>
+				<keyword>
+					<style  face="normal" font="default" size="100%">Distribution</style>
+				</keyword>
+				<keyword>
+					<style  face="normal" font="default" size="100%">Formalisation-titling</style>
+				</keyword>
+			</keywords>
+			<dates>
+				<year>
+					<style  face="normal" font="default" size="100%">2013</style>
+				</year>
+			</dates>
+			<urls>
+				<web-urls>
+					<url>
+						<style face="normal" font="default" size="100%">http://environmentalpeacebuilding.org/assets/Documents/LibraryItem_000_Doc_164.pdf</style>
+					</url>
+				</web-urls>
+			</urls>
+			<publisher>
+				<style face="normal" font="default" size="100%">Routledge</style>
+			</publisher>
+			<pub-location>
+				<style face="normal" font="default" size="100%">New York</style>
+			</pub-location>
+			<pages>
+				<style face="normal" font="default" size="100%">411-436</style>
+			</pages>
+			<isbn>
+				<style face="normal" font="default" size="100%">9781849712316</style>
+			</isbn>
+			<language>
+				<style face="normal" font="default" size="100%">eng</style>
+			</language>
+			<abstract>
+				<style face="normal" font="default" size="100%">PUBLISHERS DESCRIPTION OF BOOK: Claims to land and territory are often a cause of conflict, and land issues present some of the most contentious problems for post-conflict peacebuilding. Among the land-related problems that emerge during and after conflict are the exploitation of land-based resources in the absence of authority, the disintegration of property rights and institutions, the territorial effect of battlefield gains and losses, and population displacement. In the wake of violent conflict, reconstitution of a viable land-rights system is crucial: an effective post-conflict land policy can foster economic recovery, help restore the rule of law, and strengthen political stability. But the reestablishment of land ownership, land use, and access rights for individuals and communities is often complicated and problematic, and poor land policies can lead to renewed tensions. In twenty-one chapters by twenty-five authors, this book considers experiences with, and approaches to, post-conflict land issues in seventeen countries and in varied social and geographic settings. Highlighting key concepts that are important for understanding how to address land rights in the wake of armed conflict, the book provides a theoretical and practical framework for policy makers, researchers, practitioners, and students. Land and Post-Conflict Peacebuilding is part of a global initiative to identify and analyze lessons in post-conflict peacebuilding and natural resource management. The project has generated six edited books of case studies and analyses, with contributions from practitioners, policy makers, and researchers. Other books in the series address high-value resources, water, livelihoods, assessing and restoring resources, and governance.</style>
+			</abstract>
+			<custom1>
+				<style face="normal" font="default" size="100%">Available for download</style>
+			</custom1>
+			<custom2>
+				<style face="normal" font="default" size="100%">Cambodia</style>
+			</custom2>
+			<custom4>
+				<style face="normal" font="default" size="100%">Book Section</style>
+			</custom4>
+			<custom5>
+				<style face="normal" font="default" size="100%">Land and Post‐Conflict Peacebuilding</style>
+			</custom5>
+			<label>
+				<style face="normal" font="default" size="100%">0-MRLG;1-TBD;2-Cambodia;3-Distribution;3-Formalisation-Titling;4-book;5-AvailableForDownload</style>
+			</label>
+		</record>		
+				<record>
+			<source-app name="Biblio" version="7.x">Drupal-Biblio</source-app>
+			<ref-type>13</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default" size="100%">Woods, Kevin</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">Agribusiness and land grabs in Myanmar</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">Mekong Commons</style>
+				</secondary-title>
+			</titles>
+			<keywords>
+				<keyword>
+					<style  face="normal" font="default" size="100%">Dispossession-grabbing</style>
+				</keyword>
+				<keyword>
+					<style  face="normal" font="default" size="100%">FDI</style>
+				</keyword>
+				<keyword>
+					<style  face="normal" font="default" size="100%">Policy-law</style>
+				</keyword>
+			</keywords>
+			<dates>
+				<year>
+					<style  face="normal" font="default" size="100%">2014</style>
+				</year>
+			</dates>
+			<urls>
+				<web-urls>
+					<url>
+						<style face="normal" font="default" size="100%">http://www.mekongcommons.org/agribusiness-land-grabs-myanmar/</style>
+					</url>
+				</web-urls>
+			</urls>
+			<pages>
+				<style face="normal" font="default" size="100%">1</style>
+			</pages>
+			<language>
+				<style face="normal" font="default" size="100%">eng</style>
+			</language>
+			<custom1>
+				<style face="normal" font="default" size="100%">Available for download</style>
+			</custom1>
+			<custom2>
+				<style face="normal" font="default" size="100%">Myanmar</style>
+			</custom2>
+			<custom4>
+				<style face="normal" font="default" size="100%">Web Page</style>
+			</custom4>
+			<custom5>
+				<style face="normal" font="default" size="100%">Mekong Commons</style>
+			</custom5>
+			<label>
+				<style face="normal" font="default" size="100%">0-MRLG;1-TBD;2-Myanmar;3-Dispossession-grabbing;3-FDI;3-Policy-law;4-grey literature;5-AvailableForDownload</style>
+			</label>
+		</record>
+		<record>
+			<source-app name="Biblio" version="7.x">Drupal-Biblio</source-app>
+			<ref-type>13</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default" size="100%">Cotula, Lorenzo</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">Foreign investment, law and sustainable development: A handbook on agriculture and extractive industries</style>
+				</title>
+			</titles>
+			<keywords>
+				<keyword>
+					<style  face="normal" font="default" size="100%">AccessToJustice</style>
+				</keyword>
+				<keyword>
+					<style  face="normal" font="default" size="100%">Environment</style>
+				</keyword>
+				<keyword>
+					<style  face="normal" font="default" size="100%">FDI</style>
+				</keyword>
+				<keyword>
+					<style  face="normal" font="default" size="100%">Policy-law</style>
+				</keyword>
+			</keywords>
+			<dates>
+				<year>
+					<style  face="normal" font="default" size="100%">2014</style>
+				</year>
+			</dates>
+			<urls>
+				<web-urls>
+					<url>
+						<style face="normal" font="default" size="100%">http://pubs.iied.org/pdfs/12587IIED.pdf?</style>
+					</url>
+				</web-urls>
+			</urls>
+			<publisher>
+				<style face="normal" font="default" size="100%">IIED</style>
+			</publisher>
+			<pub-location>
+				<style face="normal" font="default" size="100%">London</style>
+			</pub-location>
+			<pages>
+				<style face="normal" font="default" size="100%">i-x, 1-160</style>
+			</pages>
+			<isbn>
+				<style face="normal" font="default" size="100%">9781843699651</style>
+			</isbn>
+			<language>
+				<style face="normal" font="default" size="100%">eng</style>
+			</language>
+			<abstract>
+				<style face="normal" font="default" size="100%">Foreign investment in agriculture and extractive industries is increasing pressures on land and natural resources. This handbook is about how to use law to make foreign investment work for sustainable development. It aims to provide a rigorous yet accessible analysis of the law regulating foreign investment in low and middle-income countries – what this law is, how it works, and how to use it most effectively. Because several legal arenas are relevant to any given investment project, the handbook takes an integrated approach that cuts across areas of law typically treated in separate literatures – including investment treaties, extractive industry legislation, land tenure, human rights, environmental legislation and tax law. For both government and civil society, the strategic use of a variety of legal tools is critical in harnessing the full potential of law. This book aims to support government officials in low and middle-income countries in their management of foreign investment for sustainable development, and to support civil society efforts to influence decisions and hold government and investors to account. This handbook has been produced under IIED’s Legal tools for citizen empowerment project.</style>
+			</abstract>
+			<custom1>
+				<style face="normal" font="default" size="100%">Available for download</style>
+			</custom1>
+			<custom2>
+				<style face="normal" font="default" size="100%">Global</style>
+			</custom2>
+			<custom4>
+				<style face="normal" font="default" size="100%">Book</style>
+			</custom4>
+			<label>
+				<style face="normal" font="default" size="100%">0-MRLG;1-TBD;2-Global;3-AccessToJustice;3-Environment;3-FDI;3-Policy-law;4-grey literature;5-AvailableForDownload</style>
+			</label>
+		</record>
+		<record>
+			<source-app name="Biblio" version="7.x">Drupal-Biblio</source-app>
+			<ref-type>13</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default" size="100%">Hansen, Kaitlin</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">Land Law, Land Rights, and Land Reform in Vietnam: A Deeper Look into “Land Grabbing” for Public and Private Development</style>
+				</title>
+			</titles>
+			<keywords>
+				<keyword>
+					<style  face="normal" font="default" size="100%">AccessToJustice</style>
+				</keyword>
+				<keyword>
+					<style  face="normal" font="default" size="100%">CivilSociety-Donors</style>
+				</keyword>
+				<keyword>
+					<style  face="normal" font="default" size="100%">Distribution</style>
+				</keyword>
+				<keyword>
+					<style  face="normal" font="default" size="100%">FDI</style>
+				</keyword>
+				<keyword>
+					<style  face="normal" font="default" size="100%">Policy-law</style>
+				</keyword>
+			</keywords>
+			<dates>
+				<year>
+					<style  face="normal" font="default" size="100%">2013</style>
+				</year>
+			</dates>
+			<urls>
+				<web-urls>
+					<url>
+						<style face="normal" font="default" size="100%">http://digitalcollections.sit.edu/cgi/viewcontent.cgi?article=2753&amp;context=isp_collection</style>
+					</url>
+				</web-urls>
+			</urls>
+			<pages>
+				<style face="normal" font="default" size="100%">i-iv, 1-40</style>
+			</pages>
+			<language>
+				<style face="normal" font="default" size="100%">eng</style>
+			</language>
+			<abstract>
+				<style face="normal" font="default" size="100%">As Vietnam continues to search for its ideal balance between Communist control and a market-led economy, land rights emerge at the forefront of the discussion concerning the tension between traditional Socialist ideals of people-owned and state managed property versus neoliberal ideals of private property rights. The purpose of this study is twofold. First, this study will explore the legal relationship between the Vietnamese state and individuals in regards to land ownership, land management, and land use rights, explaining how this relationship has changed over time with subsequent land laws. Going further, this study will focus on the 2013 land law reform and explain the major differences, if any, from past land laws and how these differences will affect the state’s right to appropriate land—often called “land grabbing”—for both public and private development. Second, through interviews, this study will also explore the roles of two international organizations, The World Bank and Action Aid Vietnam, within the current debate over land rights, exploring each organization’s relationship with the Vietnamese government and opinions regarding land grabbing and the 2013 land law. This study focuses on three major issues surrounding land in Vietnam: land valuation and unfair compensation, “public” (land seized for projects for the public good) versus “private” (land seized for projects for the benefit of an individual or company) appropriation, and corruption at both the national and local levels. These three issues will be exemplified by the case studies in Van Giang, Hai Phong, and “Green Alley,” looking at the roles of local advocates and demonstrations. Finally, this paper explores the influence of ActionAid’s land campaign and the World Bank’s Land Policy Note in the crucial period leading up to the drafting of the 2013 Land Law, which was passed by the National Assembly at the end of November. This paper will conclude with some of the major changes of the new law, including the new stipulations regarding the appropriation of land for the purposes of “economic development.”</style>
+			</abstract>
+			<custom1>
+				<style face="normal" font="default" size="100%">Available for download</style>
+			</custom1>
+			<custom2>
+				<style face="normal" font="default" size="100%">Vietnam</style>
+			</custom2>
+			<custom4>
+				<style face="normal" font="default" size="100%">Thesis</style>
+			</custom4>
+			<label>
+				<style face="normal" font="default" size="100%">0-MRLG;1-TBD;2-Vietnam;3-AccessToJustice;3-CivilSociety-Donors;3-Distribution;3-FDI;3-Policy-law;4-grey literature;5-AvailableForDownload</style>
+			</label>
+		</record>
+		<record>
+			<source-app name="Biblio" version="7.x">Drupal-Biblio</source-app>
+			<ref-type>13</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default" size="100%">Council_for_Land_Policy_Cambodia, _</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">Land Policy &quot;White Paper&quot;</style>
+				</title>
+			</titles>
+			<keywords>
+				<keyword>
+					<style  face="normal" font="default" size="100%">Policy-law</style>
+				</keyword>
+			</keywords>
+			<dates>
+				<year>
+					<style  face="normal" font="default" size="100%">2012</style>
+				</year>
+			</dates>
+			<urls>
+				<web-urls>
+					<url>
+						<style face="normal" font="default" size="100%">http://www.opendevelopmentcambodia.net/download/law/2012_White_Paper_on_Land_Policy.pdf</style>
+					</url>
+				</web-urls>
+			</urls>
+			<pages>
+				<style face="normal" font="default" size="100%">1-57</style>
+			</pages>
+			<language>
+				<style face="normal" font="default" size="100%">eng</style>
+			</language>
+			<custom1>
+				<style face="normal" font="default" size="100%">Available for download</style>
+			</custom1>
+			<custom2>
+				<style face="normal" font="default" size="100%">Cambodia</style>
+			</custom2>
+			<custom4>
+				<style face="normal" font="default" size="100%">Statute</style>
+			</custom4>
+			<label>
+				<style face="normal" font="default" size="100%">0-MRLG;1-TBD;2-Cambodia;3-Policy-law;4-grey literature;5-AvailableForDownload</style>
+			</label>
+		</record>
+		<record>
+			<source-app name="Biblio" version="7.x">Drupal-Biblio</source-app>
+			<ref-type>13</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default" size="100%">Global_Witness, _</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">The Cost of Luxury: Cambodia’s illegal trade in precious wood with China</style>
+				</title>
+			</titles>
+			<keywords>
+				<keyword>
+					<style  face="normal" font="default" size="100%">AccessToJustice</style>
+				</keyword>
+				<keyword>
+					<style  face="normal" font="default" size="100%">Environment</style>
+				</keyword>
+				<keyword>
+					<style  face="normal" font="default" size="100%">MarginalisedPeople</style>
+				</keyword>
+			</keywords>
+			<dates>
+				<year>
+					<style  face="normal" font="default" size="100%">2015</style>
+				</year>
+			</dates>
+			<urls>
+				<web-urls>
+					<url>
+						<style face="normal" font="default" size="100%">https://www.globalwitness.org/campaigns/forests/cost-of-luxury/</style>
+					</url>
+				</web-urls>
+			</urls>
+			<pages>
+				<style face="normal" font="default" size="100%">1-32</style>
+			</pages>
+			<language>
+				<style face="normal" font="default" size="100%">eng</style>
+			</language>
+			<abstract>
+				<style face="normal" font="default" size="100%">This eight-month investigation recorded tonnes of rare timber being trucked out of Cambodia’s national parks and shipped to Hong Kong. Logging of luxury-grade timber is outlawed in Cambodia, and the global trade in Siamese Rosewood has been restricted since 2013, but Chinese demand for antique-style Hongmu furniture is increasing and the illegal trade has ballooned since the ban was announced. During months of interviews with loggers, state officials, police and activists, our investigators kept coming back to one man, who we’ve dubbed the 'King of Rosewood'. Cambodian tycoon Oknha Try Pheap has connections at the highest levels of government and sits at the helm of an illegal logging network that relies on collusion with state officials and enforcement agencies to fell rare trees, traffic logs across the country and load them onto boats bound for Hong Kong. This black market trade is destroying the livelihoods of indigenous and forest-dependent communities. Those who oppose the illegal loggers put their lives on the line. Cambodia’s well-known environmental defender and forest crime investigator Chut Wutty was shot dead in 2012. Six months later journalist Hang Sorei Oudom, who wrote extensively about the elite’s links to illegal forestry, was found dead in the boot of his car. Global Witness is campaigning for a stop to illegal logging in Cambodia and the immediate suspension of all imports of rare Cambodian Hongmu timber by the Peoples Republic of China and Hong Kong officials.</style>
+			</abstract>
+			<issue>
+				<style face="normal" font="default" size="100%">February</style>
+			</issue>
+			<notes>
+				<style face="normal" font="default" size="100%">Global Witness (2015). The Cost of Luxury: Cambodia’s illegal trade in precious wood with China.; Overall-rel: This report examines the complex and deeply embedded networks of patronage that underlie the illegal trade in luxury wood for export from the northeast of Cambodia to China. The report examines the extent to which state actors are complicit in illegal activities, and the degree to which Cambodian business tycoons, linked to powerful government officials, are permitted to exploit natural resources with total immunity from the law. The case study provides a detailed example of the way state-sanctioned economic land concessions can facilitate exploitative and corrupt monopoly industries.; Research-bas: This report is based on an eight-month investigation carried out across Cambodia, as well as in Vietnam and Hong Kong, by researchers working with Global Witness. Interviews were conducted with 67 informants, including state actors at various levels of government, as well as company employees, and villagers. Various investigative methods were used to obtain original documents and photographic evidence, indicating significant illegal behaviour and disregard for the law all the way up to the highest levels of government in the supply chains of luxury timber exports from Cambodia, on route to China.; AccessToJustice-rel: Activists attempting to draw attention to those who are complicit in corrupt supply chains have been persecuted, threatened, and in several prominent cases, even murdered. Local communities have also been coerced into complicity. The climate of fear consequently makes it difficult to challenge corruption and expose illegal activities or seek justice for communities affected by economic land concessions.; MarginalisedPeople-rel: State actors at various levels are complicit in the coercion of local communities to participate in the illegal timber trade they are supposed to prevent. Communities feel they have no power to resist companies from entering their land and are pressured to participate in extracting illegal logs. Once they become embedded in the supply chain, their complicity increases their vulnerability.; Policy-law-rel: Existing laws in Cambodia should, in theory, prevent the exploitation documented by Global Witness in their case study. Yet each stage of investigation reveals that laws are routinely ignored or manipulated in favour of the powerful and wealthy.;</style>
+			</notes>
+			<custom1>
+				<style face="normal" font="default" size="100%">Available for download</style>
+			</custom1>
+			<custom2>
+				<style face="normal" font="default" size="100%">Cambodia</style>
+			</custom2>
+			<custom4>
+				<style face="normal" font="default" size="100%">Report</style>
+			</custom4>
+			<research-notes>
+				<style face="normal" font="default" size="100%">Global Witness (2015). The Cost of Luxury: Cambodia’s illegal trade in precious wood with China.; Overall-rel: This report examines the complex and deeply embedded networks of patronage that underlie the illegal trade in luxury wood for export from the northeast of Cambodia to China. The report examines the extent to which state actors are complicit in illegal activities, and the degree to which Cambodian business tycoons, linked to powerful government officials, are permitted to exploit natural resources with total immunity from the law. The case study provides a detailed example of the way state-sanctioned economic land concessions can facilitate exploitative and corrupt monopoly industries.; Research-bas: This report is based on an eight-month investigation carried out across Cambodia, as well as in Vietnam and Hong Kong, by researchers working with Global Witness. Interviews were conducted with 67 informants, including state actors at various levels of government, as well as company employees, and villagers. Various investigative methods were used to obtain original documents and photographic evidence, indicating significant illegal behaviour and disregard for the law all the way up to the highest levels of government in the supply chains of luxury timber exports from Cambodia, on route to China.; AccessToJustice-rel: Activists attempting to draw attention to those who are complicit in corrupt supply chains have been persecuted, threatened, and in several prominent cases, even murdered. Local communities have also been coerced into complicity. The climate of fear consequently makes it difficult to challenge corruption and expose illegal activities or seek justice for communities affected by economic land concessions.; MarginalisedPeople-rel: State actors at various levels are complicit in the coercion of local communities to participate in the illegal timber trade they are supposed to prevent. Communities feel they have no power to resist companies from entering their land and are pressured to participate in extracting illegal logs. Once they become embedded in the supply chain, their complicity increases their vulnerability.; Policy-law-rel: Existing laws in Cambodia should, in theory, prevent the exploitation documented by Global Witness in their case study. Yet each stage of investigation reveals that laws are routinely ignored or manipulated in favour of the powerful and wealthy.;</style>
+			</research-notes>
+			<label>
+				<style face="normal" font="default" size="100%">0-MRLG;1-annotated;2-Cambodia;3-AccessToJustice;3-Environment;3-MarginalisedPeople;4-grey literature;5-AvailableForDownload</style>
+			</label>
+		</record>
+		
+		<record>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">Test AccessToJustice</style>
+				</title>
+			</titles>
+			<keywords>
+				<keyword>
+					<style  face="normal" font="default" size="100%">AccessToJustice</style>
+				</keyword>
+			</keywords>
+		</record>
+		<record>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">Test AgriculturalModernization</style>
+				</title>
+			</titles>
+			<keywords>
+				<keyword>
+					<style  face="normal" font="default" size="100%">AgriculturalModernization</style>
+				</keyword>
+			</keywords>
+		</record>		
+		<record>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">Test CivilSociety-Donors</style>
+				</title>
+			</titles>
+			<keywords>
+				<keyword>
+					<style  face="normal" font="default" size="100%">CivilSociety-Donors</style>
+				</keyword>
+			</keywords>
+		</record>
+		<record>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">Test Conversion-FoodSecurity</style>
+				</title>
+			</titles>
+			<keywords>
+				<keyword>
+					<style  face="normal" font="default" size="100%">Conversion-FoodSecurity</style>
+				</keyword>
+			</keywords>
+		</record>
+		<record>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">Test Dispossession-grabbing</style>
+				</title>
+			</titles>
+			<keywords>
+				<keyword>
+					<style  face="normal" font="default" size="100%">Dispossession-grabbing</style>
+				</keyword>
+			</keywords>
+		</record>
+		<record>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">Test Distribution</style>
+				</title>
+			</titles>
+			<keywords>
+				<keyword>
+					<style  face="normal" font="default" size="100%">Distribution</style>
+				</keyword>
+			</keywords>
+		</record>
+		<record>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">Test Environment</style>
+				</title>
+			</titles>
+			<keywords>
+				<keyword>
+					<style  face="normal" font="default" size="100%">Environment</style>
+				</keyword>
+			</keywords>
+		</record>
+		<record>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">Test FDI</style>
+				</title>
+			</titles>
+			<keywords>
+				<keyword>
+					<style  face="normal" font="default" size="100%">FDI</style>
+				</keyword>
+			</keywords>
+		</record>
+		<record>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">Test Formalisation-titling</style>
+				</title>
+			</titles>
+			<keywords>
+				<keyword>
+					<style  face="normal" font="default" size="100%">Formalisation-titling</style>
+				</keyword>
+			</keywords>
+		</record>
+		<record>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">Test MarginalisedPeople</style>
+				</title>
+			</titles>
+			<keywords>
+				<keyword>
+					<style  face="normal" font="default" size="100%">MarginalisedPeople</style>
+				</keyword>
+			</keywords>
+		</record>
+		<record>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">Test MigrationLabour</style>
+				</title>
+			</titles>
+			<keywords>
+				<keyword>
+					<style  face="normal" font="default" size="100%">MigrationLabour</style>
+				</keyword>
+			</keywords>
+		</record>
+
+		
+		<record>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">Test Policy-law</style>
+				</title>
+			</titles>
+			<keywords>
+				<keyword>
+					<style  face="normal" font="default" size="100%">Policy-law</style>
+				</keyword>
+			</keywords>
+		</record>
+		</records>
+</xml>
