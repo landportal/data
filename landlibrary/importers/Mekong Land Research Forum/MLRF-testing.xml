@@ -1267,5 +1267,86 @@
 				</keyword>
 			</keywords>
 		</record>
-		</records>
+		<record>
+			<source-app name="Biblio" version="7.x">Drupal-Biblio</source-app>
+			<ref-type>13</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default" size="100%">Food_and_Agriculture_Organization_of_the_United_Nations, (FAO)</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">Voluntary Guidelines on the Responsible Governance of Tenure of Land, Fisheries and Forests in the Context of National Food Security</style>
+				</title>
+			</titles>
+			<keywords>
+				<keyword>
+					<style  face="normal" font="default" size="100%">AccessToJustice</style>
+				</keyword>
+				<keyword>
+					<style  face="normal" font="default" size="100%">Conversion-FoodSecurity</style>
+				</keyword>
+				<keyword>
+					<style  face="normal" font="default" size="100%">Environment</style>
+				</keyword>
+				<keyword>
+					<style  face="normal" font="default" size="100%">FDI</style>
+				</keyword>
+				<keyword>
+					<style  face="normal" font="default" size="100%">Formalisation-titling</style>
+				</keyword>
+				<keyword>
+					<style  face="normal" font="default" size="100%">MarginalisedPeople</style>
+				</keyword>
+				<keyword>
+					<style  face="normal" font="default" size="100%">Policy-law</style>
+				</keyword>
+			</keywords>
+			<dates>
+				<year>
+					<style  face="normal" font="default" size="100%">2012</style>
+				</year>
+			</dates>
+			<urls>
+				<web-urls>
+					<url>
+						<style face="normal" font="default" size="100%">http://www.fao.org/docrep/016/i2801e/i2801e.pdf</style>
+					</url>
+				</web-urls>
+			</urls>
+			<publisher>
+				<style face="normal" font="default" size="100%">Food &amp; Agricultural Organistion of the United Nations (FAO)</style>
+			</publisher>
+			<pub-location>
+				<style face="normal" font="default" size="100%">Rome</style>
+			</pub-location>
+			<pages>
+				<style face="normal" font="default" size="100%">i-vi, 1-40</style>
+			</pages>
+			<isbn>
+				<style face="normal" font="default" size="100%">9789251072776</style>
+			</isbn>
+			<language>
+				<style face="normal" font="default" size="100%">eng</style>
+			</language>
+			<abstract>
+				<style face="normal" font="default" size="100%">ABSTRACTED FROM THE OBJECTIVES SECTION: These Voluntary Guidelines seek to improve governance of tenure of land*, fisheries and forests. They seek to do so for the benefit of all, with an emphasis on vulnerable and marginalized people, with the goals of food security and progressive realization of the right to adequate food, poverty eradication, sustainable livelihoods, social stability, housing security, rural development, environmental protection and sustainable social and economic development. All programmes, policies and technical assistance to improve governance of tenure through the implementation of these Guidelines should be consistent with States’ existing obligations under international law, including the Universal Declaration of Human Rights and other international human rights instruments. These Guidelines seek to: 1. improve tenure governance by providing guidance and information on internationally accepted practices for systems that deal with the rights to use, manage and control land, fisheries and forests. 2. contribute to the improvement and development of the policy, legal and organizational frameworks regulating the range of tenure rights that exist over these resources. 3. enhance the transparency and improve the functioning of tenure systems. 4. strengthen the capacities and operations of implementing agencies; judicial authorities; local governments; organizations of farmers and small-scale producers, of fishers, and of forest users; pastoralists; indigenous peoples and other communities; civil society; private sector; academia; and all persons concerned with tenure governance as well as to promote the cooperation between the actors mentioned.</style>
+			</abstract>
+			<custom1>
+				<style face="normal" font="default" size="100%">Available for download</style>
+			</custom1>
+			<custom2>
+				<style face="normal" font="default" size="100%">Global</style>
+			</custom2>
+			<custom4>
+				<style face="normal" font="default" size="100%">Report</style>
+			</custom4>
+			<label>
+				<style face="normal" font="default" size="100%">0-MRLG;1-TBD;2-Global;3-AccessToJustice;3-Conversion-FoodSecurity;3-Environment;3-FDI;3-Formalisation-titling;3-MarginalisedPeople;3-Policy-law;4-grey literature;5-AvailableForDownload</style>
+			</label>
+		</record>		
+	</records>
 </xml>
