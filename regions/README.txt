@@ -26,6 +26,8 @@ To check if the ISO3 code is supported by the flag file
 Notes
 =====
 
+Some curation process has been done, in order to have consistency in names (for instance, replace the Portuguese style using commas)
+
 At the end of the spreadsheet, there are some entities that appears in different places (flag, highcharts map...), but they don't have an ISO3 code.
 
 
