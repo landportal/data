@@ -1,0 +1,13 @@
+# Get Land Library Resources from a list of countries
+
+SELECT DISTINCT ?llr ?llrLabel ?country ?countryLabel
+FROM <http://library.landportal.info>
+WHERE {
+   ?llr a  <http://purl.org/ontology/bibo/Document> ;
+        <http://purl.org/dc/terms/spatial> ?country ;
+        <http://purl.org/dc/terms/title> ?llrLabel .
+   ?country <http://purl.org/dc/terms/identifier> ?iso3 ;
+            <http://www.w3.org/2000/01/rdf-schema#label> ?countryLabel
+   FILTER ( ?iso3 = "BRA")
+}
+ORDER BY ?llr
