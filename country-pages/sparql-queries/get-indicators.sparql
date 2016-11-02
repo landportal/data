@@ -1,13 +1,16 @@
-# Gets URL, LABEL and DESCRIPTION of all the indicators, ordered alphabetically by label.
+# Gets URL, ID, LABEL and DESCRIPTION of all the indicators, ordered alphabetically by label.
 # NOTE: the properties for label and description MUST change
 
 PREFIX cex: <http://purl.org/weso/ontology/computex#>
 PREFIX ex: <http://www.example.org/rdf#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+
 
 SELECT * 
 FROM <http://data.landportal.info>
 WHERE {
 ?indicatorUrl a cex:Indicator ;
+	skos:notation ?ID;
 	ex:label ?label ;
     ex:description ?description .
 	# rdfs:label ?label ;
