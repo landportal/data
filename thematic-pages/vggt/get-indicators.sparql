@@ -1,0 +1,18 @@
+# Get indicators from a dataset
+# Returns ?indicatorURL ?indicatorID ?indicatorLabel ?indicatorDescription
+# Ordered by indicatorURL
+
+PREFIX cex: <http://purl.org/weso/ontology/computex#>
+PREFIX ex: <http://www.example.org/rdf#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+
+SELECT DISTINCT ?indicatorURL ?indicatorID ?indicatorLabel ?indicatorDescription 
+FROM <http://vggt.landportal.info>
+WHERE {
+	?indicatorURL ex:dataset ?dataset.
+	?indicatorURL skos:notation ?indicatorID ;
+				ex:label ?indicatorLabel ;
+				ex:description ?indicatorDescription .
+	VALUES ?dataset {<http://data.landportal.info/dataset/NKT-VGGT16>}
+
+} ORDER BY ?indicatorURL

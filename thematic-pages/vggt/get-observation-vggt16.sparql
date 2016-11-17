@@ -1,0 +1,22 @@
+PREFIX cex: <http://purl.org/weso/ontology/computex#>
+PREFIX qb: <http://purl.org/linked-data/cube#>
+PREFIX ex: <http://www.example.org/rdf#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+
+
+SELECT ?indicatorURL ?indicatorID ?indicatorLabel ?indicatorDescription ?countryURL ?year (STR(?value) AS ?value) (STR(?comment) as ?comment)
+FROM <http://vggt.landportal.info>
+WHERE {
+    ?obs qb:dataSet <http://data.landportal.info/dataset/NKT-VGGT16> ;
+		cex:ref-indicator ?indicatorURL ;
+		cex:ref-area ?countryURL ;
+		cex:ref-time ?year ;
+		cex:value ?value .
+		OPTIONAL { ?obs rdfs:comment ?comment }
+
+	?indicatorURL skos:notation ?indicatorID ;
+				  ex:label ?indicatorLabel ;
+				  ex:description ?indicatorDescription .
+#	VALUES ?countryURL {<http://data.landportal.info/geo/TZA>}
+
+} ORDER BY ?indicatorURL ?countryURL
