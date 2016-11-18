@@ -1,0 +1,14 @@
+PREFIX fao: <http://aims.fao.org/aos/geopolitical.owl#>
+SELECT ?region 
+(STR(?codeUN) AS ?codeUN) 
+(STR(?nameListEN) AS ?nameListEN)
+(STR(?nameListES) AS ?nameListES)
+(STR(?nameListFR) AS ?nameListFR)
+FROM <http://fao.landportal.info>
+WHERE {
+   ?region a fao:geographical_region ;
+    fao:nameListEN ?nameListEN ;
+	fao:nameListES ?nameListES ;
+	fao:nameListFR ?nameListFR .
+   OPTIONAL { ?region  fao:codeUN ?codeUN }
+}

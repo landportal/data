@@ -7,7 +7,7 @@ SELECT
 (STR(?codeAGROVOC) AS ?codeAGROVOC)
 (STR(?codeISO2) AS ?codeISO2)
 (STR(?codeDBPediaID) AS ?codeDBPediaID)
-FROM <http://remove.landportal.info>
+FROM <http://fao.landportal.info>
 WHERE {
 ?country a ?type ;
 	fao:codeISO3 ?codeISO3 ;
