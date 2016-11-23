@@ -18,8 +18,8 @@ Process portuguese-country-names.xlsx (obtained from http://blog.tiagocrizanto.c
 Run highcharts-map.py using https://raw.githubusercontent.com/landportal/js-view-coda/master/js/map_data.js . Do some process after thaat
 To check if the ISO3 code is supported by the highcharts map
 
-- Flag (one file)	
-From https://github.com/landportal/js-view-coda/blob/master/sass/screen.scss after some manual process
+- Flag	
+From https://github.com/lipis/flag-icon-css after some mapping process
 To check if the ISO3 code is supported by the flag file
 
 
