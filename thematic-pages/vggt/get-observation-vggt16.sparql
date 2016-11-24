@@ -5,7 +5,7 @@ PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 
 
 SELECT ?indicatorURL ?indicatorID ?indicatorLabel ?indicatorDescription ?countryURL ?year (STR(?value) AS ?value) (STR(?comment) as ?comment)
-FROM <http://vggt.landportal.info>
+FROM <http://data.landportal.info>
 WHERE {
     ?obs qb:dataSet <http://data.landportal.info/dataset/NKT-VGGT16> ;
 		cex:ref-indicator ?indicatorURL ;
