@@ -1,13 +1,16 @@
-# Get Land Library Resources from a list of countries
-
+PREFIX bibo: <http://purl.org/ontology/bibo/>
+PREFIX dct: <http://purl.org/dc/terms/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 SELECT DISTINCT ?llr ?llrLabel ?country ?countryLabel
 FROM <http://library.landportal.info>
 WHERE {
-   ?llr a  <http://purl.org/ontology/bibo/Document> ;
-        <http://purl.org/dc/terms/spatial> ?country ;
-        <http://purl.org/dc/terms/title> ?llrLabel .
-   ?country <http://purl.org/dc/terms/identifier> ?iso3 ;
-            <http://www.w3.org/2000/01/rdf-schema#label> ?countryLabel
-   FILTER ( ?iso3 = "BRA")
+   ?llr a  bibo:Document ;
+        dct:spatial ?country ;
+        dct:title ?llrLabel .
+   ?country dct:identifier ?iso3 ;
+        rdfs:label ?countryLabel .
+FILTER ( ?iso3 = "BRA" || ?iso3 = "BOL" || ?iso3 = "ECU" || ?iso3 = "PER" || ?iso3 = "USA")
 }
 ORDER BY ?llr
+
+
