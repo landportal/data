@@ -1,0 +1,23 @@
+# Get descriptive statistics about datasets: Number of indicators, number of observation and number of differente countries for a dataset.
+# If "VALUES ?datasetURL" is commented, all datasets are returned
+# If one concrete dataset is needed, just add in the VALUES ?datasetURL part
+# Ordered by datasetID
+
+PREFIX cex: <http://purl.org/weso/ontology/computex#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX qb:   <http://purl.org/linked-data/cube#>
+
+SELECT DISTINCT
+?datasetID
+COUNT(DISTINCT ?indicator) AS ?nIndicators
+COUNT(?obs) AS ?nObs
+COUNT(DISTINCT ?country) AS ?nCountryWithValue
+FROM <http://data.landportal.info>
+WHERE{
+   ?obs qb:dataSet ?datasetURL ;
+       cex:ref-indicator ?indicator;
+       cex:ref-area ?country ;
+       cex:value ?value.
+   ?datasetURL skos:notation ?datasetID.
+   #VALUES ?datasetURL { <http://data.landportal.info/dataset/FAO-ASTI> <http://data.landportal.info/dataset/WB-DEM>}
+} ORDER BY ?datasetID
