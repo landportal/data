@@ -1,0 +1,16 @@
+# Get number of non missing indicators by country
+# Ordered by countryURL
+
+PREFIX cex: <http://purl.org/weso/ontology/computex#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX qb:   <http://purl.org/linked-data/cube#>
+
+SELECT DISTINCT
+?countryURL
+(COUNT(DISTINCT ?indicatorURL) as ?nNonMissingIndicators)
+FROM <http://data.landportal.info>
+WHERE{
+   ?obs cex:ref-area ?countryURL ;
+        cex:ref-indicator ?indicatorURL .
+
+} ORDER BY ?countryURL
