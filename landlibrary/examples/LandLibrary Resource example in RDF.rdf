@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+		xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+		xmlns:dc="http://purl.org/dc/elements/1.1/"
+		xmlns:dct="http://purl.org/dc/terms/"
+		xmlns:schema="http://schema.org/"
+		xmlns:bibo="http://purl.org/ontology/bibo/">
+	<rdf:Description rdf:about="http://www.gltn.net/index.php/92-resources/publications/402-un-habitat-and-gltn-youth-led-action-research-on-land-commencement-workshop-report"> <!-- Link to the online source -->
+		<dct:title xml:lang="en">GLTN/UN-Habitat Youth Led Action Research on Land Commencement Workshop</dct:title> <!-- Title -->
+		<dct:description xml:lang="en">The land challenge is central to the broader youth dynamics of migration, employment, livelihoods and belonging. The more than 1.8 billion youth living worldwide represent not only a land challenge, but an untapped potential in moving the tenure security agenda forward.</dct:description>  <!-- Abstract / Description -->
+		<dc:publisher>Global Land Tool Network</dc:publisher> <!-- Publisher -->
+		<dct:publisher rdf:resource="http://www.landportal.info/organization/global-land-tool-network" /> <!-- Publisher -->
+		<dc:author>Kate Fairlie; Toril Iren Pedersen; Douglas Ragan; Priscilla Li Ying;</dc:author> <!-- Authors / Editors / Contributors -->
+		<dct:author rdf:resource="http://www.landportal.info/organization/global-land-tool-network"/>  <!-- Authors / Editors / Contributors -->
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-01-31</dct:date> <!-- Publication date -->
+		<dc:language>en</dc:language> <!-- Language of the resource. ISO 639-1 code -->
+		<dct:identifier>GLTN/UN-Ha2014</dct:identifier> <!-- ID/ISBN/ISSN -->
+		<dct:extent>35</dct:extent> <!-- Pages -->
+		<dc:coverage>Global</dc:coverage> <!-- Geographical focus (area related). Name -->
+		<dc:coverage>001</dc:coverage> <!-- Geographical focus (area related). UN M49 code -->
+		<dc:coverage>Asia</dc:coverage> <!-- Geographical focus (area related)-->
+		<dc:coverage>142</dc:coverage> <!-- Geographical focus (area related). UN M49 code -->		
+		<dc:coverage>BRA</dc:coverage> <!-- Geographical focus (country related). ISO 3166-1 alpha-3 code -->
+		<dc:coverage>KEN</dc:coverage> <!-- Geographical focus (country related). ISO 3166-1 alpha-3 code -->
+		<dc:coverage>NPL</dc:coverage> <!-- Geographical focus (country related). ISO 3166-1 alpha-3 code -->
+		<dc:coverage>YEM</dc:coverage> <!-- Geographical focus (country related). ISO 3166-1 alpha-3 code -->
+		<dc:coverage>ZWE</dc:coverage> <!-- Geographical focus (country related). ISO 3166-1 alpha-3 code -->
+		<dc:subject>Access to Land &amp; Tenure Security</dc:subject> <!-- Overarching categories related. Label -->
+		<dct:subject rdf:resource="http://landportal.info/voc/landvoc/overarching-category/access-land-tenure-security"/> <!-- Overarching categories related. Agrovoc URI -->
+		<dc:subject>Land Stakeholders &amp; Institutions</dc:subject> <!-- Theme related. Label -->
+		<dct:subject rdf:resource="http://landportal.info/voc/landvoc/theme/land-stakeholders-institutions"/> <!-- Theme related. Agrovoc URI -->
+		<dc:subject>capacity building</dc:subject> <!-- Related concepts from the LandVoc. Label -->
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_37836"/> <!-- Related concepts from the LandVoc. Agrovoc URI -->
+		<dc:subject>land governance</dc:subject> <!-- Related concepts from the LandVoc. Label -->
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d"/> <!-- Related concepts from the LandVoc. Agrovoc URI -->
+		<dc:subject>land rights</dc:subject> <!-- Related concepts from the LandVoc. Label -->
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_37898"/> <!-- Related concepts from the LandVoc. Agrovoc URI -->
+		<dc:subject>research</dc:subject> <!-- Related concepts from the LandVoc. Label -->
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6513"/> <!-- Related concepts from the LandVoc. Agrovoc URI -->
+		<dc:subject>youth</dc:subject> <!-- Related concepts from the LandVoc. Label -->
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_8491"/> <!-- Related concepts from the LandVoc. Agrovoc URI -->		
+		<dc:type>Reports &amp; Research</dc:type><!-- Type of resource. Label -->
+		<dct:type rdf:resource="http://landportal.info/library/resource-type/multimedia"/><!-- Type of resource. LandPortal URI -->
+		<schema:image rdf:resource="http://www.gltn.net/images/publications/youthled_act.jpg"/> <!-- Image or thumbnail -->
+		<bibo:uri rdf:resource="http://www.gltn.net/jdownloads/GLTN%20Documents/gltn_youth_led_action_workshop_report.pdf"/> <!-- Link to the online document -->
+		<dc:license>All rights reserved</dc:license> <!-- License. Label -->
+		<dct:license rdf:resource="http://landportal.info/voc/licences/all-rights-reserved" /> <!-- License. LandPortal URI -->
+		<dc:rights>Copyright © United Nations Human Settlements Programme (UN-Habitat), 2013</dc:rights> <!-- Copyright owner/statement -->
+	</rdf:Description>
+</rdf:RDF>
