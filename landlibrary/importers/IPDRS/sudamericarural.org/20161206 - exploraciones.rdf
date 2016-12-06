@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+		xmlns:dc="http://purl.org/dc/elements/1.1/"
+		xmlns:dct="http://purl.org/dc/terms/"
+		xmlns:schema="http://schema.org/"
+		xmlns:bibo="http://purl.org/ontology/bibo/">          
+	<rdf:Description rdf:about="http://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/31">
+		<dct:title xml:lang="es" >Temporeras en Chile: Iñche zomo kudaw ñi mapu, Yo soy mujer que trabaja mi tierra</dct:title>
+		<dc:author>Matilde Mera Anchio</dc:author>
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-05-23</dct:date>
+		<dc:publisher>IPDRS</dc:publisher>
+		<dct:extent>22</dct:extent>
+		<schema:image rdf:resource="http://www.sudamericarural.org/images/exploraciones/Exploraciones 29.jpg" />    <bibo:uri rdf:resource="http://www.sudamericarural.org/images/exploraciones/archivos/Exploracin 29.pdf"/>
+		<dct:description xml:lang="es" >Este texto de Matilde Mera Anchio, que le valió la mención en el Concurso Alimentos y pensamientos, siempre en agenda,versión 2015 del Instituto para el Desarrollo Rural de Sudamérica (IPDRS). En este trabajo se realiza un análisis de la situación de las trabajadoras agrícolas Región de los Ríos, en Chile, durante las últimas décadas del siglo XX, cuando se produjo el quiebre definitivo de la relaciones de producción tradicionales y se expandieron los mercados laborales, abriendo a las mujeres la oportunidad de salir de las labores del hogar y, por esa vía, generar cambios en las relaciones de género.
+			 </dct:description>
+		<dct:identifier>IPDRS-Exploraciones-31</dct:identifier>          
+		<dc:type>IPDRS - Exploraciones</dc:type>            
+		<dc:language>es</dc:language>           
+		<dc:coverage>CHL</dc:coverage>            
+		<dc:subject>Agricultura familiar</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1422957329186"/>      
+		<dc:subject>Asalariados rurales</dc:subject>      
+		<dc:subject>Modelos de desarrollo</dc:subject>      
+		<dc:subject>modos de aprovechamiento</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_66afb052"/>      
+		<dc:subject>Mujeres </dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_8420"/>      
+		<dc:subject>Políticas agrarias</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_195"/>      
+		<dc:subject>pueblos indígenas </dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_331524"/>            
+		<dc:license>All rights reserved</dc:license>
+		<dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>         
+		<dc:rights>IPDRS</dc:rights>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/30">
+		<dct:title xml:lang="es" >TLC Y TBI amenazan a la Soberanía Alimentaria</dct:title>
+		<dc:author>Susana Castillo Figueroa</dc:author>
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-03-28</dct:date>
+		<dc:publisher>IPDRS</dc:publisher>
+		<dct:extent>21</dct:extent>
+		<schema:image rdf:resource="http://www.sudamericarural.org/images/exploraciones/Exploraciones.jpg" />    <bibo:uri rdf:resource="http://www.sudamericarural.org/images/exploraciones/archivos/Exploraciones 28.pdf"/>
+		<dct:description xml:lang="es" >El presente ensayo esboza en amplias líneas los intereses y estrategias de Estados Unidos (USA) y la Unión Europea (UE) en relación a la producción, comercialización y consumo de alimentos, un eje transversal en las secciones de Comercio, Servicios y Propiedad Intelectual de un Tratado de Libre Comercio.</dct:description>
+		<dct:identifier>IPDRS-Exploraciones-30</dct:identifier>          
+		<dc:type>IPDRS - Exploraciones</dc:type>            
+		<dc:language>es</dc:language>           
+		<dc:coverage>ECU</dc:coverage>            
+		<dc:subject>Acuerdos de libre comercio</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_3ffda84e"/>      
+		<dc:subject>Agroindustria</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_28831"/>      
+		<dc:subject>Crisis alimentaria</dc:subject>      
+		<dc:subject>Modelos de desarrollo</dc:subject>      
+		<dc:subject>Semillas</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6946"/>      
+		<dc:subject>Soberanía alimentaria</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1310718737317"/>            
+		<dc:license>All rights reserved</dc:license>
+		<dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>         
+		<dc:rights>IPDRS</dc:rights>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/29">
+		<dct:title xml:lang="es" >Jornaleros en nuestra propia tierra</dct:title>
+		<dc:author>Julie Manuela Mena Ortega</dc:author>
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-01-11</dct:date>
+		<dc:publisher>IPDRS</dc:publisher>
+		<dct:extent>22</dct:extent>
+		<schema:image rdf:resource="http://www.sudamericarural.org/images/exploraciones/exploraciones27 tapa.png" />    <bibo:uri rdf:resource="http://www.sudamericarural.org/images/exploraciones/archivos/Exploraciones 27.pdf"/>
+		<dct:description xml:lang="es" >La authora plantea un enfoque interesante a través de la comparación entre el monocultivo y sus consecuencias para la seguridad alimentaria de una zona en Colombia, con testimonios que enriquecen la perspectiva cultural de la descripción. Por su carácter testimonial, el texto mereció mención en el Concurso 2015.</dct:description>
+		<dct:identifier>IPDRS-Exploraciones-29</dct:identifier>          
+		<dc:type>IPDRS - Exploraciones</dc:type>            
+		<dc:language>es</dc:language>           
+		<dc:coverage>COL</dc:coverage>            
+		<dc:subject>Agencias de desarrollo </dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_2224"/>      
+		<dc:subject>Agricultura familiar</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1422957329186"/>      
+		<dc:subject>Agroindustria</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_28831"/>      
+		<dc:subject>Monocultivo</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_4915"/>      
+		<dc:subject>Seguridad alimentaria</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_10967"/>      
+		<dc:subject>territorio comunal  </dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_41b77c02"/>            
+		<dc:license>All rights reserved</dc:license>
+		<dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>         
+		<dc:rights>IPDRS</dc:rights>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/28">
+		<dct:title xml:lang="es" >Combatiendo la pobreza en América Latina: La experiencia de los Programas de Transferencias Monetarias Condicionadas.</dct:title>
+		<dc:author>Andrés Santana Bonilla</dc:author>
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-07</dct:date>
+		<dc:publisher>IPDRS</dc:publisher>
+		<dct:extent>24</dct:extent>
+		<schema:image rdf:resource="http://www.sudamericarural.org/images/exploraciones/Portada exploraciones26.jpg" />    <bibo:uri rdf:resource="http://www.sudamericarural.org/images/exploraciones/archivos/Exploraciones 26.pdf"/>
+		<dct:description xml:lang="es" >El ensayo que ahora presentamos mereció el tercer city en el Concurso de este año. Desde Colombia, el author propone una argumentación teórica para la región latinoamericana comparando datos sobre diversas experiencias de Programas de Transferencias Monetarias Condicionadas, usando un método de análisis con respaldo cuantitativo y datos históricos comparativos entre países, con indicadores más generales y comparando los casos de Brasil y México, de forma más específica.
+			 </dct:description>
+		<dct:identifier>IPDRS-Exploraciones-28</dct:identifier>          
+		<dc:type>IPDRS - Exploraciones</dc:type>            
+		<dc:language>es</dc:language>           
+		<dc:coverage>COL</dc:coverage>            
+		<dc:subject>Modelos de desarrollo</dc:subject>      
+		<dc:subject>Organismos multilaterales</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_50260"/>      
+		<dc:subject>Pobreza</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6151"/>      
+		<dc:subject>Transferencias monetarias directas</dc:subject>            
+		<dc:license>All rights reserved</dc:license>
+		<dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>         
+		<dc:rights>IPDRS</dc:rights>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/27">
+		<dct:title xml:lang="es" >Quinua, un alimento del pasado con un futuro incierto</dct:title>
+		<dc:author>Nelson Enzo Yapari Campos</dc:author>
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-10-05</dct:date>
+		<dc:publisher>IPDRS</dc:publisher>
+		<dct:extent>28</dct:extent>
+		<schema:image rdf:resource="http://www.sudamericarural.org/images/exploraciones/cover_page explo25.png" />    <bibo:uri rdf:resource="http://www.sudamericarural.org/images/exploraciones/archivos/Exploraciones 25.pdf"/>
+		<dct:description xml:lang="es" >Este artículo describe y analiza los orígenes mitológicos y socioculturales de la producción de quinua en la zona altiplánica boliviano - peruana, con elementos de género y culturales, para apoyar la hipótesis del desequilibrio que está causando, en sus palabras, “una irresponsable masificación comercial del grano”. El ensayo forma parte de un trabajo inédito y más amplio del author. El Comité de Calificación del Concurso 2015 lo eligió segundo premio, por su perspectiva regional y por el esfuerzo interdisciplinario para analizar un producto agrícola alimentario de alta incidencia en la economía de ambos países. </dct:description>
+		<dct:identifier>IPDRS-Exploraciones-27</dct:identifier>          
+		<dc:type>IPDRS - Exploraciones</dc:type>            
+		<dc:language>es</dc:language>           
+		<dc:coverage>BOL</dc:coverage>            
+		<dc:subject>Agricultura familiar</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1422957329186"/>      
+		<dc:subject>Agronegocios</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_208"/>      
+		<dc:subject>conflictos por la tierra </dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_e236b2b1"/>      
+		<dc:subject>Crisis alimentaria</dc:subject>      
+		<dc:subject>Monocultivo</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_4915"/>      
+		<dc:subject>Mujeres </dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_8420"/>      
+		<dc:subject>Uso intensivo de la tierra</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_36551"/>            
+		<dc:license>All rights reserved</dc:license>
+		<dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>         
+		<dc:rights>IPDRS</dc:rights>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/26">
+		<dct:title xml:lang="es" >Programas FAMILIA en Colombia y Argentina: Umbrales de bienestar y nuevas formas para el tutelaje de los pobres</dct:title>
+		<dc:author>Angélica Gunturiz</dc:author>
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-07-27</dct:date>
+		<dc:publisher>IPDRS</dc:publisher>
+		<dct:extent>29</dct:extent>
+		<schema:image rdf:resource="http://www.sudamericarural.org/images/exploraciones/EXPLORACIONES 24.jpg" />    <bibo:uri rdf:resource="http://www.sudamericarural.org/images/exploraciones/archivos/Exploraciones 24.pdf"/>
+		<dct:description xml:lang="es" >Primer premio de la categoría Ensayos del Concurso 2015, el trabajo que ahora presentamos se basa en la investigación Construcción de ciudadanía a través de políticas contra la exclusión social: el caso de “Familias en acción” y “Familias por la inclusión social” en los Conurbanos de Bogotá y Buenos Aires, tesis de maestría de la authora. Gunturiz analiza los programas de transferencias monetarias condicionadas, que han proliferado a lo largo de la región latinoamericana durante las últimas dos décadas, como políticas sociales protagónicas, a partir de la forma en que en las sociedades plantean la cuestión de la integración y la ciudadanía,y cómo ello seplasma en las herramientas de política social. La authora propone este ejercicio en el entendido de que permitirá contribuir a la comprensión de las dinámicas conflictivas en torno a las cuales se definen los sentidos de la política social.
+			 </dct:description>
+		<dct:identifier>IPDRS-Exploraciones-26</dct:identifier>          
+		<dc:type>IPDRS - Exploraciones</dc:type>            
+		<dc:language>es</dc:language>           
+		<dc:coverage>COL</dc:coverage>            
+		<dc:subject>Exclusión social</dc:subject>      
+		<dc:subject>Modelos de desarrollo</dc:subject>      
+		<dc:subject>Mujeres </dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_8420"/>      
+		<dc:subject>Pobreza</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6151"/>      
+		<dc:subject>Transferencias monetarias directas</dc:subject>            
+		<dc:license>All rights reserved</dc:license>
+		<dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>         
+		<dc:rights>IPDRS</dc:rights>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/25">
+		<dct:title xml:lang="es" >Roles de género en la actividad pesquera del Lago Titicaca, reflexiones  para el pensamiento Sudamericano</dct:title>
+		<dc:author>Miriam Julieta Huacani</dc:author>
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-06-08</dct:date>
+		<dc:publisher>IPDRS</dc:publisher>
+		<dct:extent>0</dct:extent>
+		<schema:image rdf:resource="http://www.sudamericarural.org/images/exploraciones/PORTADA EXPORACIONES 23.jpg" />    <bibo:uri rdf:resource="http://www.sudamericarural.org/images/exploraciones/archivos/Exploraciones 23.pdf"/>
+		<dct:description xml:lang="es" >El presente ensayo describe detalladamente la participación de mujeres y hombres en la pesca tradicional de una comunidad a orillas del Lago Titicaca, que comparten Bolivia y Perú. El trabajo fue calificado como tercer premio del Concurso anual de artículos y ensayos sobre agricultura familiar comunitaria, destacando de manera especial su esfuerzo para visualizar la participación de las mujeres en una actividad tradicionalmente considerada “masculina”. En el análisis, la authora afirma “que la pesca también constituye otro tipo de agricultura familiar basada en la explotación de peces” y se sumergió en el estudio de caso buscando pistas respecto a la activa participación de las mujeres en esa actividad. </dct:description>
+		<dct:identifier>IPDRS-Exploraciones-25</dct:identifier>          
+		<dc:type>IPDRS - Exploraciones</dc:type>            
+		<dc:language>es</dc:language>           
+		<dc:coverage>BOL</dc:coverage>            
+		<dc:subject>Agricultura familiar</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1422957329186"/>      
+		<dc:subject>comunidad local </dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_45cd8441"/>      
+		<dc:subject>Economía campesina</dc:subject>      
+		<dc:subject>Pesca  </dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_2934"/>      
+		<dc:subject>pueblos indígenas </dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_331524"/>            
+		<dc:license>All rights reserved</dc:license>
+		<dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>         
+		<dc:rights>IPDRS</dc:rights>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/24">
+		<dct:title xml:lang="es" >Agricultura Familiar Comunitaria, un problema de diseño</dct:title>
+		<dc:author>Mariana Tió Lima</dc:author>
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-03-24</dct:date>
+		<dc:publisher>IPDRS</dc:publisher>
+		<dct:extent>15</dct:extent>
+		<schema:image rdf:resource="http://www.sudamericarural.org/images/exploraciones/Exploraciones22.jpg" />    <bibo:uri rdf:resource="http://www.sudamericarural.org/images/exploraciones/archivos/Exploraciones 22.pdf"/>
+		<dct:description xml:lang="es" >Este trabajo, guiado y articulado por interrogantes, encuentra su razón de ser en un ejercicio para posicionar el razonamiento sobre agricultura familiar en una perspectiva comunitaria de la forma más holística que mi entendimiento pueda alcanzar.
+			 
+			La idea central es plantear la Agricultura Familiar Comunitaria (AFC) como un problema de diseño, con la premisa de proyectarla como una actividad potenciadora del nexo entre el sector rural y el contexto urbano, generando una amplia y diversa red de relaciones, coherentes y colaborativas, mediante las cuales cada agrupación encuentre su rol específico dentro de un plano comunitario.
+			 </dct:description>
+		<dct:identifier>IPDRS-Exploraciones-24</dct:identifier>          
+		<dc:type>IPDRS - Exploraciones</dc:type>            
+		<dc:language>es</dc:language>           
+		<dc:coverage>URY</dc:coverage>            
+		<dc:subject>Agricultura familiar</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1422957329186"/>      
+		<dc:subject>Biodiversidad</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_33949"/>      
+		<dc:subject>Desarrollo sostenible </dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_35332"/>      
+		<dc:subject>Soberanía alimentaria</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1310718737317"/>      
+		<dc:subject>Zonas rurales</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6699"/>      
+		<dc:subject>Zonas urbanas </dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_8085"/>            
+		<dc:license>All rights reserved</dc:license>
+		<dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>         
+		<dc:rights>IPDRS</dc:rights>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/23">
+		<dct:title xml:lang="es" >Agriculturas Familiares en Sudamérica: Riesgo de cultivar e ingerir tecnobiopoder</dct:title>
+		<dc:author>Juan David Arias Henao</dc:author>
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-01-19</dct:date>
+		<dc:publisher>IPDRS</dc:publisher>
+		<dct:extent>27</dct:extent>
+		<schema:image rdf:resource="http://www.sudamericarural.org/images/exploraciones/Tapa Exploraciones.jpg" />    <bibo:uri rdf:resource="http://www.sudamericarural.org/images/exploraciones/archivos/Exploraciones 21.pdf"/>
+		<dct:description xml:lang="es" >El texto con que retomamos este inicio del año 2015 la difusión de la serie de documentos de trabajo Exploraciones resultó ganador con el primer premio en la categoría ensayos del concurso Alimentos y pensamientos, siempre en agenda, versión 2014. En el trabajo, su author alerta sobre los peligros de la introducción irrestricta de tecnología en la producción de la agricultura familiar, no sólo en términos medioambientales, sino de salubridad e impactos económicos y sociales sobre las condiciones de producción y en la vida diaria de la población. </dct:description>
+		<dct:identifier>IPDRS-Exploraciones-23</dct:identifier>          
+		<dc:type>IPDRS - Exploraciones</dc:type>            
+		<dc:language>es</dc:language>           
+		<dc:coverage>COL</dc:coverage>            
+		<dc:subject>Agricultura familiar</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1422957329186"/>      
+		<dc:subject>Biodiversidad</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_33949"/>      
+		<dc:subject>Economía campesina</dc:subject>      
+		<dc:subject>Globalización</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_37880"/>      
+		<dc:subject>Políticas de desarrollo</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_2228"/>      
+		<dc:subject>Transgénicos</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_34283"/>            
+		<dc:license>All rights reserved</dc:license>
+		<dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>         
+		<dc:rights>IPDRS</dc:rights>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/22">
+		<dct:title xml:lang="es" >Juventud indígena, interculturalidad y Vivir Bien</dct:title>
+		<dc:author>Iris Anabel Ortega B.</dc:author>
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-04-07</dct:date>
+		<dc:publisher>IPDRS</dc:publisher>
+		<dct:extent>27</dct:extent>
+		<schema:image rdf:resource="http://www.sudamericarural.org/images/exploraciones/EXPLORACIONES 20.jpg" />    <bibo:uri rdf:resource="http://www.sudamericarural.org/images/exploraciones/archivos/Exploraciones 20.pdf"/>
+		<dct:description xml:lang="es" >El texto que presentamos a las y los visitantes de nuestra página recibió el tercer premio en la categoría ensayos del Concurso Alimentos y pensamientos, siempre en agenda con el tema de la versión 2013: "Juventudes Rurales, situación y desafíos". La authora despliega una reflexión sobre el papel que las y los jóvenes indígenas de los países sudamericanos pueden cumplir en la recuperación de la dignidad y el protagonismo de sus pueblos asumiendo el compromiso de investigar, imaginar y proponer los sentidos más concretos y viables que hagan operativo el concepto Vivir Bien.</dct:description>
+		<dct:identifier>IPDRS-Exploraciones-22</dct:identifier>          
+		<dc:type>IPDRS - Exploraciones</dc:type>            
+		<dc:language>es</dc:language>           
+		<dc:coverage>BOL</dc:coverage>            
+		<dc:subject>Agronegocios</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_208"/>      
+		<dc:subject>Derechos de la naturaleza</dc:subject>      
+		<dc:subject>Desplazamiento</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_65c7772b"/>      
+		<dc:subject>Exclusión social</dc:subject>      
+		<dc:subject>Juventud </dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_8491"/>      
+		<dc:subject>Modelos de desarrollo</dc:subject>      
+		<dc:subject>pueblos indígenas </dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_331524"/>            
+		<dc:license>All rights reserved</dc:license>
+		<dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>         
+		<dc:rights>IPDRS</dc:rights>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/21">
+		<dct:title xml:lang="es" >Jóvenes rurales actores y autores</dct:title>
+		<dc:author>Matias Pontoriero</dc:author>
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-02-10</dct:date>
+		<dc:publisher>IPDRS</dc:publisher>
+		<dct:extent>16</dct:extent>
+		<schema:image rdf:resource="http://www.sudamericarural.org/images/exploraciones/Exploraciones 19.jpg" />    <bibo:uri rdf:resource="http://www.sudamericarural.org/images/exploraciones/archivos/exploraciones 19 PDF.pdf"/>
+		<dct:description xml:lang="es" > 
+			Este texto obtuvo el segundo premio en el Concurso Alimentos y Pensamientos, siempre en Agenda con la temática 2013 "Juventudes Rurales, situación y desafíos".  El ensayo presenta una perspectiva sobre la situación actual y el potencial de las y los jóvenes rurales de los países del cono sur,  basada en dos experiencias concretas desarrolladas en esa región. Además de la descripción de los procesos, incluye diversas recomendaciones para promover y potenciar la participación joven en esta parte del mundo. Por razones de espacio la información está resumida, si bien hay un informe que sirvió de texto base, el documento que se presenta incluye actualizaciones y reflexiones nuevas. Puede accederse al texto completo en: Con Nuestras voces, con nuestras manos: Una agenda política de la juventud para la transformación de los territorios rurales. UCAR 2013. http://www.ucar.gob.ar/index.php/biblioteca-multimedia/buscar-publicaciones/23-libros/165-con-nuestras-voces-con-nuestras-manos. </dct:description>
+		<dct:identifier>IPDRS-Exploraciones-21</dct:identifier>          
+		<dc:type>IPDRS - Exploraciones</dc:type>            
+		<dc:language>es</dc:language>           
+		<dc:coverage>ARG</dc:coverage>            
+		<dc:subject>acceso a la tierra </dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000090"/>      
+		<dc:subject>Agricultura familiar</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1422957329186"/>      
+		<dc:subject>Juventud </dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_8491"/>      
+		<dc:subject>Nueva ruralidad</dc:subject>      
+		<dc:subject>Políticas de desarrollo</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_2228"/>      
+		<dc:subject>Reforma agraria</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_196"/>            
+		<dc:license>All rights reserved</dc:license>
+		<dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>         
+		<dc:rights>IPDRS</dc:rights>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/19">
+		<dct:title xml:lang="es" >Mujeres Jóvenes Rurales en Colombia</dct:title>
+		<dc:author>Daniela Buendía Silva</dc:author>
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-10-11</dct:date>
+		<dc:publisher>IPDRS</dc:publisher>
+		<dct:extent>21</dct:extent>
+		<schema:image rdf:resource="http://www.sudamericarural.org/images/exploraciones/Explo18.jpg" />    <bibo:uri rdf:resource="http://www.sudamericarural.org/images/exploraciones/archivos/Exploraciones 18 final.pdf"/>
+		<dct:description xml:lang="es" > 
+			La hipótesis principal del presente trabajo es que en la década actual las y los jóvenes rurales de Colombia confrontan con problemas y carencias y, paradójicamente, al mismo tiempo con oportunidades. Se trata de una mirada provocadora y acuciosa sobre la situación general de la juventud rural colombiana y sobre las organizaciones de mujeres en particular, proveyendo algunas líneas de reflexión para el contexto regional sudamericano. Estos fueron los elementos por los que el comité calificador del segundo Concurso anual (2013): Juventudes rurales, situación y desafíos, propiciado por el Instituto para el Desarrollo Rural de Sudamérica (IPDRS), ICCO y Oxfam otorgaron el primer premio, en la categoría ensayos, a la authora del presente trabajo.</dct:description>
+		<dct:identifier>IPDRS-Exploraciones-19</dct:identifier>          
+		<dc:type>IPDRS - Exploraciones</dc:type>            
+		<dc:language>es</dc:language>           
+		<dc:coverage>COL</dc:coverage>            
+		<dc:subject>Desplazamiento</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_65c7772b"/>      
+		<dc:subject>Juventud </dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_8491"/>      
+		<dc:subject>Modelos de desarrollo</dc:subject>      
+		<dc:subject>Mujeres </dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_8420"/>      
+		<dc:subject>Población rural  </dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6705"/>      
+		<dc:subject>Políticas de desarrollo</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_2228"/>      
+		<dc:subject>Violencia</dc:subject>            
+		<dc:license>All rights reserved</dc:license>
+		<dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>         
+		<dc:rights>IPDRS</dc:rights>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/18">
+		<dct:title xml:lang="es" >Desarrollismo y pachamamismo en las visiones sobre la alimentación en Bolivia</dct:title>
+		<dc:author>Pedro Pachaguaya</dc:author>
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-06-28</dct:date>
+		<dc:publisher>IPDRS</dc:publisher>
+		<dct:extent>27</dct:extent>
+		<schema:image rdf:resource="http://www.sudamericarural.org/images/exploraciones/Exploraciones 17.jpg" />    <bibo:uri rdf:resource="http://www.sudamericarural.org/images/exploraciones/archivos/Exploraciones 17.pdf"/>
+		<dct:description xml:lang="es" >¿Las propuestas de desarrollo contemplan y respetan las perspectivas “verdaderas” de las poblaciones indígenas? ¿El desarrollo es una estrategia para despolitizar y explotar a las y los indígenas? ¿Son las ONG un instrumento para ello?
+			Estos y otros temas son abordados provocadoramente en el presente ensayo, que, siempre con el ánimo de contribuir al debate desde distintos enfoques y posiciones, publicamos en esta nueva versión de la serie Exploraciones. El trabajo mereció el tercer city en la categoría ensayos del Concurso 2012: Alimentos y pensamientos, siempre en agenda.
+			Al decir del author, el texto se propone, desde la antropología crítica, “superar el romanticismo exagerado y fuera de la realidad que utilizan indígenas del desarrollo y `neo hipies` que consumen el discurso ecológico y viven de la producción de pobreza, y de-construir el discurso victimizador de las Organizaciones no Gubernamentales (ONG) para (…) despolitizar los imaginarios de resistencia y propuesta de las comunidades, a fin de que no estorben a las reglas del mercado”.  </dct:description>
+		<dct:identifier>IPDRS-Exploraciones-18</dct:identifier>          
+		<dc:type>IPDRS - Exploraciones</dc:type>            
+		<dc:language>es</dc:language>           
+		<dc:coverage>BOL</dc:coverage>            
+		<dc:subject>Desarrollo rural  </dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6701"/>      
+		<dc:subject>Modelos de desarrollo</dc:subject>      
+		<dc:subject>Pobreza</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6151"/>      
+		<dc:subject>pueblos indígenas </dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_331524"/>      
+		<dc:subject>Soberanía alimentaria</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1310718737317"/>            
+		<dc:license>All rights reserved</dc:license>
+		<dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>         
+		<dc:rights>IPDRS</dc:rights>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/17">
+		<dct:title xml:lang="es" >Sostenibilidad, desafío del desarrollo rural paraguayo</dct:title>
+		<dc:author>Daniela María Solís Ochoa</dc:author>
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-04-08</dct:date>
+		<dc:publisher>IPDRS</dc:publisher>
+		<dct:extent>30</dct:extent>
+		<schema:image rdf:resource="http://www.sudamericarural.org/images/exploraciones/Tapa Exploraciones 16.jpg" />    <bibo:uri rdf:resource="http://www.sudamericarural.org/images/exploraciones/archivos/Exploraciones 16.pdf"/>
+		<dct:description xml:lang="es" >Aunque durante los últimos años ha estado varias veces en agenda, principalmente a raíz de sus inesperados cambios de gobierno, Paraguay puede ser un país misterioso para mucha gente, sobre el que se escucha y se sabe poco. Entre lo poco, está su caracterización como país pobre que ha ido cultivando sin pausa una vocación productiva de granos para la exportación.  El texto que presentamos en la versión número 16 de nuestra serie Exploraciones, presenta un amplio telón de fondo sobre las condiciones integrales  del desarrollo paraguayo a tiempo de proponer la hipótesis de que los alentadores índices de crecimiento económico del país no están orientados a revertir las condiciones estructurales de pobreza del mundo rural, por lo que propone una serie de recomendaciones imprescindibles a la hora de formular políticas y proyectos de desarrollo . La authora mereció por este trabajo mención especial en el Concurso alimentos y pensamientos, siempre en agenda, patrocinado por el IPDRS el año 2012. El texto que ahora divulgamos es un summary del documento original.</dct:description>
+		<dct:identifier>IPDRS-Exploraciones-17</dct:identifier>          
+		<dc:type>IPDRS - Exploraciones</dc:type>            
+		<dc:language>es</dc:language>           
+		<dc:coverage>PRY</dc:coverage>            
+		<dc:subject>Agroexportación</dc:subject>      
+		<dc:subject>Agroindustria</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_28831"/>      
+		<dc:subject>Contaminación</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_28317"/>      
+		<dc:subject>Degradación de tierras</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_34823"/>      
+		<dc:subject>Desarrollo rural  </dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6701"/>      
+		<dc:subject>Desarrollo sostenible </dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_35332"/>      
+		<dc:subject>Modelos de desarrollo</dc:subject>      
+		<dc:subject>Pobreza</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6151"/>      
+		<dc:subject>Políticas de desarrollo</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_2228"/>            
+		<dc:license>All rights reserved</dc:license>
+		<dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>         
+		<dc:rights>IPDRS</dc:rights>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/16">
+		<dct:title xml:lang="es" >Quinua: ¿Cómo evitar que se repita la historia de la papa?</dct:title>
+		<dc:author>Andrea Baudoin Farah </dc:author>
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-01-21</dct:date>
+		<dc:publisher>IPDRS</dc:publisher>
+		<dct:extent>23</dct:extent>
+		<schema:image rdf:resource="http://www.sudamericarural.org/images/exploraciones/Tapa exploraciones 15.jpg" />    <bibo:uri rdf:resource="http://www.sudamericarural.org/images/exploraciones/archivos/tapa exploraciones 15.pdf"/>
+		<dct:description xml:lang="es" >En esta oportunidad el Exploraciones 15 publica un trabajo realizado por Andrea Baudoin, quien plantea una serie de desafíos que deberían enfrentar Bolivia y Perú, los principales países andinos productores de quinua. El documento propone que, para no repetir la historia de la papa, estos países deben trabajar de manera inmediata asegurando entre otras cosas la rentabilidad y la sostenibilidad del cultivo de este grano.</dct:description>
+		<dct:identifier>IPDRS-Exploraciones-16</dct:identifier>          
+		<dc:type>IPDRS - Exploraciones</dc:type>            
+		<dc:language>es</dc:language>           
+		<dc:coverage>BOL</dc:coverage>            
+		<dc:subject>Agricultura familiar</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1422957329186"/>      
+		<dc:subject>Agroexportación</dc:subject>      
+		<dc:subject>Agroindustria</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_28831"/>      
+		<dc:subject>Desarrollo rural  </dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6701"/>      
+		<dc:subject>Desarrollo sostenible </dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_35332"/>      
+		<dc:subject>Economía campesina</dc:subject>      
+		<dc:subject>Globalización</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_37880"/>      
+		<dc:subject>Soberanía alimentaria</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1310718737317"/>            
+		<dc:license>All rights reserved</dc:license>
+		<dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>         
+		<dc:rights>IPDRS</dc:rights>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/15">
+		<dct:title xml:lang="es" >Soberanía alimentaria, entre el despojo y el Buen Vivir</dct:title>
+		<dc:author>Fredy Napoleón Páez Castro </dc:author>
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-11-19</dct:date>
+		<dc:publisher>IPDRS</dc:publisher>
+		<dct:extent>24</dct:extent>
+		<schema:image rdf:resource="http://www.sudamericarural.org/images/exploraciones/Exploraciones 14.jpg" />    <bibo:uri rdf:resource="http://www.sudamericarural.org/images/exploraciones/archivos/Exploraciones 14.pdf"/>
+		<dct:description xml:lang="es" >El documento publicado en el Exploraciones 14 informa y reflexiona sobre la inseguridad alimentaria en Colombia en un contexto de violencia y al mismo tiempo, da cuenta de experiencias esperanzadoras para atender el problema. El trabajo de Fredy Napoleón Páez mereció el segundo premio de la categoría Ensayos en el Concurso Alimentos y pensamiento, siempre en agenda, llevado a cabo por el IPDRS en alianza con ICCO y OXFAM.</dct:description>
+		<dct:identifier>IPDRS-Exploraciones-15</dct:identifier>          
+		<dc:type>IPDRS - Exploraciones</dc:type>            
+		<dc:language>es</dc:language>           
+		<dc:coverage>COL</dc:coverage>            
+		<dc:subject>Desposesión</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_781deefb"/>      
+		<dc:subject>Modelos de desarrollo</dc:subject>      
+		<dc:subject>Seguridad alimentaria</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_10967"/>      
+		<dc:subject>Semillas</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6946"/>      
+		<dc:subject>Soberanía alimentaria</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1310718737317"/>      
+		<dc:subject>Transgénicos</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_34283"/>      
+		<dc:subject>Violencia</dc:subject>            
+		<dc:license>All rights reserved</dc:license>
+		<dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>         
+		<dc:rights>IPDRS</dc:rights>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/14">
+		<dct:title xml:lang="pt" >Terras Indígenas: garantía de sobrevivência física e cultural dos povos</dct:title>
+		<dc:author>Diego do Santos</dc:author>
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-10-11</dct:date>
+		<dc:publisher>IPDRS</dc:publisher>
+		<dct:extent>24</dct:extent>
+		<schema:image rdf:resource="http://www.sudamericarural.org/images/exploraciones/Tapa Exploraciones 13.jpg" />    <bibo:uri rdf:resource="http://www.sudamericarural.org/images/exploraciones/archivos/Exploraciones 13.pdf"/>
+		<dct:description xml:lang="pt" >A terra é um dos fundamentos da cultura e da própria existência dos povos indígenas. A terra é dotado de valor simbólico, além de ser uma propriedade. Por isso, é um símbolo da luta indígena de auto-preservação e auto-determinação. Você luta pela terra, além do espaço territorial em si. Ele simboliza a preservação da existência dos diferentes povos indígenas. Nesta linha de pensamento, este ensaio visitar a história contemporânea do processo dos direitos indígenas no Brasil, com base em estereótipos e preconceitos sobre suas identidades até o conteúdo da legislação específica.</dct:description>
+		<dct:identifier>IPDRS-Exploraciones-14</dct:identifier>          
+		<dc:type>IPDRS - Exploraciones</dc:type>            
+		<dc:language>pt</dc:language>           
+		<dc:coverage>BRA</dc:coverage>            
+		<dc:subject>acceso a la tierra </dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000090"/>      
+		<dc:subject>conflictos por la tierra </dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_e236b2b1"/>      
+		<dc:subject>Derechos sobre tierras indígenas</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_d42b49e7"/>      
+		<dc:subject>Extractivismo</dc:subject>      
+		<dc:subject>Modelos de desarrollo</dc:subject>      
+		<dc:subject>Poder político</dc:subject>      
+		<dc:subject>pueblos indígenas </dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_331524"/>            
+		<dc:license>All rights reserved</dc:license>
+		<dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>         
+		<dc:rights>IPDRS</dc:rights>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/12">
+		<dct:title xml:lang="es" >Menonitas del Chaco boliviano paraguayo</dct:title>
+		<dc:author>Oscar Bazoberry Chali</dc:author>
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-07-24</dct:date>
+		<dc:publisher>IPDRS</dc:publisher>
+		<dct:extent>15</dct:extent>
+		<schema:image rdf:resource="http://www.sudamericarural.org/images/exploraciones/exp_11_corregido_1.jpg" />    <bibo:uri rdf:resource="http://www.sudamericarural.org/images/exploraciones/archivos/exploraciones_11.pdf"/>
+		<dct:description xml:lang="es" >El ensayo intenta comprender mejor al grupo de los menonitas, sobre el cual se ha escrito mucho, por lo que se plantea una aproximación diferente. La mayoría de lo producido recurre a la descripción histórica, cultural y religiosa, entre la que se encuentran valoraciones, autoafirmaciones positivas y alertas sobre los crecientes y muchas veces negativos impactos ambientales, económicos y sociales que estas poblaciones están causando.
+			Como marco general de análisis se recurre a la teoría de las culturas, porque exige una aproximación más analítica y ayuda con elementos diferentes a lo ya dicho y escrito, para un ejercicio que pretende contribuir con una ampliación de la perspectiva.</dct:description>
+		<dct:identifier>IPDRS-Exploraciones-12</dct:identifier>          
+		<dc:type>IPDRS - Exploraciones</dc:type>            
+		<dc:language>es</dc:language>           
+		<dc:coverage>BOL</dc:coverage>            
+		<dc:subject>acceso a la tierra </dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000090"/>      
+		<dc:subject>conflictos por la tierra </dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_e236b2b1"/>      
+		<dc:subject>pueblos indígenas </dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_331524"/>            
+		<dc:license>All rights reserved</dc:license>
+		<dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>         
+		<dc:rights>IPDRS</dc:rights>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/13">
+		<dct:title xml:lang="es" >OEA y la Seguridad Alimentaria: la oportunidad perdida</dct:title>
+		<dc:author>Julio Prudencio Böhrt</dc:author>
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-07-11</dct:date>
+		<dc:publisher>IPDRS</dc:publisher>
+		<dct:extent>27</dct:extent>
+		<schema:image rdf:resource="http://www.sudamericarural.org/images/exploraciones/exploraciones_12_1.jpg" />    <bibo:uri rdf:resource="http://www.sudamericarural.org/images/exploraciones/archivos/exploraciones_12.pdf"/>
+		<dct:description xml:lang="es" >El documento analiza la Declaración de la Organización de Estados Americanos (OEA) sobre seguridad alimentaria en el marco de una perspectiva histórica de la construcción de esa definición, así como de los distintos momentos en los que se la debatió y de las experiencias regionales y nacionales logradas hasta el momento.
+			Al concluir el texto, las y los lectores tendrán una viión panorámica integral del contenido de la declaración, sus debilidades, ausencias y, más importante aún, los desafíos hacia el futuro inmediato. </dct:description>
+		<dct:identifier>IPDRS-Exploraciones-13</dct:identifier>          
+		<dc:type>IPDRS - Exploraciones</dc:type>            
+		<dc:language>es</dc:language>           
+		<dc:coverage>BOL</dc:coverage>            
+		<dc:subject>Agricultura familiar</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1422957329186"/>      
+		<dc:subject>Agrocombustibles</dc:subject>      
+		<dc:subject>Agroindustria</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_28831"/>      
+		<dc:subject>Crisis alimentaria</dc:subject>      
+		<dc:subject>Modelos de desarrollo</dc:subject>      
+		<dc:subject>Monocultivo</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_4915"/>      
+		<dc:subject>Seguridad alimentaria</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_10967"/>      
+		<dc:subject>Soberanía alimentaria</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1310718737317"/>            
+		<dc:license>All rights reserved</dc:license>
+		<dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>         
+		<dc:rights>IPDRS</dc:rights>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/11">
+		<dct:title xml:lang="es" >Búsqueda bibliográfica sobre seguridad y soberanía alimentaria en Sudamérica</dct:title>
+		<dc:author>Rosario Guerra</dc:author>
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-10-21</dct:date>
+		<dc:publisher>IPDRS</dc:publisher>
+		<dct:extent>50</dct:extent>
+		<schema:image rdf:resource="http://www.sudamericarural.org/images/exploraciones/exploraciones_10.jpg" />    <bibo:uri rdf:resource="http://www.sudamericarural.org/images/exploraciones/archivos/exploraciones_10_final6084db7c.pdf"/>
+		<dct:description xml:lang="es" >Los contenidos relacionados con la Seguridad y Soberanía Alimentaria están cada vez más presentes en las agendas académicas, políticas y sociales del desarrollo rural en Sudamérica. Sin embargo, no se trata de un tema nuevo. Por el contrario, como puede verse en el presente texto, su tratamiento es fácilmente rastreable en documentos de investigación y propuestas de organizaciones y movimientos sociales, de gobiernos y de Organizaciones no Gubernamentales (ONG).</dct:description>
+		<dct:identifier>IPDRS-Exploraciones-11</dct:identifier>          
+		<dc:type>IPDRS - Exploraciones</dc:type>            
+		<dc:language>es</dc:language>           
+		<dc:coverage>BOL</dc:coverage>            
+		<dc:subject>Agricultura</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_203"/>      
+		<dc:subject>Desarrollo rural  </dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6701"/>      
+		<dc:subject>Ecología</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_2467"/>      
+		<dc:subject>Investigación </dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6513"/>      
+		<dc:subject>Políticas de desarrollo</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_2228"/>      
+		<dc:subject>Seguridad alimentaria</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_10967"/>      
+		<dc:subject>Soberanía alimentaria</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1310718737317"/>            
+		<dc:license>All rights reserved</dc:license>
+		<dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>         
+		<dc:rights>IPDRS</dc:rights>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/10">
+		<dct:title xml:lang="es" >Transgénicos en Sudamérica</dct:title>
+		<dc:author>Elizabeth Bravo</dc:author>
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-09-15</dct:date>
+		<dc:publisher>IPDRS</dc:publisher>
+		<dct:extent>41</dct:extent>
+		<schema:image rdf:resource="http://www.sudamericarural.org/images/exploraciones/exploraciones_9.jpg" />    <bibo:uri rdf:resource="http://www.sudamericarural.org/images/exploraciones/archivos/exploraciones_9_transgenicos_en_sudamerica3d85d721.pdf"/>
+		<dct:description xml:lang="es" >Este documento, dirigido a un amplio público de personas interesadas en los diversos temas del desarrollorural en Sudamérica, respecto a los cultivos transgenicos pretende mostrar, desde una perspectiva muy general, el origen del debate en la región,sus principales aspectos, los sujetos participantes y las líneas centrales de su contenido en los próximos años.</dct:description>
+		<dct:identifier>IPDRS-Exploraciones-10</dct:identifier>          
+		<dc:type>IPDRS - Exploraciones</dc:type>            
+		<dc:language>es</dc:language>           
+		<dc:coverage>ECU</dc:coverage>            
+		<dc:subject>Agroindustria</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_28831"/>      
+		<dc:subject>Desarrollo rural  </dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6701"/>      
+		<dc:subject>Extranjerización de la tierra</dc:subject>      
+		<dc:subject>Modelos de desarrollo</dc:subject>      
+		<dc:subject>Semillas</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6946"/>      
+		<dc:subject>Transgénicos</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_34283"/>            
+		<dc:license>All rights reserved</dc:license>
+		<dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>         
+		<dc:rights>IPDRS</dc:rights>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/9">
+		<dct:title xml:lang="es" >La tierra en Sudamérica</dct:title>
+		<dc:author>Silvia Lilian Ferro</dc:author>
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-06-23</dct:date>
+		<dc:publisher>IPDRS</dc:publisher>
+		<dct:extent>35</dct:extent>
+		<schema:image rdf:resource="http://www.sudamericarural.org/images/exploraciones/exploraciones_8_1.jpg" />    <bibo:uri rdf:resource="http://www.sudamericarural.org/images/exploraciones/archivos/exploraciones_8.pdf"/>
+		<dct:description xml:lang="es" >Este documento considera en perspectiva histórica el rol que las políticas comerciales y las políticas públicas que los Estados Nacionales implementan, y que tienen un papel decisivo en el incremento o disminución de las brechas de inequidad de acceso a las tierras rurales por parte de los distintos sectores sociales agrarios, así como la vinculación de estas políticas comerciales con la atenuación o intensificación de la conflictividad derivada, en general de una estructura social y económica agraria y en particular de una estructura de propiedad de la tierra con fuertes rasgos de desigualdad en Sudamérica.</dct:description>
+		<dct:identifier>IPDRS-Exploraciones-9</dct:identifier>          
+		<dc:type>IPDRS - Exploraciones</dc:type>            
+		<dc:language>es</dc:language>           
+		<dc:coverage>ARG</dc:coverage>            
+		<dc:subject>acceso a la tierra </dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000090"/>      
+		<dc:subject>derechos de propiedad</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_37942"/>      
+		<dc:subject>Modelos de desarrollo</dc:subject>      
+		<dc:subject>Políticas de desarrollo</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_2228"/>      
+		<dc:subject>Reformas</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_bb4738d4"/>      
+		<dc:subject>Seguridad alimentaria</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_10967"/>      
+		<dc:subject>Soberanía alimentaria</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1310718737317"/>            
+		<dc:license>All rights reserved</dc:license>
+		<dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>         
+		<dc:rights>IPDRS</dc:rights>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/8">
+		<dct:title xml:lang="es" >Propiedad de la tierra en el MERCOSUR</dct:title>
+		<dc:author>Silvia Lilian Ferro</dc:author>
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-02-08</dct:date>
+		<dc:publisher>IPDRS</dc:publisher>
+		<dct:extent>27</dct:extent>
+		<schema:image rdf:resource="http://www.sudamericarural.org/images/exploraciones/exploraciones_7_1.jpg" />    <bibo:uri rdf:resource="http://www.sudamericarural.org/images/exploraciones/archivos/exploraciones_7.pdf"/>
+		<dct:description xml:lang="es" >Las asimetrías en la propiedad de la tierra en los países del MERCOSUR se originaron, desde mediados del Siglo XIX, en procesos históricos resultantes de políticas económicas y demográficas impulsadas por los incipientes Estados nacionales de la región. El tema de la tierra es tratado generalmente sólo como recurso productivo agrario, y con frecuencia aparece descontextualizado de los factores que determinan las condiciones de su acceso y uso por parte de los diferentes sectores socio-agrarios de cada país y en el plano regional. En el presente documento se analizan diacrónicamente estas variables, para dar cuenta de una realidad dinámica y compleja de las evidentes asimetrías en la propiedad de la tierra en los países del Cono Sur, y realiza prospectivas en vista de su protagonismo mundial en la producción y exportación de alimentos.</dct:description>
+		<dct:identifier>IPDRS-Exploraciones-8</dct:identifier>          
+		<dc:type>IPDRS - Exploraciones</dc:type>            
+		<dc:language>es</dc:language>           
+		<dc:coverage>ARG</dc:coverage>            
+		<dc:subject>Agricultura familiar</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1422957329186"/>      
+		<dc:subject>Agroindustria</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_28831"/>      
+		<dc:subject>Crisis alimentaria</dc:subject>      
+		<dc:subject>Crisis financiera</dc:subject>      
+		<dc:subject>Ecología</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_2467"/>      
+		<dc:subject>Modelos de desarrollo</dc:subject>      
+		<dc:subject>Propiedad de la tierra </dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_28718"/>      
+		<dc:subject>renta de la tierra </dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_7bea427c"/>            
+		<dc:license>All rights reserved</dc:license>
+		<dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>         
+		<dc:rights>IPDRS</dc:rights>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/7">
+		<dct:title xml:lang="es" >Mapuche: resistencia y propuestas</dct:title>
+		<dc:author>Elvis Espinoza Gutierrez</dc:author>
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-12-07</dct:date>
+		<dc:publisher>IPDRS</dc:publisher>
+		<dct:extent>29</dct:extent>
+		<schema:image rdf:resource="http://www.sudamericarural.org/images/exploraciones/exploraciones_6_1.jpg" />    <bibo:uri rdf:resource="http://www.sudamericarural.org/images/exploraciones/archivos/exploraciones_6.pdf"/>
+		<dct:description xml:lang="es" >Este documento pretende explicar las causas del denominado “conflicto mapuche”, vivido en Chile en los últimos meses, expresado, en principio, por 32 weichafes (guerreros, luchadores) que estuvieron en huelga de hambre en las cárceles de la VIII, IX y X región, donde se encuentran detenidos por la ley anti-terrorista forjada en el gobierno militar de Pinochet, en el siglo pasado, y ratificada por los gobiernos democráticos post-dictadura.</dct:description>
+		<dct:identifier>IPDRS-Exploraciones-7</dct:identifier>          
+		<dc:type>IPDRS - Exploraciones</dc:type>            
+		<dc:language>es</dc:language>           
+		<dc:coverage>CHL</dc:coverage>            
+		<dc:subject>Contaminación</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_28317"/>      
+		<dc:subject>Modelos de desarrollo</dc:subject>      
+		<dc:subject>Monocultivo</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_4915"/>      
+		<dc:subject>pueblos indígenas </dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_331524"/>      
+		<dc:subject>Transgénicos</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_34283"/>            
+		<dc:license>All rights reserved</dc:license>
+		<dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>         
+		<dc:rights>IPDRS</dc:rights>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/6">
+		<dct:title xml:lang="es" >Relaciones comerciales entre Bolivia y Paraguay</dct:title>
+		<dc:author>Marco Antonio Romay Hochkofler</dc:author>
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-09-16</dct:date>
+		<dc:publisher>IPDRS</dc:publisher>
+		<dct:extent>49</dct:extent>
+		<schema:image rdf:resource="http://www.sudamericarural.org/images/exploraciones/200x150_exploraciones_5.jpg" />    <bibo:uri rdf:resource="http://www.sudamericarural.org/images/exploraciones/archivos/exploraciones_5.pdf"/>
+		<dct:description xml:lang="es" >El documento analiza el relacionamiento comercial entre Bolivia y Paraguay, ofrece datos que pueden mejorar el conocimiento sobre la realidad de la región para contribuir a mayores oportunidades económicas para la población rural empobrecida del Chaco de ambos países, especialmente la indígena.</dct:description>
+		<dct:identifier>IPDRS-Exploraciones-6</dct:identifier>          
+		<dc:type>IPDRS - Exploraciones</dc:type>            
+		<dc:language>es</dc:language>           
+		<dc:coverage>BOL</dc:coverage>            
+		<dc:subject>Agroexportación</dc:subject>      
+		<dc:subject>Agroindustria</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_28831"/>      
+		<dc:subject>Modelos de desarrollo</dc:subject>      
+		<dc:subject>Políticas de desarrollo</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_2228"/>            
+		<dc:license>All rights reserved</dc:license>
+		<dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>         
+		<dc:rights>IPDRS</dc:rights>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/5">
+		<dct:title xml:lang="es" >La agricultura chilena y el terremoto de 2010</dct:title>
+		<dc:author>Miguel Ignacio Jerez Nuñez</dc:author>
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-07-29</dct:date>
+		<dc:publisher>IPDRS</dc:publisher>
+		<dct:extent>23</dct:extent>
+		<schema:image rdf:resource="http://www.sudamericarural.org/images/exploraciones/exploraciones_4_tapa.jpg" />    <bibo:uri rdf:resource="http://www.sudamericarural.org/images/exploraciones/archivos/exploraciones_4.pdf"/>
+		<dct:description xml:lang="es" >El texto describe el impacto del terremoto de febrero de 2010 sobre la dinámica del mundo rural chileno, analizando el impacto económico por el daño a la infraestructura productiva, el impacto en la definición y orientación de las políticas agrarias y el impacto asociado a las transformaciones en los asentamientos humanos y las relaciones sociales subyacentes.</dct:description>
+		<dct:identifier>IPDRS-Exploraciones-5</dct:identifier>          
+		<dc:type>IPDRS - Exploraciones</dc:type>            
+		<dc:language>es</dc:language>           
+		<dc:coverage>CHL</dc:coverage>            
+		<dc:subject>Agricultura familiar</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1422957329186"/>      
+		<dc:subject>Agroindustria</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_28831"/>      
+		<dc:subject>Crisis alimentaria</dc:subject>      
+		<dc:subject>Desarrollo rural  </dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6701"/>      
+		<dc:subject>Desastres naturales </dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_10391"/>      
+		<dc:subject>Políticas agrarias</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_195"/>            
+		<dc:license>All rights reserved</dc:license>
+		<dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>         
+		<dc:rights>IPDRS</dc:rights>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/3">
+		<dct:title xml:lang="es" >Acerca de los cambios climáticos en Sudamérica </dct:title>
+		<dc:author>Rodrigo López Sánchez</dc:author>
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-04-23</dct:date>
+		<dc:publisher>IPDRS</dc:publisher>
+		<dct:extent>57</dct:extent>
+		<schema:image rdf:resource="http://www.sudamericarural.org/images/exploraciones/exploraciones2.jpg" />    <bibo:uri rdf:resource="http://www.sudamericarural.org/images/exploraciones/archivos/exploraciones_3.pdf"/>
+		<dct:description xml:lang="es" >El documento explica y analiza los impactos de los cambios climáticos en Sudamérica reflejados en el retroceso de los glaciares, la agricultura. los ecosistemas, la salud y las iniciativas de mitigación existentes en la región.</dct:description>
+		<dct:identifier>IPDRS-Exploraciones-3</dct:identifier>          
+		<dc:type>IPDRS - Exploraciones</dc:type>            
+		<dc:language>es</dc:language>           
+		<dc:coverage>BOL</dc:coverage>            
+		<dc:subject>Agricultura</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_203"/>      
+		<dc:subject>Cambio climático </dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1666"/>      
+		<dc:subject>Contaminación</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_28317"/>      
+		<dc:subject>Deforestación  </dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_15590"/>      
+		<dc:subject>Desertificación</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_2204"/>      
+		<dc:subject>Organismos multilaterales</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_50260"/>      
+		<dc:subject>Pobreza</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6151"/>      
+		<dc:subject>Seguridad alimentaria</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_10967"/>            
+		<dc:license>All rights reserved</dc:license>
+		<dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>         
+		<dc:rights>IPDRS</dc:rights>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/4">
+		<dct:title xml:lang="es" >Mapa de actores institucionales multilaterales para el desarrollo rural en Sudamérica</dct:title>
+		<dc:author>Germán Huanca Luna</dc:author>
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-04-23</dct:date>
+		<dc:publisher>IPDRS</dc:publisher>
+		<dct:extent>41</dct:extent>
+		<schema:image rdf:resource="http://www.sudamericarural.org/images/exploraciones/exploracion3.jpg" />    <bibo:uri rdf:resource="http://www.sudamericarural.org/images/exploraciones/archivos/exploraciones_2.pdf"/>
+		<dct:description xml:lang="es" >Este documento ofrece un mapa de los actores institucionales multilaterales (BID, FIDA, BM, FAO, IICA, CEPAL, USAID, GTZ Y UE) de carácter financiero o técnico, que trabajan en la temática de desarrollo rural sudamericano.</dct:description>
+		<dct:identifier>IPDRS-Exploraciones-4</dct:identifier>          
+		<dc:type>IPDRS - Exploraciones</dc:type>            
+		<dc:language>es</dc:language>           
+		<dc:coverage>BOL</dc:coverage>            
+		<dc:subject>Agencias de desarrollo </dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_2224"/>      
+		<dc:subject>Desarrollo rural  </dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6701"/>      
+		<dc:subject>Desarrollo sostenible </dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_35332"/>      
+		<dc:subject>Modelos de desarrollo</dc:subject>      
+		<dc:subject>Organismos multilaterales</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_50260"/>            
+		<dc:license>All rights reserved</dc:license>
+		<dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>         
+		<dc:rights>IPDRS</dc:rights>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/2">
+		<dct:title xml:lang="es" >Desarrollo rural e institucionalidad en los países andinos</dct:title>
+		<dc:author>Oscar Bazoberry Chali</dc:author>
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2008-08-29</dct:date>
+		<dc:publisher>IPDRS</dc:publisher>
+		<dct:extent>44</dct:extent>
+		<schema:image rdf:resource="http://www.sudamericarural.org/images/exploraciones/150x125_exploraciones_1.jpg" />    <bibo:uri rdf:resource="http://www.sudamericarural.org/images/exploraciones/archivos/exploraciones_1.pdf"/>
+		<dct:description xml:lang="es" >Estudio descriptivo y exploratorio sobre la situación general del desarrollo rural y sus principales actores en los cuatro países andinos, Bolivia, Colombia, Ecuador y Perú. Se realizó con la colaboración de consultores en cada país.</dct:description>
+		<dct:identifier>IPDRS-Exploraciones-2</dct:identifier>          
+		<dc:type>IPDRS - Exploraciones</dc:type>            
+		<dc:language>es</dc:language>           
+		<dc:coverage>BOL</dc:coverage>            
+		<dc:subject>acceso a la tierra </dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000090"/>      
+		<dc:subject>Acuerdos de libre comercio</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_3ffda84e"/>      
+		<dc:subject>Asalariados rurales</dc:subject>      
+		<dc:subject>concentración de la tierra</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_8654e90e"/>      
+		<dc:subject>Descentralización </dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_2143"/>      
+		<dc:subject>Extractivismo</dc:subject>      
+		<dc:subject>Globalización</dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_37880"/>      
+		<dc:subject>Modelos de desarrollo</dc:subject>      
+		<dc:subject>pueblos indígenas </dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_331524"/>      
+		<dc:subject>Urbanización  </dc:subject>    
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_8088"/>            
+		<dc:license>All rights reserved</dc:license>
+		<dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>         
+		<dc:rights>IPDRS</dc:rights>
+	</rdf:Description>
+</rdf:RDF>
