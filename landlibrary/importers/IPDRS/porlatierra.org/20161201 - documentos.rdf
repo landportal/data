@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
-		 xmlns:dc="http://purl.org/dc/elements/1.1/"	
-		 xmlns:dct="http://purl.org/dc/terms/" 
-		 xmlns:schema="http://schema.org/"	
-		 xmlns:bibo="http://purl.org/ontology/bibo/">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"  xmlns:dc="http://purl.org/dc/elements/1.1/"	 xmlns:dct="http://purl.org/dc/terms/"  xmlns:schema="http://schema.org/"	 xmlns:bibo="http://purl.org/ontology/bibo/">
 	<rdf:Description rdf:about="http://www.porlatierra.org/documentos/1">
 		<dct:title xml:lang="es">Las condiciones jurídicas de acceso a la tierra para campesinos e indígenas en Bolivia - Esteban Sanjinés. Fundación TIERRA. (marzo 2013)</dct:title>
 		<dct:description	xml:lang="es">Repasa la legislación agraria desde la reforma de 1953, pasando por la constitución del 2009 y la legislación boliviana hasta septiembre del 2013.</dct:description>

@@ -6,7 +6,7 @@
 		 xmlns:bibo="http://purl.org/ontology/bibo/">
 	<rdf:Description rdf:about="http://www.porlatierra.org/cuaderno/91">
 		<dct:title xml:lang="es">Presentación ppt sobre el Movimiento, actualizada en abril 2015. Resumen de objetivos y desafíos.</dct:title>
-		<dct:description	xml:lang="es">Una presentación y descripción de los objetivos, actividades y primeros resultados del Movimiento Regional por la Tierra y Territorio. La meta de reunir mil casos de acceso a la tierra se describe con los procedimientos metodológicos para relatar cada situación.</dct:description>
+		<dct:description xml:lang="es">Una presentación y descripción de los objetivos, actividades y primeros resultados del Movimiento Regional por la Tierra y Territorio. La meta de reunir mil casos de acceso a la tierra se describe con los procedimientos metodológicos para relatar cada situación.</dct:description>
 		<dc:author>MRxT</dc:author>
 		<dct:identifier>Cuaderno-MRxT-91</dct:identifier>
 		<dc:publisher>IPDRS</dc:publisher>
@@ -16,7 +16,7 @@
 		<dc:license>All rights reserved</dc:license>
 		<dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
 		<dc:rights>IPDRS</dc:rights>
-		<dct:date	rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-09-28</dct:date>
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-09-28</dct:date>
 		<dc:language>es</dc:language>
 		<bibo:uri rdf:resource="http://www.porlatierra.org/docs/40e5611f4a4c753998ac9adfdfba93cd.pptx" />
 		<dc:subject>acceso a la tierra </dc:subject>
@@ -32,7 +32,7 @@
 	</rdf:Description>
 	<rdf:Description rdf:about="http://www.porlatierra.org/cuaderno/171">
 		<dct:title xml:lang="es">Memoria II Encuentro Internacional Movimiento Regional por la Tierra y Territorio</dct:title>
-		<dct:description	xml:lang="es">El II Encuentro Internacional Movimiento Regional por la Tierra: Avances y perspectivas fue un paso más en el desarrollo de la iniciativa que (ICCO) y el Instituto para el Desarrollo Rural de Sudamérica (IPDRS) están promoviendo en alianza con distintas instituciones e investigadores/as de la región.El evento se llevó a cabo entre el 21 y el 25 de mayo en la ciudad de Santa Cruz de la Sierra&#8230;</dct:description>
+		<dct:description xml:lang="es">El II Encuentro Internacional Movimiento Regional por la Tierra: Avances y perspectivas fue un paso más en el desarrollo de la iniciativa que (ICCO) y el Instituto para el Desarrollo Rural de Sudamérica (IPDRS) están promoviendo en alianza con distintas instituciones e investigadores/as de la región.El evento se llevó a cabo entre el 21 y el 25 de mayo en la ciudad de Santa Cruz de la Sierra&#8230;</dct:description>
 		<dc:author>IPDRS</dc:author>
 		<dct:identifier>Cuaderno-MRxT-171</dct:identifier>
 		<dc:publisher>IPDRS</dc:publisher>
@@ -42,7 +42,7 @@
 		<dc:license>All rights reserved</dc:license>
 		<dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
 		<dc:rights>IPDRS</dc:rights>
-		<dct:date	rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-11-17</dct:date>
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-11-17</dct:date>
 		<dc:language>es</dc:language>
 		<bibo:uri rdf:resource="http://www.porlatierra.org/docs/5e8a58d65940120f6ea52bae5b9225e1.pdf" />
 		<dc:subject>acceso a la tierra </dc:subject>
@@ -62,7 +62,7 @@
 	</rdf:Description>
 	<rdf:Description rdf:about="http://www.porlatierra.org/cuaderno/172">
 		<dct:title xml:lang="es">Memoria Visita a Campo II Encuentro Internacional MRxT</dct:title>
-		<dct:description	xml:lang="es">El II Encuentro internacional tuvo el objetivo de afianzar el Movimiento por la Tierra en su fase de implementación y poner a prueba los iniciales instrumentos metodológicos que ha generado1. En tal cometido, la Visita de campo, posterior al evento de reflexión interna,2 intentaba hacer un ejercicio de construcción de caso en terreno, a través del contacto con comunidades del pueblo indígena&#8230;</dct:description>
+		<dct:description xml:lang="es">El II Encuentro internacional tuvo el objetivo de afianzar el Movimiento por la Tierra en su fase de implementación y poner a prueba los iniciales instrumentos metodológicos que ha generado1. En tal cometido, la Visita de campo, posterior al evento de reflexión interna,2 intentaba hacer un ejercicio de construcción de caso en terreno, a través del contacto con comunidades del pueblo indígena&#8230;</dct:description>
 		<dc:author>IPDRS</dc:author>
 		<dct:identifier>Cuaderno-MRxT-172</dct:identifier>
 		<dc:publisher>IPDRS</dc:publisher>
@@ -72,7 +72,7 @@
 		<dc:license>All rights reserved</dc:license>
 		<dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
 		<dc:rights>IPDRS</dc:rights>
-		<dct:date	rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-11-27</dct:date>
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-11-27</dct:date>
 		<dc:language>es</dc:language>
 		<bibo:uri rdf:resource="http://www.porlatierra.org/docs/b74367d5b8d435db5e0d60267a5a4550.pdf" />
 		<dc:subject>acceso a la tierra </dc:subject>
@@ -94,7 +94,7 @@
 	</rdf:Description>
 	<rdf:Description rdf:about="http://www.porlatierra.org/cuaderno/177">
 		<dct:title xml:lang="es">Memoria III Encuentro de Aliad@s por la tierra y territorio. Acceso y consolidación de los territorios colectivos en Bolivia</dct:title>
-		<dct:description	xml:lang="es">El Encuentro de Aliados por la Tierra y Territorio se realizó en octubre de 2015, en la Capitanía de Macharetí, en el chaco boliviano, junto con la Asamblea del Pueblo Guaraní. La actividad, parte de la iniciativa Movimiento Regional por la Tierra y Territorio, reafirmó la necesidad de garantizar las múltiples formas de propiedad colectiva y de territorios en la región.</dct:description>
+		<dct:description xml:lang="es">El Encuentro de Aliados por la Tierra y Territorio se realizó en octubre de 2015, en la Capitanía de Macharetí, en el chaco boliviano, junto con la Asamblea del Pueblo Guaraní. La actividad, parte de la iniciativa Movimiento Regional por la Tierra y Territorio, reafirmó la necesidad de garantizar las múltiples formas de propiedad colectiva y de territorios en la región.</dct:description>
 		<dc:author>IPDRS</dc:author>
 		<dct:identifier>Cuaderno-MRxT-177</dct:identifier>
 		<dc:publisher>IPDRS</dc:publisher>
@@ -104,7 +104,7 @@
 		<dc:license>All rights reserved</dc:license>
 		<dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
 		<dc:rights>IPDRS</dc:rights>
-		<dct:date	rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-11-07</dct:date>
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-11-07</dct:date>
 		<dc:language>es</dc:language>
 		<bibo:uri rdf:resource="http://www.porlatierra.org/docs/75939b0a2092ea41471668d55198c84c.pdf" />
 		<dc:subject>acceso a la tierra </dc:subject>
@@ -126,7 +126,7 @@
 	</rdf:Description>
 	<rdf:Description rdf:about="http://www.porlatierra.org/cuaderno/226">
 		<dct:title xml:lang="es">PRESENTACIÓN: Movimiento Regional por la Tierra y Territorio en el VI Congreso Argentino – Latinoamericano de Antropología Rural </dct:title>
-		<dct:description	xml:lang="es">Entre el 17 y el 20 de mayo de 2016, el Instituto para el Desarrollo Rural de Sudamérica (IPDRS) participó del VI Congreso Argentino – Latinoamericano de Antropología Rural, actividad organizada por el Núcleo Argentino de Antropología Rural (NADAR). El IPDRS estuvo en la mesa Campesinos y agricultores familiares: caracterización y acción en el contexto rural nacional. Allí se socializó&#8230;</dct:description>
+		<dct:description xml:lang="es">Entre el 17 y el 20 de mayo de 2016, el Instituto para el Desarrollo Rural de Sudamérica (IPDRS) participó del VI Congreso Argentino – Latinoamericano de Antropología Rural, actividad organizada por el Núcleo Argentino de Antropología Rural (NADAR). El IPDRS estuvo en la mesa Campesinos y agricultores familiares: caracterización y acción en el contexto rural nacional. Allí se socializó&#8230;</dct:description>
 		<dc:author>Bautista, Ruth; Chumacero, Juan Pablo</dc:author>
 		<dct:identifier>Cuaderno-MRxT-226</dct:identifier>
 		<dc:publisher>IPDRS</dc:publisher>
@@ -136,7 +136,7 @@
 		<dc:license>All rights reserved</dc:license>
 		<dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
 		<dc:rights>IPDRS</dc:rights>
-		<dct:date	rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-11-07</dct:date>
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-11-07</dct:date>
 		<dc:language>es</dc:language>
 		<bibo:uri rdf:resource="http://www.porlatierra.org/docs/a625324ffa99dc3d14be5e038b47297b.pdf" />
 		<dc:subject>acceso a la tierra </dc:subject>
@@ -150,7 +150,7 @@
 	</rdf:Description>
 	<rdf:Description rdf:about="http://www.porlatierra.org/cuaderno/238">
 		<dct:title xml:lang="es">MEMORIA Tipnis: En nuestra Casa Grande El Camino es el Río Presentación del caso 90 del Movimiento Regional por la Tierra y Territorio</dct:title>
-		<dct:description	xml:lang="es">Presentación del caso 90 del Movimiento Regional por la Tierra y el Territorio expresado en el documental El camino es el río, de Producciones Cinematográficas Huayrurito. La actividad tuvo la participación de Oscar Bazoberry, coordinador del IPDRS, y del antropólogo Xavier Albó.</dct:description>
+		<dct:description xml:lang="es">Presentación del caso 90 del Movimiento Regional por la Tierra y el Territorio expresado en el documental El camino es el río, de Producciones Cinematográficas Huayrurito. La actividad tuvo la participación de Oscar Bazoberry, coordinador del IPDRS, y del antropólogo Xavier Albó.</dct:description>
 		<dc:author>IPDRS</dc:author>
 		<dct:identifier>Cuaderno-MRxT-238</dct:identifier>
 		<dc:publisher>IPDRS</dc:publisher>
@@ -160,7 +160,7 @@
 		<dc:license>All rights reserved</dc:license>
 		<dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
 		<dc:rights>IPDRS</dc:rights>
-		<dct:date	rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-07-01</dct:date>
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-07-01</dct:date>
 		<dc:language>es</dc:language>
 		<bibo:uri rdf:resource="http://www.porlatierra.org/docs/bf7ff385aa8dc896409721e219801a66.pdf" />
 		<dc:subject>acceso a la tierra </dc:subject>
@@ -173,7 +173,7 @@
 	</rdf:Description>
 	<rdf:Description rdf:about="http://www.porlatierra.org/cuaderno/248">
 		<dct:title xml:lang="es">Informe 2015 Acceso a la tierra y territorio en Sudamérica</dct:title>
-		<dct:description	xml:lang="es">El Informe 2015 Acceso a la tierra y territorio en Sudamérica es una nueva iniciativa en el marco del Movimiento Regional por la Tierra y Territorio. Transitamos tres años entre sistematizaciones de experiencias inspiradoras de acceso a la tierra, documentos técnicos, encuentros regionales, encuentros de jóvenes por la tierra y articulaciones diversas a favor de la vida rural.</dct:description>
+		<dct:description xml:lang="es">El Informe 2015 Acceso a la tierra y territorio en Sudamérica es una nueva iniciativa en el marco del Movimiento Regional por la Tierra y Territorio. Transitamos tres años entre sistematizaciones de experiencias inspiradoras de acceso a la tierra, documentos técnicos, encuentros regionales, encuentros de jóvenes por la tierra y articulaciones diversas a favor de la vida rural.</dct:description>
 		<dc:author>Bazoberry Chali, Oscar; Bautista Durán, Ruth; Tudela Canaviri, Malkya; Chumacero, Juan Pablo</dc:author>
 		<dct:identifier>Cuaderno-MRxT-248</dct:identifier>
 		<dc:publisher>IPDRS</dc:publisher>
@@ -183,7 +183,7 @@
 		<dc:license>All rights reserved</dc:license>
 		<dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
 		<dc:rights>IPDRS</dc:rights>
-		<dct:date	rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-11-07</dct:date>
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-11-07</dct:date>
 		<dc:language>es</dc:language>
 		<bibo:uri rdf:resource="http://www.porlatierra.org/docs/6b02849ed081976e2e3fd5f1738c718e.pdf" />
 		<dc:subject>acceso a la tierra </dc:subject>
@@ -202,7 +202,7 @@
 	</rdf:Description>
 	<rdf:Description rdf:about="http://www.porlatierra.org/cuaderno/257">
 		<dct:title xml:lang="es">Relatoría de la Rueda de Prensa sobre Primeros Avances del Movimiento</dct:title>
-		<dct:description	xml:lang="es">Relatoría de la Rueda de Prensa con los Periodistas en la ciudad de La Paz para difundir y socializar los primeros avances del Movimiento Regional por la Tierra y Territorio.</dct:description>
+		<dct:description xml:lang="es">Relatoría de la Rueda de Prensa con los Periodistas en la ciudad de La Paz para difundir y socializar los primeros avances del Movimiento Regional por la Tierra y Territorio.</dct:description>
 		<dc:author>IPDRS</dc:author>
 		<dct:identifier>Cuaderno-MRxT-257</dct:identifier>
 		<dc:publisher>IPDRS</dc:publisher>
@@ -212,7 +212,7 @@
 		<dc:license>All rights reserved</dc:license>
 		<dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
 		<dc:rights>IPDRS</dc:rights>
-		<dct:date	rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-09-07</dct:date>
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-09-07</dct:date>
 		<dc:language>es</dc:language>
 		<bibo:uri rdf:resource="http://www.porlatierra.org/docs/9071e24378016d2a8a047b4b27552f82.docx" />
 		<dc:subject>acceso a la tierra </dc:subject>
