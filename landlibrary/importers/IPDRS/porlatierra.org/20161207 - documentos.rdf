@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:schema="http://schema.org/" xmlns:bibo="http://purl.org/ontology/bibo/">
+	<rdf:Description rdf:about="http://www.porlatierra.org/documentos/1">
+		<dct:title xml:lang="es">Las condiciones jurídicas de acceso a la tierra para campesinos e indígenas en Bolivia - Esteban Sanjinés. Fundación TIERRA. (marzo 2013)</dct:title>
+		<dct:description xml:lang="es">Repasa la legislación agraria desde la reforma de 1953, pasando por la constitución del 2009 y la legislación boliviana hasta septiembre del 2013.</dct:description>
+		<dc:author>Fundación TIERRA; Esteban Sanjines Delgadillo</dc:author>
+		<dct:identifier>Doc-MRxT-1</dct:identifier>
+		<dc:publisher>IPDRS</dc:publisher>
+		<dct:extent>13</dct:extent>
+		<dc:type>Documentos MRxT</dc:type>
+		<schema:image rdf:resource="http://www.porlatierra.org/img/cases/b2ea6cbc605b725e76b1491882c4b768.jpg" />
+		<dc:license>All rights reserved</dc:license>
+		<dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+		<dc:rights>IPDRS</dc:rights>
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-05-08</dct:date>
+		<dc:language>es</dc:language>
+		<bibo:uri rdf:resource="http://www.porlatierra.org/docs/Qodr6enB.pdf" />
+		<dc:subject>acceso a la tierra </dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000090"/>
+		<dc:subject>Equidad de género</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_f29f3106"/>
+		<dc:subject>Equidad de género en el acceso a la tierra</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1dfe5bfe"/>
+		<dc:subject>Mujeres </dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_8420"/>
+		<dc:subject>Propiedad</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_13609"/>
+		<dc:subject>Propiedad colectiva </dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_29157"/>
+		<dc:subject>Propiedad comunal</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000022"/>
+		<dc:subject>Propiedad comunal</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000022"/>
+		<dc:subject>Propiedad privada </dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6192"/>
+		<dc:subject>pueblos indígenas </dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_331524"/>
+		<dc:subject>Reform agraria</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_4178"/>
+		<dc:subject>Reforma agraria</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_196"/>
+		<dc:subject>territorio </dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_a9e7dd7f"/>
+		<dc:subject>Territorio indígena</dc:subject>
+		<dc:subject>tierras indígenas  </dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_86524ff8"/>
+		<dc:subject>titulación de la tierra</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_119678e7"/>
+		<dc:coverage>ARG</dc:coverage>
+		<dc:coverage>BOL</dc:coverage>
+		<dc:coverage>BRA</dc:coverage>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.porlatierra.org/documentos/67">
+		<dct:title xml:lang="es">Más agronegocio, menos Soberanía Alimentaria - Esteban Daza. IEE/OCARU. (enero 2015)</dct:title>
+		<dct:description xml:lang="es">El presente documento intenta dar cuenta de lo que sucede en la aplicación de políticas públicas referidas a la cuestión agraria. Para emprender la exposición, nos planteamos las preguntas ¿Cómo está distribuida la tierra en la actualidad? ¿En qué se utiliza la tierra productiva? ¿Cuál es la propuesta del presente gobierno para el campo en general?</dct:description>
+		<dc:author>IEE; Esteban Daza Cevallos</dc:author>
+		<dct:identifier>Doc-MRxT-67</dct:identifier>
+		<dc:publisher>IPDRS</dc:publisher>
+		<dct:extent>16</dct:extent>
+		<dc:type>Documentos MRxT</dc:type>
+		<schema:image rdf:resource="http://www.porlatierra.org/img/cases/8e6fc2533c4c254000dfea7d0fb1d2b8.jpg" />
+		<dc:license>All rights reserved</dc:license>
+		<dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+		<dc:rights>IPDRS</dc:rights>
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-07-07</dct:date>
+		<dc:language>es</dc:language>
+		<bibo:uri rdf:resource="http://www.porlatierra.org/docs/9aeb3186f1a965cae3d134a600ede652.pdf" />
+		<dc:subject>acceso a la tierra </dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000090"/>
+		<dc:subject>Agricultura familiar</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1422957329186"/>
+		<dc:subject>Agrocombustibles</dc:subject>
+		<dc:subject>Agroexportación</dc:subject>
+		<dc:subject>Agroindustria</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_28831"/>
+		<dc:subject>Agronegocios</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_208"/>
+		<dc:subject>Distribución de tierras</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_37734"/>
+		<dc:subject>Distribución de tierras</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_37734"/>
+		<dc:subject>Legislación agraria</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_28633"/>
+		<dc:subject>Modelos de desarrollo</dc:subject>
+		<dc:subject>Políticas agrarias</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_195"/>
+		<dc:subject>Políticas de desarrollo</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_2228"/>
+		<dc:coverage>ECU</dc:coverage>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.porlatierra.org/documentos/82">
+		<dct:title xml:lang="es">Demanda de Tierras en Paraguay  - Luis Rojas  BASE Investigaciones Sociales. (octubre 2013)</dct:title>
+		<dct:description xml:lang="es">Este material incluye algunas estimaciones realizadas en relación a la demanda actual de tierras, la cantidad de familias sin tierras o con tierra insuficiente, informaciones del organismo de aplicación de la política de tierras en relación a sus beneficiarios, así como aspectos relevantes de la demanda de tierras a partir de la visión de las organizaciones campesinas, así como informaciones&#8230;</dct:description>
+		<dc:author>BASE Investigaciones Sociales; Luis Rojas </dc:author>
+		<dct:identifier>Doc-MRxT-82</dct:identifier>
+		<dc:publisher>IPDRS</dc:publisher>
+		<dct:extent>18</dct:extent>
+		<dc:type>Documentos MRxT</dc:type>
+		<schema:image rdf:resource="http://www.porlatierra.org/img/cases/b2404190a5b8177bf2f72b7d3e93c48d.jpg" />
+		<dc:license>All rights reserved</dc:license>
+		<dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+		<dc:rights>IPDRS</dc:rights>
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-07-07</dct:date>
+		<dc:language>es</dc:language>
+		<bibo:uri rdf:resource="http://www.porlatierra.org/docs/1351a6fb6d87961c541e30a46f18d320.pdf" />
+		<dc:subject>acceso a la tierra </dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000090"/>
+		<dc:subject>Agronegocios</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_208"/>
+		<dc:subject>concentración de la tierra</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_8654e90e"/>
+		<dc:subject>conflictos por la tierra </dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_e236b2b1"/>
+		<dc:subject>Distribución de tierras</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_37734"/>
+		<dc:subject>Distribución de tierras</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_37734"/>
+		<dc:subject>Estructura agraria</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_7193"/>
+		<dc:subject>latifundio</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9c0e84b3"/>
+		<dc:subject>Propiedad</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_13609"/>
+		<dc:subject>pueblos indígenas </dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_331524"/>
+		<dc:subject>titulación de la tierra</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_119678e7"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.porlatierra.org/documentos/83">
+		<dct:title xml:lang="es">Previsiones legales para el acceso a tierras de parte del campesinado y los indígenas -  Luis Rojas  BASE Investigaciones Sociales. (octubre 2013)</dct:title>
+		<dct:description xml:lang="es">El presente material es un breve compendio de las leyes y normativas vigentes, que regulan el acceso a la tierra por parte de la población, con particular detalle en el caso de los campesinos y campesinas. En el caso de las comunidades indígenas, se hará una breve mención a la legislación correspondiente.</dct:description>
+		<dc:author>BASE Investigaciones Sociales; Luis Rojas </dc:author>
+		<dct:identifier>Doc-MRxT-83</dct:identifier>
+		<dc:publisher>IPDRS</dc:publisher>
+		<dct:extent>17</dct:extent>
+		<dc:type>Documentos MRxT</dc:type>
+		<schema:image rdf:resource="http://www.porlatierra.org/img/cases/4429a2d6023c731cc6d499f94084f52c.jpg" />
+		<dc:license>All rights reserved</dc:license>
+		<dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+		<dc:rights>IPDRS</dc:rights>
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-11-11</dct:date>
+		<dc:language>es</dc:language>
+		<bibo:uri rdf:resource="http://www.porlatierra.org/docs/d5d6d459b9fe5041e65581e638f93d8d.pdf" />
+		<dc:subject>acceso a la tierra </dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000090"/>
+		<dc:subject>Adjudicación</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_ee93bbbe"/>
+		<dc:subject>concentración de la tierra</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_8654e90e"/>
+		<dc:subject>Estructura agraria</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_7193"/>
+		<dc:subject>Expropiación</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1798"/>
+		<dc:subject>latifundio</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9c0e84b3"/>
+		<dc:subject>Legislación agraria</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_28633"/>
+		<dc:subject>Minifundio</dc:subject>
+		<dc:subject>Propiedad</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_13609"/>
+		<dc:subject>Propiedad de la tierra </dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_28718"/>
+		<dc:subject>pueblos indígenas </dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_331524"/>
+		<dc:subject>Reform agraria</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_4178"/>
+		<dc:subject>Reforma agraria</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_196"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.porlatierra.org/documentos/85">
+		<dct:title xml:lang="es">Documento sobre Políticas Públicas - Luis Rojas  BASE Investigaciones Sociales. (octubre 2013)</dct:title>
+		<dct:description xml:lang="es">Este material incluye una breve referencia al marco jurídico que orienta la política de reforma agraria y distribución de tierras, una descripción de la política de tierras en los últimos años, el desempeño del organismo de aplicación de dicha política, el Instituto Nacional de Desarrollo Rural y de la Tierra (INDERT), un recuento de los mecanismos existentes para el acceso a la tierra por&#8230;</dct:description>
+		<dc:author>BASE Investigaciones Sociales; Luis Rojas </dc:author>
+		<dct:identifier>Doc-MRxT-85</dct:identifier>
+		<dc:publisher>IPDRS</dc:publisher>
+		<dct:extent>12</dct:extent>
+		<dc:type>Documentos MRxT</dc:type>
+		<schema:image rdf:resource="http://www.porlatierra.org/img/cases/ad5e4a76e7322f56c0326e62e2baae22.jpg" />
+		<dc:license>All rights reserved</dc:license>
+		<dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+		<dc:rights>IPDRS</dc:rights>
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-07-07</dct:date>
+		<dc:language>es</dc:language>
+		<bibo:uri rdf:resource="http://www.porlatierra.org/docs/53aa9a889f3773dfa2ac6e1bad89c8cd.pdf" />
+		<dc:subject>acceso a la tierra </dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000090"/>
+		<dc:subject>Asentamientos informales</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_ba3b2ea7"/>
+		<dc:subject>concentración de la tierra</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_8654e90e"/>
+		<dc:subject>Distribución de tierras</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_37734"/>
+		<dc:subject>Distribución de tierras</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_37734"/>
+		<dc:subject>Estructura agraria</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_7193"/>
+		<dc:subject>Impuesto a la tierra </dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_4180"/>
+		<dc:subject>latifundio</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9c0e84b3"/>
+		<dc:subject>Minifundio</dc:subject>
+		<dc:subject>Políticas agrarias</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_195"/>
+		<dc:subject>pueblos indígenas </dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_331524"/>
+		<dc:subject>Regularización de la propiedad</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_d190bc52"/>
+		<dc:subject>Regularización de la tenencia</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_cc3d0c47"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.porlatierra.org/documentos/86">
+		<dct:title xml:lang="es">La legislación peruana y los derechos de pequeños agricultores y comunidades a la propiedad de las tierras - Laureano del Castillo.  CEPES. (octubre 2014)</dct:title>
+		<dct:description xml:lang="es">Se presenta el estado actual de la legislación peruana sobre las tierras agrícolas y las posibilidades  de que los pequeños productores, individuales y colectivos accedan a la tierra. La legislación peruana es resultado de las profundas modificaciones en los marcos institucionales y políticos vividos en las últimas décadas y por ello, se aparta de los lineamientos de los paises vecinos.</dct:description>
+		<dc:author>CEPES; Laureano del Castillo</dc:author>
+		<dct:identifier>Doc-MRxT-86</dct:identifier>
+		<dc:publisher>IPDRS</dc:publisher>
+		<dct:extent>13</dct:extent>
+		<dc:type>Documentos MRxT</dc:type>
+		<schema:image rdf:resource="http://www.porlatierra.org/img/cases/1ca669425b3c24282ce3518169ed5566.jpg" />
+		<dc:license>All rights reserved</dc:license>
+		<dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+		<dc:rights>IPDRS</dc:rights>
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-07-07</dct:date>
+		<dc:language>es</dc:language>
+		<bibo:uri rdf:resource="http://www.porlatierra.org/docs/628fbcacc5cc3ceef30201b24b28ef7a.pdf" />
+		<dc:subject>acceso a la tierra </dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000090"/>
+		<dc:subject>Legislación agraria</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_28633"/>
+		<dc:subject>Ley de propiedad</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_da192f3f"/>
+		<dc:subject>Propiedad</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_13609"/>
+		<dc:subject>Propiedad comunal</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000022"/>
+		<dc:subject>Propiedad comunal</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000022"/>
+		<dc:subject>Propiedad privada </dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6192"/>
+		<dc:subject>Reforma agraria</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_196"/>
+		<dc:subject>titulación de la tierra</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_119678e7"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.porlatierra.org/documentos/87">
+		<dct:title xml:lang="es"> Políticas de Tierras vigentes en el Perú -   Laureano del Castillo. CEPES (octubre 2014)</dct:title>
+		<dct:description xml:lang="es">El presente documento contiene una breve sistematización de las políticas vigentes en el Perú en torno al acceso y control de la tierra por parte de pequeños agricultores y comunidades. Su lectura debe complementar la del documento sobre legislación, preparado igualmente para el Movimiento por la Tierra en Sudamérica.</dct:description>
+		<dc:author>CEPES; Laureano del Castillo</dc:author>
+		<dct:identifier>Doc-MRxT-87</dct:identifier>
+		<dc:publisher>IPDRS</dc:publisher>
+		<dct:extent>5</dct:extent>
+		<dc:type>Documentos MRxT</dc:type>
+		<schema:image rdf:resource="http://www.porlatierra.org/img/cases/ef49c5600dc0e2c35f6bc0282650edd2.jpg" />
+		<dc:license>All rights reserved</dc:license>
+		<dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+		<dc:rights>IPDRS</dc:rights>
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-07-07</dct:date>
+		<dc:language>es</dc:language>
+		<bibo:uri rdf:resource="http://www.porlatierra.org/docs/2056f4ee7112197b36f0e6890ae15619.pdf" />
+		<dc:subject>acceso a la tierra </dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000090"/>
+		<dc:subject>concentración de la tierra</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_8654e90e"/>
+		<dc:subject>Legislación agraria</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_28633"/>
+		<dc:subject>Mercado de tierras </dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_4175"/>
+		<dc:subject>Políticas agrarias</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_195"/>
+		<dc:subject>Reform agraria</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_4178"/>
+		<dc:subject>Reforma agraria</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_196"/>
+		<dc:subject>transacciones de tierras</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_a4f67d48"/>
+		<dc:subject>Transferencias de tierra</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_4181"/>
+		<dc:coverage>PER</dc:coverage>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.porlatierra.org/documentos/108">
+		<dct:title xml:lang="es">Estado, agroindustria y campesinos en el Ecuador - Esteban Daza. IEE/OCARU. (abril 2015)</dct:title>
+		<dct:description xml:lang="es">Desde una dialéctica analítica, el documento pone en clara la directa relación entre la concentración de la tierra en pocas manos y la demanda por la tierra desde un diverso campesinado que genera peculiares estrategias organizativas y políticas. La estrategia del IEE es recurrir a una mirada crítica a la desigual estructura de la tenencia de la tierra y a la vocación de los usos del suelo&#8230;</dct:description>
+		<dc:author>IEE; Esteban Daza Cevallos</dc:author>
+		<dct:identifier>Doc-MRxT-108</dct:identifier>
+		<dc:publisher>IPDRS</dc:publisher>
+		<dct:extent>31</dct:extent>
+		<dc:type>Documentos MRxT</dc:type>
+		<schema:image rdf:resource="http://www.porlatierra.org/img/cases/31c103ea7e20301f1046c1889d62525e.jpg" />
+		<dc:license>All rights reserved</dc:license>
+		<dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+		<dc:rights>IPDRS</dc:rights>
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-07-07</dct:date>
+		<dc:language>es</dc:language>
+		<bibo:uri rdf:resource="http://www.porlatierra.org/docs/f3fae0c274f29b4e6ae20f4b0968f1e5.pdf" />
+		<dc:subject>acceso a la tierra </dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000090"/>
+		<dc:subject>Distribución de tierras</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_37734"/>
+		<dc:subject>Distribución de tierras</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_37734"/>
+		<dc:subject>Estructura agraria</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_7193"/>
+		<dc:subject>latifundio</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9c0e84b3"/>
+		<dc:subject>Legislación agraria</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_28633"/>
+		<dc:subject>pueblos indígenas </dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_331524"/>
+		<dc:subject>Reform agraria</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_4178"/>
+		<dc:subject>Reforma agraria</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_196"/>
+		<dc:coverage>ECU</dc:coverage>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.porlatierra.org/documentos/115">
+		<dct:title xml:lang="es">Legislación sobre acceso a la tierra en el Uruguay - Pablo Diaz. (julio 2015)</dct:title>
+		<dct:description xml:lang="es">Se trata de un aporte técnico para entender el contexto político, reivindicativo, pero principalmente legislativo del acceso a la tierra de sectores populares en el medio rural del Uruguay actual. El estudio parte de la intervención del Estado sobre el acceso a la tierra a través de las leyes e instrumentos complementarios a las mismas y la trama de sus aplicaciones concretas. Por lo tanto es&#8230;</dct:description>
+		<dc:author>Pablo Díaz</dc:author>
+		<dct:identifier>Doc-MRxT-115</dct:identifier>
+		<dc:publisher>IPDRS</dc:publisher>
+		<dct:extent>19</dct:extent>
+		<dc:type>Documentos MRxT</dc:type>
+		<schema:image rdf:resource="http://www.porlatierra.org/img/cases/79cccab648e42021a51bece8cc43ee68.jpg" />
+		<dc:license>All rights reserved</dc:license>
+		<dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+		<dc:rights>IPDRS</dc:rights>
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-07-08</dct:date>
+		<dc:language>es</dc:language>
+		<bibo:uri rdf:resource="http://www.porlatierra.org/docs/01a953c3f6b33750f5f03c48753c1cbb.pdf" />
+		<dc:subject>acceso a la tierra </dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000090"/>
+		<dc:subject>Adjudicación</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_ee93bbbe"/>
+		<dc:subject>arrendamiento</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_4240"/>
+		<dc:subject>Arrendatarios de tierras</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_f73955fb"/>
+		<dc:subject>Arrendatarios de tierras</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_f73955fb"/>
+		<dc:subject>conflictos por la tierra </dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_e236b2b1"/>
+		<dc:subject>Distribución de tierras</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_37734"/>
+		<dc:subject>Distribución de tierras</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_37734"/>
+		<dc:subject>Legislación agraria</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_28633"/>
+		<dc:subject>Propiedad</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_13609"/>
+		<dc:subject>Propiedad privada </dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6192"/>
+		<dc:subject>Reform agraria</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_4178"/>
+		<dc:subject>Reforma agraria</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_196"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.porlatierra.org/documentos/136">
+		<dct:title xml:lang="es">Políticas públicas y el problema de la tierra en el Uruguay actual - Pablo Diaz. (julio 2015)</dct:title>
+		<dct:description xml:lang="es">Documento que en primer lugar realiza un breve recorrido histórico sobre el proceso de incorporación de tierras para ser distribuidas mediante el Instituto Nacional de Colonización, señalando la interacción entre Estado y sociedad civil en diferentes etapas, y algunas problemáticas estructurales para su efectiva aplicación. En segundo lugar, se identifican diversas intervenciones en materia&#8230;</dct:description>
+		<dc:author>Pablo Díaz</dc:author>
+		<dct:identifier>Doc-MRxT-136</dct:identifier>
+		<dc:publisher>IPDRS</dc:publisher>
+		<dct:extent>15</dct:extent>
+		<dc:type>Documentos MRxT</dc:type>
+		<schema:image rdf:resource="http://www.porlatierra.org/img/cases/844afeabc7713e42503c7b2a270dabdf.jpg" />
+		<dc:license>All rights reserved</dc:license>
+		<dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+		<dc:rights>IPDRS</dc:rights>
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-09-10</dct:date>
+		<dc:language>es</dc:language>
+		<bibo:uri rdf:resource="http://www.porlatierra.org/docs/ede07e5b7ce248d35c8e8eadf0373a3c.pdf" />
+		<dc:subject>acaparamiento de tierras </dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_45ce1b52"/>
+		<dc:subject>acaparamiento de tierras </dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_45ce1b52"/>
+		<dc:subject>acceso a la tierra </dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000090"/>
+		<dc:subject>Agricultores</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_2805"/>
+		<dc:subject>Agricultura</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_203"/>
+		<dc:subject>Agroexportación</dc:subject>
+		<dc:subject>Agroindustria</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_28831"/>
+		<dc:subject>arrendamiento</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_4240"/>
+		<dc:subject>concentración de la tierra</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_8654e90e"/>
+		<dc:subject>Impuesto a la tierra </dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_4180"/>
+		<dc:subject>Mercado de tierras </dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_4175"/>
+		<dc:subject>Tenencia de la tierra</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_12069"/>
+		<dc:subject>Trabajo agrícola</dc:subject>
+		<dc:subject>Uso de la tierra</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_4182"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.porlatierra.org/documentos/186">
+		<dct:title xml:lang="es">Demanda de tierras en Uruguay - Alejandro Arbulo y Pablo Díaz. (agosto 2015)</dct:title>
+		<dct:description xml:lang="es">Documento exploratorio que analiza las acciones y demandas de las principales organizaciones sociales que representan a asalariados rurales y productores familiares en los últimos 10 años, describe los principales conflictos locales suscitados en torno al acceso a la tierra y plantea estimaciones aproximativas sobre la cantidad de solicitantes de tierra, tanto a nivel nacional como regional.</dct:description>
+		<dc:author>Pablo Díaz</dc:author>
+		<dct:identifier>Doc-MRxT-186</dct:identifier>
+		<dc:publisher>IPDRS</dc:publisher>
+		<dct:extent>17</dct:extent>
+		<dc:type>Documentos MRxT</dc:type>
+		<schema:image rdf:resource="http://www.porlatierra.org/img/cases/3a91e970fe3d325eed4e55ec77e4937a.jpg" />
+		<dc:license>All rights reserved</dc:license>
+		<dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+		<dc:rights>IPDRS</dc:rights>
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-11</dct:date>
+		<dc:language>es</dc:language>
+		<bibo:uri rdf:resource="http://www.porlatierra.org/docs/8eefd0b2a02a765cd8fa920e09e4a7d4.pdf" />
+		<dc:subject>acaparamiento de tierras </dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_45ce1b52"/>
+		<dc:subject>acaparamiento de tierras </dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_45ce1b52"/>
+		<dc:subject>acceso a la tierra </dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000090"/>
+		<dc:subject>Agricultura familiar</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1422957329186"/>
+		<dc:subject>arrendamiento</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_4240"/>
+		<dc:subject>Arrendamiento agrícola</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_dec8141f"/>
+		<dc:subject>Asalariados rurales</dc:subject>
+		<dc:subject>Impuesto a la tierra </dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_4180"/>
+		<dc:subject>Mercado de tierras </dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_4175"/>
+		<dc:subject>Tenencia de la tierra</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_12069"/>
+		<dc:subject>Uso de la tierra</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_4182"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.porlatierra.org/documentos/196">
+		<dct:title xml:lang="pt">Os Seringueiros e a Invenção de um Outro Paradigma. Carlos Walter Porto-Gonçalves - LEMTO-UFF. (septiembre 2015)</dct:title>
+		<dct:description xml:lang="pt">Con la noción de la reexistencia, como la reinvención creativa de las circunstancias propias, el documento técnico muestra a los siringueros dentro del sistema-mundo colonial y capitalista, como un movimiento que propone la Reserva Extractivista como la mejor forma de defender y construirse autónomamente, aglutinando una perspectiva de clase, las relaciones de género y la relación con la naturaleza&#8230;</dct:description>
+		<dc:author>LEMTO UFF; Carlos Walter Porto-Gonçalves</dc:author>
+		<dct:identifier>Doc-MRxT-196</dct:identifier>
+		<dc:publisher>IPDRS</dc:publisher>
+		<dct:extent>16</dct:extent>
+		<dc:type>Documentos MRxT</dc:type>
+		<schema:image rdf:resource="http://www.porlatierra.org/img/cases/d82d7ac507adfa4fdca1c8ba63c03ade.jpg" />
+		<dc:license>All rights reserved</dc:license>
+		<dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+		<dc:rights>IPDRS</dc:rights>
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-03-01</dct:date>
+		<dc:language>pt</dc:language>
+		<bibo:uri rdf:resource="http://www.porlatierra.org/docs/0a662c46f0653b15fc05beaf32d2bf02.pdf" />
+		<dc:subject>acceso a la tierra </dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000090"/>
+		<dc:subject>Capitalismo</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1275"/>
+		<dc:subject>Extractivismo</dc:subject>
+		<dc:subject>Medio ambiente </dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_2593"/>
+		<dc:subject>Organizaciones de agricultores  </dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_37175"/>
+		<dc:subject>Recursos naturales</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_5091"/>
+		<dc:subject>territorio </dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_a9e7dd7f"/>
+		<dc:subject>Uso de la tierra</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_4182"/>
+		<dc:coverage>BRA</dc:coverage>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.porlatierra.org/documentos/197">
+		<dct:title xml:lang="es">Demanda de Tierras en Colombia - Omar Rojas Bravo. (octubre 2015)</dct:title>
+		<dct:description xml:lang="es">El objetivo del presente documento es describir la estructura actual de tenencia de la tierra por parte de los diversos grupos étnicos que conforman la sociedad civil rural de Colombia. El documento aborda la temática desde una perspectiva descriptiva general. La intención es demostrar cómo la demanda de tierras por parte de estos grupos étnicos diversos (indígenas, afros y campesinos) que componen&#8230;</dct:description>
+		<dc:author>Omar Rojas Bravo</dc:author>
+		<dct:identifier>Doc-MRxT-197</dct:identifier>
+		<dc:publisher>IPDRS</dc:publisher>
+		<dct:extent>22</dct:extent>
+		<dc:type>Documentos MRxT</dc:type>
+		<schema:image rdf:resource="http://www.porlatierra.org/img/cases/f6379482de895841d849bb45c9259d8c.jpg" />
+		<dc:license>All rights reserved</dc:license>
+		<dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+		<dc:rights>IPDRS</dc:rights>
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-02-02</dct:date>
+		<dc:language>es</dc:language>
+		<bibo:uri rdf:resource="http://www.porlatierra.org/docs/073cc53998bb41bac72b806380068670.pdf" />
+		<dc:subject>Afrodescendientes</dc:subject>
+		<dc:subject>concentración de la tierra</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_8654e90e"/>
+		<dc:subject>Conflicto de intereses</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_854e9e62"/>
+		<dc:subject>conflictos por la tierra </dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_e236b2b1"/>
+		<dc:subject>Estructura agraria</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_7193"/>
+		<dc:subject>Legislación agraria</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_28633"/>
+		<dc:subject>Modelos de desarrollo</dc:subject>
+		<dc:subject>Propiedad</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_13609"/>
+		<dc:subject>Propiedad de la tierra </dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_28718"/>
+		<dc:subject>pueblos indígenas </dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_331524"/>
+		<dc:subject>Reform agraria</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_4178"/>
+		<dc:subject>Reforma agraria</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_196"/>
+		<dc:subject>Tenencia de la tierra</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_12069"/>
+		<dc:subject>Violencia</dc:subject>
+		<dc:coverage>COL</dc:coverage>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.porlatierra.org/documentos/225">
+		<dct:title xml:lang="es">Los Siringueros y la invención de un nuevo paradigma, Carlos Walter Porto-Gonçalves - LEMTO-UFF. (septiembre 2015) </dct:title>
+		<dct:description xml:lang="es">Con la noción de la reexistencia, como la reinvención creativa de las circunstancias propias, el documento técnico muestra a los siringueros dentro del sistema-mundo colonial y capitalista, como un movimiento que propone la Reserva Extractivista como la mejor forma de defender y construirse autónomamente, aglutinando una perspectiva de clase, las relaciones de género y la relación con la naturaleza&#8230;</dct:description>
+		<dc:author>LEMTO–UFF; Carlos Walter Porto-Gonçalves</dc:author>
+		<dct:identifier>Doc-MRxT-225</dct:identifier>
+		<dc:publisher>IPDRS</dc:publisher>
+		<dct:extent>15</dct:extent>
+		<dc:type>Documentos MRxT</dc:type>
+		<schema:image rdf:resource="http://www.porlatierra.org/img/cases/e471ec7b05f435abfab5aa1cf031f779.jpg" />
+		<dc:license>All rights reserved</dc:license>
+		<dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+		<dc:rights>IPDRS</dc:rights>
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-06-03</dct:date>
+		<dc:language>es</dc:language>
+		<bibo:uri rdf:resource="http://www.porlatierra.org/docs/29289ebb318f5a7fd3e1ea572306c40e.pdf" />
+		<dc:subject>acceso a la tierra </dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000090"/>
+		<dc:subject>Capitalismo</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1275"/>
+		<dc:subject>Extractivismo</dc:subject>
+		<dc:subject>Medio ambiente </dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_2593"/>
+		<dc:subject>Organizaciones de agricultores  </dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_37175"/>
+		<dc:subject>Recursos naturales</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_5091"/>
+		<dc:subject>Reservas naturales </dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_16141"/>
+		<dc:subject>territorio </dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_a9e7dd7f"/>
+		<dc:subject>Uso de la tierra</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_4182"/>
+		<dc:coverage>BRA</dc:coverage>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.porlatierra.org/documentos/280">
+		<dct:title xml:lang="es">Disputas en la gestión de la identidad y el ejercicio de los gobiernos indígenas en Bolivia</dct:title>
+		<dct:description xml:lang="es">El presente documento pone en cuestión la forma en que se gestionó la identidad cultural por parte del Estado, diferencia entre lo que es una identidad colectiva y una identidad cultural y visibiliza los alcances jurídicos, políticos y sociales que implica acceder a una identidad cultural en las cédulas de identidad por parte de los pueblos indígenas.</dct:description>
+		<dc:author>Pedro Pachaguaya; Samuel Flores Cruz</dc:author>
+		<dc:publisher>IPDRS</dc:publisher>
+		<dct:extent>23</dct:extent>
+		<dc:type>Documentos MRxT</dc:type>
+		<schema:image rdf:resource="http://www.porlatierra.org/img/cases/9560aed59e809e4b2ee2dd3a3046ea86.jpg" />
+		<dc:license>All rights reserved</dc:license>
+		<dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+		<dc:rights>IPDRS</dc:rights>
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-11-29</dct:date>
+		<dc:language>es</dc:language>
+		<bibo:uri rdf:resource="http://www.porlatierra.org/docs/7fcf99ca1614b228529bf356d24e3081.pdf" />
+		<dc:subject>Derechos sobre tierras indígenas</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_d42b49e7"/>
+		<dc:subject>Gobernanza de la tierra</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d"/>
+		<dc:subject>pueblos indígenas </dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_331524"/>
+		<dc:subject>tierras indígenas  </dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_86524ff8"/>
+		<dc:coverage>BOL</dc:coverage>
+	</rdf:Description>
+	<rdf:Description rdf:about="http://www.porlatierra.org/documentos/281">
+		<dct:title xml:lang="es">Documento Técnico - Legislación de acceso a tierras en Colombia</dct:title>
+		<dct:description xml:lang="es">La legislación agraria en Colombia es una amalgama de intereses de fuerzas políticas y sociales, en la cual se evidencia la pugna entre los sectores terratenientes tradicionales que buscan el mantenimiento del estatus quo. El empresariado que pretende la eliminación de las barreras que bloquean el desarrollo capitalista en el campo, y las comunidades indígenas, afrodescendientes y campesinas luchan&#8230;</dct:description>
+		<dc:author>Sneither Efraín Cifuentes; Inti Natalia Castro; David Alirio Uribe Laverde; Diego Balvino Chavez</dc:author>
+		<dct:identifier>Doc-MRxT-281</dct:identifier>
+		<dc:publisher>IPDRS</dc:publisher>
+		<dct:extent>30</dct:extent>
+		<dc:type>Documentos MRxT</dc:type>
+		<schema:image rdf:resource="http://www.porlatierra.org/img/cases/aea8e16febc02e2a32e6b21808bb25c6.jpg" />
+		<dc:license>All rights reserved</dc:license>
+		<dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+		<dc:rights>IPDRS</dc:rights>
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-02</dct:date>
+		<dc:language>es</dc:language>
+		<bibo:uri rdf:resource="http://www.porlatierra.org/docs/70bf20ee23ebc8e2e73fbdb9ccae55b6.pdf" />
+		<dc:subject>acceso a la tierra </dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000090"/>
+		<dc:subject>Investigación </dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6513"/>
+		<dc:subject>Políticas agrarias</dc:subject>
+		<dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_195"/>
+	</rdf:Description>
+</rdf:RDF>
