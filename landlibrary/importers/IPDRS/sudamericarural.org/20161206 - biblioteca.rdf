@@ -910,7 +910,7 @@
 		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-07-14</dct:date>
 		<dc:publisher>FAO</dc:publisher>
 		<dct:extent>12</dct:extent>
-		<schema:image rdf:resource="http://www.sudamericarural.org/gt2025_documento_diagnostico_san_final_1.jpg" /> 
+		<schema:image rdf:resource="http://www.sudamericarural.org/images/en_papel/gt2025_documento_diagnostico_san_final_1.jpg" /> 
 		<bibo:uri rdf:resource="http://www.sudamericarural.org/images/en_papel/archivos/gt2025_documento_diagnostico_san_final.pdf"/>
 		<dct:description xml:lang="es" >El objetivo de este documento es presentar un diagnóstico sobre la situación de la seguridad alimentaria y nutricional (SAN) de América Latina y el Caribe.
 			Se presentan los avances recientes en materia de SAN, destacando su heterogeneidad entre los países de la región y la doble carga de la malnutrición; el proceso de fortalecimiento de los marcos jurídicos e institucionales, así como la evolución de las políticas de seguridad alimentaria en la región, y se desarrollan algunas conclusiones y se detallan los desafíos y las recomendaciones de políticas de FAO para continuar el proceso de mejora continua de la seguridad alimentaria y nutricional de la región. </dct:description>
