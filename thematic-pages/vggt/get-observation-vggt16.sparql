@@ -2,7 +2,7 @@ PREFIX cex: <http://purl.org/weso/ontology/computex#>
 PREFIX qb: <http://purl.org/linked-data/cube#>
 PREFIX ex: <http://www.example.org/rdf#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 
 SELECT ?indicatorURL ?indicatorID ?indicatorLabel ?indicatorDescription ?countryURL ?year (STR(?value) AS ?value) (STR(?comment) as ?comment)
 FROM <http://data.landportal.info>
