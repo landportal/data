@@ -8,14 +8,15 @@
 	<rdf:Description rdf:about="http://www.gltn.net/index.php/92-resources/publications/402-un-habitat-and-gltn-youth-led-action-research-on-land-commencement-workshop-report"> <!-- Link to the online source -->
 		<dct:title xml:lang="en">GLTN/UN-Habitat Youth Led Action Research on Land Commencement Workshop</dct:title> <!-- Title -->
 		<dct:description xml:lang="en">The land challenge is central to the broader youth dynamics of migration, employment, livelihoods and belonging. The more than 1.8 billion youth living worldwide represent not only a land challenge, but an untapped potential in moving the tenure security agenda forward.</dct:description>  <!-- Abstract / Description -->
+		<dc:author>Kate Fairlie; Toril Iren Pedersen; Douglas Ragan; Priscilla Li Ying;</dc:author> <!-- Authors / Editors / Contributors -->
+		<dct:author rdf:resource="http://www.landportal.info/organization/global-land-tool-network"/>  <!-- Corporate Authors / Editors / Contributors -->
 		<dc:publisher>Global Land Tool Network</dc:publisher> <!-- Publisher -->
 		<dct:publisher rdf:resource="http://www.landportal.info/organization/global-land-tool-network" /> <!-- Publisher -->
-		<dc:author>Kate Fairlie; Toril Iren Pedersen; Douglas Ragan; Priscilla Li Ying;</dc:author> <!-- Authors / Editors / Contributors -->
-		<dct:author rdf:resource="http://www.landportal.info/organization/global-land-tool-network"/>  <!-- Authors / Editors / Contributors -->
-		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-01-31</dct:date> <!-- Publication date -->
+		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-01-31</dct:date> <!-- Publication date. ISO 8601 format -->
 		<dc:language>en</dc:language> <!-- Language of the resource. ISO 639-1 code -->
 		<dct:identifier>GLTN/UN-Ha2014</dct:identifier> <!-- ID/ISBN/ISSN -->
 		<dct:extent>35</dct:extent> <!-- Pages -->
+		<!-- <schema:duration>00:35:54</schema:duration> --> <!-- Duration. ISO 8601 format -->
 		<dc:coverage>Global</dc:coverage> <!-- Geographical focus (area related). Name -->
 		<dc:coverage>001</dc:coverage> <!-- Geographical focus (area related). UN M49 code -->
 		<dc:coverage>Asia</dc:coverage> <!-- Geographical focus (area related)-->
