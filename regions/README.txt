@@ -19,7 +19,7 @@ Run highcharts-map.py using https://raw.githubusercontent.com/landportal/js-view
 To check if the ISO3 code is supported by the highcharts map
 
 - Flag	
-From https://github.com/lipis/flag-icon-css after some mapping process
+From https://raw.githubusercontent.com/landportal/drupal-lpbs/scss/partials/_iso-mapping.scss . Do some text process.
 To check if the ISO3 code is supported by the flag file
 
 
