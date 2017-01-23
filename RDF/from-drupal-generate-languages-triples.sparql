@@ -1,0 +1,23 @@
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX lvont: <http://lexvo.org/ontology#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+
+CONSTRUCT {
+   ?languageURL a lvont:Language ;
+                rdfs:label ?futureLabel ;
+                lvont:iso639P1Code ?iso639P1Code ;
+                lvont:iso639P3Code ?iso639P3Code ;
+				owl:sameAs ?lexvoURL ;
+                rdfs:seeAlso ?languageDrupalCurated.
+}
+FROM <http://languages.landportal.info>
+WHERE {
+?languageDrupal a lvont:Language ;
+                rdfs:label ?futureLabel ;
+                lvont:iso639P1Code ?iso639P1Code ;
+                lvont:iso639P3Code ?iso639P3Code .
+BIND (IRI(REPLACE(REPLACE(STR(?languageDrupal), "https://","http://"),"beta.landportal.info","landportal.info")) AS ?languageDrupalCurated)
+BIND (IRI(CONCAT("http://data.landportal.info/language/",?iso639P1Code)) AS ?languageURL)
+BIND (IRI(CONCAT("http://lexvo.org/id/iso639-3/",?iso639P3Code)) AS ?lexvoURL)
+}
