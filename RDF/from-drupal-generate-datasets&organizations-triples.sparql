@@ -1,0 +1,39 @@
+# Only in the graph http://datasets.landportal.info , the datasets has the skos:prefLabel 
+
+PREFIX ex: <http://www.example.org/rdf#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dcat: <http://www.w3.org/ns/dcat#>
+
+CONSTRUCT {
+   ?datasetURI a dcat:Dataset ;
+               skos:notation ?notationDataset ;
+               ex:label  ?futureLabel ;
+               ex:description ?futureDescription ;
+               rdfs:seeAlso ?datasetDrupalCurated ;
+			   ex:org ?organizationURI .
+
+   ?organizationURI a foaf:Organization ;
+               skos:notation ?notationOrg;
+               ex:label  ?nameOrg;
+               rdfs:seeAlso ?organizationDrupalCurated .
+}
+FROM <http://organizations.landportal.info>
+FROM <http://datasets.landportal.info>
+WHERE {
+?datasetDrupal a dcat:Dataset ;
+         skos:notation ?notationDataset ;
+         skos:prefLabel ?futureLabel ;
+         skos:definition ?futureDescription ;
+		 dct:publisher ?orgDrupal .
+
+?orgDrupal foaf:name ?nameOrg ;
+     dct:identifier ?notationOrg .
+     
+BIND (IRI(CONCAT("http://data.landportal.info/dataset/",?notationDataset)) AS ?datasetURI)
+BIND (IRI(REPLACE(REPLACE(STR(?datasetDrupal), "https://","http://"),"beta.landportal.info","landportal.info")) AS ?datasetDrupalCurated)
+
+BIND (IRI(CONCAT("http://data.landportal.info/organization/",?notationOrg)) AS ?organizationURI)
+BIND (IRI(REPLACE(REPLACE(STR(?orgDrupal), "https://","http://"),"beta.landportal.info","landportal.info")) AS ?organizationDrupalCurated)
+
+} ORDER BY (?notationDataset)
