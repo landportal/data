@@ -1,0 +1,37 @@
+# Only in the graph http://indicators.landportal.info , the indicator has the skos:prefLabel 
+
+PREFIX ex: <http://www.example.org/rdf#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dcat: <http://www.w3.org/ns/dcat#>
+
+CONSTRUCT {
+   ?indicatorURI  a <http://purl.org/weso/ontology/computex#Indicator> ;
+                  skos:notation ?notationIndicator ;
+                  ex:label  ?futureLabel ;
+                  ex:description ?futureDescription ;
+                  ex:unit ?unit ;
+                  ex:dataset ?datasetURI ;
+                  rdfs:seeAlso ?indicatorDrupalCurated .
+}
+
+FROM <http://indicators.landportal.info>
+FROM <http://datasets.landportal.info>
+WHERE {
+?indicatorDrupal a <http://purl.org/weso/ontology/computex#Indicator> ;
+                 skos:notation ?notationIndicator ;
+                 skos:prefLabel ?futureLabel ;
+                 skos:definition ?futureDescription ;
+				 ex:unit ?unit ;
+				 ex:dataset ?dataset . 
+
+?dataset a dcat:Dataset ;
+         skos:notation ?notationDataset .
+
+#VALUES ?notationDataset {"NKT-VGGT16"} .
+
+BIND (IRI(CONCAT("http://data.landportal.info/indicator/",?notationIndicator)) AS ?indicatorURI)
+BIND (IRI(CONCAT("http://data.landportal.info/dataset/",?notationDataset)) AS ?datasetURI)
+BIND (IRI(REPLACE(REPLACE(STR(?indicatorDrupal), "https://","http://"),"beta.landportal.info","landportal.info")) AS ?indicatorDrupalCurated)
+
+}
