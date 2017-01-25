@@ -1,0 +1,23 @@
+# Remove all observations of a dataset
+WITH <http://remove.landportal.info> 
+DELETE
+{ ?obs ?p ?o }
+WHERE {
+    ?obs a qb:Observation ;
+         qb:dataSet ?dataset ;
+         ?p ?o .
+    VALUES ?dataset {<http://data.landportal.info/dataset/NKT-VGGT16> } .
+}
+
+######
+
+#Select all observations of a dataset
+
+SELECT DISTINCT ?obs ?p ?o
+FROM <http://remove.landportal.info> 
+WHERE {
+    ?obs a qb:Observation ;
+         qb:dataSet ?dataset ;
+         ?p ?o .
+    VALUES ?dataset {<http://data.landportal.info/dataset/NKT-VGGT16> } .
+}
