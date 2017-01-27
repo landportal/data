@@ -1,0 +1,39 @@
+PREFIX ghi: <http://data.ifpri.org/lod/ghi/resource/>
+PREFIX fao: <http://aims.fao.org/aos/geopolitical.owl#>
+
+# doing xsd:double(?value) AS ?value, we are removing the value as string "<5"
+SELECT (STR(?indicatorID) AS ?indicatorID) (STR(?iso3) AS ?Country) (STR(?year) AS ?Year) (?valueDouble AS ?Value)
+FROM <http://ghi.landportal.info>
+WHERE {
+   ?ifpriResource a ?ifpriIndicator ;
+      ghi:hasYear ?year ;
+      ghi:hasSpatialCoverage ?country ;
+      ghi:hasIndex  ?value .
+   ?country fao:codeISO3 ?iso3 .
+   BIND (IF (isNumeric(?value), xsd:double(?value), xsd:double("4.5")) AS ?valueDouble)
+   VALUES (?ifpriIndicator ?indicatorID) {
+         ( <http://data.ifpri.org/lod/ghi/resource/Global_Hunger_Index> "GHI" )
+   }
+} ORDER BY ?country ?year
+
+
+=========================================================================================
+
+PREFIX ghi: <http://data.ifpri.org/lod/ghi/resource/>
+PREFIX fao: <http://aims.fao.org/aos/geopolitical.owl#>
+
+SELECT (STR(?indicatorID) AS ?indicatorID) (STR(?iso3) AS ?Country) (STR(?year) AS ?Year) (?value AS ?Value)
+FROM <http://ghi.landportal.info>
+WHERE {
+   ?ifpriResource a ?ifpriIndicator  ;
+      ghi:hasGHIReferringYear ?year ;
+      ghi:hasSpatialCoverage ?country ;
+      ghi:hasIndicatorValue  ?value .
+   ?country fao:codeISO3 ?iso3 .
+   VALUES (?ifpriIndicator ?indicatorID) {
+         ( <http://data.ifpri.org/lod/ghi/resource/Child_Mortality> "GHI-CHILD_MORTALITY" )
+         ( <http://data.ifpri.org/lod/ghi/resource/Child_Stunting> "GHI-CHILD_STUNTING" )
+         ( <http://data.ifpri.org/lod/ghi/resource/Child_Wasting> "GHI-CHILD_WASTING" )
+         ( <http://data.ifpri.org/lod/ghi/resource/Undernourishment> "GHI-UNDERNOURISHMENT" )
+   }
+} ORDER BY ?country ?year

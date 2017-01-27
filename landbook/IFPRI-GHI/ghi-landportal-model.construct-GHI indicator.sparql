@@ -1,0 +1,57 @@
+PREFIX ghi: <http://data.ifpri.org/lod/ghi/resource/>
+PREFIX fao: <http://aims.fao.org/aos/geopolitical.owl#>
+PREFIX qb:  <http://purl.org/linked-data/cube#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX cex: <http://purl.org/weso/ontology/computex#>
+PREFIX time: <http://www.w3.org/2006/time#>
+PREFIX dct: <http://purl.org/dc/terms/>
+
+CONSTRUCT   {
+   ?obs rdf:type qb:Observation ;
+        cex:ref-area ?newCountryUri ;
+        cex:ref-indicator ?indicatorURL;
+        qb:dataSet ?datasetURL ;
+        cex:computation <http://purl.org/weso/ontology/computex#Raw> ;
+        dct:issued ?now ;
+        rdfs:label ?obsLabel;
+        cex:value ?valueDouble;
+        cex:ref-time ?yearURL.
+    ?yearURL rdf:type time:DateTimeInterval ;
+             time:hasBeginning ?yearBegin ;
+             time:hasEnd ?yearEnd ;
+             time:hasDateTimeDescription ?yearDescription .
+
+    ?yearBegin rdf:type time:Instant ;
+               time:inXSDDateTime ?yearBeginDateTime .
+    ?yearEnd rdf:type time:Instant ;
+               time:inXSDDateTime ?yearEndDateTime .
+
+}
+#SELECT ?iso3 (STR(?year) AS ?year) ?valueDouble ?obs
+FROM <http://ghi.landportal.info>
+WHERE {
+   ?ifpriResource a  ?ifpriIndicator;
+      ghi:hasYear ?year ;
+      ghi:hasIndex  ?value ;
+      ghi:hasSpatialCoverage ?country .
+   ?country fao:codeISO3 ?iso3 .
+
+   VALUES (?ifpriIndicator ?indicatorID) {
+         ( <http://data.ifpri.org/lod/ghi/resource/Global_Hunger_Index> "IFPRI-GHI" )
+   }
+
+   BIND (URI(CONCAT("http://data.landportal.info/geo/",?iso3)) AS ?newCountryUri)
+   BIND (IF (isNumeric(?value), xsd:double(?value), xsd:double("4.5")) AS ?valueDouble)
+   BIND ("IFPRI-GHI" AS ?datasetLabel)
+   BIND (URI(CONCAT("http://data.landportal.info/dataset/",?datasetLabel)) AS ?datasetURL)
+   BIND (URI(CONCAT("http://data.landportal.info/indicator/",?indicatorID)) AS ?indicatorURL)
+   BIND (URI(CONCAT("http://data.landportal.info/dataset/",?datasetLabel, "/observation/",?indicatorID ,"_",?iso3,"_",?year)) AS ?obs)
+   BIND (CONCAT("Observation of ",STR(?iso3)," within the period of ",STR(?year)," for indicator ",?indicatorID) AS ?obsLabel)
+   BIND (now() AS ?now)
+   BIND (URI(CONCAT("http://data.landportal.info/time/",?year)) AS ?yearURL)
+   BIND (URI(CONCAT("http://data.landportal.info/time/instant_",?year,"_1_1")) AS ?yearBegin)
+   BIND (URI(CONCAT("http://data.landportal.info/time/instant_",?year,"_12_31")) AS ?yearEnd)
+   BIND (URI(CONCAT(?yearURL, "_desc")) AS ?yearDescription)
+   BIND (xsd:dateTime(CONCAT(?year,"-01-01T00:00:00+00:00")) AS ?yearBeginDateTime)
+   BIND (xsd:dateTime(CONCAT(?year,"-12-31T00:00:00+00:00")) AS ?yearEndDateTime)
+}
