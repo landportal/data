@@ -6,9 +6,10 @@ PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 PREFIX qb:   <http://purl.org/linked-data/cube#>
 
 SELECT DISTINCT
-?countryURL COUNT(?obs) AS ?nObs
+?countryURI COUNT(?obs) AS ?nObs
 FROM <http://data.landportal.info>
 WHERE{
-   ?countryURL a <http://purl.org/weso/landbook/ontology#Country> .
-   OPTIONAL{?obs cex:ref-area ?countryURL}
-} ORDER BY ?nObs ?countryURL
+   ?countryURI a <http://purl.org/weso/landbook/ontology#Country> .
+   OPTIONAL{?obs cex:ref-area ?countryURI}
+   FILTER isIRI(?countryURI)
+} ORDER BY ?countryURI
