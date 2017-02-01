@@ -1,0 +1,24 @@
+# STEP 1 (in local machine)
+# login in data server
+ssh root@data.landportal.info
+
+
+# STEP 2 (in remote machine)
+cd db
+
+# delete log file
+rm output_virtuoso-graph-dump.log
+
+# the script virtuoso-graph-dump.isql was uploaded before
+# connect and run sparql script
+isql-vt 1111 USER PASSWORD virtuoso-graph-dump.isql > output_virtuoso-graph-dump.log
+
+# See the log file
+cat output_virtuoso-graph-dump.log
+
+#logout data server
+exit
+
+# STEP 3 (in local machine)
+# get files from the remote folder virtuoso-backup
+scp root@data.landportal.info:/var/lib/virtuoso-opensource-7/db/dump_* .

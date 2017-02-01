@@ -1,0 +1,4 @@
+# see http://virtuoso.openlinksw.com/dataspace/doc/dav/wiki/Main/VirtRDFDatasetDump
+dump_one_graph ('http://library.landportal.info', './dump_library_', 1000000000); 
+dump_one_graph ('http://book.landportal.org', './dump_book_', 1000000000); 
+dump_one_graph ('http://data.landportal.info', './dump_data_', 1000000000); 
