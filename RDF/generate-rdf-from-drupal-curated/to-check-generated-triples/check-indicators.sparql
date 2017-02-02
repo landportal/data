@@ -1,37 +1,39 @@
 PREFIX cex: <http://purl.org/weso/ontology/computex#>
-PREFIX ex: <http://www.example.org/rdf#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dct: <http://purl.org/dc/terms/>
+PREFIX sdmx-attribute: <http://purl.org/linked-data/sdmx/2009/attribute#>
 
-SELECT DISTINCT ?indicatorURL ?notation ?indicatorLabel ?indicatorDescription ?unitLabel ?datasetURI ?seeAlso
+SELECT DISTINCT ?indicatorURI ?notation ?indicatorLabel ?indicatorDescription ?unitLabel ?datasetURI ?seeAlso
 FROM <http://data.landportal.info>
 WHERE {
-?obs cex:ref-indicator ?indicatorURL .
-OPTIONAL { ?indicatorURL skos:notation ?notation }
-OPTIONAL { ?indicatorURL ex:label ?indicatorLabel }
-OPTIONAL { ?indicatorURL ex:description ?indicatorDescription }
-OPTIONAL { ?indicatorURL ex:unit ?unitLabel }
-OPTIONAL { ?indicatorURL ex:dataset ?datasetURI }
-OPTIONAL { ?indicatorURL rdfs:seeAlso ?seeAlso }
+?indicatorURI a cex:Indicator .
+OPTIONAL { ?indicatorURI skos:notation ?notation ;
+                         rdfs:label ?indicatorLabel ;
+                         dct:description ?indicatorDescription ;
+                         sdmx-attribute:unitMeasure ?unitLabel ;
+                         dct:source ?datasetURI ;
+                         rdfs:seeAlso ?seeAlso . }
 } ORDER BY ?notation
 
 
 # NUMBER OF INDICATORS
 PREFIX cex: <http://purl.org/weso/ontology/computex#>
-PREFIX ex: <http://www.example.org/rdf#>
+PREFIX dct: <http://purl.org/dc/terms/>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX sdmx-attribute: <http://purl.org/linked-data/sdmx/2009/attribute#>
 
 SELECT (COUNT(*) AS ?count) {
-SELECT DISTINCT ?indicatorURL ?notation ?indicatorLabel ?indicatorDescription ?unitLabel ?datasetURI ?seeAlso
+SELECT DISTINCT ?indicatorURI ?notation ?indicatorLabel ?indicatorDescription ?unitLabel ?datasetURI ?seeAlso
 FROM <http://data.landportal.info>
 WHERE {
-?obs cex:ref-indicator ?indicatorURL .
-OPTIONAL { ?indicatorURL skos:notation ?notation }
-OPTIONAL { ?indicatorURL ex:label ?indicatorLabel }
-OPTIONAL { ?indicatorURL ex:description ?indicatorDescription }
-OPTIONAL { ?indicatorURL ex:unit ?unitLabel }
-OPTIONAL { ?indicatorURL ex:dataset ?datasetURI }
-OPTIONAL { ?indicatorURL rdfs:seeAlso ?seeAlso }
+?indicatorURI a cex:Indicator .
+OPTIONAL { ?indicatorURI skos:notation ?notation ;
+                         rdfs:label ?indicatorLabel ;
+                         dct:description ?indicatorDescription ;
+                         sdmx-attribute:unitMeasure ?unitLabel ;
+                         dct:source ?datasetURI ;
+                         rdfs:seeAlso ?seeAlso . }
 } ORDER BY ?notation
 }

@@ -1,18 +1,20 @@
 PREFIX cex: <http://purl.org/weso/ontology/computex#>
-PREFIX ex: <http://www.example.org/rdf#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dct: <http://purl.org/dc/terms/>
+PREFIX sdmx-attribute: <http://purl.org/linked-data/sdmx/2009/attribute#>
 
-SELECT DISTINCT ?indicatorURL ?indicatorLabel ?indicatorDescription ?unitLabel ?datasetURL ?datasetLabel ?sourceOrgURL ?sourceOrgLabel
+SELECT DISTINCT ?indicatorURI ?indicatorLabel ?indicatorDescription ?unitLabel ?datasetURI ?datasetLabel ?publisherOrgURI ?publisherOrgLabel
 FROM <http://data.landportal.info>
 WHERE {
-?obs cex:ref-indicator ?indicatorURL .
-OPTIONAL { ?indicatorURL ex:label ?indicatorLabel ;
-              ex:description ?indicatorDescription ;
-              ex:unit ?unitLabel ;
-	      ex:dataset ?datasetURL .
+?indicatorURI a cex:Indicator .
+OPTIONAL { ?indicatorURI rdfs:label ?indicatorLabel ;
+              dct:description ?indicatorDescription ;
+              sdmx-attribute:unitMeasure ?unitLabel ;
+	          dct:source ?datasetURI .
 			   
-	 ?datasetURL ex:label ?datasetLabel ;
-	             ex:org ?sourceOrgURL .
+	 ?datasetURI rdfs:label ?datasetLabel ;
+	             dct:publisher ?publisherOrgURI .
 	
-	 ?sourceOrgURL ex:label ?sourceOrgLabel.
+	 ?publisherOrgURI rdfs:label ?publisherOrgLabel.
 	}
 }

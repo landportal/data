@@ -1,17 +1,20 @@
 # Only in the graph http://indicators.landportal.info , the indicator has the skos:prefLabel 
 
-PREFIX ex: <http://www.example.org/rdf#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX qb: <http://purl.org/linked-data/cube#>
+PREFIX dct: <http://purl.org/dc/terms/>
+PREFIX sdmx-attribute: <http://purl.org/linked-data/sdmx/2009/attribute#>
 
 CONSTRUCT {
    ?indicatorURI  a <http://purl.org/weso/ontology/computex#Indicator> ;
                   skos:notation ?notationIndicator ;
-                  ex:label  ?futureLabel ;
-                  ex:description ?futureDescription ;
-                  ex:unit ?unit ;
-                  ex:dataset ?datasetURI ;
+                  rdfs:label  ?label ;
+                  dct:title  ?label ;
+                  rdfs:comment ?description ;
+                  dct:description ?description ;
+                  sdmx-attribute:unitMeasure ?unit ;
+                  dct:source ?datasetURI ;
                   rdfs:seeAlso ?indicatorDrupalCurated .
 }
 
@@ -20,10 +23,10 @@ FROM <http://datasets.landportal.info>
 WHERE {
 ?indicatorDrupal a <http://purl.org/weso/ontology/computex#Indicator> ;
                  skos:notation ?notationIndicator ;
-                 skos:prefLabel ?futureLabel ;
-                 skos:definition ?futureDescription ;
-				 ex:unit ?unit ;
-				 ex:dataset ?dataset . 
+                 skos:prefLabel ?label ;
+                 skos:definition ?description ;
+				 sdmx-attribute:unitMeasure ?unit ;
+				 dct:source ?dataset . 
 
 ?dataset a qb:DataSet ;
          skos:notation ?notationDataset .

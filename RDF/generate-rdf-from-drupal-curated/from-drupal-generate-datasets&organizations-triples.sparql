@@ -1,20 +1,24 @@
 # Only in the graph http://datasets.landportal.info , the datasets has the skos:prefLabel 
 
-PREFIX ex: <http://www.example.org/rdf#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX qb: <http://purl.org/linked-data/cube#>
+PREFIX dct: <http://purl.org/dc/terms/>
+
 CONSTRUCT {
    ?datasetURI a qb:DataSet ;
                skos:notation ?notationDataset ;
-               ex:label  ?futureLabel ;
-               ex:description ?futureDescription ;
+               rdfs:label  ?label ;
+               dct:title  ?label ;
+               rdfs:commnent ?description ;
+               dct:description ?description ;
                rdfs:seeAlso ?datasetDrupalCurated ;
-			   ex:org ?organizationURI .
+			   dct:publisher ?organizationURI .
 
    ?organizationURI a foaf:Organization ;
                skos:notation ?notationOrg;
-               ex:label  ?nameOrg;
+               rdfs:label  ?labelOrg ;
+               dct:title  ?labelOrg ;
                rdfs:seeAlso ?organizationDrupalCurated .
 }
 FROM <http://organizations.landportal.info>
@@ -22,11 +26,11 @@ FROM <http://datasets.landportal.info>
 WHERE {
 ?datasetDrupal a qb:DataSet ;
          skos:notation ?notationDataset ;
-         skos:prefLabel ?futureLabel ;
-         skos:definition ?futureDescription ;
+         skos:prefLabel ?label ;
+         skos:definition ?description ;
 		 dct:publisher ?orgDrupal .
 
-?orgDrupal foaf:name ?nameOrg ;
+?orgDrupal foaf:name ?labelOrg ;
      dct:identifier ?notationOrg .
      
 BIND (IRI(CONCAT("http://data.landportal.info/dataset/",?notationDataset)) AS ?datasetURI)

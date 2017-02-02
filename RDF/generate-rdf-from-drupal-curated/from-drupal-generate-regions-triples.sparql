@@ -1,14 +1,15 @@
 # Select only the ones with ISO3 (3 letters)
 # As far as UN M49 is also skos:notation
 
-PREFIX ex: <http://www.example.org/rdf#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX dct: <http://purl.org/dc/terms/>
 
 CONSTRUCT   {
    ?regionURI a <http://purl.org/weso/landbook/ontology#Country> ;
-              ex:label ?label ;
-	      skos:notation ?iso3 .
+              rdfs:label ?label ;
+              dct:title ?label ;
+              skos:notation ?iso3 .
 }
 FROM <http://regions.landportal.info>
 WHERE {
