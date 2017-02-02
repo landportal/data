@@ -17,7 +17,7 @@ FROM <http://licenses.landportal.info>
 WHERE {
 ?licenseDrupal a odrl:Policy ;
                 rdfs:label ?futureLabel ;
-                dct:identifier ?acronym ;
+                dct:identifier ?acronym .
 				OPTIONAL {?licenseDrupal owl:sameAs ?rdflicenseURI. }
 BIND (IRI(REPLACE(REPLACE(STR(?licenseDrupal), "https://","http://"),"beta.landportal.info","landportal.info")) AS ?licenseDrupalCurated)
 BIND (IRI(CONCAT("http://data.landportal.info/license/",?acronym)) AS ?licenseURI)
