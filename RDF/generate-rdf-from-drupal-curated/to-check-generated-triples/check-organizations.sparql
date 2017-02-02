@@ -1,0 +1,12 @@
+PREFIX cex: <http://purl.org/weso/ontology/computex#>
+PREFIX ex: <http://www.example.org/rdf#>
+
+SELECT DISTINCT ?datasetOrg ?OrgLabel ?seeAlso
+FROM <http://data.landportal.info>
+
+WHERE {
+?datasetURL ex:org ?datasetOrg
+ OPTIONAL { ?datasetOrg ex:label ?OrgLabel}
+ OPTIONAL { ?datasetOrg rdfs:seeAlso ?seeAlso}
+
+}
