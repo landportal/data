@@ -3,7 +3,7 @@
 PREFIX ex: <http://www.example.org/rdf#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-PREFIX dcat: <http://www.w3.org/ns/dcat#>
+PREFIX qb: <http://purl.org/linked-data/cube#>
 
 CONSTRUCT {
    ?indicatorURI  a <http://purl.org/weso/ontology/computex#Indicator> ;
@@ -25,7 +25,7 @@ WHERE {
 				 ex:unit ?unit ;
 				 ex:dataset ?dataset . 
 
-?dataset a dcat:Dataset ;
+?dataset a qb:DataSet ;
          skos:notation ?notationDataset .
 
 #VALUES ?notationDataset {"NKT-VGGT16"} .

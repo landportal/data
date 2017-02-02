@@ -3,10 +3,9 @@
 PREFIX ex: <http://www.example.org/rdf#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-PREFIX dcat: <http://www.w3.org/ns/dcat#>
-
+PREFIX qb: <http://purl.org/linked-data/cube#>
 CONSTRUCT {
-   ?datasetURI a dcat:Dataset ;
+   ?datasetURI a qb:DataSet ;
                skos:notation ?notationDataset ;
                ex:label  ?futureLabel ;
                ex:description ?futureDescription ;
@@ -21,7 +20,7 @@ CONSTRUCT {
 FROM <http://organizations.landportal.info>
 FROM <http://datasets.landportal.info>
 WHERE {
-?datasetDrupal a dcat:Dataset ;
+?datasetDrupal a qb:DataSet ;
          skos:notation ?notationDataset ;
          skos:prefLabel ?futureLabel ;
          skos:definition ?futureDescription ;
