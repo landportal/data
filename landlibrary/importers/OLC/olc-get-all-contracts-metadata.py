@@ -1,7 +1,7 @@
 import urllib, json
 from sets import Set
 
-url = "http://rc-api-stage.elasticbeanstalk.com/api/contracts?category=olc&per_page=500"
+url = "http://api.resourcecontracts.org/contracts?category=olc&per_page=500"
 response = urllib.urlopen(url) 
 html=response.read() 
 data = json.loads(html)
@@ -16,14 +16,14 @@ for record in results:
 	id = record['id']
 	if (id):
 		print "%i - Contract #%s" %(i,id)
-        resultSet.add(id)
+		resultSet.add(id)
 
 print "Total %d" %i
 print "**********************************"
 
 contracts=[]
 for rs in sorted(resultSet):
-	contract_metadata_url = "http://rc-api-stage.elasticbeanstalk.com/api/contract/"+str(rs)+"/metadata"
+	contract_metadata_url = "http://api.resourcecontracts.org/contracts/"+str(rs)+"/metadata"
 	response = urllib.urlopen(contract_metadata_url) 
 	html=response.read() 
 	data = json.loads(html)
