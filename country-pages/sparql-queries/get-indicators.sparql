@@ -2,18 +2,15 @@
 # NOTE: the properties for label and description MUST change
 
 PREFIX cex: <http://purl.org/weso/ontology/computex#>
-PREFIX ex: <http://www.example.org/rdf#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-
+PREFIX dct: <http://purl.org/dc/terms/>
 
 SELECT * 
 FROM <http://data.landportal.info>
 WHERE {
 ?indicatorUrl a cex:Indicator ;
 	skos:notation ?ID;
-	ex:label ?label ;
-    ex:description ?description .
-	# rdfs:label ?label ;
-	# skos:definition ?description .
+	rdfs:label ?label ;
+    dct:description ?description .
 }
 ORDER BY ?label

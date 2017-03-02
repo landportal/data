@@ -2,15 +2,15 @@
 # NOTE: the properties for label and description MUST change
 
 PREFIX qb: <http://purl.org/linked-data/cube#>
-PREFIX ex: <http://www.example.org/rdf#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX dct: <http://purl.org/dc/terms/>
 
-SELECT DISTINCT ?ID ?label
+SELECT DISTINCT ?ID ?label ?description
 FROM <http://data.landportal.info>
 WHERE {
 ?dataset a qb:DataSet ;
      skos:notation ?ID ;
-     ex:label ?label .
-     #ex:description ?description .
+     rdfs:label ?label ;
+     dct:description ?description .
 }
 ORDER BY ?label
