@@ -2,6 +2,7 @@ from SPARQLWrapper import SPARQLWrapper, JSON
 from cmath import sqrt
 import datetime
 
+
 def statsReview(indicator):
     date = now = datetime.datetime.now().strftime("%Y-%m-%d")
 
@@ -85,9 +86,9 @@ def getIndicators():
     PREFIX cex: <http://purl.org/weso/ontology/computex#>
     
     SELECT DISTINCT ?indicatorURL
-    FROM <http://old-data.landportal.info>
+    FROM <http://data.landportal.info>
     WHERE {
-       ?indicatorURL a cex:Indicator . # ?obs cex:ref-indicator ?indicatorURL .
+       ?indicatorURL a cex:Indicator .
     } ORDER BY ?indicatorURL
     """
     sparql.setQuery(sparql_get_indicators)
