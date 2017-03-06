@@ -1,7 +1,6 @@
 PREFIX cp: <http://www.constituteproject.org/ontology/>
 PREFIX dct: <http://purl.org/dc/terms/>
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-PREFIX cex: <http://purl.org/weso/ontology/computex#>
 
 CONSTRUCT   {
    ?const dct:title ?title ;
