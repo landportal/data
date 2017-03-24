@@ -32,7 +32,9 @@ WHERE {
 
 ?orgDrupal foaf:name ?labelOrg ;
      dct:identifier ?notationOrg .
-     
+
+#VALUES ?notationDataset {"WB-ENV" "WB-CC"} .
+
 BIND (IRI(CONCAT("http://data.landportal.info/dataset/",?notationDataset)) AS ?datasetURI)
 BIND (IRI(REPLACE(REPLACE(STR(?datasetDrupal), "https://","http://"),"beta.landportal.info","landportal.info")) AS ?datasetDrupalCurated)
 
