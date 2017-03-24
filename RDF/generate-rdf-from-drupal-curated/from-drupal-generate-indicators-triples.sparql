@@ -8,6 +8,7 @@ PREFIX sdmx-attribute: <http://purl.org/linked-data/sdmx/2009/attribute#>
 
 CONSTRUCT {
    ?indicatorURI  a <http://purl.org/weso/ontology/computex#Indicator> ;
+                  dct:identifier ?notationIndicator ;
                   skos:notation ?notationIndicator ;
                   rdfs:label  ?label ;
                   dct:title  ?label ;
