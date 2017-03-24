@@ -8,6 +8,7 @@ PREFIX dct: <http://purl.org/dc/terms/>
 CONSTRUCT {
    ?datasetURI a qb:DataSet ;
                skos:notation ?notationDataset ;
+               dct:identifier ?notationDataset ;
                rdfs:label  ?label ;
                dct:title  ?label ;
                rdfs:commnent ?description ;
