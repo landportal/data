@@ -1,0 +1,67 @@
+PREFIX schema: <http://schema.org/>
+SELECT DISTINCT ?article ?title ?date
+FROM <http://news.landportal.info>
+WHERE {
+?article a schema:NewsArticle ;
+    schema:headline ?title ;
+    schema:about ?theme ;
+    schema:spatialCoverage ?area .
+VALUES ?theme { <http://data.landportal.info/voc/landvoc/theme/T-GENDER> }
+VALUES ?area  { 
+<http://data.landportal.info/geo/419>
+<http://data.landportal.info/geo/AIA>
+<http://data.landportal.info/geo/ATG>
+<http://data.landportal.info/geo/ABW>
+<http://data.landportal.info/geo/BHS>
+<http://data.landportal.info/geo/BRB>
+<http://data.landportal.info/geo/BES>
+<http://data.landportal.info/geo/VGB>
+<http://data.landportal.info/geo/CYM>
+<http://data.landportal.info/geo/CUB>
+<http://data.landportal.info/geo/CUW>
+<http://data.landportal.info/geo/DMA>
+<http://data.landportal.info/geo/DOM>
+<http://data.landportal.info/geo/GRD>
+<http://data.landportal.info/geo/GLP>
+<http://data.landportal.info/geo/HTI>
+<http://data.landportal.info/geo/JAM>
+<http://data.landportal.info/geo/MTQ>
+<http://data.landportal.info/geo/MSR>
+<http://data.landportal.info/geo/PRI>
+<http://data.landportal.info/geo/BLM>
+<http://data.landportal.info/geo/KNA>
+<http://data.landportal.info/geo/LCA>
+<http://data.landportal.info/geo/MAF>
+<http://data.landportal.info/geo/VCT>
+<http://data.landportal.info/geo/SXM>
+<http://data.landportal.info/geo/TTO>
+<http://data.landportal.info/geo/TCA>
+<http://data.landportal.info/geo/VIR>
+<http://data.landportal.info/geo/BLZ>
+<http://data.landportal.info/geo/CRI>
+<http://data.landportal.info/geo/SLV>
+<http://data.landportal.info/geo/GTM>
+<http://data.landportal.info/geo/HND>
+<http://data.landportal.info/geo/MEX>
+<http://data.landportal.info/geo/NIC>
+<http://data.landportal.info/geo/PAN>
+<http://data.landportal.info/geo/ARG>
+<http://data.landportal.info/geo/BOL>
+<http://data.landportal.info/geo/BRA>
+<http://data.landportal.info/geo/CHL>
+<http://data.landportal.info/geo/COL>
+<http://data.landportal.info/geo/ECU>
+<http://data.landportal.info/geo/FLK>
+<http://data.landportal.info/geo/GUF>
+<http://data.landportal.info/geo/GUY>
+<http://data.landportal.info/geo/PRY>
+<http://data.landportal.info/geo/PER>
+<http://data.landportal.info/geo/SGS>
+<http://data.landportal.info/geo/SUR>
+<http://data.landportal.info/geo/URY>
+<http://data.landportal.info/geo/VEN>
+}
+    OPTIONAL { ?article schema:datePublished ?date . }
+} 
+ORDER BY DESC(?date) 
+LIMIT 10
