@@ -3,12 +3,12 @@
 # Ordered by indicatorURL
 
 PREFIX cex: <http://purl.org/weso/ontology/computex#>
-PREFIX ex: <http://www.example.org/rdf#>
+PREFIX dct: <http://purl.org/dc/terms/>
 
 SELECT DISTINCT ?indicatorURL ?indicatorLabel ?indicatorDescription
 FROM <http://data.landportal.info>
 WHERE {
 ?obs cex:ref-indicator ?indicatorURL .
-?indicatorURL ex:label ?indicatorLabel ;
-              ex:description ?indicatorDescription .
+?indicatorURL rdfs:label ?indicatorLabel ;
+              dct:description ?indicatorDescription .
 } ORDER BY ?indicatorURL

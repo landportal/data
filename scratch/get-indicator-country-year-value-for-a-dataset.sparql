@@ -1,6 +1,6 @@
 PREFIX cex: <http://purl.org/weso/ontology/computex#>
+PREFIX dct: <http://purl.org/dc/terms/>
 PREFIX time: <http://www.w3.org/2006/time#>
-PREFIX ex: <http://www.example.org/rdf#>
 
 SELECT ?indicatorID ?countryISO3 (year(?dateTime) AS ?year) ?value
 FROM <http://data.landportal.info>
@@ -14,7 +14,7 @@ WHERE {
      ?time time:hasBeginning ?timeValue .
      ?timeValue time:inXSDDateTime ?dateTime .
 
-     ?indicatorURL ex:dataset ?datasetURL. 
+     ?indicatorURL dct:source ?datasetURL. 
 
 BIND (REPLACE(STR(?countryURL), "http://data.landportal.info/geo/","") AS ?countryISO3)
 BIND (REPLACE(STR(?indicatorURL), "http://data.landportal.info/indicator/","") AS ?indicatorID)

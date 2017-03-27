@@ -1,6 +1,7 @@
 PREFIX cex: <http://purl.org/weso/ontology/computex#>
+PREFIX dct: <http://purl.org/dc/terms/>
+PREFIX sdmx-attribute: <http://purl.org/linked-data/sdmx/2009/attribute#>
 PREFIX time: <http://www.w3.org/2006/time#>
-PREFIX ex: <http://www.example.org/rdf#>
 
 SELECT ?indicatorLabel ?indicatorDescription ?year ?value ?unitLabel ?datasetURL ?datasetLabel ?sourceOrgURL ?sourceOrgLabel
 FROM <http://data.landportal.info>
@@ -12,18 +13,19 @@ WHERE {
      cex:ref-time ?time .
 
 ?time time:hasBeginning ?timeValue .
-     ?timeValue time:inXSDDateTime ?dateTime .
 
-?indicatorURL ex:unit ?unitLabel ;
-     ex:dataset ?datasetURL .
+?timeValue time:inXSDDateTime ?dateTime .
+
+?indicatorURL sdmx-attribute:unitMeasure ?unitLabel ;
+     dct:source ?datasetURL .
 				   
-?datasetURL ex:label ?datasetLabel ;
-     ex:org ?sourceOrgURL .
+?datasetURL rdfs:label ?datasetLabel ;
+     dct:publisher ?sourceOrgURL .
 	
-?sourceOrgURL ex:label ?sourceOrgLabel.
+?sourceOrgURL rdfs:label ?sourceOrgLabel.
 
-?indicatorURL ex:label ?indicatorLabel ;
-              ex:description ?indicatorDescription .
+?indicatorURL rdfs:label ?indicatorLabel ;
+              dct:description ?indicatorDescription .
 
 BIND (STR(YEAR(?dateTime)) AS ?year)
 

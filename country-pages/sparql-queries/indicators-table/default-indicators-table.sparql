@@ -1,29 +1,29 @@
 PREFIX cex: <http://purl.org/weso/ontology/computex#>
+PREFIX dct: <http://purl.org/dc/terms/>
 PREFIX time: <http://www.w3.org/2006/time#>
-PREFIX ex: <http://www.example.org/rdf#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-
+PREFIX sdmx-attribute: <http://purl.org/linked-data/sdmx/2009/attribute#>
 
 SELECT ?obs ?indicatorURL ?indicatorSeeAlso ?indicatorLabel ?indicatorDescription (year(?dateTime) as ?year) ?value ?unitLabel ?datasetURL ?datasetSeeAlso ?datasetLabel ?sourceURL ?sourceLabel ?sourceSeeAlso
 FROM <http://data.landportal.info>
 WHERE {
 ?obs cex:ref-indicator ?indicatorURL ;
-	 cex:ref-time ?time ;
+     cex:ref-time ?time ;
      cex:value ?value.
      	 
-     ?indicatorURL ex:label ?indicatorLabel ;
-                   ex:description ?indicatorDescription ;
-				   rdfs:seeAlso ?indicatorSeeAlso;
-				   ex:unit ?unitLabel ;
-				   ex:dataset ?datasetURL .
+     ?indicatorURL rdfs:label ?indicatorLabel ;
+                   dct:description ?indicatorDescription ;
+		   rdfs:seeAlso ?indicatorSeeAlso;
+		   sdmx-attribute:unitMeasure ?unitLabel ;
+		   dct:source ?datasetURL .
 				   
-	 ?datasetURL ex:label ?datasetLabel ;
-				 rdfs:seeAlso ?datasetSeeAlso;
-	             ex:org ?sourceURL .
+	 ?datasetURL rdfs:label ?datasetLabel ;
+	  	     rdfs:seeAlso ?datasetSeeAlso;
+	             dct:publisher ?sourceURL .
 
 				   
-	 ?sourceURL ex:label ?sourceLabel ;
-	 			   rdfs:seeAlso ?sourceSeeAlso .
+	 ?sourceURL rdfs:label ?sourceLabel ;
+	 	    rdfs:seeAlso ?sourceSeeAlso .
 	 
      ?time time:hasBeginning ?timeValue .
      ?timeValue time:inXSDDateTime ?dateTime
