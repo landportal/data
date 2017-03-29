@@ -9,6 +9,7 @@ PREFIX dcat: <http://www.w3.org/ns/dcat#>
 CONSTRUCT {
    ?datasetURI a qb:DataSet ;
                a dcat:Dataset ;
+               a skos:Concept ;
                skos:notation ?notationDataset ;
                dct:identifier ?notationDataset ;
                rdfs:label  ?label ;
