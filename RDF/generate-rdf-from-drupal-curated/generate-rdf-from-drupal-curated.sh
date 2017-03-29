@@ -1,6 +1,5 @@
 declare -a arr_queries=("from-drupal-generate-regions-triples.sparql"
-                "from-drupal-generate-license-triples.sparql"
-				"from-drupal-generate-languages-triples.sparql"
+				"from-drupal-generate-languages-pending-triples.sparql"
 				"from-drupal-generate-indicators-triples.sparql"
 				"from-drupal-generate-datasets&organizations-triples.sparql"
                 )
