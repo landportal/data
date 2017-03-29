@@ -14,6 +14,7 @@ CONSTRUCT {
                   skos:notation ?notationIndicator ;
                   rdfs:label  ?label ;
                   dct:title  ?label ;
+                  skos:prefLabel ?label ;
                   rdfs:comment ?description ;
                   dct:description ?description ;
                   sdmx-attribute:unitMeasure ?unit ;

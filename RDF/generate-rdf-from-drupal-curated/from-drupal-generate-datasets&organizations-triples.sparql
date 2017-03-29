@@ -14,6 +14,7 @@ CONSTRUCT {
                dct:identifier ?notationDataset ;
                rdfs:label  ?label ;
                dct:title  ?label ;
+               skos:prefLabel ?label ;
                rdfs:commnent ?description ;
                dct:description ?description ;
                rdfs:seeAlso ?datasetDrupalCurated ;
