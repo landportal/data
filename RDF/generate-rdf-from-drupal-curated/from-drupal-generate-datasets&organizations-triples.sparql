@@ -17,6 +17,7 @@ CONSTRUCT {
                skos:prefLabel ?label ;
                rdfs:commnent ?description ;
                dct:description ?description ;
+               skos:definition ?description ;
                rdfs:seeAlso ?datasetDrupalCurated ;
 			   dct:publisher ?organizationURI .
 

@@ -17,6 +17,7 @@ CONSTRUCT {
                   skos:prefLabel ?label ;
                   rdfs:comment ?description ;
                   dct:description ?description ;
+                  skos:definition ?description ;
                   sdmx-attribute:unitMeasure ?unit ;
                   dct:source ?datasetURI ;
                   rdfs:seeAlso ?indicatorDrupalCurated .
