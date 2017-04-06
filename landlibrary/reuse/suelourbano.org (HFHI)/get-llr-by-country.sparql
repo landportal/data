@@ -1,16 +1,27 @@
-PREFIX bibo: <http://purl.org/ontology/bibo/>
+# Get Land Library Resources from a list of countries
+
 PREFIX dct: <http://purl.org/dc/terms/>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-SELECT DISTINCT ?llr ?llrLabel ?country ?countryLabel
+PREFIX edm: <http://www.europeana.eu/schemas/edm/>
+SELECT DISTINCT ?llr ?llrLabel
 FROM <http://library.landportal.info>
 WHERE {
-   ?llr a  bibo:Document ;
-        dct:spatial ?country ;
-        dct:title ?llrLabel .
-   ?country dct:identifier ?iso3 ;
-        rdfs:label ?countryLabel .
-FILTER ( ?iso3 = "BRA" || ?iso3 = "BOL" || ?iso3 = "ECU" || ?iso3 = "PER" || ?iso3 = "USA")
+?llr a dct:BibliographicResource ;
+    dct:title ?llrLabel ;
+    dct:subject ?theme ;
+    dct:spatial ?country .
+VALUES ?theme { <http://data.landportal.info/voc/landvoc/theme/T-URBAN> }
+VALUES ?country {
+  <http://data.landportal.info/geo/BRA>
+  <http://data.landportal.info/geo/BOL>
+  <http://data.landportal.info/geo/ECU>
+  <http://data.landportal.info/geo/PER>
+  <http://data.landportal.info/geo/USA>
 }
-ORDER BY ?llr
 
+MINUS { ?llr edm:dataProvider <http://data.landportal.info/organization/e339bc68-0064-4845-9957-f2ed2ef7d6a5> } #HFHI
 
+OPTIONAL { ?llr dct:issued ?date . }
+}
+ORDER BY DESC(?date)
+LIMIT 10
