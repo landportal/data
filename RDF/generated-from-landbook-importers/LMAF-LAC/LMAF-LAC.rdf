@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:cex="http://purl.org/weso/ontology/computex#"
+   xmlns:dcat="http://www.w3.org/ns/dcat#"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:qb="http://purl.org/linked-data/cube#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:sdmx-concept="http://purl.org/linked-data/sdmx/2009/concept#"
+   xmlns:time="http://www.w3.org/2006/time#"
+>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/LMAF-LAC/observation/LMAF-LAC-1.2.C_LAO_2011">
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/LMAF-LAC-1.2.C"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/LMAF-LAC"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-30</dct:issued>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LAO"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2011"/>
+    <rdfs:label xml:lang="en">Observation of LAO within the period of 2011 for indicator LMAF-LAC-1.2.C</rdfs:label>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">78.75</cex:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/LMAF-LAC/observation/LMAF-LAC-1.2.F_LAO_2011">
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.485</cex:value>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <rdfs:label xml:lang="en">Observation of LAO within the period of 2011 for indicator LMAF-LAC-1.2.F</rdfs:label>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2011"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/LMAF-LAC"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-30</dct:issued>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LAO"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/LMAF-LAC-1.2.F"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/LMAF-LAC/observation/LMAF-LAC-1.1.A_LAO_2011">
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2011"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/LMAF-LAC-1.1.A"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/LMAF-LAC"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1021.438</cex:value>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-30</dct:issued>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LAO"/>
+    <rdfs:label xml:lang="en">Observation of LAO within the period of 2011 for indicator LMAF-LAC-1.1.A</rdfs:label>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/LMAF-LAC/observation/LMAF-LAC-1.2.A_LAO_2011">
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/LMAF-LAC"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2011"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/LMAF-LAC-1.2.A"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-30</dct:issued>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">147.838</cex:value>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LAO"/>
+    <rdfs:label xml:lang="en">Observation of LAO within the period of 2011 for indicator LMAF-LAC-1.2.A</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/LMAF-LAC/observation/LMAF-LAC-2.1A.B_LAO_1999">
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-30</dct:issued>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1999"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.10926809521</cex:value>
+    <rdfs:label xml:lang="en">Observation of LAO within the period of 1999 for indicator LMAF-LAC-2.1A.B</rdfs:label>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LAO"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/LMAF-LAC"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/LMAF-LAC-2.1A.B"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/LMAF-LAC/observation/LMAF-LAC-9.1.B_LAO_2011">
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/LMAF-LAC-9.1.B"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">213.348747725</cex:value>
+    <rdfs:label xml:lang="en">Observation of LAO within the period of 2011 for indicator LMAF-LAC-9.1.B</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-30</dct:issued>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LAO"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2011"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/LMAF-LAC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/LMAF-LAC/observation/LMAF-LAC-1.1.B_LAO_2011">
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2011"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/LMAF-LAC-1.1.B"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/LMAF-LAC"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-30</dct:issued>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">782.839</cex:value>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LAO"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <rdfs:label xml:lang="en">Observation of LAO within the period of 2011 for indicator LMAF-LAC-1.1.B</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/LMAF-LAC/observation/LMAF-LAC-2.1A.C_LAO_1999">
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/LMAF-LAC-2.1A.C"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1999"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.767524263915</cex:value>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LAO"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/LMAF-LAC"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <rdfs:label xml:lang="en">Observation of LAO within the period of 1999 for indicator LMAF-LAC-2.1A.C</rdfs:label>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-30</dct:issued>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/LMAF-LAC/observation/LMAF-LAC-2.8.B_LAO_2011">
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/LMAF-LAC"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2011"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-30</dct:issued>
+    <rdfs:label xml:lang="en">Observation of LAO within the period of 2011 for indicator LMAF-LAC-2.8.B</rdfs:label>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1738.44942898</cex:value>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/LMAF-LAC-2.8.B"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LAO"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/LMAF-LAC/observation/LMAF-LAC-2.6.A_LAO_2011">
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/LMAF-LAC"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2011"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">734.664276966</cex:value>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-30</dct:issued>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/LMAF-LAC-2.6.A"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdfs:label xml:lang="en">Observation of LAO within the period of 2011 for indicator LMAF-LAC-2.6.A</rdfs:label>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LAO"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/LMAF-LAC/observation/LMAF-LAC-1.1.D_LAO_2011">
+    <rdfs:label xml:lang="en">Observation of LAO within the period of 2011 for indicator LMAF-LAC-1.1.D</rdfs:label>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LAO"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2011"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/LMAF-LAC-1.1.D"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/LMAF-LAC"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-30</dct:issued>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">238.599</cex:value>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/LMAF-LAC/observation/LMAF-LAC-2.1A.A_LAO_1999">
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.61891444217</cex:value>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/LMAF-LAC"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-30</dct:issued>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1999"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/LMAF-LAC-2.1A.A"/>
+    <rdfs:label xml:lang="en">Observation of LAO within the period of 1999 for indicator LMAF-LAC-2.1A.A</rdfs:label>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LAO"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/LMAF-LAC/observation/LMAF-LAC-1.1.D_LAO_1999">
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/LMAF-LAC-1.1.D"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LAO"/>
+    <rdfs:label xml:lang="en">Observation of LAO within the period of 1999 for indicator LMAF-LAC-1.1.D</rdfs:label>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1999"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-30</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/LMAF-LAC"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">129.996</cex:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/LMAF-LAC/observation/LMAF-LAC-2.6.D_LAO_2011">
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/LMAF-LAC-2.6.D"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LAO"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2011"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.6585044587</cex:value>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/LMAF-LAC"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdfs:label xml:lang="en">Observation of LAO within the period of 2011 for indicator LMAF-LAC-2.6.D</rdfs:label>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-30</dct:issued>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/LMAF-LAC/observation/LMAF-LAC-1.2.E_LAO_2011">
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LAO"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">66.008</cex:value>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/LMAF-LAC-1.2.E"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/LMAF-LAC"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-30</dct:issued>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2011"/>
+    <rdfs:label xml:lang="en">Observation of LAO within the period of 2011 for indicator LMAF-LAC-1.2.E</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/1999">
+    <time:hasBeginning rdf:resource="http://data.landportal.info/time/instant_1999_1_1"/>
+    <time:hasEnd rdf:resource="http://data.landportal.info/time/instant_1999_12_31"/>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeInterval"/>
+    <time:hasDateTimeDescription rdf:resource="http://data.landportal.info/time/1999_desc"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/LMAF-LAC/observation/LMAF-LAC-4.1.A_LAO_2011">
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LAO"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/LMAF-LAC"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-30</dct:issued>
+    <rdfs:label xml:lang="en">Observation of LAO within the period of 2011 for indicator LMAF-LAC-4.1.A</rdfs:label>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/LMAF-LAC-4.1.A"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">43.5407970188</cex:value>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2011"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/LMAF-LAC/observation/LMAF-LAC-1.2.B_LAO_2011">
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/LMAF-LAC-1.2.B"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2011"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/LMAF-LAC"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">556.251</cex:value>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-30</dct:issued>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LAO"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <rdfs:label xml:lang="en">Observation of LAO within the period of 2011 for indicator LMAF-LAC-1.2.B</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://landportal.info">
+    <rdfs:comment xml:lang="es">El primer destino en línea para información, recursos, innovación y contactos en materia de la problemática de la tierra.</rdfs:comment>
+    <rdfs:comment xml:lang="en">The leading online destination for information, resources, innovations and networking on land issues.</rdfs:comment>
+    <rdfs:label>landportal.info</rdfs:label>
+    <rdfs:comment xml:lang="fr">Premier site internet de partage d'informations, ressources, innovations et contacts sur les questions foncières.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2011_desc">
+    <time:unitType rdf:resource="http://www.w3.org/2006/time#unitYear"/>
+    <time:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2011</time:year>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeDescription"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/LMAF-LAC/observation/LMAF-LAC-2.6.B_LAO_2011">
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2011"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <rdfs:label xml:lang="en">Observation of LAO within the period of 2011 for indicator LMAF-LAC-2.6.B</rdfs:label>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">689.012198604</cex:value>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-30</dct:issued>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LAO"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/LMAF-LAC-2.6.B"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/LMAF-LAC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/LMAF-LAC/observation/LMAF-LAC-2.8.D_LAO_2011">
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-30</dct:issued>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LAO"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2011"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <rdfs:label xml:lang="en">Observation of LAO within the period of 2011 for indicator LMAF-LAC-2.8.D</rdfs:label>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/LMAF-LAC"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/LMAF-LAC-2.8.D"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">21.0713043825</cex:value>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/LMAF-LAC/observation/LMAF-LAC-2.1A.B_LAO_2011">
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/LMAF-LAC-2.1A.B"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-30</dct:issued>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <rdfs:label xml:lang="en">Observation of LAO within the period of 2011 for indicator LMAF-LAC-2.1A.B</rdfs:label>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LAO"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2011"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/LMAF-LAC"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.68982690303</cex:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/LMAF-LAC/observation/LMAF-LAC-9.1.F_LAO_2011">
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2011"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/LMAF-LAC-9.1.F"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8.58551317227</cex:value>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-30</dct:issued>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/LMAF-LAC"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <rdfs:label xml:lang="en">Observation of LAO within the period of 2011 for indicator LMAF-LAC-9.1.F</rdfs:label>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LAO"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/LMAF-LAC/observation/LMAF-LAC-9.1.D_LAO_2011">
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2011"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LAO"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-30</dct:issued>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">526.785836072</cex:value>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/LMAF-LAC-9.1.D"/>
+    <rdfs:label xml:lang="en">Observation of LAO within the period of 2011 for indicator LMAF-LAC-9.1.D</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/LMAF-LAC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/LMAF-LAC/observation/LMAF-LAC-2.8.C_LAO_2011">
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdfs:label xml:lang="en">Observation of LAO within the period of 2011 for indicator LMAF-LAC-2.8.C</rdfs:label>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LAO"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">110.660741093</cex:value>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/LMAF-LAC"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/LMAF-LAC-2.8.C"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2011"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-30</dct:issued>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_1999_12_31">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1999-12-31T00:00:00+00:00</time:inXSDDateTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/LMAF-LAC/observation/LMAF-LAC-2.1A.E_LAO_2011">
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8.86747370301</cex:value>
+    <rdfs:label xml:lang="en">Observation of LAO within the period of 2011 for indicator LMAF-LAC-2.1A.E</rdfs:label>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2011"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/LMAF-LAC-2.1A.E"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LAO"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/LMAF-LAC"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-30</dct:issued>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/LMAF-LAC/observation/LMAF-LAC-2.6.G_LAO_2011">
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/LMAF-LAC"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-30</dct:issued>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2011"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LAO"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/LMAF-LAC-2.6.G"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">13.8972097648</cex:value>
+    <rdfs:label xml:lang="en">Observation of LAO within the period of 2011 for indicator LMAF-LAC-2.6.G</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/LMAF-LAC/observation/LMAF-LAC-9.1.C_LAO_2011">
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/LMAF-LAC-9.1.C"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2011"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/LMAF-LAC"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-30</dct:issued>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LAO"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <rdfs:label xml:lang="en">Observation of LAO within the period of 2011 for indicator LMAF-LAC-9.1.C</rdfs:label>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">42.7044161954</cex:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/LMAF-LAC/observation/LMAF-LAC-9.1.A_LAO_2011">
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/LMAF-LAC-9.1.A"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2011"/>
+    <rdfs:label xml:lang="en">Observation of LAO within the period of 2011 for indicator LMAF-LAC-9.1.A</rdfs:label>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">256.053163921</cex:value>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/LMAF-LAC"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-30</dct:issued>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LAO"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/LMAF-LAC/observation/LMAF-LAC-1.1.B_LAO_1999">
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LAO"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">668.001</cex:value>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1999"/>
+    <rdfs:label xml:lang="en">Observation of LAO within the period of 1999 for indicator LMAF-LAC-1.1.B</rdfs:label>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/LMAF-LAC"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-30</dct:issued>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/LMAF-LAC-1.1.B"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/LMAF-LAC/observation/LMAF-LAC-1.2.D_LAO_2011">
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">166.106</cex:value>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LAO"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/LMAF-LAC"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2011"/>
+    <rdfs:label xml:lang="en">Observation of LAO within the period of 2011 for indicator LMAF-LAC-1.2.D</rdfs:label>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/LMAF-LAC-1.2.D"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-30</dct:issued>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/weso/ontology/computex#Raw">
+    <rdfs:label xml:lang="en">Raw data</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Computation"/>
+    <rdfs:comment xml:lang="en">Raw data values that have been collected from a datasource without any normalisation process.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/catalog">
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Catalog"/>
+    <foaf:homepage rdf:resource="http://landportal.info/data"/>
+    <rdfs:label xml:lang="en">Land Portal Catalog</rdfs:label>
+    <dct:publisher rdf:resource="http://landportal.info"/>
+    <dcat:dataset rdf:resource="http://data.landportal.info/dataset/LMAF-LAC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/LMAF-LAC/observation/LMAF-LAC-11.1.B_LAO_2011">
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">122.272842034</cex:value>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-30</dct:issued>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LAO"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2011"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/LMAF-LAC"/>
+    <rdfs:label xml:lang="en">Observation of LAO within the period of 2011 for indicator LMAF-LAC-11.1.B</rdfs:label>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/LMAF-LAC-11.1.B"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/LMAF-LAC/observation/LMAF-LAC-11.1.B_LAO_1999">
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1999"/>
+    <rdfs:label xml:lang="en">Observation of LAO within the period of 1999 for indicator LMAF-LAC-11.1.B</rdfs:label>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/LMAF-LAC-11.1.B"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">54.071</cex:value>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-30</dct:issued>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LAO"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/LMAF-LAC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/LMAF-LAC/observation/LMAF-LAC-2.1A.D_LAO_1999">
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">97.342582594</cex:value>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-30</dct:issued>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/LMAF-LAC-2.1A.D"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LAO"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/LMAF-LAC"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1999"/>
+    <rdfs:label xml:lang="en">Observation of LAO within the period of 1999 for indicator LMAF-LAC-2.1A.D</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/LMAF-LAC/observation/LMAF-LAC-2.6.F_LAO_2011">
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2011"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LAO"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/LMAF-LAC-2.6.F"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-30</dct:issued>
+    <rdfs:label xml:lang="en">Observation of LAO within the period of 2011 for indicator LMAF-LAC-2.6.F</rdfs:label>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/LMAF-LAC"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.100975805</cex:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/LMAF-LAC/observation/LMAF-LAC-1.1.C_LAO_1999">
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-30</dct:issued>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1999"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">647.188</cex:value>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LAO"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/LMAF-LAC"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/LMAF-LAC-1.1.C"/>
+    <rdfs:label xml:lang="en">Observation of LAO within the period of 1999 for indicator LMAF-LAC-1.1.C</rdfs:label>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/LMAF-LAC/observation/LMAF-LAC-4.1.C_LAO_2011">
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">21.6196339219</cex:value>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/LMAF-LAC-4.1.C"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LAO"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/LMAF-LAC"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2011"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-30</dct:issued>
+    <rdfs:label xml:lang="en">Observation of LAO within the period of 2011 for indicator LMAF-LAC-4.1.C</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/LMAF-LAC/observation/LMAF-LAC-11.1.A_LAO_2011">
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.799649753</cex:value>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LAO"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2011"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <rdfs:label xml:lang="en">Observation of LAO within the period of 2011 for indicator LMAF-LAC-11.1.A</rdfs:label>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/LMAF-LAC-11.1.A"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/LMAF-LAC"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-30</dct:issued>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/LMAF-LAC/observation/LMAF-LAC-2.1A.C_LAO_2011">
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/LMAF-LAC"/>
+    <rdfs:label xml:lang="en">Observation of LAO within the period of 2011 for indicator LMAF-LAC-2.1A.C</rdfs:label>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/LMAF-LAC-2.1A.C"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2011"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LAO"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-30</dct:issued>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.895214488237</cex:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/LMAF-LAC/observation/LMAF-LAC-2.1A.D_LAO_2011">
+    <rdfs:label xml:lang="en">Observation of LAO within the period of 2011 for indicator LMAF-LAC-2.1A.D</rdfs:label>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/LMAF-LAC-2.1A.D"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/LMAF-LAC"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">94.0891665615</cex:value>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-30</dct:issued>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2011"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LAO"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/LMAF-LAC/observation/LMAF-LAC-2.6.E_LAO_2011">
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2011"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/LMAF-LAC"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-30</dct:issued>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdfs:label xml:lang="en">Observation of LAO within the period of 2011 for indicator LMAF-LAC-2.6.E</rdfs:label>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/LMAF-LAC-2.6.E"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">41.9981855698</cex:value>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LAO"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/LMAF-LAC/observation/LMAF-LAC-1.1.C_LAO_2011">
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/LMAF-LAC"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/LMAF-LAC-1.1.C"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-30</dct:issued>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">776.67</cex:value>
+    <rdfs:label xml:lang="en">Observation of LAO within the period of 2011 for indicator LMAF-LAC-1.1.C</rdfs:label>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LAO"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2011"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/LMAF-LAC/observation/LMAF-LAC-4.1.D_LAO_2011">
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <rdfs:label xml:lang="en">Observation of LAO within the period of 2011 for indicator LMAF-LAC-4.1.D</rdfs:label>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2011"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/LMAF-LAC"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/LMAF-LAC-4.1.D"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">78.3803660781</cex:value>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-30</dct:issued>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LAO"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/LMAF-LAC/observation/LMAF-LAC-2.8.A_LAO_2011">
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1870.18147445</cex:value>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-30</dct:issued>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LAO"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/LMAF-LAC-2.8.A"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2011"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/LMAF-LAC"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <rdfs:label xml:lang="en">Observation of LAO within the period of 2011 for indicator LMAF-LAC-2.8.A</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_1999_1_1">
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1999-01-01T00:00:00+00:00</time:inXSDDateTime>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/LMAF-LAC/observation/LMAF-LAC-2.1A.E_LAO_1999">
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/LMAF-LAC-2.1A.E"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.1426222873</cex:value>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1999"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LAO"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/LMAF-LAC"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-30</dct:issued>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdfs:label xml:lang="en">Observation of LAO within the period of 1999 for indicator LMAF-LAC-2.1A.E</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/LMAF-LAC/observation/LMAF-LAC-9.1.G_LAO_2011">
+    <rdfs:label xml:lang="en">Observation of LAO within the period of 2011 for indicator LMAF-LAC-9.1.G</rdfs:label>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/LMAF-LAC"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-30</dct:issued>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2011"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">501.636181297</cex:value>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LAO"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/LMAF-LAC-9.1.G"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/LMAF-LAC/observation/LMAF-LAC-2.1A.A_LAO_2011">
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/LMAF-LAC-2.1A.A"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2011"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/LMAF-LAC"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.40797201444</cex:value>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-30</dct:issued>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LAO"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <rdfs:label xml:lang="en">Observation of LAO within the period of 2011 for indicator LMAF-LAC-2.1A.A</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/LMAF-LAC/observation/LMAF-LAC-9.1.E_LAO_2011">
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/LMAF-LAC"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">16.5633594056</cex:value>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-30</dct:issued>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/LMAF-LAC-9.1.E"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LAO"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2011"/>
+    <rdfs:label xml:lang="en">Observation of LAO within the period of 2011 for indicator LMAF-LAC-9.1.E</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/LMAF-LAC/observation/LMAF-LAC-2.6.C_LAO_2011">
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/LMAF-LAC"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-30</dct:issued>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/LMAF-LAC-2.6.C"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">39.9935739034</cex:value>
+    <rdfs:label xml:lang="en">Observation of LAO within the period of 2011 for indicator LMAF-LAC-2.6.C</rdfs:label>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LAO"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2011"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/LMAF-LAC/observation/LMAF-LAC-1.1.A_LAO_1999">
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1999"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/LMAF-LAC-1.1.A"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LAO"/>
+    <rdfs:label xml:lang="en">Observation of LAO within the period of 1999 for indicator LMAF-LAC-1.1.A</rdfs:label>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/LMAF-LAC"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">797.997</cex:value>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-30</dct:issued>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/LMAF-LAC/observation/LMAF-LAC-11.1.A_LAO_1999">
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1999"/>
+    <rdfs:label xml:lang="en">Observation of LAO within the period of 1999 for indicator LMAF-LAC-11.1.A</rdfs:label>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">54.885</cex:value>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-30</dct:issued>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LAO"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/LMAF-LAC"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/LMAF-LAC-11.1.A"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/LMAF-LAC/observation/LMAF-LAC-4.1.B_LAO_2011">
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LAO"/>
+    <rdfs:label xml:lang="en">Observation of LAO within the period of 2011 for indicator LMAF-LAC-4.1.B</rdfs:label>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2011"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/LMAF-LAC"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">56.4592029812</cex:value>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-30</dct:issued>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/LMAF-LAC-4.1.B"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2011">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeInterval"/>
+    <time:hasDateTimeDescription rdf:resource="http://data.landportal.info/time/2011_desc"/>
+    <time:hasBeginning rdf:resource="http://data.landportal.info/time/instant_2011_1_1"/>
+    <time:hasEnd rdf:resource="http://data.landportal.info/time/instant_2011_12_31"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2011_12_31">
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-12-31T00:00:00+00:00</time:inXSDDateTime>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/1999_desc">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeDescription"/>
+    <time:unitType rdf:resource="http://www.w3.org/2006/time#unitYear"/>
+    <time:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1999</time:year>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2011_1_1">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-01-01T00:00:00+00:00</time:inXSDDateTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/weso/ontology/computex#Computed">
+    <rdfs:comment xml:lang="en">Data values that have been computed by some algorithm.</rdfs:comment>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Computation"/>
+    <rdfs:label xml:lang="en">Computed data</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>
