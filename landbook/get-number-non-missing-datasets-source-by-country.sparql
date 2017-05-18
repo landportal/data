@@ -1,0 +1,23 @@
+# Get number of non missing dataset sources by country (including the countries without any observation)
+# Ordered by country iso3
+
+PREFIX cex: <http://purl.org/weso/ontology/computex#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX qb:   <http://purl.org/linked-data/cube#>
+PREFIX dct: <http://purl.org/dc/terms/>
+
+SELECT DISTINCT (STR(?iso3) as ?iso3) ?label (COUNT(DISTINCT ?source) as ?nNonMissingSources)
+FROM <http://data.landportal.info>
+FROM <http://countries.landportal.info>
+FROM <http://datasets.landportal.info>
+
+WHERE{
+   ?countryURI a <http://purl.org/weso/landbook/ontology#Country> ;
+               rdfs:label ?label ;
+               skos:notation ?iso3 .
+   OPTIONAL { ?obs cex:ref-area ?countryURI ;
+                   qb:dataSet ?datasetURI .
+		      ?datasetURI dct:publisher ?source .
+   }
+   FILTER isIRI(?countryURI)
+} ORDER BY ?countryURI
