@@ -4,7 +4,9 @@ PREFIX dct: <http://purl.org/dc/terms/>
 PREFIX sdmx-attribute: <http://purl.org/linked-data/sdmx/2009/attribute#>
 
 SELECT ?indicatorLabel ?indicatorDescription ?indicatorUnit ?datasetURL ?datasetLabel ?sourceOrgURL ?sourceOrgLabel
-FROM <http://data.landportal.info>
+FROM <http://indicators.landportal.info>
+FROM <http://datasets.landportal.info>
+FROM <http://organizations.landportal.info>
 WHERE {
   ?indicator rdfs:label ?indicatorLabel ;
   dct:description ?indicatorDescription ;

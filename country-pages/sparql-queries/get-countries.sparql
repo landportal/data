@@ -2,7 +2,7 @@
 # NOTE: the properties for label MUST change
 
 SELECT ?countryURL ?countryISO3 ?countryLabel
-FROM <http://data.landportal.info>
+FROM <http://countries.landportal.info>
 WHERE {
 	?countryURL a <http://purl.org/weso/landbook/ontology#Country> ;
                 rdfs:label ?countryLabel .
