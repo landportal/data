@@ -1,0 +1,16 @@
+# Gets Indicators and themes/overarching categories
+
+PREFIX cex: <http://purl.org/weso/ontology/computex#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX dct: <http://purl.org/dc/terms/>
+
+SELECT DISTINCT ?subject ?ID ?label
+FROM <http://indicators.landportal.info>
+WHERE {
+?indicatorUrl a cex:Indicator ;
+	skos:notation ?ID;
+	rdfs:label ?label ;
+    dct:subject ?subject.
+FILTER regex(?subject, "^http://data.landportal.info/voc/landvoc/")
+}
+ORDER BY ?subject
