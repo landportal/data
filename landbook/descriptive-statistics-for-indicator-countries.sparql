@@ -1,0 +1,22 @@
+# Number of countries with non-missing values (over the total number of available countries)
+
+PREFIX cex: <http://purl.org/weso/ontology/computex#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX qb:   <http://purl.org/linked-data/cube#>
+
+SELECT DISTINCT
+COUNT(DISTINCT ?countryWithValue) AS ?nCountryWithValue
+COUNT(DISTINCT ?country) AS ?nCountries
+FROM <http://data.landportal.info>
+FROM <http://indicators.landportal.info>
+FROM <http://countries.landportal.info>
+WHERE{
+?obs cex:ref-indicator ?indicatorURL ;
+     cex:ref-area ?countryWithValue ;
+     cex:value ?value.
+
+?country a <http://purl.org/weso/landbook/ontology#Country> .
+
+?indicatorURL skos:notation ?indicatorID.
+VALUES ?indicatorURL {<http://data.landportal.info/indicator/FAO-23045-6083>}
+}

@@ -1,0 +1,23 @@
+# Get all years with at least one observation for an indicator
+
+PREFIX cex: <http://purl.org/weso/ontology/computex#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+
+SELECT DISTINCT
+?year
+FROM <http://data.landportal.info>
+FROM <http://indicators.landportal.info>
+WHERE{
+?obs cex:ref-indicator ?indicatorURL ;
+     cex:ref-time ?time .
+	 
+?time time:hasBeginning ?timeValue .
+?timeValue time:inXSDDateTime ?dateTime.
+	 
+BIND (year(?dateTime) as ?year)
+
+?indicatorURL skos:notation ?indicatorID.
+
+VALUES ?indicatorURL {<http://data.landportal.info/indicator/FAO-23045-6083>}
+
+} ORDER BY ?year
