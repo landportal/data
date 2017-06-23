@@ -13,6 +13,7 @@ COUNT(DISTINCT ?indicator) AS ?nIndicators
 COUNT(?obs) AS ?nObs
 COUNT(DISTINCT ?country) AS ?nCountryWithValue
 FROM <http://data.landportal.info>
+FROM <http://datasets.landportal.info>
 WHERE{
    ?obs qb:dataSet ?datasetURL ;
        cex:ref-indicator ?indicator;
