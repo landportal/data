@@ -1,5 +1,5 @@
 # Remove all observations of a dataset
-WITH <http://remove.landportal.info> 
+WITH <http://data.landportal.info> 
 DELETE
 { ?obs ?p ?o }
 WHERE {
@@ -20,4 +20,19 @@ WHERE {
          qb:dataSet ?dataset ;
          ?p ?o .
     VALUES ?dataset {<http://data.landportal.info/dataset/NKT-VGGT16> } .
+}
+
+######
+
+#Select all observations of a dataset that refers to a concrete country
+
+SELECT DISTINCT ?obs ?p ?o
+FROM <http://data.landportal.info> 
+WHERE {
+    ?obs a qb:Observation ;
+         qb:dataSet ?dataset ;
+		 cex:ref-area ?country ;
+         ?p ?o .
+    VALUES ?dataset {<http://data.landportal.info/dataset/LA-PRI> } .
+    VALUES ?country {<http://data.landportal.info/geo/IND> } .
 }
