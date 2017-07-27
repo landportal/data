@@ -1,0 +1,295 @@
+<!-- 	20071806_agris_xml.dtd - This is the Document Type Definition corresponding to the guidelines presented in 
+			the AGRIS Application Profile document (AGRIS: Guidelines for Description of Information Objects for the 
+			International Information System on Agricultural Sciences and Technology).
+			The document is available at: http://www.fao.org/docrep/008/ae909e/ae909e00.htm -->
+<!-- <metadata
+    	xmlns:ags="http://purl.org/agmes/1.1/" 
+    	xmlns:dc="http://purl.org/dc/elements/1.1/"
+    	xmlns:agls= "http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2"
+    	xmlns:dcterms= "http://purl.org/dc/terms/"
+    	>
+  <dc:title xml:lang="eng" >DTD to validate AGRIS AP XML documents</dc:title>
+  <ags:creatorCorporate>KCEW. FAO, Rome (Italy). Library and Documentation Systems Div.</ags:creatorCorporate>
+  <dc:subject xml:lang="eng">Metadata Standards; XML; Guidelines; Dublin Core; Document-like Information Objects; Application Profile; Information Exchange</dc:subject>
+  <dc:description xml:lang="eng">This DTD describes the structure of AGRIS AP metadata documents</dc:description>
+  <dcterms:dateIssued>2003</dcterms:dateIssued>
+  <dc:type>text</dc:type>
+  <dc:identifier scheme="dcterms:URI">http://purl.org/agmes/agrisap/dtd/</dc:identifier>
+  <dc:language>eng</dc:language>
+  <dc:relation></dcterms:isPartOf>http://www.fao.org/docrep/008/ae909e/ae909e00.htm</dcterms:isPartOf></dc:relation>
+  <dc:rights>http://www.fao.org/copyright_en.htm</dc:rights>
+		</metadata>
+-->
+<!-- For comments, please write to stefano.anibaldi@fao.org -->
+<!-- ****************************************************** -->
+<!-- **************** DTD change history ****************** -->
+<!--(2003-08-05): 
+	- updated ags namespace URI to http://purl.org/agmes/1.1/
+	- dc:date element included as core element
+	- moved dcterms:issued from dc:publisher to dc:date
+	- xml:lang removed where not necessary
+	- scheme "noscheme" removed
+	- ags:availabilityLocation and ags:availabilityNumber changed from option to sequence list
+-->
+<!--(2003-09-29):
+	- new file name labelling (date-of-release_agris_xml.dtd)
+	- removed mixed content structure in some elements
+	- changed the occurrence indicators of 4 core elements from optional,repeatable to required,repeatable (dc:title, dc:date, dc:subject, dc:language) or to optional (dc:source)
+	- reserved attribute xml:lang modified or removed from some element
+	- added ags:DOI as scheme in the dc:identifier element
+	- removed ISSN as scheme of qualifiers of dc:relation
+-->
+<!--(2003-10-23):
+	- agls:availability core element changed to required, repeatable
+	- dc:publisher element declaration changed to repeatable
+	- namespaces of schemes ISSN and ISBN changed from dcterms: to ags:
+	- ags: ISSN scheme removed from dc:identifier
+-->
+<!--(2004-04-22):
+	- new PURL for this DTD created: http://purl.org/agmes/agrisap/dtd/
+	- dc:rights and dc:coverage core elements added
+	- ags:subjectClassification and ags:subjectThesaurus (sub-elements of dc:subject) schemes changed to REQUIRED
+-->
+<!--(2004-10-29):
+	- changed namespace of ags:creator to dc:creator
+	- dcterms:issued changed to dcterms:dateIssued
+	- changed namespace of the following encoding schemes: 
+	  dc:DDC to dcterms:DDC - dc:LLC to dcterms:LCC - dc:UDC to dcterms:UDC - dc:LCSH to dcterms:LCSH - dc:MeSH to dcterms:LCSH
+	- added dcterms:DCMIType as vocabulary in dc:type core element
+	- added dcterms:IMT as scheme in dcterms:medium qualifier
+	- added scheme ags:DOI to all qualifiers of dc:relation core element
+	- added scheme dcterms:W3CDTF to dcterms:dateIssued qualifier and added namespaces to schemes for language (ISO639)
+  - dc:rights core element has now a mixed-content structure
+-->
+<!--(2005-06-09):
+	- root element agrisResources and its child agrisResource changed to ags:resources and ags:resource
+	- ASFA and GFIS schemes included in ags:subjectClassification and ags:subjectThesaurus
+-->
+<!--(2005-01-12):
+	- added declarations for the attribute namespaces of ags:resources
+	- added scheme ags:IWMIC to ags:subjectClassification
+-->
+<!--(2006-04-07):
+	- added ags:titleSupplement qualifier to dc:title
+	- added scheme ags:AGROVOC for dcterms:spatial
+-->
+<!--(2006-05-04):
+	- dc:title xml:lang changed to IMPLIED
+	- added ags:PC qualifier to dc:identifier
+	- added xml:lang to dcterms:spatial
+-->
+<!--(2007-06-18):
+	- added scheme ags:MEDITAGRI to ags:subjectThesaurus
+-->
+<!--(2008-08-21):
+	- added scheme ags:LEMB to ags:subjectThesaurus
+-->
+<!--(2008-08-21):
+	- added scheme ags:INRA to ags:subjectThesaurus
+	- added scheme ags:JEL to ags:subjectClassification
+-->
+<!--(2011-07-08):
+	- core elements dc:language, dc:subject and agls:availability have changed from mandatory to optional
+-->
+<!--(2012-01-12):
+	- added bibo namespace to initial declarations and added scheme bibo:eissn to ags:citationIdentifier
+	- added scheme ags:UNBIST to ags:subjectThesaurus and ags:ECASC to ags:subjectClassification
+-->
+<!--(2012-07-13):
+	- dc:creator is now mixed-content
+	- dc:date is no longer mandatory
+-->
+<!--(2012-07-16):
+	- dc:type includes the new scheme "isis"
+-->
+
+<!--===============================================================-->
+<!-- Namespaces URIs declarations -->
+<!ENTITY agsns "http://purl.org/agmes/1.1/">
+<!ENTITY dcns "http://purl.org/dc/elements/1.1/">
+<!ENTITY aglsns "http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2">
+<!ENTITY dctermsns "http://purl.org/dc/terms/">
+<!ENTITY bibons "http://purl.org/ontology/bibo/">
+<!-- Convenience entities for XML namespace declarations -->
+<!ENTITY % agsnsdecl "xmlns:ags CDATA #FIXED &quot;&agsns;&quot;">
+<!ENTITY % dcnsdecl "xmlns:dc CDATA #FIXED &quot;&dcns;&quot;">
+<!ENTITY % aglsnsdecl "xmlns:agls CDATA #FIXED &quot;&aglsns;&quot;">
+<!ENTITY % dctermsnsdecl "xmlns:dcterms CDATA #FIXED &quot;&dctermsns;&quot;">
+<!ENTITY % bibonsdecl "xmlns:bibo CDATA #FIXED &quot;&bibons;&quot;">
+<!-- The root element -->
+<!ELEMENT ags:resources (ags:resource+)>
+<!ATTLIST ags:resources
+	xmlns:ags CDATA #FIXED "http://purl.org/agmes/1.1/"
+	xmlns:dc CDATA #FIXED "http://purl.org/dc/elements/1.1/"
+	xmlns:agls CDATA #FIXED "http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2"
+	xmlns:dcterms CDATA #FIXED "http://purl.org/dc/terms/"
+>
+<!ATTLIST ags:resource
+	ags:ARN ID #REQUIRED
+>
+<!ELEMENT ags:resource (dc:title+, dc:creator*, dc:publisher*, dc:date*, dc:subject*, dc:description*, dc:identifier*, dc:type*, dc:format*, dc:language*, dc:relation*, agls:availability*, dc:source*, dc:coverage*, dc:rights*, ags:citation*)>
+<!-- ELEMENT title -->
+<!ELEMENT dc:title (#PCDATA | dcterms:alternative | ags:titleSupplement)*>
+<!ATTLIST dc:title
+	xml:lang CDATA #IMPLIED
+>
+<!ELEMENT dcterms:alternative (#PCDATA)>
+<!ATTLIST dcterms:alternative
+	xml:lang CDATA #IMPLIED
+>
+<!ELEMENT ags:titleSupplement (#PCDATA)>
+<!ATTLIST ags:titleSupplement
+	xml:lang CDATA #IMPLIED
+>
+<!-- ELEMENT creator -->
+<!ELEMENT dc:creator (#PCDATA | ags:creatorPersonal | ags:creatorCorporate | ags:creatorConference)*>
+<!ELEMENT ags:creatorPersonal (#PCDATA)>
+<!ELEMENT ags:creatorCorporate (#PCDATA)>
+<!ELEMENT ags:creatorConference (#PCDATA)>
+<!-- ELEMENT publisher -->
+<!ELEMENT dc:publisher (ags:publisherName | ags:publisherPlace)*>
+<!ELEMENT ags:publisherName (#PCDATA)>
+<!ELEMENT ags:publisherPlace (#PCDATA)>
+<!-- ELEMENT date -->
+<!ELEMENT dc:date (dcterms:dateIssued)>
+<!ELEMENT dcterms:dateIssued (#PCDATA)>
+<!ATTLIST dcterms:dateIssued
+	scheme (dcterms:W3CDTF) #IMPLIED
+>
+<!-- ELEMENT subject -->
+<!ELEMENT dc:subject (#PCDATA | ags:subjectClassification | ags:subjectThesaurus)*>
+<!ATTLIST dc:subject
+	xml:lang CDATA #IMPLIED
+>
+<!ELEMENT ags:subjectClassification (#PCDATA)>
+<!ATTLIST ags:subjectClassification
+	xml:lang CDATA #IMPLIED
+	scheme (ags:ASC | ags:CABC | dcterms:DDC | dcterms:LCC | dcterms:UDC | ags:ASFAC | ags:GFISC | ags:IWMIC | ags:JEL | ags:ECASC) #REQUIRED
+>
+<!ELEMENT ags:subjectThesaurus (#PCDATA)>
+<!ATTLIST ags:subjectThesaurus
+	xml:lang CDATA #IMPLIED
+	scheme (ags:CABT | ags:AGROVOC | ags:NALT | ags:ASFAT | dcterms:LCSH | dcterms:MeSH | ags:GFIST | ags:MEDITAGRI | ags:LEMB | ags:INRA | ags:UNBIST) #REQUIRED
+>
+<!-- ELEMENT description -->
+<!ELEMENT dc:description (ags:descriptionNotes | ags:descriptionEdition | dcterms:abstract)*>
+<!ELEMENT ags:descriptionNotes (#PCDATA)>
+<!ELEMENT ags:descriptionEdition (#PCDATA)>
+<!ELEMENT dcterms:abstract (#PCDATA)>
+<!ATTLIST dcterms:abstract
+	xml:lang CDATA #IMPLIED
+>
+<!-- ELEMENT identifier -->
+<!ELEMENT dc:identifier (#PCDATA)>
+<!ATTLIST dc:identifier
+	xml:lang CDATA #IMPLIED
+	scheme (ags:IPC | ags:RN | ags:PN | ags:ISBN | ags:JN | dcterms:URI | ags:DOI | ags:PC) #IMPLIED
+>
+<!-- ELEMENT type -->
+<!ELEMENT dc:type (#PCDATA)>
+<!ATTLIST dc:type
+	scheme (dcterms:DCMIType | isis) #IMPLIED
+>
+<!-- ELEMENT format -->
+<!ELEMENT dc:format (dcterms:extent | dcterms:medium)*>
+<!ELEMENT dcterms:extent (#PCDATA)>
+<!ELEMENT dcterms:medium (#PCDATA)>
+<!ATTLIST dcterms:medium
+	scheme (dcterms:IMT) #IMPLIED
+>
+<!-- ELEMENT language -->
+<!ELEMENT dc:language (#PCDATA)>
+<!ATTLIST dc:language
+	scheme (ags:ISO639-1 | dcterms:ISO639-2) #IMPLIED
+>
+<!-- ELEMENT relation -->
+<!ELEMENT dc:relation (dcterms:isPartOf | dcterms:hasPart | dcterms:isVersionOf | dcterms:hasVersion | dcterms:isFormatOf | dcterms:hasFormat | dcterms:references | dcterms:isReferencedBy | dcterms:isRequiredBy | dcterms:requires | dcterms:isReplacedBy | dcterms:replaces | ags:relationHasTranslation | ags:relationIsTranslationOf)*>
+<!ELEMENT dcterms:isPartOf (#PCDATA)>
+<!ATTLIST dcterms:isPartOf
+	scheme (ags:IPC | ags:PN | ags:ISBN | ags:JN | dcterms:URI | ags:RN | ags:DOI | ags:ARN) #REQUIRED
+>
+<!ELEMENT dcterms:hasPart (#PCDATA)>
+<!ATTLIST dcterms:hasPart
+	scheme (ags:IPC | ags:PN | ags:ISBN | ags:JN | dcterms:URI | ags:RN | ags:DOI | ags:ARN) #REQUIRED
+>
+<!ELEMENT dcterms:isVersionOf (#PCDATA)>
+<!ATTLIST dcterms:isVersionOf
+	scheme (ags:IPC | ags:PN | ags:ISBN | ags:JN | dcterms:URI | ags:RN | ags:DOI | ags:ARN) #REQUIRED
+>
+<!ELEMENT dcterms:hasVersion (#PCDATA)>
+<!ATTLIST dcterms:hasVersion
+	scheme (ags:IPC | ags:PN | ags:ISBN | ags:JN | dcterms:URI | ags:RN | ags:DOI | ags:ARN) #REQUIRED
+>
+<!ELEMENT dcterms:isFormatOf (#PCDATA)>
+<!ATTLIST dcterms:isFormatOf
+	scheme (ags:IPC | ags:PN | ags:ISBN | ags:JN | dcterms:URI | ags:RN | ags:DOI | ags:ARN) #REQUIRED
+>
+<!ELEMENT dcterms:hasFormat (#PCDATA)>
+<!ATTLIST dcterms:hasFormat
+	scheme (ags:IPC | ags:PN | ags:ISBN | ags:JN | dcterms:URI | ags:RN | ags:DOI | ags:ARN) #REQUIRED
+>
+<!ELEMENT dcterms:references (#PCDATA)>
+<!ATTLIST dcterms:references
+	scheme (ags:IPC | ags:PN | ags:ISBN | ags:JN | dcterms:URI | ags:RN | ags:DOI | ags:ARN) #REQUIRED
+>
+<!ELEMENT dcterms:isReferencedBy (#PCDATA)>
+<!ATTLIST dcterms:isReferencedBy
+	scheme (ags:IPC | ags:PN | ags:ISBN | ags:JN | dcterms:URI | ags:RN | ags:DOI | ags:ARN) #REQUIRED
+>
+<!ELEMENT dcterms:isRequiredBy (#PCDATA)>
+<!ATTLIST dcterms:isRequiredBy
+	scheme (ags:IPC | ags:PN | ags:ISBN | ags:JN | dcterms:URI | ags:RN | ags:DOI | ags:ARN) #REQUIRED
+>
+<!ELEMENT dcterms:requires (#PCDATA)>
+<!ATTLIST dcterms:requires
+	scheme (ags:IPC | ags:PN | ags:ISBN | ags:JN | dcterms:URI | ags:RN | ags:DOI | ags:ARN) #REQUIRED
+>
+<!ELEMENT dcterms:isReplacedBy (#PCDATA)>
+<!ATTLIST dcterms:isReplacedBy
+	scheme (ags:IPC | ags:PN | ags:ISBN | ags:JN | dcterms:URI | ags:RN | ags:DOI | ags:ARN) #REQUIRED
+>
+<!ELEMENT dcterms:replaces (#PCDATA)>
+<!ATTLIST dcterms:replaces
+	scheme (ags:IPC | ags:PN | ags:ISBN | ags:JN | dcterms:URI | ags:RN | ags:DOI | ags:ARN) #REQUIRED
+>
+<!ELEMENT ags:relationHasTranslation (#PCDATA)>
+<!ATTLIST ags:relationHasTranslation
+	scheme (ags:IPC | ags:PN | ags:ISBN | ags:JN | dcterms:URI | ags:RN | ags:DOI | ags:ARN) #REQUIRED
+>
+<!ELEMENT ags:relationIsTranslationOf (#PCDATA)>
+<!ATTLIST ags:relationIsTranslationOf
+	scheme (ags:IPC | ags:PN | ags:ISBN | ags:JN | dcterms:URI | ags:RN | ags:DOI | ags:ARN) #REQUIRED
+>
+<!-- ELEMENT availability -->
+<!ELEMENT agls:availability (ags:availabilityLocation | ags:availabilityNumber)*>
+<!ELEMENT ags:availabilityLocation (#PCDATA)>
+<!ELEMENT ags:availabilityNumber (#PCDATA)>
+<!-- ELEMENT source -->
+<!ELEMENT dc:source (#PCDATA)>
+<!-- ELEMENT coverage -->
+<!ELEMENT dc:coverage (#PCDATA | dcterms:spatial | dcterms:temporal)*>
+<!ELEMENT dcterms:spatial (#PCDATA)>
+<!ATTLIST dcterms:spatial
+	xml:lang CDATA #IMPLIED
+	scheme (dcterms:Point | dcterms:ISO3166 | dcterms:TGN | dcterms:Box | ags:AGROVOC) #IMPLIED
+>
+<!ELEMENT dcterms:temporal (#PCDATA)>
+<!ATTLIST dcterms:temporal
+	scheme (dcterms:Period | dcterms:W3CDTF) #IMPLIED
+>
+<!-- ELEMENT rights -->
+<!ELEMENT dc:rights (#PCDATA | ags:rightsStatement | ags:rightsTermsOfUse)*>
+<!ELEMENT ags:rightsStatement (#PCDATA)>
+<!ELEMENT ags:rightsTermsOfUse (#PCDATA)>
+<!-- ELEMENT citation -->
+<!ELEMENT ags:citation (ags:citationTitle | ags:citationIdentifier | ags:citationNumber | ags:citationChronology)*>
+<!ELEMENT ags:citationTitle (#PCDATA)>
+<!ATTLIST ags:citationTitle
+	xml:lang CDATA #IMPLIED
+>
+<!ELEMENT ags:citationIdentifier (#PCDATA)>
+<!ATTLIST ags:citationIdentifier
+	scheme (ags:ISSN | ags:CODEN | bibo:eissn) #REQUIRED
+>
+<!ELEMENT ags:citationNumber (#PCDATA)>
+<!ELEMENT ags:citationChronology (#PCDATA)>
