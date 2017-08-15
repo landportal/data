@@ -1,0 +1,23 @@
+# Preivously, download the RDF file from http://www.fao.org/countryprofiles/geoinfo/geopolitical/data
+# and upload to a new graph <http://www.fao.org/countryprofiles/geoinfo/geopolitical/data>
+
+SELECT ?agrovoc str(?iso3) AS ?iso3
+FROM <http://www.fao.org/countryprofiles/geoinfo/geopolitical/data>
+WHERE {
+   ?country <http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/codeISO3> ?iso3;
+            owl:sameAs ?agrovoc .
+   FILTER regex(?agrovoc , "agrovoc")
+
+}ORDER BY ?iso3
+
+
+SELECT ?agrovoc (str(?uncode) AS ?uncode)
+FROM <http://www.fao.org/countryprofiles/geoinfo/geopolitical/data>
+WHERE {
+    ?area <http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/codeUN> ?uncode;
+		a ?type ;
+        owl:sameAs ?agrovoc .
+    VALUES ?type {<http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/special_group> <http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/geographical_region> }
+    FILTER regex(?agrovoc , "agrovoc")
+
+}ORDER BY ?uncode
