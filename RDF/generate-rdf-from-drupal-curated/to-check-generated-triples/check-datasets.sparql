@@ -4,7 +4,7 @@ PREFIX dct: <http://purl.org/dc/terms/>
 PREFIX sdmx-attribute: <http://purl.org/linked-data/sdmx/2009/attribute#>
 
 SELECT DISTINCT ?datasetURI ?notation ?datasetLabel ?datasetDescription ?datasetOrg ?seeAlso
-FROM <http://data.landportal.info>
+FROM <http://datasets-drupal.landportal.info>
 WHERE {
 ?datasetURI a <http://purl.org/linked-data/cube#DataSet> .
  OPTIONAL { ?datasetURI skos:notation ?notation }
