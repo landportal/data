@@ -7,6 +7,21 @@ WHERE {
     ?llr a bibo:Document .
 }
 
+# Get the number of LLRs by country/region
+PREFIX bibo:<http://purl.org/ontology/bibo/>
+SELECT ?region_title  (COUNT(?llr) AS ?no_llr)
+FROM <http://library.landportal.info>
+FROM <http://regions.landportal.info>
+WHERE {
+    ?llr a bibo:Document ;
+     dct:spatial ?area .
+?area dct:title ?region_title .
+}
+
+GROUP BY ?region_title
+ORDER BY ?region_title
+
+
 
 # Get the number of distinct publishers of LLRs in the LOD
 PREFIX bibo:<http://purl.org/ontology/bibo/>
