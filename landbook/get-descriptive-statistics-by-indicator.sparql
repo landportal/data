@@ -1,0 +1,61 @@
+# Get descriptive statistics
+# If "VALUES ?indicatorURL" is commented, all indicators are returned
+# If one concrete indicatoris needed, just add in the VALUES ?indicatorURL part
+# Ordered by unit
+
+PREFIX cex: <http://purl.org/weso/ontology/computex#>
+PREFIX dct: <http://purl.org/dc/terms/>
+PREFIX time: <http://www.w3.org/2006/time#>
+PREFIX sdmx-attribute: <http://purl.org/linked-data/sdmx/2009/attribute#>  
+
+SELECT DISTINCT 
+?indicatorURL
+?indicatorDrupal
+?unit
+?minValue
+?maxValue
+?minYear
+?maxYear
+?nObs
+?nYears
+?nCountryWithValue
+?perMissingValue
+FROM <http://data.landportal.info>
+FROM <http://indicators.landportal.info>
+WHERE {
+     	
+?obs cex:ref-indicator ?indicatorURL  .
+
+?indicatorURL rdfs:seeAlso ?indicatorDrupal ;
+sdmx-attribute:unitMeasure ?unit .
+{
+# Calculate the values
+SELECT DISTINCT
+?indicatorURL
+year(min(?dateTime)) AS ?minYear
+year(max(?dateTime)) AS ?maxYear
+COUNT(?obs) AS ?nObs
+COUNT(DISTINCT(year(?dateTime))) AS ?nYears
+COUNT(DISTINCT ?country) AS ?nCountryWithValue
+min(?value) AS ?minValue
+max(?value) AS ?maxValue
+FROM <http://data.landportal.info>
+WHERE{
+
+?obs cex:ref-indicator ?indicatorURL  ;
+    cex:ref-area ?country ;
+    cex:value ?value;
+    cex:ref-time ?time .
+	 
+?time time:hasBeginning ?timeValue .
+    ?timeValue time:inXSDDateTime ?dateTime .
+	
+#VALUES ?indicatorURL { <http://data.landportal.info/indicator/WB-SP.POP.TOTL> <http://data.landportal.info/indicator/WB-SP.RUR.TOTL.ZS>}
+
+
+}
+}
+
+BIND ((1-((xsd:float(?nObs))/xsd:float((?nYears*?nCountryWithValue))))*100 AS ?perMissingValue)
+
+} ORDER BY ?unit
