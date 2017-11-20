@@ -26,7 +26,7 @@ PREFIX sdmx-attribute: <http://purl.org/linked-data/sdmx/2009/attribute#>
 
 SELECT (COUNT(*) AS ?count) {
 SELECT DISTINCT ?indicatorURI ?notation ?indicatorLabel ?indicatorDescription ?unitLabel ?datasetURI ?seeAlso
-FROM <http://indicartors.landportal.info>
+FROM <http://indicators.landportal.info>
 WHERE {
 ?indicatorURI a cex:Indicator .
 OPTIONAL { ?indicatorURI skos:notation ?notation ;
