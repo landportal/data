@@ -22,7 +22,7 @@ PREFIX sdmx-attribute: <http://purl.org/linked-data/sdmx/2009/attribute#>
 
 SELECT (COUNT(*) AS ?count) {
 SELECT DISTINCT ?datasetURI ?notation ?datasetLabel ?datasetDescription ?datasetOrg ?seeAlso
-FROM <http://data.landportal.info>
+FROM <http://datasets.landportal.info>
 WHERE {
 ?datasetURI a <http://purl.org/linked-data/cube#DataSet> .
  OPTIONAL { ?datasetURI skos:notation ?notation }
