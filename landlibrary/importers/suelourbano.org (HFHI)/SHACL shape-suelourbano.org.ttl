@@ -1,0 +1,160 @@
+@prefix dash: <http://datashapes.org/dash#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dc11: <http://purl.org/dc/elements/1.1/> .
+@prefix dc: <http://purl.org/dc/terms/> .
+
+
+schema:LLRShape
+    a sh:NodeShape ;
+    sh:targetClass bibo:Document ;
+
+    sh:property [
+        sh:path dc:identifier ;
+        sh:nodeKind sh:Literal ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:minLength 1 ;
+    ] ;
+
+    
+    sh:property [
+        sh:path dc11:title ;
+        sh:nodeKind sh:Literal ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:minLength 1 ;
+		sh:uniqueLang true ;
+    ] ;
+
+    sh:property [
+        sh:path dc11:title;
+        sh:languageIn ( "en" "pt" "es" "fr" ) ;
+        rdfs:comment "Check the language tag in title."@en ;
+        sh:message "Title without xml:lang attribute"@en ;
+    ] ;
+	
+    sh:property [
+        sh:path dc11:description;
+        sh:nodeKind sh:Literal ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:minLength 1 ;
+		sh:uniqueLang true ;
+    ] ;
+
+    sh:property [
+        sh:path dc11:description;
+        sh:languageIn ( "en" "pt" "es" "fr" ) ;
+        rdfs:comment "Check the language tag in description."@en ;
+        sh:message "Description without xml:lang attribute"@en ;
+    ] ;
+
+	
+    sh:property [
+        sh:path dc11:author;
+        sh:nodeKind sh:Literal ;
+        sh:minCount 1 ;
+        sh:minLength 1 ;
+    ] ;
+	
+    sh:property [
+        sh:path dc11:publisher;
+        sh:nodeKind sh:Literal ;
+        sh:minCount 1 ;
+        sh:minLength 1 ;
+    ] ;
+	
+    sh:property [
+        sh:path dc11:type;
+        sh:nodeKind sh:Literal ;
+        sh:minCount 1 ;
+    ] ;
+	
+    sh:property [
+        sh:path dc11:type;
+        rdfs:comment "Expected Resource Type from suelourbano.org"@en ;
+        sh:in ( 
+		  "Caja de Herramientas (guías, manuales, etc.)" 
+		  "Estadísticas" 
+		  "Fotos, imágenes, Infográfico" 
+		  "Investigaciones y estudios" 
+		  "Sistematizaciones y documentación de experiencias" 
+		  "Videos"		  
+          "Legislación"
+		) ;
+    ] ;
+	
+    sh:property [
+        sh:path dc:date;
+        sh:nodeKind sh:Literal ;
+        sh:datatype xsd:date ;
+        sh:minCount 1 ;
+        sh:minLength 10 ;
+        sh:pattern "\\d{4}-\\d{2}-\\d{2}" ;
+    ] ;
+
+    sh:property [
+        sh:path dc11:language;
+        sh:nodeKind sh:Literal ;
+        rdfs:comment "At least one language"@en ;
+        sh:minCount 1 ;
+        sh:minLength 2 ;
+        sh:maxLength 2 ;		
+    ] ;
+
+    sh:property [
+        sh:path dc11:language;
+        rdfs:comment "Check values of language code"@en ;
+        sh:in ( "en" "es" "fr" "pt" ) ;		
+    ] ;
+
+    sh:property [
+        sh:path dc11:coverage;
+        sh:nodeKind sh:Literal ;
+        rdfs:comment "At least one geographical focus"@en ;
+        sh:minCount 1 ;
+        sh:minLength 3 ;
+        sh:maxLength 3 ;		
+    ] ;	
+
+    sh:property [
+        sh:path dc11:coverage;
+        rdfs:comment "Check values of geographical focus"@en ;
+        sh:in ( "ARG" "BHS" "BOL" "BRA" "BRB" "CHL" "COL" "CRI" "CUB" "DMA" "DOM" "ECU" "GTM" "GUY" "HND" "JAM" "MSR" "NIC" "PRI" "PRY" "SLV" "TTO" "URY" "VEN" ) ;		
+    ] ;
+
+    sh:property [
+        sh:path dc11:subject;
+        sh:nodeKind sh:Literal ;
+        rdfs:comment "At least one subject"@en ;
+        sh:minCount 1 ;		
+    ] ;
+
+    sh:property [
+        sh:path dc11:subject;
+        rdfs:comment "Check values of subject"@en ;
+        sh:in ( 
+		  "Acceso a suelos y tenencia segura" 
+		  "Gestión y planificación del territorio"
+		  "Legislación y políticas de suelos"
+		  "Administración de suelos e información"
+		  "Financiamiento urbano basado en suelos"
+		  ) ;		
+    ] ;
+	
+    sh:property [
+        sh:path schema:image;
+		sh:nodeKind sh:IRI ;
+        sh:minCount 1 ;
+    ] ;
+
+    sh:property [
+        sh:path bibo:uri;
+		sh:nodeKind sh:IRI ;
+        sh:minCount 1 ;
+    ] .
