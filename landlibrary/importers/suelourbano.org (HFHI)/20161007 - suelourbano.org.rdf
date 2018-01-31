@@ -1,4 +1,4 @@
-
+Ôªø
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 xmlns:dc="http://purl.org/dc/elements/1.1/"
 xmlns:dct="http://purl.org/dc/terms/"
@@ -6,15 +6,15 @@ xmlns:schema="http://schema.org/"
 xmlns:bibo="http://purl.org/ontology/bibo/">
 	<rdf:Description rdf:about="http://www.suelourbano.org/bibliotecas/2016/08/31/proyecto-de-nueva-agenda-urbana-borrador-surabaya/">
 		<dc:title xml:lang="es">Proyecto de Nueva Agenda Urbana &#8211; Borrador Surabaya</dc:title>
-		<dc:description xml:lang="es">Proyecto de Nueva Agenda Urbana - Borrador Surabaya    Traducido al EspaÒol por Habitat para la Humanidad Internacional RegiÛn AmÈrica Latina y Caribe</dc:description>
+		<dc:description xml:lang="es">Proyecto de Nueva Agenda Urbana - Borrador Surabaya    Traducido al Espa√±ol por Habitat para la Humanidad Internacional Regi√≥n Am√©rica Latina y Caribe</dc:description>
 		<dc:publisher>Habitat para la Humanidad Internacional</dc:publisher>
 		<dc:author>ONU-Habitat</dc:author>
 		<dc:subject>Acceso a suelos y tenencia segura</dc:subject>
-		<dc:subject>AdministraciÛn de suelos e informaciÛn</dc:subject>
+		<dc:subject>Administraci√≥n de suelos e informaci√≥n</dc:subject>
 		<dc:subject>Financiamiento urbano basado en suelos</dc:subject>
-		<dc:subject>GestiÛn y planificaciÛn del territorio</dc:subject>
-		<dc:subject>LegislaciÛn y polÌticas de suelos</dc:subject>
-		<dc:type>Caja de Herramientas (guÌas, manuales, etc.)</dc:type>
+		<dc:subject>Gesti√≥n y planificaci√≥n del territorio</dc:subject>
+		<dc:subject>Legislaci√≥n y pol√≠ticas de suelos</dc:subject>
+		<dc:type>Caja de Herramientas (gu√≠as, manuales, etc.)</dc:type>
 		<schema:image rdf:resource="http://www.suelourbano.org/wp-content/uploads/2016/08/Nueva_Agenda_Urbana_-_Borrador_Surabaya_-_Habitat_III-113x146.png" />
 		<bibo:uri rdf:resource ="http://www.suelourbano.org/wp-content/uploads/2016/08/Nueva-Agenda-Urbana-Borrador-Surabaya-28-Julio-2016-Espanol-Traduccion-Habitat-para-la-Humanidad.pdf" />
 		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-07-28</dct:date>
@@ -37,10 +37,10 @@ xmlns:bibo="http://purl.org/ontology/bibo/">
 		<dc:coverage>PER</dc:coverage>
 		<dc:coverage/>
 		<dc:subject>Acceso a suelos y tenencia segura</dc:subject>
-		<dc:subject>AdministraciÛn de suelos e informaciÛn</dc:subject>
+		<dc:subject>Administraci√≥n de suelos e informaci√≥n</dc:subject>
 		<dc:subject>Financiamiento urbano basado en suelos</dc:subject>
-		<dc:subject>GestiÛn y planificaciÛn del territorio</dc:subject>
-		<dc:subject>LegislaciÛn y polÌticas de suelos</dc:subject>
+		<dc:subject>Gesti√≥n y planificaci√≥n del territorio</dc:subject>
+		<dc:subject>Legislaci√≥n y pol√≠ticas de suelos</dc:subject>
 		<dc:type>Investigaciones y estudios</dc:type>
 		<schema:image rdf:resource="http://www.suelourbano.org/wp-content/uploads/2016/08/EGM-JULIO-COSTA-RICA-146x146.png" />
 		<bibo:uri rdf:resource ="http://www.suelourbano.org/wp-content/uploads/2016/08/2016.10.08.EGM-Report_English_Last2.pdf" />
@@ -48,8 +48,8 @@ xmlns:bibo="http://purl.org/ontology/bibo/">
 		<dc:language>en</dc:language>
 	</rdf:Description>
 	<rdf:Description rdf:about="http://www.suelourbano.org/bibliotecas/2016/08/12/registro-de-la-reunion-de-expertos-gobernanza-responsable-y-tenencia-segura-de-suelo-en-america-latina-y-el-caribe/">
-		<dc:title xml:lang="es">Registro de la ReuniÛn de Expertos Gobernanza Responsable y Tenencia Segura de Suelo en AmÈrica Latina y El Caribe</dc:title>
-		<dc:description xml:lang="es">Registro de la ReuniÛn de Expertos en Gobernanza Responsable y Tenencia Segura de Suelo en AmÈrica Latina y El Caribe</dc:description>
+		<dc:title xml:lang="es">Registro de la Reuni√≥n de Expertos Gobernanza Responsable y Tenencia Segura de Suelo en Am√©rica Latina y El Caribe</dc:title>
+		<dc:description xml:lang="es">Registro de la Reuni√≥n de Expertos en Gobernanza Responsable y Tenencia Segura de Suelo en Am√©rica Latina y El Caribe</dc:description>
 		<dc:publisher>Habitat para la Humanidad Internacional; GLTN ONU-HABITAT</dc:publisher>
 		<dc:author>Paola Siclari</dc:author>
 		<dc:coverage>ARG</dc:coverage>
@@ -64,13 +64,13 @@ xmlns:bibo="http://purl.org/ontology/bibo/">
 		<dc:coverage>PER</dc:coverage>
 		<dc:coverage/>
 		<dc:subject>Acceso a suelos y tenencia segura</dc:subject>
-		<dc:subject>AdministraciÛn de suelos e informaciÛn</dc:subject>
+		<dc:subject>Administraci√≥n de suelos e informaci√≥n</dc:subject>
 		<dc:subject>Financiamiento urbano basado en suelos</dc:subject>
-		<dc:subject>GestiÛn y planificaciÛn del territorio</dc:subject>
-		<dc:subject>LegislaciÛn y polÌticas de suelos</dc:subject>
+		<dc:subject>Gesti√≥n y planificaci√≥n del territorio</dc:subject>
+		<dc:subject>Legislaci√≥n y pol√≠ticas de suelos</dc:subject>
 		<dc:type>Investigaciones y estudios</dc:type>
 		<schema:image rdf:resource="http://www.suelourbano.org/wp-content/uploads/2016/08/EGM-JULIO-COSTA-RICA-146x146.png" />
-		<bibo:uri rdf:resource ="http://www.suelourbano.org/wp-content/uploads/2016/08/2016.10.08.EGM-EspaÒol-last2.pdf" />
+		<bibo:uri rdf:resource ="http://www.suelourbano.org/wp-content/uploads/2016/08/2016.10.08.EGM-Espa√±ol-last2.pdf" />
 		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-08-01</dct:date>
 		<dc:language>es</dc:language>
 	</rdf:Description>
@@ -80,10 +80,10 @@ xmlns:bibo="http://purl.org/ontology/bibo/">
 		<dc:publisher>GLTN ONU-HABITAT</dc:publisher>
 		<dc:author>GLTN ONU-HABITAT</dc:author>
 		<dc:subject>Acceso a suelos y tenencia segura</dc:subject>
-		<dc:subject>AdministraciÛn de suelos e informaciÛn</dc:subject>
+		<dc:subject>Administraci√≥n de suelos e informaci√≥n</dc:subject>
 		<dc:subject>Financiamiento urbano basado en suelos</dc:subject>
-		<dc:subject>GestiÛn y planificaciÛn del territorio</dc:subject>
-		<dc:subject>LegislaciÛn y polÌticas de suelos</dc:subject>
+		<dc:subject>Gesti√≥n y planificaci√≥n del territorio</dc:subject>
+		<dc:subject>Legislaci√≥n y pol√≠ticas de suelos</dc:subject>
 		<dc:type>Investigaciones y estudios</dc:type>
 		<schema:image rdf:resource="http://www.suelourbano.org/wp-content/uploads/2016/08/GLTN_-_land_NUA-103x146.png" />
 		<bibo:uri rdf:resource ="http://www.suelourbano.org/wp-content/uploads/2016/08/Land-and-the-New-Urban-Agenda-A-Briefing-Note-for-Policy-Makers.pdf" />
@@ -96,10 +96,10 @@ xmlns:bibo="http://purl.org/ontology/bibo/">
 		<dc:publisher>GLTN ONU-HABITAT</dc:publisher>
 		<dc:author>GLTN ONU-HABITAT</dc:author>
 		<dc:subject>Acceso a suelos y tenencia segura</dc:subject>
-		<dc:subject>AdministraciÛn de suelos e informaciÛn</dc:subject>
+		<dc:subject>Administraci√≥n de suelos e informaci√≥n</dc:subject>
 		<dc:subject>Financiamiento urbano basado en suelos</dc:subject>
-		<dc:subject>GestiÛn y planificaciÛn del territorio</dc:subject>
-		<dc:subject>LegislaciÛn y polÌticas de suelos</dc:subject>
+		<dc:subject>Gesti√≥n y planificaci√≥n del territorio</dc:subject>
+		<dc:subject>Legislaci√≥n y pol√≠ticas de suelos</dc:subject>
 		<dc:type>Investigaciones y estudios</dc:type>
 		<schema:image rdf:resource="http://www.suelourbano.org/wp-content/uploads/2016/08/GLTN_-_land_NUA_flyer-188x146.png" />
 		<bibo:uri rdf:resource ="http://www.suelourbano.org/wp-content/uploads/2016/08/Land-and-the-New-Urban-Agenda-flyer.pdf" />
@@ -107,16 +107,16 @@ xmlns:bibo="http://purl.org/ontology/bibo/">
 		<dc:language>en</dc:language>
 	</rdf:Description>
 	<rdf:Description rdf:about="http://www.suelourbano.org/bibliotecas/2016/08/04/cooperativas-de-vivienda-de-usuarios-por-ayuda-mutua-y-autogestion-costa-rica/">
-		<dc:title xml:lang="es">Cooperativas de vivienda de usuarios por ayuda mutua y autogestiÛn &#8211; Costa Rica</dc:title>
-		<dc:description xml:lang="es">Cooperativas de vivienda de usuarios por ayuda mutua y autogestiÛn    Viceministerio de Vivienda y Asentamientos Humanos de Costa Rica</dc:description>
+		<dc:title xml:lang="es">Cooperativas de vivienda de usuarios por ayuda mutua y autogesti√≥n &#8211; Costa Rica</dc:title>
+		<dc:description xml:lang="es">Cooperativas de vivienda de usuarios por ayuda mutua y autogesti√≥n    Viceministerio de Vivienda y Asentamientos Humanos de Costa Rica</dc:description>
 		<dc:publisher>Habitat para la Humanidad Internacional; GLTN ONU-Habitat</dc:publisher>
 		<dc:author>Viceministerio de Vivienda y Asentamientos Humanos Costa Rica</dc:author>
 		<dc:coverage>CRI</dc:coverage>
 		<dc:subject>Acceso a suelos y tenencia segura</dc:subject>
-		<dc:subject>AdministraciÛn de suelos e informaciÛn</dc:subject>
+		<dc:subject>Administraci√≥n de suelos e informaci√≥n</dc:subject>
 		<dc:subject>Financiamiento urbano basado en suelos</dc:subject>
-		<dc:subject>GestiÛn y planificaciÛn del territorio</dc:subject>
-		<dc:subject>LegislaciÛn y polÌticas de suelos</dc:subject>
+		<dc:subject>Gesti√≥n y planificaci√≥n del territorio</dc:subject>
+		<dc:subject>Legislaci√≥n y pol√≠ticas de suelos</dc:subject>
 		<dc:type>Investigaciones y estudios</dc:type>
 		<schema:image rdf:resource="http://www.suelourbano.org/wp-content/uploads/2016/08/09_VICEMINISTRA-CR-260x146.png" />
 		<bibo:uri rdf:resource ="http://www.suelourbano.org/wp-content/uploads/2016/08/09-VICEMINISTRA-Ppt-cooperativas-final..pptx" />
@@ -140,10 +140,10 @@ xmlns:bibo="http://purl.org/ontology/bibo/">
 		<dc:coverage>PER</dc:coverage>
 		<dc:coverage/>
 		<dc:subject>Acceso a suelos y tenencia segura</dc:subject>
-		<dc:subject>AdministraciÛn de suelos e informaciÛn</dc:subject>
+		<dc:subject>Administraci√≥n de suelos e informaci√≥n</dc:subject>
 		<dc:subject>Financiamiento urbano basado en suelos</dc:subject>
-		<dc:subject>GestiÛn y planificaciÛn del territorio</dc:subject>
-		<dc:subject>LegislaciÛn y polÌticas de suelos</dc:subject>
+		<dc:subject>Gesti√≥n y planificaci√≥n del territorio</dc:subject>
+		<dc:subject>Legislaci√≥n y pol√≠ticas de suelos</dc:subject>
 		<dc:type>Investigaciones y estudios</dc:type>
 		<schema:image rdf:resource="http://www.suelourbano.org/wp-content/uploads/2016/08/08_ANNE_MYERS-192x146.png" />
 		<bibo:uri rdf:resource ="http://www.suelourbano.org/wp-content/uploads/2016/08/08-ANNE-MYERS-Solid-Ground-for-EGM.pptx" />
@@ -151,16 +151,16 @@ xmlns:bibo="http://purl.org/ontology/bibo/">
 		<dc:language>en</dc:language>
 	</rdf:Description>
 	<rdf:Description rdf:about="http://www.suelourbano.org/bibliotecas/2016/08/04/shelter-cluster-y-derecho-a-la-vivienda-tierra-y-propiedad-en-la-provision-de-alojamiento/">
-		<dc:title xml:lang="es">Shelter Cluster y Derecho a la Vivienda, Tierra y Propiedad en la ProvisiÛn de Alojamiento</dc:title>
-		<dc:description xml:lang="es">PresentaciÛn de Anna Pont, Shelter Cluster Americas, durante la ReuniÛn de Expertos en Gobernanza Responsable del Suelo y Seguridad de Tenencia en AmÈrica Latina y Caribe, realizada en San JosÈ, Costa Rica, en Julio de 2016.    Shelter Cluster y Derecho a la Vivienda, Tierra y Propiedad en la ProvisiÛn de Alojamiento     Housing, Land and Property (HLP) Rights Within the Provision of Shelter Assistance</dc:description>
+		<dc:title xml:lang="es">Shelter Cluster y Derecho a la Vivienda, Tierra y Propiedad en la Provisi√≥n de Alojamiento</dc:title>
+		<dc:description xml:lang="es">Presentaci√≥n de Anna Pont, Shelter Cluster Americas, durante la Reuni√≥n de Expertos en Gobernanza Responsable del Suelo y Seguridad de Tenencia en Am√©rica Latina y Caribe, realizada en San Jos√©, Costa Rica, en Julio de 2016.    Shelter Cluster y Derecho a la Vivienda, Tierra y Propiedad en la Provisi√≥n de Alojamiento     Housing, Land and Property (HLP) Rights Within the Provision of Shelter Assistance</dc:description>
 		<dc:publisher>Habitat para la Humanidad Internacional; GLTN ONU-Habitat</dc:publisher>
 		<dc:author>Anna Pont</dc:author>
 		<dc:coverage>CRI</dc:coverage>
 		<dc:subject>Acceso a suelos y tenencia segura</dc:subject>
-		<dc:subject>AdministraciÛn de suelos e informaciÛn</dc:subject>
+		<dc:subject>Administraci√≥n de suelos e informaci√≥n</dc:subject>
 		<dc:subject>Financiamiento urbano basado en suelos</dc:subject>
-		<dc:subject>GestiÛn y planificaciÛn del territorio</dc:subject>
-		<dc:subject>LegislaciÛn y polÌticas de suelos</dc:subject>
+		<dc:subject>Gesti√≥n y planificaci√≥n del territorio</dc:subject>
+		<dc:subject>Legislaci√≥n y pol√≠ticas de suelos</dc:subject>
 		<dc:type>Investigaciones y estudios</dc:type>
 		<schema:image rdf:resource="http://www.suelourbano.org/wp-content/uploads/2016/08/07_ANNA_PONT-195x146.png" />
 		<bibo:uri rdf:resource ="http://www.suelourbano.org/wp-content/uploads/2016/08/07-ANNA-PONT-Shelter-Cluster-and-HLP-SP.pptx" />
@@ -169,15 +169,15 @@ xmlns:bibo="http://purl.org/ontology/bibo/">
 	</rdf:Description>
 	<rdf:Description rdf:about="http://www.suelourbano.org/bibliotecas/2016/08/04/huairou-commission-women-homes-and-community/">
 		<dc:title xml:lang="en">Huairou Commission: Women, Homes and Community</dc:title>
-		<dc:description xml:lang="en">Presentation by Katia Araujo, Director of Programs, Huairou Commission, for the Experts Group Meeting on Responsible Land Governance and Security of Tenure in Latin America and the Caribbean, hel in San JosÈ, Costa Rica, in July, 2016.    Huairou Commission: Women, Homes and Community</dc:description>
+		<dc:description xml:lang="en">Presentation by Katia Araujo, Director of Programs, Huairou Commission, for the Experts Group Meeting on Responsible Land Governance and Security of Tenure in Latin America and the Caribbean, hel in San Jos√©, Costa Rica, in July, 2016.    Huairou Commission: Women, Homes and Community</dc:description>
 		<dc:publisher>Habitat para la Humanidad Internacional; GLTN ONU-HABITAT</dc:publisher>
-		<dc:author>Katia Ara˙jo</dc:author>
+		<dc:author>Katia Ara√∫jo</dc:author>
 		<dc:coverage>CRI</dc:coverage>
 		<dc:subject>Acceso a suelos y tenencia segura</dc:subject>
-		<dc:subject>AdministraciÛn de suelos e informaciÛn</dc:subject>
+		<dc:subject>Administraci√≥n de suelos e informaci√≥n</dc:subject>
 		<dc:subject>Financiamiento urbano basado en suelos</dc:subject>
-		<dc:subject>GestiÛn y planificaciÛn del territorio</dc:subject>
-		<dc:subject>LegislaciÛn y polÌticas de suelos</dc:subject>
+		<dc:subject>Gesti√≥n y planificaci√≥n del territorio</dc:subject>
+		<dc:subject>Legislaci√≥n y pol√≠ticas de suelos</dc:subject>
 		<dc:type>Investigaciones y estudios</dc:type>
 		<schema:image rdf:resource="http://www.suelourbano.org/wp-content/uploads/2016/08/06_KATIA_ARAUJO-193x146.png" />
 		<bibo:uri rdf:resource ="http://www.suelourbano.org/wp-content/uploads/2016/08/06-KATIA-ARAUJO-EGM-Responsible-Land-Governance.ppt" />
@@ -185,53 +185,53 @@ xmlns:bibo="http://purl.org/ontology/bibo/">
 		<dc:language>en</dc:language>
 	</rdf:Description>
 	<rdf:Description rdf:about="http://www.suelourbano.org/bibliotecas/2016/08/04/seguranca-da-posse-a-responsabilidade-do-sistema-de-justica-no-cumprimento-e-efetivacao-da-legislacao-nacional-e-internacional-relativa-ao-direito-a-cidade/">
-		<dc:title xml:lang="pt">SeguranÁa da Posse: a Responsabilidade do Sistema de JustiÁa no cumprimento e efetivaÁ„o da legislaÁ„o nacional e internacional relativa ao Direito ‡ Cidade</dc:title>
-		<dc:description xml:lang="pt">ApresentaÁ„o de Francisco Sales Albuquerque, Procurador de JustiÁa CÌvel, MinistÈrio P˙blico de Pernambuco, Brasil.    SeguranÁa da Posse: a Responsabilidade do Sistema de JustiÁa no cumprimento e efetivaÁ„o da legislaÁ„o nacional e internacional relativa ao Direito ‡ Cidade - um olhar para a experiÍncia de regularizaÁ„o fundi·ria em Zonas Especiais de Interesse Social ZEIS na cidade do Recife</dc:description>
+		<dc:title xml:lang="pt">Seguran√ßa da Posse: a Responsabilidade do Sistema de Justi√ßa no cumprimento e efetiva√ß√£o da legisla√ß√£o nacional e internacional relativa ao Direito √† Cidade</dc:title>
+		<dc:description xml:lang="pt">Apresenta√ß√£o de Francisco Sales Albuquerque, Procurador de Justi√ßa C√≠vel, Minist√©rio P√∫blico de Pernambuco, Brasil.    Seguran√ßa da Posse: a Responsabilidade do Sistema de Justi√ßa no cumprimento e efetiva√ß√£o da legisla√ß√£o nacional e internacional relativa ao Direito √† Cidade - um olhar para a experi√™ncia de regulariza√ß√£o fundi√°ria em Zonas Especiais de Interesse Social ZEIS na cidade do Recife</dc:description>
 		<dc:publisher>Habitat para la Humanidad Internacional; GLTN ONU-HABITAT</dc:publisher>
 		<dc:author>Francisco Sales Albuquerque</dc:author>
 		<dc:coverage>BRA</dc:coverage>
 		<dc:coverage>CRI</dc:coverage>
 		<dc:subject>Acceso a suelos y tenencia segura</dc:subject>
-		<dc:subject>AdministraciÛn de suelos e informaciÛn</dc:subject>
+		<dc:subject>Administraci√≥n de suelos e informaci√≥n</dc:subject>
 		<dc:subject>Financiamiento urbano basado en suelos</dc:subject>
-		<dc:subject>GestiÛn y planificaciÛn del territorio</dc:subject>
-		<dc:subject>LegislaciÛn y polÌticas de suelos</dc:subject>
+		<dc:subject>Gesti√≥n y planificaci√≥n del territorio</dc:subject>
+		<dc:subject>Legislaci√≥n y pol√≠ticas de suelos</dc:subject>
 		<dc:type>Investigaciones y estudios</dc:type>
 		<schema:image rdf:resource="http://www.suelourbano.org/wp-content/uploads/2016/08/05_FRANCISCO_SALES-194x146.png" />
-		<bibo:uri rdf:resource ="http://www.suelourbano.org/wp-content/uploads/2016/08/05-FRANCISCO-SALES-PresentaciÛn.pptx" />
+		<bibo:uri rdf:resource ="http://www.suelourbano.org/wp-content/uploads/2016/08/05-FRANCISCO-SALES-Presentaci√≥n.pptx" />
 		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-07-12</dct:date>
 		<dc:language>pt</dc:language>
 	</rdf:Description>
 	<rdf:Description rdf:about="http://www.suelourbano.org/bibliotecas/2016/08/04/la-dessicregulacion-del-suelo-de-la-gobernanza-urbana-y-del-sector-inmobiliario/">
-		<dc:title xml:lang="es">La des(sic)regulaciÛn del suelo, de la gobernanza urbana y del sector inmobiliario</dc:title>
-		<dc:description xml:lang="es">PresentaciÛn Diego Restrepo durante la ReuniÛn de Expertos sobre Gobernanza Responsable del Suelo y Tenencia Segura en AmÈrica Latina y Caribe, en San JosÈ, Costa Rica, Julio 2016.</dc:description>
+		<dc:title xml:lang="es">La des(sic)regulaci√≥n del suelo, de la gobernanza urbana y del sector inmobiliario</dc:title>
+		<dc:description xml:lang="es">Presentaci√≥n Diego Restrepo durante la Reuni√≥n de Expertos sobre Gobernanza Responsable del Suelo y Tenencia Segura en Am√©rica Latina y Caribe, en San Jos√©, Costa Rica, Julio 2016.</dc:description>
 		<dc:publisher>Habitat para la Humanidad Internacional; GLTN ONU-HABITAT</dc:publisher>
 		<dc:author>Diego Restrepo</dc:author>
 		<dc:coverage>COL</dc:coverage>
 		<dc:coverage>CRI</dc:coverage>
 		<dc:subject>Acceso a suelos y tenencia segura</dc:subject>
-		<dc:subject>AdministraciÛn de suelos e informaciÛn</dc:subject>
+		<dc:subject>Administraci√≥n de suelos e informaci√≥n</dc:subject>
 		<dc:subject>Financiamiento urbano basado en suelos</dc:subject>
-		<dc:subject>GestiÛn y planificaciÛn del territorio</dc:subject>
-		<dc:subject>LegislaciÛn y polÌticas de suelos</dc:subject>
+		<dc:subject>Gesti√≥n y planificaci√≥n del territorio</dc:subject>
+		<dc:subject>Legislaci√≥n y pol√≠ticas de suelos</dc:subject>
 		<dc:type>Investigaciones y estudios</dc:type>
 		<schema:image rdf:resource="http://www.suelourbano.org/wp-content/uploads/2016/08/04_DIEGO_RESTREPO-195x146.png" />
-		<bibo:uri rdf:resource ="http://www.suelourbano.org/wp-content/uploads/2016/08/04-DIEGO-RESTREPO-La-dessicregulaciÛn-del-suelo-DRI-14072016-MEDELLIN.pptx" />
+		<bibo:uri rdf:resource ="http://www.suelourbano.org/wp-content/uploads/2016/08/04-DIEGO-RESTREPO-La-dessicregulaci√≥n-del-suelo-DRI-14072016-MEDELLIN.pptx" />
 		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-07-12</dct:date>
 		<dc:language>es</dc:language>
 	</rdf:Description>
 	<rdf:Description rdf:about="http://www.suelourbano.org/bibliotecas/2016/08/04/a-cidade-e-de-todos-nos/">
-		<dc:title xml:lang="pt">A cidade È de todos nÛs</dc:title>
-		<dc:description xml:lang="pt">ApresentaÁ„o de Evaniza Rodrigues, Brasil, para a Reuni„o de Especialistas sobre GovernanÁa do Solo y SeguranÁa de Posse na AmÈrica Latina e Caribe, realizada em San JosÈ, Costa Rica, em Julho 2016.    FunÁ„o social da propriedade urbana: a cidade n„o È um negÛcio, a cidade È de todos nÛs.</dc:description>
+		<dc:title xml:lang="pt">A cidade √© de todos n√≥s</dc:title>
+		<dc:description xml:lang="pt">Apresenta√ß√£o de Evaniza Rodrigues, Brasil, para a Reuni√£o de Especialistas sobre Governan√ßa do Solo y Seguran√ßa de Posse na Am√©rica Latina e Caribe, realizada em San Jos√©, Costa Rica, em Julho 2016.    Fun√ß√£o social da propriedade urbana: a cidade n√£o √© um neg√≥cio, a cidade √© de todos n√≥s.</dc:description>
 		<dc:publisher>Habitat para la Humanidad Internacional; GLTN ONU-HABITAT</dc:publisher>
 		<dc:author>Evaniza Rodrigues</dc:author>
 		<dc:coverage>BRA</dc:coverage>
 		<dc:coverage>CRI</dc:coverage>
 		<dc:subject>Acceso a suelos y tenencia segura</dc:subject>
-		<dc:subject>AdministraciÛn de suelos e informaciÛn</dc:subject>
+		<dc:subject>Administraci√≥n de suelos e informaci√≥n</dc:subject>
 		<dc:subject>Financiamiento urbano basado en suelos</dc:subject>
-		<dc:subject>GestiÛn y planificaciÛn del territorio</dc:subject>
-		<dc:subject>LegislaciÛn y polÌticas de suelos</dc:subject>
+		<dc:subject>Gesti√≥n y planificaci√≥n del territorio</dc:subject>
+		<dc:subject>Legislaci√≥n y pol√≠ticas de suelos</dc:subject>
 		<dc:type>Investigaciones y estudios</dc:type>
 		<schema:image rdf:resource="http://www.suelourbano.org/wp-content/uploads/2016/08/03_EVANIZA_RODRIGUES-260x146.png" />
 		<bibo:uri rdf:resource ="http://www.suelourbano.org/wp-content/uploads/2016/08/03-EVANIZA-RODRIGUEShph-consulta.ppt" />
@@ -239,17 +239,17 @@ xmlns:bibo="http://purl.org/ontology/bibo/">
 		<dc:language>pt</dc:language>
 	</rdf:Description>
 	<rdf:Description rdf:about="http://www.suelourbano.org/bibliotecas/2016/08/04/mexico-conceptualizacion-y-practicas-desde-los-diversos-sectores/">
-		<dc:title xml:lang="es">MÈxico: conceptualizaciÛn y pr·cticas desde los diversos sectores</dc:title>
-		<dc:description xml:lang="es">PresentaciÛn Silvia MejÌa, ONU-Habitat MÈxico, durante la ReuniÛn de Expertos en Gobernanza Reponsable del Suelo y Seguridad de Tenencia en AmÈrica Latina y Caribe, realizada en San JosÈ, Costa Rica, Julio 2016.    MÈxico: conceptualizaciÛn y pr·cticas desde los diversos sectores</dc:description>
+		<dc:title xml:lang="es">M√©xico: conceptualizaci√≥n y pr√°cticas desde los diversos sectores</dc:title>
+		<dc:description xml:lang="es">Presentaci√≥n Silvia Mej√≠a, ONU-Habitat M√©xico, durante la Reuni√≥n de Expertos en Gobernanza Reponsable del Suelo y Seguridad de Tenencia en Am√©rica Latina y Caribe, realizada en San Jos√©, Costa Rica, Julio 2016.    M√©xico: conceptualizaci√≥n y pr√°cticas desde los diversos sectores</dc:description>
 		<dc:publisher>Habitat para la Humanidad Internacional; GLTN ONU-HABITAT</dc:publisher>
-		<dc:author>Silvia MejÌa</dc:author>
+		<dc:author>Silvia Mej√≠a</dc:author>
 		<dc:coverage>CRI</dc:coverage>
 		<dc:coverage>MEX</dc:coverage>
 		<dc:subject>Acceso a suelos y tenencia segura</dc:subject>
-		<dc:subject>AdministraciÛn de suelos e informaciÛn</dc:subject>
+		<dc:subject>Administraci√≥n de suelos e informaci√≥n</dc:subject>
 		<dc:subject>Financiamiento urbano basado en suelos</dc:subject>
-		<dc:subject>GestiÛn y planificaciÛn del territorio</dc:subject>
-		<dc:subject>LegislaciÛn y polÌticas de suelos</dc:subject>
+		<dc:subject>Gesti√≥n y planificaci√≥n del territorio</dc:subject>
+		<dc:subject>Legislaci√≥n y pol√≠ticas de suelos</dc:subject>
 		<dc:type>Investigaciones y estudios</dc:type>
 		<schema:image rdf:resource="http://www.suelourbano.org/wp-content/uploads/2016/08/02_SILVIA_MEJIA-195x146.png" />
 		<bibo:uri rdf:resource ="http://www.suelourbano.org/wp-content/uploads/2016/08/02-SILVIA-MEJIA-Presentacion-02.pptx" />
@@ -264,10 +264,10 @@ xmlns:bibo="http://purl.org/ontology/bibo/">
 		<dc:coverage>CRI</dc:coverage>
 		<dc:coverage/>
 		<dc:subject>Acceso a suelos y tenencia segura</dc:subject>
-		<dc:subject>AdministraciÛn de suelos e informaciÛn</dc:subject>
+		<dc:subject>Administraci√≥n de suelos e informaci√≥n</dc:subject>
 		<dc:subject>Financiamiento urbano basado en suelos</dc:subject>
-		<dc:subject>GestiÛn y planificaciÛn del territorio</dc:subject>
-		<dc:subject>LegislaciÛn y polÌticas de suelos</dc:subject>
+		<dc:subject>Gesti√≥n y planificaci√≥n del territorio</dc:subject>
+		<dc:subject>Legislaci√≥n y pol√≠ticas de suelos</dc:subject>
 		<dc:type>Investigaciones y estudios</dc:type>
 		<schema:image rdf:resource="http://www.suelourbano.org/wp-content/uploads/2016/08/01_ROBIN_RAJACK-195x146.png" />
 		<bibo:uri rdf:resource ="http://www.suelourbano.org/wp-content/uploads/2016/08/01-ROBIN-RAJACK-EGM-San-Jose-July-2016.ppt" />
@@ -275,8 +275,8 @@ xmlns:bibo="http://purl.org/ontology/bibo/">
 		<dc:language>en</dc:language>
 	</rdf:Description>
 	<rdf:Description rdf:about="http://www.suelourbano.org/bibliotecas/2016/08/04/introduccion-reunion-de-expertos-gobernanza-responsable-y-tenencia-segura-del-suelo-en-america-latina-y-caribe/">
-		<dc:title xml:lang="en">IntroducciÛn ReuniÛn de Expertos ñ Gobernanza Responsable y Tenencia Segura del Suelo en AmÈrica Latina y Caribe</dc:title>
-		<dc:description xml:lang="en">PresentaciÛn de Paola Siclari    IntroducciÛn de la ReuniÛn de Expertos ñ Gobernanza Responsable y Tenencia Segura del Suelo en AmÈrica Latina y Caribe</dc:description>
+		<dc:title xml:lang="en">Introducci√≥n Reuni√≥n de Expertos ‚Äì Gobernanza Responsable y Tenencia Segura del Suelo en Am√©rica Latina y Caribe</dc:title>
+		<dc:description xml:lang="en">Presentaci√≥n de Paola Siclari    Introducci√≥n de la Reuni√≥n de Expertos ‚Äì Gobernanza Responsable y Tenencia Segura del Suelo en Am√©rica Latina y Caribe</dc:description>
 		<dc:publisher>Habitat para la Humanidad Internacional; GLTN ONU-HABITAT</dc:publisher>
 		<dc:author>Paola Siclari</dc:author>
 		<dc:coverage>ARG</dc:coverage>
@@ -291,10 +291,10 @@ xmlns:bibo="http://purl.org/ontology/bibo/">
 		<dc:coverage>PER</dc:coverage>
 		<dc:coverage/>
 		<dc:subject>Acceso a suelos y tenencia segura</dc:subject>
-		<dc:subject>AdministraciÛn de suelos e informaciÛn</dc:subject>
+		<dc:subject>Administraci√≥n de suelos e informaci√≥n</dc:subject>
 		<dc:subject>Financiamiento urbano basado en suelos</dc:subject>
-		<dc:subject>GestiÛn y planificaciÛn del territorio</dc:subject>
-		<dc:subject>LegislaciÛn y polÌticas de suelos</dc:subject>
+		<dc:subject>Gesti√≥n y planificaci√≥n del territorio</dc:subject>
+		<dc:subject>Legislaci√≥n y pol√≠ticas de suelos</dc:subject>
 		<dc:type>Investigaciones y estudios</dc:type>
 		<schema:image rdf:resource="http://www.suelourbano.org/wp-content/uploads/2016/08/EGM-JULIO-COSTA-RICA-146x146.png" />
 		<bibo:uri rdf:resource ="http://www.suelourbano.org/wp-content/uploads/2016/08/00-PAOLA-SICLARI-2016_07_Intro-EGM.pptx" />
@@ -302,8 +302,8 @@ xmlns:bibo="http://purl.org/ontology/bibo/">
 		<dc:language>en</dc:language>
 	</rdf:Description>
 	<rdf:Description rdf:about="http://www.suelourbano.org/bibliotecas/2016/08/04/introduccion-al-estudio-gobernanza-responsable-y-tenencia-segura-del-suelo-en-america-latina-y-caribe/">
-		<dc:title xml:lang="es">IntroducciÛn Estudio &#8211; Gobernanza Responsable y Tenencia Segura del Suelo en AmÈrica Latina y Caribe</dc:title>
-		<dc:description xml:lang="es">PresentaciÛn Paola Siclari    IntroducciÛn al Estudio - Gobernanza Responsable y Tenencia Segura del Suelo en AmÈrica Latina y Caribe</dc:description>
+		<dc:title xml:lang="es">Introducci√≥n Estudio &#8211; Gobernanza Responsable y Tenencia Segura del Suelo en Am√©rica Latina y Caribe</dc:title>
+		<dc:description xml:lang="es">Presentaci√≥n Paola Siclari    Introducci√≥n al Estudio - Gobernanza Responsable y Tenencia Segura del Suelo en Am√©rica Latina y Caribe</dc:description>
 		<dc:publisher>Habitat para la Humanidad Internacional; GLTN ONU-HABITAT</dc:publisher>
 		<dc:author>Paola Siclari</dc:author>
 		<dc:coverage>ARG</dc:coverage>
@@ -318,10 +318,10 @@ xmlns:bibo="http://purl.org/ontology/bibo/">
 		<dc:coverage>PER</dc:coverage>
 		<dc:coverage/>
 		<dc:subject>Acceso a suelos y tenencia segura</dc:subject>
-		<dc:subject>AdministraciÛn de suelos e informaciÛn</dc:subject>
+		<dc:subject>Administraci√≥n de suelos e informaci√≥n</dc:subject>
 		<dc:subject>Financiamiento urbano basado en suelos</dc:subject>
-		<dc:subject>GestiÛn y planificaciÛn del territorio</dc:subject>
-		<dc:subject>LegislaciÛn y polÌticas de suelos</dc:subject>
+		<dc:subject>Gesti√≥n y planificaci√≥n del territorio</dc:subject>
+		<dc:subject>Legislaci√≥n y pol√≠ticas de suelos</dc:subject>
 		<dc:type>Investigaciones y estudios</dc:type>
 		<schema:image rdf:resource="http://www.suelourbano.org/wp-content/uploads/2016/08/EGM-JULIO-COSTA-RICA-146x146.png" />
 		<bibo:uri rdf:resource ="http://www.suelourbano.org/wp-content/uploads/2016/08/00-PAOLA-SICLARI-2016_07_Intro-Estudio.pptx" />
@@ -330,7 +330,7 @@ xmlns:bibo="http://purl.org/ontology/bibo/">
 	</rdf:Description>
 	<rdf:Description rdf:about="http://www.suelourbano.org/bibliotecas/2016/07/14/draft-1-responsible-governance-and-secure-tenure-of-urban-and-peri-urban-land-in-latin-america-and-the-caribbean-analysis-of-10-countries/">
 		<dc:title xml:lang="en">Draft 1 &#8211; Responsible Governance and Secure Tenure of Urban and Peri-Urban Land in Latin America and the Caribbean: Analysis of 10 Countries</dc:title>
-		<dc:description xml:lang="en">Draft report of the Scoping Study about ëResponsible Governance and Secure Tenure of Urban and Peri-Urban Land in Latin America and the Caribbean: Analysis of 10 Countriesí, discussed during the Experts Group Meeting held in San JosÈ, Costa Rica, July 2016.    This study aims to generate recommendations for partnerships, collaboration, and action to advancing responsible governance, and land tools for access to and secure land tenure, and contribute to the effective implementation of the New Agenda Urbana in the Latin America and Caribbean region.</dc:description>
+		<dc:description xml:lang="en">Draft report of the Scoping Study about ‚ÄòResponsible Governance and Secure Tenure of Urban and Peri-Urban Land in Latin America and the Caribbean: Analysis of 10 Countries‚Äô, discussed during the Experts Group Meeting held in San Jos√©, Costa Rica, July 2016.    This study aims to generate recommendations for partnerships, collaboration, and action to advancing responsible governance, and land tools for access to and secure land tenure, and contribute to the effective implementation of the New Agenda Urbana in the Latin America and Caribbean region.</dc:description>
 		<dc:publisher>Habitat para la Humanidad Internacional; GLTN ONU-HABITAT</dc:publisher>
 		<dc:author>Paola Siclari; Benjamin Koczwarski; Pelagia Rodriguez</dc:author>
 		<dc:coverage>ARG</dc:coverage>
@@ -352,8 +352,8 @@ xmlns:bibo="http://purl.org/ontology/bibo/">
 		<dc:language>en</dc:language>
 	</rdf:Description>
 	<rdf:Description rdf:about="http://www.suelourbano.org/bibliotecas/2016/07/13/borrador-1-gobernanza-responsable-y-tenencia-segura-del-suelo-de-areas-urbanas-y-peri-urbanas-en-america-latina-y-el-caribe-analisis-de-10-paises/">
-		<dc:title xml:lang="en">Borrador 1 &#8211;  Gobernanza Responsable y Tenencia Segura del Suelo de ¡reas Urbanas y Peri-Urbanas en AmÈrica Latina y el Caribe: An·lisis de 10 paÌses</dc:title>
-		<dc:description xml:lang="en">Reporte preliminar del estudio &#39;Gobernanza Responsable y Tenencia Segura del Suelo de ¡reas Urbanas y Peri-Urbanas en AmÈrica Latina y el Caribe: An·lisis de 10 paÌsesî. El estudio busca generar recomendaciones para alianzas, colaboraciÛn, y acciÛn entre diferentes sectores con el objetivo de avanzar en gobernancia responsable, instrumentos de suelos para el acceso y tenencia segura, y contribuir a una efectiva implementaciÛn de la Nueva Agenda Urbana en la regiÛn AmÈrica Latina y Caribe.</dc:description>
+		<dc:title xml:lang="en">Borrador 1 &#8211;  Gobernanza Responsable y Tenencia Segura del Suelo de √Åreas Urbanas y Peri-Urbanas en Am√©rica Latina y el Caribe: An√°lisis de 10 pa√≠ses</dc:title>
+		<dc:description xml:lang="en">Reporte preliminar del estudio &#39;Gobernanza Responsable y Tenencia Segura del Suelo de √Åreas Urbanas y Peri-Urbanas en Am√©rica Latina y el Caribe: An√°lisis de 10 pa√≠ses‚Äù. El estudio busca generar recomendaciones para alianzas, colaboraci√≥n, y acci√≥n entre diferentes sectores con el objetivo de avanzar en gobernancia responsable, instrumentos de suelos para el acceso y tenencia segura, y contribuir a una efectiva implementaci√≥n de la Nueva Agenda Urbana en la regi√≥n Am√©rica Latina y Caribe.</dc:description>
 		<dc:publisher>Habitat para la Humanidad Internacional; GLTN ONU-HABITAT</dc:publisher>
 		<dc:author>Paola Siclari; Benjamin Koczwarski; Pelagia Rodriguez</dc:author>
 		<dc:coverage>ARG</dc:coverage>
@@ -370,13 +370,13 @@ xmlns:bibo="http://purl.org/ontology/bibo/">
 		<dc:subject>Acceso a suelos y tenencia segura</dc:subject>
 		<dc:type>Investigaciones y estudios</dc:type>
 		<schema:image rdf:resource="http://www.suelourbano.org/wp-content/uploads/2016/07/ENG_-_Experts_Group_Meetings-260x85.png" />
-		<bibo:uri rdf:resource ="http://www.suelourbano.org/wp-content/uploads/2016/07/2016_INFORME-1_ESPA—OL-2.pdf" />
+		<bibo:uri rdf:resource ="http://www.suelourbano.org/wp-content/uploads/2016/07/2016_INFORME-1_ESPA√ëOL-2.pdf" />
 		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-07-12</dct:date>
 		<dc:language>en</dc:language>
 	</rdf:Description>
 	<rdf:Description rdf:about="http://www.suelourbano.org/bibliotecas/2016/07/13/nota-conceptual-reunion-de-expertos-conceptos-contextos-y-soluciones-para-la-gobernanza-responsable-y-tenencia-segura-del-suelo-en-america-latina-y-caribe/">
-		<dc:title xml:lang="en">Nota Conceptual &#8211; ReuniÛn de Expertos Gobernanza Responsable y Tenencia Segura del Suelo en AmÈrica Latina y Caribe</dc:title>
-		<dc:description xml:lang="en">Nota Conceptual de la ReuniÛn de Expertos ìConceptos, Contextos y Soluciones para la Gobernanza Responsable y Tenencia Segura del Suelo en AmÈrica Latina y Caribeî, realizada en San JosÈ, Costa Rica, Julio 2016.    Participaran de la reuniÛn expertos y representantes de diversos sectores (p˙blicos, academia, OSC, privado) para revisar el Reporte preliminar &#39;Gobernanza Responsable y Tenencia Segura del Suelo de ¡reas Urbanas y Peri-Urbanas en AmÈrica Latina y el Caribe: An·lisis de 10 paÌsesî. Este estudio busca generar recomendaciones para alianzas, colaboraciÛn, y acciÛn entre diferentes sectores con el objetivo de avanzar en gobernancia responsable, instrumentos de suelos para el acceso y tenencia segura, y contribuir a una efectiva implementaciÛn de la Nueva Agenda Urbana en la regiÛn AmÈrica Latina y Caribe.</dc:description>
+		<dc:title xml:lang="en">Nota Conceptual &#8211; Reuni√≥n de Expertos Gobernanza Responsable y Tenencia Segura del Suelo en Am√©rica Latina y Caribe</dc:title>
+		<dc:description xml:lang="en">Nota Conceptual de la Reuni√≥n de Expertos ‚ÄúConceptos, Contextos y Soluciones para la Gobernanza Responsable y Tenencia Segura del Suelo en Am√©rica Latina y Caribe‚Äù, realizada en San Jos√©, Costa Rica, Julio 2016.    Participaran de la reuni√≥n expertos y representantes de diversos sectores (p√∫blicos, academia, OSC, privado) para revisar el Reporte preliminar &#39;Gobernanza Responsable y Tenencia Segura del Suelo de √Åreas Urbanas y Peri-Urbanas en Am√©rica Latina y el Caribe: An√°lisis de 10 pa√≠ses‚Äù. Este estudio busca generar recomendaciones para alianzas, colaboraci√≥n, y acci√≥n entre diferentes sectores con el objetivo de avanzar en gobernancia responsable, instrumentos de suelos para el acceso y tenencia segura, y contribuir a una efectiva implementaci√≥n de la Nueva Agenda Urbana en la regi√≥n Am√©rica Latina y Caribe.</dc:description>
 		<dc:publisher>Habitat para la Humanidad Internacional; GLTN ONU-HABITAT</dc:publisher>
 		<dc:author>Paola Siclari</dc:author>
 		<dc:coverage>ARG</dc:coverage>
@@ -392,14 +392,14 @@ xmlns:bibo="http://purl.org/ontology/bibo/">
 		<dc:coverage/>
 		<dc:subject>Acceso a suelos y tenencia segura</dc:subject>
 		<dc:type>Investigaciones y estudios</dc:type>
-		<schema:image rdf:resource="http://www.suelourbano.org/wp-content/uploads/2016/07/SPA_-_reuniÛn_de_expertos-260x88.png" />
+		<schema:image rdf:resource="http://www.suelourbano.org/wp-content/uploads/2016/07/SPA_-_reuni√≥n_de_expertos-260x88.png" />
 		<bibo:uri rdf:resource ="http://www.suelourbano.org/wp-content/uploads/2016/07/GOBERNANZA-RESPONSABLE-Y-TENENCIA-SEGURA-DEL-SUELO-EGM-JULIO-14-15-2016-SAN-JOSE-COSTA-RICA-NC.pdf" />
 		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-07-12</dct:date>
 		<dc:language>en</dc:language>
 	</rdf:Description>
 	<rdf:Description rdf:about="http://www.suelourbano.org/bibliotecas/2016/07/13/list-of-participants-reunion-de-expertos-gobernanza-responsable-y-tenencia-segura-del-suelo-de-areas-urbanas-y-peri-urbanas-en-america-latina-y-el-caribe/">
 		<dc:title xml:lang="en">List of Participants &#8211; Responsible Governance and Secure Tenure of Urban and Peri-Urban Land in Latin America and the Caribbean</dc:title>
-		<dc:description xml:lang="en">List of Participants of the Experts Group Meeting about Responsible Governance and Secure Tenure of Urban and Peri-Urban Land in Latin America and the Caribbean, held in San JosÈ, Costa Rica, in July 2016.    This study aims to generate recommendations for partnerships, collaboration, and action to advancing responsible governance, and land tools for access to and secure land tenure, and contribute to the effective implementation of the New Agenda Urbana in the Latin America and Caribbean region.</dc:description>
+		<dc:description xml:lang="en">List of Participants of the Experts Group Meeting about Responsible Governance and Secure Tenure of Urban and Peri-Urban Land in Latin America and the Caribbean, held in San Jos√©, Costa Rica, in July 2016.    This study aims to generate recommendations for partnerships, collaboration, and action to advancing responsible governance, and land tools for access to and secure land tenure, and contribute to the effective implementation of the New Agenda Urbana in the Latin America and Caribbean region.</dc:description>
 		<dc:publisher>Habitat para la Humanidad Internacional; GLTN ONU-HABITAT</dc:publisher>
 		<dc:author>Paola Siclari</dc:author>
 		<dc:coverage>ARG</dc:coverage>
@@ -422,8 +422,8 @@ xmlns:bibo="http://purl.org/ontology/bibo/">
 		<dc:language>en</dc:language>
 	</rdf:Description>
 	<rdf:Description rdf:about="http://www.suelourbano.org/bibliotecas/2016/07/13/concept-note-experts-group-meeting-concepts-contexts-and-solutions-for-responsible-land-governance-and-secure-tenure-in-latin-america-and-the-caribbean/">
-		<dc:title xml:lang="en">Concept Note Experts Group Meeting ìConcepts, Contexts, and Solutions for Responsible Land Governance, and Secure Tenure in Latin America and the Caribbeanî</dc:title>
-		<dc:description xml:lang="en">Concept Note of the Experts Group Meeting ìConcepts, Contexts, and Solutions for Responsible Land Governance, and Secure Tenure in Latin America and the Caribbeanî, held in San JosÈ, Costa Rica, in July 2016.    The aim of the study is to generate recommendations for partnerships, collaboration, and action to advancing responsible governance, and land tools for access to and secure land tenure, and contribute to the effective implementation of the New Agenda Urbana in the Latin America and Caribbean region.</dc:description>
+		<dc:title xml:lang="en">Concept Note Experts Group Meeting ‚ÄúConcepts, Contexts, and Solutions for Responsible Land Governance, and Secure Tenure in Latin America and the Caribbean‚Äù</dc:title>
+		<dc:description xml:lang="en">Concept Note of the Experts Group Meeting ‚ÄúConcepts, Contexts, and Solutions for Responsible Land Governance, and Secure Tenure in Latin America and the Caribbean‚Äù, held in San Jos√©, Costa Rica, in July 2016.    The aim of the study is to generate recommendations for partnerships, collaboration, and action to advancing responsible governance, and land tools for access to and secure land tenure, and contribute to the effective implementation of the New Agenda Urbana in the Latin America and Caribbean region.</dc:description>
 		<dc:publisher>Habitat para la Humanidad Internacional; GLTN ONU-HABITAT</dc:publisher>
 		<dc:author>Paola Siclari</dc:author>
 		<dc:coverage>ARG</dc:coverage>
@@ -445,8 +445,8 @@ xmlns:bibo="http://purl.org/ontology/bibo/">
 		<dc:language>en</dc:language>
 	</rdf:Description>
 	<rdf:Description rdf:about="http://www.suelourbano.org/bibliotecas/2016/07/13/lista-de-participantes-reunion-de-expertos-gobernanza-responsable-y-tenencia-segura-del-suelo-de-areas-urbanas-y-peri-urbanas-en-america-latina-y-el-caribe/">
-		<dc:title xml:lang="es">Lista de Participantes &#8211; ReuniÛn de Expertos Gobernanza Responsable y Tenencia Segura del Suelo de ¡reas Urbanas y Peri-Urbanas en AmÈrica Latina y el Caribe</dc:title>
-		<dc:description xml:lang="es">Lista de Participantes de la ReuniÛn de Expertos sobre &#34;Gobernanza Responsable y Tenencia Segura del Suelo de ¡reas Urbanas y Peri-Urbanas en AmÈrica Latina y el Caribe: An·lisis de 10 paÌsesî, realizada en San JosÈ, Costa Rica, en Julio de 2016.    Este estudio busca generar recomendaciones para alianzas, colaboraciÛn, y acciÛn entre diferentes sectores con el objetivo de avanzar en gobernancia responsable, instrumentos de suelos para el acceso y tenencia segura, y contribuir a una efectiva implementaciÛn de la Nueva Agenda Urbana en la regiÛn AmÈrica Latina y Caribe.</dc:description>
+		<dc:title xml:lang="es">Lista de Participantes &#8211; Reuni√≥n de Expertos Gobernanza Responsable y Tenencia Segura del Suelo de √Åreas Urbanas y Peri-Urbanas en Am√©rica Latina y el Caribe</dc:title>
+		<dc:description xml:lang="es">Lista de Participantes de la Reuni√≥n de Expertos sobre &#34;Gobernanza Responsable y Tenencia Segura del Suelo de √Åreas Urbanas y Peri-Urbanas en Am√©rica Latina y el Caribe: An√°lisis de 10 pa√≠ses‚Äù, realizada en San Jos√©, Costa Rica, en Julio de 2016.    Este estudio busca generar recomendaciones para alianzas, colaboraci√≥n, y acci√≥n entre diferentes sectores con el objetivo de avanzar en gobernancia responsable, instrumentos de suelos para el acceso y tenencia segura, y contribuir a una efectiva implementaci√≥n de la Nueva Agenda Urbana en la regi√≥n Am√©rica Latina y Caribe.</dc:description>
 		<dc:publisher>Habitat para la Humanidad Internacional; GLTN ONU-HABITAT</dc:publisher>
 		<dc:author>Paola Siclari</dc:author>
 		<dc:coverage>ARG</dc:coverage>
@@ -463,14 +463,14 @@ xmlns:bibo="http://purl.org/ontology/bibo/">
 		<dc:coverage/>
 		<dc:subject>Acceso a suelos y tenencia segura</dc:subject>
 		<dc:type>Investigaciones y estudios</dc:type>
-		<schema:image rdf:resource="http://www.suelourbano.org/wp-content/uploads/2016/07/SPA_-_reuniÛn_de_expertos-260x88.png" />
+		<schema:image rdf:resource="http://www.suelourbano.org/wp-content/uploads/2016/07/SPA_-_reuni√≥n_de_expertos-260x88.png" />
 		<bibo:uri rdf:resource ="http://www.suelourbano.org/wp-content/uploads/2016/07/7-5-2016-Lista-de-Participantes-1.pdf" />
 		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-07-12</dct:date>
 		<dc:language>es</dc:language>
 	</rdf:Description>
 	<rdf:Description rdf:about="http://www.suelourbano.org/bibliotecas/2016/07/13/agenda-experts-group-meeting-responsible-governance-and-secure-tenure-of-urban-and-peri-urban-land-in-latin-america-and-the-caribbean-analysis-of-10-countries/">
-		<dc:title xml:lang="en">Agenda Experts Group Meeting ëResponsible Governance and Secure Tenure of Urban and Peri-Urban Land in Latin America and the Caribbean: Analysis of 10 Countriesí.</dc:title>
-		<dc:description xml:lang="en">Agenda of the Experts Group Meeting about to review the preliminary Report ëResponsible Governance and Secure Tenure of Urban and Peri-Urban Land in Latin America and the Caribbean: Analysis of 10 Countriesí, held in San JosÈ, Costa Rica, in July 2016.    This study aims to generate recommendations for partnerships, collaboration, and action to advancing responsible governance, and land tools for access to and secure land tenure, and contribute to the effective implementation of the New Agenda Urbana in the Latin America and Caribbean region.</dc:description>
+		<dc:title xml:lang="en">Agenda Experts Group Meeting ‚ÄòResponsible Governance and Secure Tenure of Urban and Peri-Urban Land in Latin America and the Caribbean: Analysis of 10 Countries‚Äô.</dc:title>
+		<dc:description xml:lang="en">Agenda of the Experts Group Meeting about to review the preliminary Report ‚ÄòResponsible Governance and Secure Tenure of Urban and Peri-Urban Land in Latin America and the Caribbean: Analysis of 10 Countries‚Äô, held in San Jos√©, Costa Rica, in July 2016.    This study aims to generate recommendations for partnerships, collaboration, and action to advancing responsible governance, and land tools for access to and secure land tenure, and contribute to the effective implementation of the New Agenda Urbana in the Latin America and Caribbean region.</dc:description>
 		<dc:publisher>Habitat para la Humanidad Internacional; GLTN ONU-HABITAT</dc:publisher>
 		<dc:author>Paola Siclari</dc:author>
 		<dc:coverage>ARG</dc:coverage>
@@ -492,8 +492,8 @@ xmlns:bibo="http://purl.org/ontology/bibo/">
 		<dc:language>en</dc:language>
 	</rdf:Description>
 	<rdf:Description rdf:about="http://www.suelourbano.org/bibliotecas/2016/07/13/agenda-reunion-de-expertos-gobernanza-responsable-y-tenencia-segura-del-suelo-de-areas-urbanas-y-peri-urbanas-en-america-latina-y-el-caribe/">
-		<dc:title xml:lang="es">Agenda ReuniÛn de Expertos Gobernanza Responsable y Tenencia Segura del Suelo de ¡reas Urbanas y Peri-Urbanas en AmÈrica Latina y el Caribe</dc:title>
-		<dc:description xml:lang="es">Agenda de la ReuniÛn de Expertos que se realizÛ el 14 y 15 de Julio en San JosÈ, Costa Rica donde representantes de diversos sectores (p˙blicos, academia, OSC, privado) para revisar el Reporte preliminar &#39;Gobernanza Responsable y Tenencia Segura del Suelo de ¡reas Urbanas y Peri-Urbanas en AmÈrica Latina y el Caribe: An·lisis de 10 paÌsesî. El estudio busca generar recomendaciones para alianzas, colaboraciÛn, y acciÛn entre diferentes sectores con el objetivo de avanzar en gobernancia responsable, instrumentos de suelos para el acceso y tenencia segura, y contribuir a una efectiva implementaciÛn de la Nueva Agenda Urbana en la regiÛn AmÈrica Latina y Caribe.</dc:description>
+		<dc:title xml:lang="es">Agenda Reuni√≥n de Expertos Gobernanza Responsable y Tenencia Segura del Suelo de √Åreas Urbanas y Peri-Urbanas en Am√©rica Latina y el Caribe</dc:title>
+		<dc:description xml:lang="es">Agenda de la Reuni√≥n de Expertos que se realiz√≥ el 14 y 15 de Julio en San Jos√©, Costa Rica donde representantes de diversos sectores (p√∫blicos, academia, OSC, privado) para revisar el Reporte preliminar &#39;Gobernanza Responsable y Tenencia Segura del Suelo de √Åreas Urbanas y Peri-Urbanas en Am√©rica Latina y el Caribe: An√°lisis de 10 pa√≠ses‚Äù. El estudio busca generar recomendaciones para alianzas, colaboraci√≥n, y acci√≥n entre diferentes sectores con el objetivo de avanzar en gobernancia responsable, instrumentos de suelos para el acceso y tenencia segura, y contribuir a una efectiva implementaci√≥n de la Nueva Agenda Urbana en la regi√≥n Am√©rica Latina y Caribe.</dc:description>
 		<dc:publisher>Habitat para la Humanidad Internacional; GLTN ONU-HABITAT</dc:publisher>
 		<dc:author>Paola Siclari</dc:author>
 		<dc:coverage>ARG</dc:coverage>
@@ -509,22 +509,22 @@ xmlns:bibo="http://purl.org/ontology/bibo/">
 		<dc:coverage/>
 		<dc:subject>Acceso a suelos y tenencia segura</dc:subject>
 		<dc:type>Investigaciones y estudios</dc:type>
-		<schema:image rdf:resource="http://www.suelourbano.org/wp-content/uploads/2016/07/SPA_-_reuniÛn_de_expertos-260x88.png" />
+		<schema:image rdf:resource="http://www.suelourbano.org/wp-content/uploads/2016/07/SPA_-_reuni√≥n_de_expertos-260x88.png" />
 		<bibo:uri rdf:resource ="http://www.suelourbano.org/wp-content/uploads/2016/07/AGENDA-DETALLADA-EGM-Concepts-Contexts-and-Solutions-for-Responsible-Land-Governance-and-Secure-Tenure-in-Latin-America-and-the-Caribbean-f.pdf" />
 		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-07-12</dct:date>
 		<dc:language>es</dc:language>
 	</rdf:Description>
 	<rdf:Description rdf:about="http://www.suelourbano.org/bibliotecas/2016/06/08/statement-at-habitat-iii-informal-hearing-with-stakeholders-june-2016/">
 		<dc:title xml:lang="en">Statement at Habitat III Informal Hearing with Stakeholders, June, 2016</dc:title>
-		<dc:description xml:lang="en">Statement proffered at Habitat III Informal Hearing with Stakeholders ñ Panel 4 Effective Implementation, June 7th 2016, by Maria Luisa Alvarado, representing Habitat for Humanity International Latin America and the Caribbean region, and speaking as a member of the Civil Society Organization Partner Constituent Group of the General Assembly of Partners.</dc:description>
+		<dc:description xml:lang="en">Statement proffered at Habitat III Informal Hearing with Stakeholders ‚Äì Panel 4 Effective Implementation, June 7th 2016, by Maria Luisa Alvarado, representing Habitat for Humanity International Latin America and the Caribbean region, and speaking as a member of the Civil Society Organization Partner Constituent Group of the General Assembly of Partners.</dc:description>
 		<dc:publisher>Habitat para la Humanidad Internacional</dc:publisher>
 		<dc:author>Maria Luisa Alvarado</dc:author>
 		<dc:subject>Acceso a suelos y tenencia segura</dc:subject>
-		<dc:subject>AdministraciÛn de suelos e informaciÛn</dc:subject>
+		<dc:subject>Administraci√≥n de suelos e informaci√≥n</dc:subject>
 		<dc:subject>Financiamiento urbano basado en suelos</dc:subject>
-		<dc:subject>GestiÛn y planificaciÛn del territorio</dc:subject>
-		<dc:subject>LegislaciÛn y polÌticas de suelos</dc:subject>
-		<dc:type>Sistematizaciones y documentaciÛn de experiencias</dc:type>
+		<dc:subject>Gesti√≥n y planificaci√≥n del territorio</dc:subject>
+		<dc:subject>Legislaci√≥n y pol√≠ticas de suelos</dc:subject>
+		<dc:type>Sistematizaciones y documentaci√≥n de experiencias</dc:type>
 		<schema:image rdf:resource="http://www.suelourbano.org/wp-content/uploads/2016/06/2016-06-07_2315-118x146.png" />
 		<bibo:uri rdf:resource ="http://www.suelourbano.org/wp-content/uploads/2016/06/Habitat-III-Maria-Luisa-June-2016.docx" />
 		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-06-07</dct:date>
@@ -532,12 +532,12 @@ xmlns:bibo="http://purl.org/ontology/bibo/">
 	</rdf:Description>
 	<rdf:Description rdf:about="http://www.suelourbano.org/bibliotecas/2016/05/16/hfh-reactions-to-zero-draft-of-the-new-urban-agenda/">
 		<dc:title xml:lang="en">HFH Reactions to Zero Draft of the New Urban Agenda</dc:title>
-		<dc:description xml:lang="en">Habitat for Humanity International applauds members of the Bureau of the Preparatory Committee, the Habitat III Secretariat, Member States and the engagement and dedication of all Habitat III stakeholders in creating the Zero Draft of the New Urban Agenda. Habitat III is a critical opportunity to reinvigorate global commitment to sustainable development and this draft sets us on the right path.  The New Urban Agenda must: 1) emphasize adequate and affordable housing, 2) prioritize security of tenure, 3) promote community-led development, and 4) set specific and accountable measures.  We are encouraged to see these recommendations reflected in individual sections as well as throughout the Agenda. We congratulate Member States in placing ìadequate housing and shelter at the center of the New Urban Agendaî and reaffirming Habitat II in ìpromoting, protecting, and ensuring the full and progressive realization of the right to adequate housing.î We look forward to working with Member States to ensure these elements remain and/or are strengthened throughout the negotiations.</dc:description>
+		<dc:description xml:lang="en">Habitat for Humanity International applauds members of the Bureau of the Preparatory Committee, the Habitat III Secretariat, Member States and the engagement and dedication of all Habitat III stakeholders in creating the Zero Draft of the New Urban Agenda. Habitat III is a critical opportunity to reinvigorate global commitment to sustainable development and this draft sets us on the right path.  The New Urban Agenda must: 1) emphasize adequate and affordable housing, 2) prioritize security of tenure, 3) promote community-led development, and 4) set specific and accountable measures.  We are encouraged to see these recommendations reflected in individual sections as well as throughout the Agenda. We congratulate Member States in placing ‚Äúadequate housing and shelter at the center of the New Urban Agenda‚Äù and reaffirming Habitat II in ‚Äúpromoting, protecting, and ensuring the full and progressive realization of the right to adequate housing.‚Äù We look forward to working with Member States to ensure these elements remain and/or are strengthened throughout the negotiations.</dc:description>
 		<dc:publisher>Habitat para la Humanidad Internacional</dc:publisher>
 		<dc:author>Habitat para la Humanidad Internacional</dc:author>
 		<dc:subject>Acceso a suelos y tenencia segura</dc:subject>
-		<dc:subject>GestiÛn y planificaciÛn del territorio</dc:subject>
-		<dc:subject>LegislaciÛn y polÌticas de suelos</dc:subject>
+		<dc:subject>Gesti√≥n y planificaci√≥n del territorio</dc:subject>
+		<dc:subject>Legislaci√≥n y pol√≠ticas de suelos</dc:subject>
 		<dc:type>Investigaciones y estudios</dc:type>
 		<schema:image rdf:resource="http://www.suelourbano.org/wp-content/uploads/2016/05/2016-05-16_1510-113x146.png" />
 		<bibo:uri rdf:resource ="http://www.suelourbano.org/wp-content/uploads/2016/05/HFH-Reactions-to-Zero-Draft-of-the-New-Urban-Agenda-FINAL.pdf" />
@@ -545,12 +545,12 @@ xmlns:bibo="http://purl.org/ontology/bibo/">
 		<dc:language>en</dc:language>
 	</rdf:Description>
 	<rdf:Description rdf:about="http://www.suelourbano.org/bibliotecas/2016/04/13/esquema-urbano-mancomunidades-pucara-grande-y-1o-de-mayo-distrito-9-cochabamba/">
-		<dc:title xml:lang="es">Esquema Urbano &#8211; Mancomunidades Pucara Grande y 1∫ de Mayo, Distrito 9, Cochabamba, Bolivia</dc:title>
-		<dc:description xml:lang="es">DiagnÛstico y Propuesta del Esquema Urbano Mancomunidades Pucara Grande y 1∫ de Mayo (Distrito 9, Cochabamba) Bolivia</dc:description>
+		<dc:title xml:lang="es">Esquema Urbano &#8211; Mancomunidades Pucara Grande y 1¬∫ de Mayo, Distrito 9, Cochabamba, Bolivia</dc:title>
+		<dc:description xml:lang="es">Diagn√≥stico y Propuesta del Esquema Urbano Mancomunidades Pucara Grande y 1¬∫ de Mayo (Distrito 9, Cochabamba) Bolivia</dc:description>
 		<dc:publisher>Habitat para la Humanidad Internacional; UK AID</dc:publisher>
 		<dc:author>Alberto Rivera Pizarro</dc:author>
 		<dc:coverage>BOL</dc:coverage>
-		<dc:subject>GestiÛn y planificaciÛn del territorio</dc:subject>
+		<dc:subject>Gesti√≥n y planificaci√≥n del territorio</dc:subject>
 		<dc:type>Investigaciones y estudios</dc:type>
 		<schema:image rdf:resource="http://www.suelourbano.org/wp-content/uploads/2016/04/Biblioteca_-_esquema_urbano_Cochabamba_-_capa-113x146.png" />
 		<bibo:uri rdf:resource ="http://www.suelourbano.org/wp-content/uploads/2016/04/ESQUEMA-URBANO_PLAN.pdf" />
@@ -559,12 +559,12 @@ xmlns:bibo="http://purl.org/ontology/bibo/">
 	</rdf:Description>
 	<rdf:Description rdf:about="http://www.suelourbano.org/bibliotecas/2016/04/13/precios-del-suelo-en-el-distrito-9-cochabamba/">
 		<dc:title xml:lang="es">PRECIOS DEL SUELO EN EL DISTRITO 9, COCHABAMBA, Bolivia</dc:title>
-		<dc:description xml:lang="es">Proyecto: &#34;Mejorando el acceso a la tierra urbana y los derechos a la propiedad de mujeres y familias excluidas en Bolivia&#34;    Para responder la pregunta de investigaciÛn que motivÛ esta consultorÌa øCu·nto cuesta vivir en el Distrito 9? se organizÛ este documento en cinco secciones, la primera resume la informaciÛn de investigaciones anteriores e incluye conceptos teÛricos importantes para interpretar mejor las tendencias presentadas en este documento; la segunda secciÛn resume datos histÛricos provistos por el RUAT desde 1980 las sobre ventas realizadas, el tamaÒo de los bienes inmuebles, los montos imponibles y los valores que figuran en las minutas. Esta primera revisiÛn no permitiÛ acercarse a los precios de mercado, pero si al conocimiento de una cantidad de terrenos y viviendas con documentos legales que fueron transadas y registradas tanto en la AlcaldÌa como en el RUAT.    La tercera secciÛn contiene cuadros y gr·ficos elaborados sobre los avisos clasificados de Los Tiempos de cada domingo desde enero del 2010 hasta marzo del 2012, esta informaciÛn tÈcnicamente es considerada como la parte formal del mercado de suelos. La base lograda contiene 43.000 avisos de oferta de casas para toda la ciudad y las provincias y 10.000 avisos de oferta de terrenos, de ellos se aislaron los avisos que corresponden al D9 y sobre ellos se elaboraron cuadros y gr·ficos especiales. Esta secciÛn incluye mapas y cuadros obtenidos luego de visitas a los diferentes barrios del distrito, se fotografiaron los letreros y las casas ofertadas y se tomaron puntos GPS con apoyo de mujeres de la Plataforma organizada por H·bitat para la Humanidad. Luego de las llamadas a todos los telÈfonos de los letreros, se armaron cuadros de salida que sirvieron para comparar esta informaciÛn que tÈcnicamente es considerada como la parte informal del mercado de suelos.    La cuarta secciÛn incluye conceptos derivados de la teorÌa cl·sica de la renta del suelo y aplicados al ·mbito urbano por especialistas del Lincoln Institute, la selecciÛn de algunos de ellos permitiÛ interpretar las tendencias encontradas en el mercado del suelo del D9 y en anexo se presenta y la bibliografÌa utilizada y la quinta secciÛn presenta las conclusiones generales.    Este primer documento est· en estrecha correspondencia con los 4 siguientes entregables que tratan sobre los siguientes temas: a) los efectos de las polÌticas e instrumentos de planeamiento en las condiciones de mercado de suelo; b) las implicancias en polÌticas p˙blicas; c) los aprendizajes logrados y d) un instrumento metodolÛgico como una caja de herramientas.</dc:description>
+		<dc:description xml:lang="es">Proyecto: &#34;Mejorando el acceso a la tierra urbana y los derechos a la propiedad de mujeres y familias excluidas en Bolivia&#34;    Para responder la pregunta de investigaci√≥n que motiv√≥ esta consultor√≠a ¬øCu√°nto cuesta vivir en el Distrito 9? se organiz√≥ este documento en cinco secciones, la primera resume la informaci√≥n de investigaciones anteriores e incluye conceptos te√≥ricos importantes para interpretar mejor las tendencias presentadas en este documento; la segunda secci√≥n resume datos hist√≥ricos provistos por el RUAT desde 1980 las sobre ventas realizadas, el tama√±o de los bienes inmuebles, los montos imponibles y los valores que figuran en las minutas. Esta primera revisi√≥n no permiti√≥ acercarse a los precios de mercado, pero si al conocimiento de una cantidad de terrenos y viviendas con documentos legales que fueron transadas y registradas tanto en la Alcald√≠a como en el RUAT.    La tercera secci√≥n contiene cuadros y gr√°ficos elaborados sobre los avisos clasificados de Los Tiempos de cada domingo desde enero del 2010 hasta marzo del 2012, esta informaci√≥n t√©cnicamente es considerada como la parte formal del mercado de suelos. La base lograda contiene 43.000 avisos de oferta de casas para toda la ciudad y las provincias y 10.000 avisos de oferta de terrenos, de ellos se aislaron los avisos que corresponden al D9 y sobre ellos se elaboraron cuadros y gr√°ficos especiales. Esta secci√≥n incluye mapas y cuadros obtenidos luego de visitas a los diferentes barrios del distrito, se fotografiaron los letreros y las casas ofertadas y se tomaron puntos GPS con apoyo de mujeres de la Plataforma organizada por H√°bitat para la Humanidad. Luego de las llamadas a todos los tel√©fonos de los letreros, se armaron cuadros de salida que sirvieron para comparar esta informaci√≥n que t√©cnicamente es considerada como la parte informal del mercado de suelos.    La cuarta secci√≥n incluye conceptos derivados de la teor√≠a cl√°sica de la renta del suelo y aplicados al √°mbito urbano por especialistas del Lincoln Institute, la selecci√≥n de algunos de ellos permiti√≥ interpretar las tendencias encontradas en el mercado del suelo del D9 y en anexo se presenta y la bibliograf√≠a utilizada y la quinta secci√≥n presenta las conclusiones generales.    Este primer documento est√° en estrecha correspondencia con los 4 siguientes entregables que tratan sobre los siguientes temas: a) los efectos de las pol√≠ticas e instrumentos de planeamiento en las condiciones de mercado de suelo; b) las implicancias en pol√≠ticas p√∫blicas; c) los aprendizajes logrados y d) un instrumento metodol√≥gico como una caja de herramientas.</dc:description>
 		<dc:publisher>Habitat para la Humanidad Internacional; UK Aid</dc:publisher>
 		<dc:author>Alberto Rivera Pizarro</dc:author>
 		<dc:coverage>BOL</dc:coverage>
 		<dc:subject>Acceso a suelos y tenencia segura</dc:subject>
-		<dc:subject>AdministraciÛn de suelos e informaciÛn</dc:subject>
+		<dc:subject>Administraci√≥n de suelos e informaci√≥n</dc:subject>
 		<dc:type>Investigaciones y estudios</dc:type>
 		<schema:image rdf:resource="http://www.suelourbano.org/wp-content/uploads/2016/04/Biblioteca_-_precios_del_suelo_cochabamba_-_capa-113x146.png" />
 		<bibo:uri rdf:resource ="http://www.suelourbano.org/wp-content/uploads/2016/04/Precios-del-suelo-Distrito-9-Cochabamba-Bolivia.pdf" />
@@ -573,38 +573,38 @@ xmlns:bibo="http://purl.org/ontology/bibo/">
 	</rdf:Description>
 	<rdf:Description rdf:about="http://www.suelourbano.org/bibliotecas/2016/03/31/haiti-land-transaction-manual-vol-1/">
 		<dc:title xml:lang="en">Haiti Land Transaction Manual &#8211; Vol. 1</dc:title>
-		<dc:description xml:lang="en">Buying and selling land legally in Haiti is a complex and often misunderstood process. The earthquake in January 2010 exacerbated Haitiís land issues, hampering the countryís recovery and slowing redevelopment. This manual documents existing Haitian land laws and customary practices related to the legal sale of land, facilitating a consistent and transparent process that supports tenure security for Haitiís residents and ultimately Haitiís economic growth. This manual is intended to serve as an immediate tool to assist the business and reconstruction communities by clarifying the current legal and customary procedures and standardizing, in writing, the legal procedures necessary to transact and assemble land in Haiti. This manual does not cover all aspects of land transactions in Haiti. Future manuals are planned to document the regularization of land rights and eminent domain.    Our hope is that all entities ó from individuals to government officials, from Haitian businesses to multinational corporations and donors ó will be encouraged and enabled to engage in the legal sale of property in Haiti. Using this manual and having agreement on the legal process will increase the ability of all actors to be more successful and aware of the legal issues relating to property transfer in Haiti.    The manual was developed by the Haiti Property Law Working Group, which is made up of roughly 100 experts, practitioners, donors and government officials working to clarify Haitiís land law in an inclusive and transparent manner. The nuanced and inclusive process of developing this manual lasted almost a year. To ensure the manualís accuracy, drafts were circulated for comments and regional stakeholder meetings were held in Port-au-Prince, Cap-HaÔtien, Les Cayes and LÈog‚ne to solicit feedback. Stakeholder meetings included national and local government officials, notaries, surveyors, nongovernmental organizations, bilateral and multilateral agencies, and the Haitian financial and insurance sectors.    After the publication of this manual and future manuals, assuming funding remains available, the working group will develop and implement training to educate all interested parties about the manuals and to promote their broad adoption and use. Training materials will be available in French, Creole and English, and may include a series of workshops and face-to-face and online training opportunities for public officials, lawyers, notaries and surveyors, among others.    The working group has begun research on other important aspects of secure tenure and land rights in Haiti, including the regularization of title and eminent domain. In addition, the working group has identified bottlenecks and challenges to the effective functioning of the Haitian property rights systems. Subject to the availability of funding, the working group will support capacity building of Haitian institutions involved in matters of property rights and secure tenure.</dc:description>
+		<dc:description xml:lang="en">Buying and selling land legally in Haiti is a complex and often misunderstood process. The earthquake in January 2010 exacerbated Haiti‚Äôs land issues, hampering the country‚Äôs recovery and slowing redevelopment. This manual documents existing Haitian land laws and customary practices related to the legal sale of land, facilitating a consistent and transparent process that supports tenure security for Haiti‚Äôs residents and ultimately Haiti‚Äôs economic growth. This manual is intended to serve as an immediate tool to assist the business and reconstruction communities by clarifying the current legal and customary procedures and standardizing, in writing, the legal procedures necessary to transact and assemble land in Haiti. This manual does not cover all aspects of land transactions in Haiti. Future manuals are planned to document the regularization of land rights and eminent domain.    Our hope is that all entities ‚Äî from individuals to government officials, from Haitian businesses to multinational corporations and donors ‚Äî will be encouraged and enabled to engage in the legal sale of property in Haiti. Using this manual and having agreement on the legal process will increase the ability of all actors to be more successful and aware of the legal issues relating to property transfer in Haiti.    The manual was developed by the Haiti Property Law Working Group, which is made up of roughly 100 experts, practitioners, donors and government officials working to clarify Haiti‚Äôs land law in an inclusive and transparent manner. The nuanced and inclusive process of developing this manual lasted almost a year. To ensure the manual‚Äôs accuracy, drafts were circulated for comments and regional stakeholder meetings were held in Port-au-Prince, Cap-Ha√Øtien, Les Cayes and L√©og√¢ne to solicit feedback. Stakeholder meetings included national and local government officials, notaries, surveyors, nongovernmental organizations, bilateral and multilateral agencies, and the Haitian financial and insurance sectors.    After the publication of this manual and future manuals, assuming funding remains available, the working group will develop and implement training to educate all interested parties about the manuals and to promote their broad adoption and use. Training materials will be available in French, Creole and English, and may include a series of workshops and face-to-face and online training opportunities for public officials, lawyers, notaries and surveyors, among others.    The working group has begun research on other important aspects of secure tenure and land rights in Haiti, including the regularization of title and eminent domain. In addition, the working group has identified bottlenecks and challenges to the effective functioning of the Haitian property rights systems. Subject to the availability of funding, the working group will support capacity building of Haitian institutions involved in matters of property rights and secure tenure.</dc:description>
 		<dc:publisher>Habitat para la Humanidad Haiti; Architecture for Humanity</dc:publisher>
 		<dc:author>Haiti Property Law Working Group</dc:author>
 		<dc:coverage>HTI</dc:coverage>
-		<dc:subject>LegislaciÛn y polÌticas de suelos</dc:subject>
-		<dc:type>Caja de Herramientas (guÌas, manuales, etc.)</dc:type>
+		<dc:subject>Legislaci√≥n y pol√≠ticas de suelos</dc:subject>
+		<dc:type>Caja de Herramientas (gu√≠as, manuales, etc.)</dc:type>
 		<schema:image rdf:resource="http://www.suelourbano.org/wp-content/uploads/2016/03/Caratula-Manual-haiti-204x146.jpg" />
 		<bibo:uri rdf:resource ="http://www.suelourbano.org/wp-content/uploads/2016/03/Biblioteca-Haiti-Land-Manual-vol-1-English-as-Printed-1.pdf" />
 		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-06-26</dct:date>
 		<dc:language>en</dc:language>
 	</rdf:Description>
 	<rdf:Description rdf:about="http://www.suelourbano.org/bibliotecas/2016/03/06/guia-della-facilitadora-escuela-de-mujeres-lideres-en-tenencia-segura/">
-		<dc:title xml:lang="es">GUÕA DEL/LA FACILITADOR/A ESCUELA DE MUJERES LÕDERES EN TENENCIA SEGURA</dc:title>
-		<dc:description xml:lang="es">Este documento contiene una propuesta que te servir· para conducir una escuela dirigida a fortalecer las capacidades de mujeres que luchan por la tenencia segura de la tierra y la vivienda urbanas.    Esta guÌa rescata las enseÒanzas de la Escuela de Mujeres LÌderes en Tenencia Segura del Proyecto ìMejorando el acceso a tierras urbanas y el derecho a la propiedad para mujeres y familias excluidas en Boliviaî, liderado por H·bitat para la Humanidad (HPH), y que fue ejecutado entre 2010 y 2015. Su objetivo fue ìincrementar el acceso de mujeres y familias excluidas a la tierra urbana y derechos de propiedad a travÈs de una gobernanza nacional y municipal transparente y con rendiciÛn de cuentasî.    Para lograr este cometido, el proyecto contÛ con tres componentes: i) fortalecimiento de capacidades impulsado a travÈs de la Escuela, ii) promociÛn del derecho a la tenencia segura a travÈs de acciones de incidencia polÌtica de una plataforma de mujeres y iii) apoyo tÈcnico, legal y financiero para concretar el acceso a la tenencia segura.    La Escuela de Mujeres LÌderes en Tenencia Segura fue la instancia n˙cleo de las acciones del Proyecto, puesto que en sus aulas se empoderÛ a m·s de 300 mujeres y 50 hombres que, luego, se dieron a la tarea de sensibilizar, comunicar, incidir y defender sobre el derecho a la tenencia segura de la tierra y la vivienda urbanas.    La Escuela partiÛ del conocimiento y logros alcanzados sobre los derechos de las mujeres en la ConstituciÛn PolÌtica del Estado, al mismo tiempo que enfatizÛ el enfoque participativo de la poblaciÛn que asistiÛ al proceso de formaciÛn, recuperando la experiencia del Centro de PromociÛn de la Mujer Gregoria Apaza ñCPMGAñ, CIUDADANÕA y H·bitat para la Humanidad (HPH).    La Escuela tuvo como enfoques a la equidad e igualdad de gÈnero y a la interculturalidad, y como vertientes de enseÒanza aprendizaje al constructivismo y a la educaciÛn popular. El proceso contÛ con 3 mÛdulos: CiudadanÌa y democracia (preparado y facilitado por CIUDADANÕA), Tenencia segura de la tierra urbana y la vivienda (preparado y facilitado por HPH) y Habilidades para la incidencia (preparado y facilitado por CPMGA). Cada mÛdulo tuvo sesiones de capacitaciÛn que fueron impartidas durante 3 meses. En total se desarrollaron 15 ciclos de la Escuela en un lapso de cinco aÒos.    Esta GuÌa no solo te proporciona la estrategia de intervenciÛn y los contenidos tem·ticos, sino tambiÈn la metodologÌa para que puedas adecuar esta propuesta y mejorarla. La informaciÛn metodolÛgica se encuentra en la primera parte; en la segunda te presentamos detalles de la sesiÛn introductoria de la Escuela, el desarrollo de los mÛdulos y la sesiÛn final. Matizamos el texto con dibujos que realizaron las participantes acerca de su paso por la Escuela. Esperemos que te gusten y te sirvan de inspiraciÛn en tu tarea.</dc:description>
+		<dc:title xml:lang="es">GU√çA DEL/LA FACILITADOR/A ESCUELA DE MUJERES L√çDERES EN TENENCIA SEGURA</dc:title>
+		<dc:description xml:lang="es">Este documento contiene una propuesta que te servir√° para conducir una escuela dirigida a fortalecer las capacidades de mujeres que luchan por la tenencia segura de la tierra y la vivienda urbanas.    Esta gu√≠a rescata las ense√±anzas de la Escuela de Mujeres L√≠deres en Tenencia Segura del Proyecto ‚ÄúMejorando el acceso a tierras urbanas y el derecho a la propiedad para mujeres y familias excluidas en Bolivia‚Äù, liderado por H√°bitat para la Humanidad (HPH), y que fue ejecutado entre 2010 y 2015. Su objetivo fue ‚Äúincrementar el acceso de mujeres y familias excluidas a la tierra urbana y derechos de propiedad a trav√©s de una gobernanza nacional y municipal transparente y con rendici√≥n de cuentas‚Äù.    Para lograr este cometido, el proyecto cont√≥ con tres componentes: i) fortalecimiento de capacidades impulsado a trav√©s de la Escuela, ii) promoci√≥n del derecho a la tenencia segura a trav√©s de acciones de incidencia pol√≠tica de una plataforma de mujeres y iii) apoyo t√©cnico, legal y financiero para concretar el acceso a la tenencia segura.    La Escuela de Mujeres L√≠deres en Tenencia Segura fue la instancia n√∫cleo de las acciones del Proyecto, puesto que en sus aulas se empoder√≥ a m√°s de 300 mujeres y 50 hombres que, luego, se dieron a la tarea de sensibilizar, comunicar, incidir y defender sobre el derecho a la tenencia segura de la tierra y la vivienda urbanas.    La Escuela parti√≥ del conocimiento y logros alcanzados sobre los derechos de las mujeres en la Constituci√≥n Pol√≠tica del Estado, al mismo tiempo que enfatiz√≥ el enfoque participativo de la poblaci√≥n que asisti√≥ al proceso de formaci√≥n, recuperando la experiencia del Centro de Promoci√≥n de la Mujer Gregoria Apaza ‚ÄìCPMGA‚Äì, CIUDADAN√çA y H√°bitat para la Humanidad (HPH).    La Escuela tuvo como enfoques a la equidad e igualdad de g√©nero y a la interculturalidad, y como vertientes de ense√±anza aprendizaje al constructivismo y a la educaci√≥n popular. El proceso cont√≥ con 3 m√≥dulos: Ciudadan√≠a y democracia (preparado y facilitado por CIUDADAN√çA), Tenencia segura de la tierra urbana y la vivienda (preparado y facilitado por HPH) y Habilidades para la incidencia (preparado y facilitado por CPMGA). Cada m√≥dulo tuvo sesiones de capacitaci√≥n que fueron impartidas durante 3 meses. En total se desarrollaron 15 ciclos de la Escuela en un lapso de cinco a√±os.    Esta Gu√≠a no solo te proporciona la estrategia de intervenci√≥n y los contenidos tem√°ticos, sino tambi√©n la metodolog√≠a para que puedas adecuar esta propuesta y mejorarla. La informaci√≥n metodol√≥gica se encuentra en la primera parte; en la segunda te presentamos detalles de la sesi√≥n introductoria de la Escuela, el desarrollo de los m√≥dulos y la sesi√≥n final. Matizamos el texto con dibujos que realizaron las participantes acerca de su paso por la Escuela. Esperemos que te gusten y te sirvan de inspiraci√≥n en tu tarea.</dc:description>
 		<dc:publisher>Habitat para la Humanidad Bolivia; Ciudadania; Gregoria Apaza</dc:publisher>
 		<dc:author>Habitat para la Humanidad Bolivia; Ciudadania; Gregoria Apaza</dc:author>
 		<dc:coverage>BOL</dc:coverage>
 		<dc:subject>Acceso a suelos y tenencia segura</dc:subject>
-		<dc:type>Caja de Herramientas (guÌas, manuales, etc.)</dc:type>
-		<schema:image rdf:resource="http://www.suelourbano.org/wp-content/uploads/2016/03/Web_-_GUÕA_FACILITADOR_70_pag_final_-_capa-112x146.png" />
-		<bibo:uri rdf:resource ="http://www.suelourbano.org/wp-content/uploads/2016/03/Web-GUÕA-FACILITADOR-70-pag-final.pdf" />
+		<dc:type>Caja de Herramientas (gu√≠as, manuales, etc.)</dc:type>
+		<schema:image rdf:resource="http://www.suelourbano.org/wp-content/uploads/2016/03/Web_-_GU√çA_FACILITADOR_70_pag_final_-_capa-112x146.png" />
+		<bibo:uri rdf:resource ="http://www.suelourbano.org/wp-content/uploads/2016/03/Web-GU√çA-FACILITADOR-70-pag-final.pdf" />
 		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-03-03</dct:date>
 		<dc:language>es</dc:language>
 	</rdf:Description>
 	<rdf:Description rdf:about="http://www.suelourbano.org/bibliotecas/2016/03/06/escuela-de-mujeres-lideres-en-tenencia-segura/">
-		<dc:title xml:lang="es">Infogr·fico Escuela de Mujeres LÌderes en Tenencia Segura</dc:title>
-		<dc:description xml:lang="es">Infogr·fico - Escuela de Mujeres LÌderes en Tenencia Segura, implementada en el marco del Proyecto ìMejorando el acceso al suelo urbano y el derecho a la propiedad para mujeres y familias excluidas en Boliviaî.</dc:description>
+		<dc:title xml:lang="es">Infogr√°fico Escuela de Mujeres L√≠deres en Tenencia Segura</dc:title>
+		<dc:description xml:lang="es">Infogr√°fico - Escuela de Mujeres L√≠deres en Tenencia Segura, implementada en el marco del Proyecto ‚ÄúMejorando el acceso al suelo urbano y el derecho a la propiedad para mujeres y familias excluidas en Bolivia‚Äù.</dc:description>
 		<dc:publisher>Habitat para la Humanidad Bolivia; Ciudadania; Gregoria Apaza; UK Aid</dc:publisher>
 		<dc:author>Habitat para la Humanidad Bolivia; Ciudadania; Gregoria Apaza; UK Aid</dc:author>
 		<dc:coverage>BOL</dc:coverage>
 		<dc:subject>Acceso a suelos y tenencia segura</dc:subject>
-		<dc:type>Fotos, im·genes, Infogr·fico</dc:type>
+		<dc:type>Fotos, im√°genes, Infogr√°fico</dc:type>
 		<schema:image rdf:resource="http://www.suelourbano.org/wp-content/uploads/2016/03/Web_-_DESPLEGABLE_ESCUELA_HABITAT_-_capa-163x146.png" />
 		<bibo:uri rdf:resource ="http://www.suelourbano.org/wp-content/uploads/2016/03/Web-DESPLEGABLE-ESCUELA-HABITAT.pdf" />
 		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-03-03</dct:date>
@@ -617,7 +617,7 @@ xmlns:bibo="http://purl.org/ontology/bibo/">
 		<dc:author>Maria Luisa Alvarado; Mercia Alves da Silva; Ronaldo Coelho; Lisa Stead; Elisabeth Blake</dc:author>
 		<dc:coverage>BRA</dc:coverage>
 		<dc:subject>Acceso a suelos y tenencia segura</dc:subject>
-		<dc:subject>LegislaciÛn y polÌticas de suelos</dc:subject>
+		<dc:subject>Legislaci√≥n y pol√≠ticas de suelos</dc:subject>
 		<dc:type>Investigaciones y estudios</dc:type>
 		<schema:image rdf:resource="http://www.suelourbano.org/wp-content/uploads/2016/03/Web_-_HABITAT_FOR_HUMANITY_FINAL_Judiciary_in_Brazil_Abstract_-_capa-113x146.png" />
 		<bibo:uri rdf:resource ="http://www.suelourbano.org/wp-content/uploads/2016/03/Web-HABITAT-FOR-HUMANITY-FINAL-Judiciary-in-Brazil-Abstract.pdf" />
@@ -626,12 +626,12 @@ xmlns:bibo="http://purl.org/ontology/bibo/">
 	</rdf:Description>
 	<rdf:Description rdf:about="http://www.suelourbano.org/bibliotecas/2016/03/06/access-to-justice-for-a-responsive-and-inclusive-land-governance-to-target-the-most-economically-vulnerable-groups-in-brazil/">
 		<dc:title xml:lang="en">ACCESS TO JUSTICE FOR A RESPONSIVE AND INCLUSIVE LAND GOVERNANCE TO TARGET THE MOST ECONOMICALLY VULNERABLE GROUPS IN BRAZIL</dc:title>
-		<dc:description xml:lang="en">Full paper presented at the ìANNUAL WORLD BANK CONFERENCE ON LAND AND POVERTYî The World Bank - Washington DC, April 23-26, 2012.    Prepared based on the Land Regularization experiences of Habitat for Humanity Brazil and Centro Dom Helder C‚mara de Estudos e AÁ„o Social Cendhec, in Recife, Brazil.    KEYWORDS: Access to Justice, Women and Economically Vulnerable Groups, Land Governance, Land Tenure, Special Collective Usucapion</dc:description>
+		<dc:description xml:lang="en">Full paper presented at the ‚ÄúANNUAL WORLD BANK CONFERENCE ON LAND AND POVERTY‚Äù The World Bank - Washington DC, April 23-26, 2012.    Prepared based on the Land Regularization experiences of Habitat for Humanity Brazil and Centro Dom Helder C√¢mara de Estudos e A√ß√£o Social Cendhec, in Recife, Brazil.    KEYWORDS: Access to Justice, Women and Economically Vulnerable Groups, Land Governance, Land Tenure, Special Collective Usucapion</dc:description>
 		<dc:publisher>World Bank</dc:publisher>
 		<dc:author>Maria Luisa Alvarado; Mercia Alves da Silva; Ronaldo Coelho; Lisa Stead; Elisabeth Blake</dc:author>
 		<dc:coverage>BRA</dc:coverage>
 		<dc:subject>Acceso a suelos y tenencia segura</dc:subject>
-		<dc:subject>LegislaciÛn y polÌticas de suelos</dc:subject>
+		<dc:subject>Legislaci√≥n y pol√≠ticas de suelos</dc:subject>
 		<dc:type>Investigaciones y estudios</dc:type>
 		<schema:image rdf:resource="http://www.suelourbano.org/wp-content/uploads/2016/03/Web_-_Habitat_for_Humanity_-_CENDHEC_Brazil_2013_WB_Land_and_Poverty_Conference_FULL_PAPER_-_capa-1-113x146.png" />
 		<bibo:uri rdf:resource ="http://www.suelourbano.org/wp-content/uploads/2016/03/Web-Habitat-for-Humanity-CENDHEC-Brazil-2013-WB-Land-and-Poverty-Conference-FULL-PAPER.pdf" />
@@ -640,13 +640,13 @@ xmlns:bibo="http://purl.org/ontology/bibo/">
 	</rdf:Description>
 	<rdf:Description rdf:about="http://www.suelourbano.org/bibliotecas/2016/03/06/improving-access-to-urban-land-and-property-entitlements-for-women-and-excluded-families-in-cochabamba-bolivia/">
 		<dc:title xml:lang="en">Improving Access to Urban Land and Property Entitlements for Women and Excluded Families in Cochabamba, Bolivia</dc:title>
-		<dc:description xml:lang="en">Paper prepared for presentation at the ìANNUAL WORLD BANK CONFERENCE ON LAND AND POVERTYî The World Bank ñ Washington DC, April 23-36, 2012.    With the 2009 Constitution (CPEB), Bolivia has recently adopted a new regulatory framework that recognizes individual and collective property entitlements, secures land access for women, promotes citizen voice in public policy, and encourages accessible mechanisms for land use, planning, and registry. However, within this promising scenario, female residents in District 9 of Cochabamba City do not feel empowered to act on the new Constitutionís promises of enfranchisement, and see authoritiesí apathy as an obstacle to accessing urban land and property entitlements. ìImproving Access to Urban Land and Property Entitlements for Women and Excluded Families in Boliviaî is a project that presents an approach to improving this situation by engaging communities, and particularly women head of households, to use their voice through a women&#39;s platform to influence policy on secure tenure.  It also encourages coalition-building between NGOs, women, and experts to audit policy change and fosters gender sensitive collaboration to guarantee integrated urban policies on land planning, secure tenure, and adequate housing. More gender-sensitive, transparent and accountable land governance is expected to liberate women of the burdens and threats of power imbalances, and to contribute to equitable growth and poverty reduction, as well as to implementation of the Constitution. On 2010 a Womenís Network on Secure Land Tenure (WNSLT) was established; on March 29, 2012 the WNSLT presented a Gender Sensitive Proposal on Land and Property Rights in the Plurinational Assembly and the Vice-Ministry of Housing; recently an agreement has been signed between a CSO and the local government to gather evidences to inform land policy, and to strengthen local authoritiesí capacities on planning, mainstreaming gender.</dc:description>
+		<dc:description xml:lang="en">Paper prepared for presentation at the ‚ÄúANNUAL WORLD BANK CONFERENCE ON LAND AND POVERTY‚Äù The World Bank ‚Äì Washington DC, April 23-36, 2012.    With the 2009 Constitution (CPEB), Bolivia has recently adopted a new regulatory framework that recognizes individual and collective property entitlements, secures land access for women, promotes citizen voice in public policy, and encourages accessible mechanisms for land use, planning, and registry. However, within this promising scenario, female residents in District 9 of Cochabamba City do not feel empowered to act on the new Constitution‚Äôs promises of enfranchisement, and see authorities‚Äô apathy as an obstacle to accessing urban land and property entitlements. ‚ÄúImproving Access to Urban Land and Property Entitlements for Women and Excluded Families in Bolivia‚Äù is a project that presents an approach to improving this situation by engaging communities, and particularly women head of households, to use their voice through a women&#39;s platform to influence policy on secure tenure.  It also encourages coalition-building between NGOs, women, and experts to audit policy change and fosters gender sensitive collaboration to guarantee integrated urban policies on land planning, secure tenure, and adequate housing. More gender-sensitive, transparent and accountable land governance is expected to liberate women of the burdens and threats of power imbalances, and to contribute to equitable growth and poverty reduction, as well as to implementation of the Constitution. On 2010 a Women‚Äôs Network on Secure Land Tenure (WNSLT) was established; on March 29, 2012 the WNSLT presented a Gender Sensitive Proposal on Land and Property Rights in the Plurinational Assembly and the Vice-Ministry of Housing; recently an agreement has been signed between a CSO and the local government to gather evidences to inform land policy, and to strengthen local authorities‚Äô capacities on planning, mainstreaming gender.</dc:description>
 		<dc:publisher>World Bank</dc:publisher>
 		<dc:author>Maria Luisa Zanelli; Anya Brickman Raredon; Jane Katz; Lisa Stead; Susana Rojas</dc:author>
 		<dc:coverage>BOL</dc:coverage>
 		<dc:subject>Acceso a suelos y tenencia segura</dc:subject>
-		<dc:subject>AdministraciÛn de suelos e informaciÛn</dc:subject>
-		<dc:subject>LegislaciÛn y polÌticas de suelos</dc:subject>
+		<dc:subject>Administraci√≥n de suelos e informaci√≥n</dc:subject>
+		<dc:subject>Legislaci√≥n y pol√≠ticas de suelos</dc:subject>
 		<dc:type>Investigaciones y estudios</dc:type>
 		<schema:image rdf:resource="http://www.suelourbano.org/wp-content/uploads/2016/03/Web_-_HFHI_Improving_Access_to_Property_Entitlements_in_Bolivia_WB_2012_final2_-_capa-113x146.png" />
 		<bibo:uri rdf:resource ="http://www.suelourbano.org/wp-content/uploads/2016/03/Web-HFHI_Improving-Access-to-Property-Entitlements-in-Bolivia_WB-2012-final2.pdf" />
@@ -655,14 +655,14 @@ xmlns:bibo="http://purl.org/ontology/bibo/">
 	</rdf:Description>
 	<rdf:Description rdf:about="http://www.suelourbano.org/bibliotecas/2016/03/06/improving-access-to-urban-land-and-property-rights-ulpe-for-women-and-excluded-families-in-bolivia/">
 		<dc:title xml:lang="en">Improving Access to Urban Land and Property Entitlements for Women and Excluded Families in Cochabamba, Bolivia</dc:title>
-		<dc:description xml:lang="en">Presentation of the Paper prepared for presentation at the ìANNUAL WORLD BANK CONFERENCE ON LAND AND POVERTYî The World Bank ñ Washington DC, April 23-36, 2012</dc:description>
+		<dc:description xml:lang="en">Presentation of the Paper prepared for presentation at the ‚ÄúANNUAL WORLD BANK CONFERENCE ON LAND AND POVERTY‚Äù The World Bank ‚Äì Washington DC, April 23-36, 2012</dc:description>
 		<dc:publisher>World Bank</dc:publisher>
 		<dc:author>Maria Luisa Zanelli; Anya Brickman Raredon; Jane Katz; Lisa Stead; Susana Rojas</dc:author>
 		<dc:coverage>BOL</dc:coverage>
 		<dc:subject>Acceso a suelos y tenencia segura</dc:subject>
-		<dc:subject>AdministraciÛn de suelos e informaciÛn</dc:subject>
-		<dc:subject>GestiÛn y planificaciÛn del territorio</dc:subject>
-		<dc:subject>LegislaciÛn y polÌticas de suelos</dc:subject>
+		<dc:subject>Administraci√≥n de suelos e informaci√≥n</dc:subject>
+		<dc:subject>Gesti√≥n y planificaci√≥n del territorio</dc:subject>
+		<dc:subject>Legislaci√≥n y pol√≠ticas de suelos</dc:subject>
 		<dc:type>Investigaciones y estudios</dc:type>
 		<schema:image rdf:resource="http://www.suelourbano.org/wp-content/uploads/2016/03/Web_-_WB_Land_Conference_2012_BOLIVIA_Secure_Tenure__Gender_-_capa-1-195x146.png" />
 		<bibo:uri rdf:resource ="http://www.suelourbano.org/wp-content/uploads/2016/03/Web-WB-Land-Conference-2012-BOLIVIA-Secure-Tenure-Gender.pdf" />
@@ -671,12 +671,12 @@ xmlns:bibo="http://purl.org/ontology/bibo/">
 	</rdf:Description>
 	<rdf:Description rdf:about="http://www.suelourbano.org/bibliotecas/2016/03/06/access-to-justice-for-a-responsive-and-inclusive-land-governance/">
 		<dc:title xml:lang="en">Access to Justice for a Responsive and Inclusive Land Governance</dc:title>
-		<dc:description xml:lang="en">Presentation of the Paper prepared for presentation at the ìANNUAL WORLD BANK CONFERENCE ON LAND AND POVERTYî  The World Bank - Washington DC, April 23-26, 2012.    A study developed by HFH Brazil and Cendhec implementing partners of the ëEmpowering Women and Vulnerable Groups to Exercise their Rights for Inclusion and Secure Land Tenure and Propertyí, in Brazil; project funded by UKAID.    OBJECTIVE OF THE STUDY: To expose evidences of the obstacles that impact the time duration of proceedings in the Judiciary for the recognition of land tenure rights of the residents of poor settlements in Recife.</dc:description>
+		<dc:description xml:lang="en">Presentation of the Paper prepared for presentation at the ‚ÄúANNUAL WORLD BANK CONFERENCE ON LAND AND POVERTY‚Äù  The World Bank - Washington DC, April 23-26, 2012.    A study developed by HFH Brazil and Cendhec implementing partners of the ‚ÄòEmpowering Women and Vulnerable Groups to Exercise their Rights for Inclusion and Secure Land Tenure and Property‚Äô, in Brazil; project funded by UKAID.    OBJECTIVE OF THE STUDY: To expose evidences of the obstacles that impact the time duration of proceedings in the Judiciary for the recognition of land tenure rights of the residents of poor settlements in Recife.</dc:description>
 		<dc:publisher>World Bank</dc:publisher>
 		<dc:author>Maria Luisa Alvarado; Mercia Alves da Silva; Ronaldo Coelho; Lisa Stead, Elisabeth Blake</dc:author>
 		<dc:coverage>BRA</dc:coverage>
 		<dc:subject>Acceso a suelos y tenencia segura</dc:subject>
-		<dc:subject>LegislaciÛn y polÌticas de suelos</dc:subject>
+		<dc:subject>Legislaci√≥n y pol√≠ticas de suelos</dc:subject>
 		<dc:type>Investigaciones y estudios</dc:type>
 		<schema:image rdf:resource="http://www.suelourbano.org/wp-content/uploads/2016/03/Web_-_Elizabeth_Blake_Presentation_-_WB_Conference_Land_and_Poverty_2013_-_capa-1-195x146.png" />
 		<bibo:uri rdf:resource ="http://www.suelourbano.org/wp-content/uploads/2016/03/Web-Elizabeth-Blake-Presentation-WB-Conference-Land-and-Poverty-2013.pdf" />
@@ -684,29 +684,29 @@ xmlns:bibo="http://purl.org/ontology/bibo/">
 		<dc:language>en</dc:language>
 	</rdf:Description>
 	<rdf:Description rdf:about="http://www.suelourbano.org/bibliotecas/2016/03/06/estudo-acesso-a-justica-a-atuacao-do-judiciario-estadual-de-pernambuco-a-luz-da-experiencia-de-regularizacao-fundiaria-do-cendhec/">
-		<dc:title xml:lang="pt">Estudo &#8211; Acesso ‡ JustiÁa: a atuaÁ„o do judici·rio estadual de Pernambuco ‡ luz da experiÍncia de RegularizaÁ„o Fundi·ria do CENDHEC</dc:title>
-		<dc:description xml:lang="pt">O estudo de 2012 foca na atuaÁ„o do sistema judici·rio estadual de Pernambuco em aÁıes de regularizaÁ„o fundi·ria acompanhadas pelo CENDHEC na cidade do Recife, Brasil, revelando obst·culos que dificultam a implementaÁ„o do usucapi„o especial (coletivo) e, consequentemente, os direitos de propriedade e uso do solo de populaÁ„o socioeconomicamente vulner·vel.</dc:description>
+		<dc:title xml:lang="pt">Estudo &#8211; Acesso √† Justi√ßa: a atua√ß√£o do judici√°rio estadual de Pernambuco √† luz da experi√™ncia de Regulariza√ß√£o Fundi√°ria do CENDHEC</dc:title>
+		<dc:description xml:lang="pt">O estudo de 2012 foca na atua√ß√£o do sistema judici√°rio estadual de Pernambuco em a√ß√µes de regulariza√ß√£o fundi√°ria acompanhadas pelo CENDHEC na cidade do Recife, Brasil, revelando obst√°culos que dificultam a implementa√ß√£o do usucapi√£o especial (coletivo) e, consequentemente, os direitos de propriedade e uso do solo de popula√ß√£o socioeconomicamente vulner√°vel.</dc:description>
 		<dc:publisher>CENDHEC</dc:publisher>
 		<dc:author>Alexandre Pacheco</dc:author>
 		<dc:coverage>BRA</dc:coverage>
 		<dc:subject>Acceso a suelos y tenencia segura</dc:subject>
-		<dc:subject>LegislaciÛn y polÌticas de suelos</dc:subject>
+		<dc:subject>Legislaci√≥n y pol√≠ticas de suelos</dc:subject>
 		<dc:type>Investigaciones y estudios</dc:type>
-		<schema:image rdf:resource="http://www.suelourbano.org/wp-content/uploads/2016/03/Web_-_ApresentaÁ„o_Cendhec_Brasil_-_estudo_DFID_-_capa-3-195x146.png" />
-		<bibo:uri rdf:resource ="http://www.suelourbano.org/wp-content/uploads/2016/03/Web-ApresentaÁ„o-Cendhec-Brasil-estudo-DFID.pdf" />
+		<schema:image rdf:resource="http://www.suelourbano.org/wp-content/uploads/2016/03/Web_-_Apresenta√ß√£o_Cendhec_Brasil_-_estudo_DFID_-_capa-3-195x146.png" />
+		<bibo:uri rdf:resource ="http://www.suelourbano.org/wp-content/uploads/2016/03/Web-Apresenta√ß√£o-Cendhec-Brasil-estudo-DFID.pdf" />
 		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-04-23</dct:date>
 		<dc:language>pt</dc:language>
 	</rdf:Description>
 	<rdf:Description rdf:about="http://www.suelourbano.org/bibliotecas/2016/03/04/memo-to-the-mayor-improving-access-to-urban-land-for-all-residents-fulfilling-the-promise/">
 		<dc:title xml:lang="en">MEMO TO THE MAYOR &#8211; Improving Access to Urban Land for All Residents: Fulfilling the Promise</dc:title>
-		<dc:description xml:lang="en">As the world is urbanizing, many cities are grappling with a population that is growing rapidly, thereby increasing demand for land and housing. This pressure on land and housing markets often is exacerbated by inappropriate or inadequate policies. The result is a supply of well-located land and housing that falls well short of demand and the proliferation of poorly serviced informal settlements, many of which are located far from jobs, city services and amenities.  This paper discusses the major policy levers local leaders may have at their disposal to improve access to land and housing and thereby change the landscape of cities for the better. It discusses common obstaclesóadministrative, political, and financialóand options for overcoming them. In particular, the report: (1) takes a fresh look at some  traditional mechanisms such as land regulation, property taxation, and public-private partnerships, (2) reintroduces some innovative land toolsócommunity land trusts, guided development, transfer of development rights, land pooling/readjustment, and land sharingóthat may have a place in citiesí arsenal of responses, and (3) suggests ways to garner the political support that will be needed to move forward with programs of reform.    This report is written in the form of a memo to a fictitious Mayor of a fictitious City. He has appointed a Local Land Advisory Committee with members from the public, private and nonprofit sector. The Committee has prepared this memo at the request of the Mayor to help him fulfill his campaign promise to improve access to urban land for all the Cityís residents.</dc:description>
+		<dc:description xml:lang="en">As the world is urbanizing, many cities are grappling with a population that is growing rapidly, thereby increasing demand for land and housing. This pressure on land and housing markets often is exacerbated by inappropriate or inadequate policies. The result is a supply of well-located land and housing that falls well short of demand and the proliferation of poorly serviced informal settlements, many of which are located far from jobs, city services and amenities.  This paper discusses the major policy levers local leaders may have at their disposal to improve access to land and housing and thereby change the landscape of cities for the better. It discusses common obstacles‚Äîadministrative, political, and financial‚Äîand options for overcoming them. In particular, the report: (1) takes a fresh look at some  traditional mechanisms such as land regulation, property taxation, and public-private partnerships, (2) reintroduces some innovative land tools‚Äîcommunity land trusts, guided development, transfer of development rights, land pooling/readjustment, and land sharing‚Äîthat may have a place in cities‚Äô arsenal of responses, and (3) suggests ways to garner the political support that will be needed to move forward with programs of reform.    This report is written in the form of a memo to a fictitious Mayor of a fictitious City. He has appointed a Local Land Advisory Committee with members from the public, private and nonprofit sector. The Committee has prepared this memo at the request of the Mayor to help him fulfill his campaign promise to improve access to urban land for all the City‚Äôs residents.</dc:description>
 		<dc:publisher>World Bank</dc:publisher>
 		<dc:author>Barbara Lipman; Robin Rajack</dc:author>
 		<dc:subject>Acceso a suelos y tenencia segura</dc:subject>
-		<dc:subject>AdministraciÛn de suelos e informaciÛn</dc:subject>
+		<dc:subject>Administraci√≥n de suelos e informaci√≥n</dc:subject>
 		<dc:subject>Financiamiento urbano basado en suelos</dc:subject>
-		<dc:subject>GestiÛn y planificaciÛn del territorio</dc:subject>
-		<dc:subject>LegislaciÛn y polÌticas de suelos</dc:subject>
+		<dc:subject>Gesti√≥n y planificaci√≥n del territorio</dc:subject>
+		<dc:subject>Legislaci√≥n y pol√≠ticas de suelos</dc:subject>
 		<dc:type>Investigaciones y estudios</dc:type>
 		<schema:image rdf:resource="http://www.suelourbano.org/wp-content/uploads/2016/03/web_-_2011_Memo_to_the_Mayor_-_improving_access_to_urban_land_for_all_residents_-_capa-113x146.png" />
 		<bibo:uri rdf:resource ="http://www.suelourbano.org/wp-content/uploads/2016/03/web-2011-Memo-to-the-Mayor-improving-access-to-urban-land-for-all-residents.pdf" />
@@ -714,16 +714,16 @@ xmlns:bibo="http://purl.org/ontology/bibo/">
 		<dc:language>en</dc:language>
 	</rdf:Description>
 	<rdf:Description rdf:about="http://www.suelourbano.org/bibliotecas/2016/03/04/conjunto-de-herramientas-de-la-campana-suelo-seguro/">
-		<dc:title xml:lang="es">Conjunto de Herramientas de la CampaÒa Suelo Seguro</dc:title>
-		<dc:description xml:lang="es">GuÌa de Herramientas de Suelo Seguro - una campaÒa en incidencia mundial de Habitat para la Humanidad.</dc:description>
+		<dc:title xml:lang="es">Conjunto de Herramientas de la Campa√±a Suelo Seguro</dc:title>
+		<dc:description xml:lang="es">Gu√≠a de Herramientas de Suelo Seguro - una campa√±a en incidencia mundial de Habitat para la Humanidad.</dc:description>
 		<dc:publisher>Habitat para la Humanidad Internacional</dc:publisher>
 		<dc:author>Habitat para la Humanidad Internacional</dc:author>
 		<dc:subject>Acceso a suelos y tenencia segura</dc:subject>
-		<dc:subject>AdministraciÛn de suelos e informaciÛn</dc:subject>
+		<dc:subject>Administraci√≥n de suelos e informaci√≥n</dc:subject>
 		<dc:subject>Financiamiento urbano basado en suelos</dc:subject>
-		<dc:subject>GestiÛn y planificaciÛn del territorio</dc:subject>
-		<dc:subject>LegislaciÛn y polÌticas de suelos</dc:subject>
-		<dc:type>Caja de Herramientas (guÌas, manuales, etc.)</dc:type>
+		<dc:subject>Gesti√≥n y planificaci√≥n del territorio</dc:subject>
+		<dc:subject>Legislaci√≥n y pol√≠ticas de suelos</dc:subject>
+		<dc:type>Caja de Herramientas (gu√≠as, manuales, etc.)</dc:type>
 		<schema:image rdf:resource="http://www.suelourbano.org/wp-content/uploads/2016/03/Biblioteca_-_solid_ground_tool_kit_spanish_-_capa-114x146.png" />
 		<bibo:uri rdf:resource ="http://www.suelourbano.org/wp-content/uploads/2016/03/Biblioteca-solid_ground_tool_kit_spanish.pdf" />
 		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-03-01</dct:date>
@@ -731,14 +731,14 @@ xmlns:bibo="http://purl.org/ontology/bibo/">
 	</rdf:Description>
 	<rdf:Description rdf:about="http://www.suelourbano.org/bibliotecas/2016/03/04/fit-for-purpose-land-administration/">
 		<dc:title xml:lang="en">Fit-For-Purpose Land Administration</dc:title>
-		<dc:description xml:lang="en">The current solutions to delivering land administration services have very limited global outreach; 75 percent of the worldís population do not have access to formal systems to register and safeguard their land rights. The majority of these are the poor and the most vulnerable in society and without any level of security of tenure they constantly live in threat of eviction. For example, foreign investors through large scale land acquisitions have attained more than 30 million hectares of land in largely poor and middle-income countries since 2000; many indigenous people have lost rights to their land. This creates significant instabilities in society and severely limits their ability to participate in economic development.  The pressure to change and provide more appropriate and efficient land administration services and strengthen security of tenure is growing within global political circles. Land was prominent on the agenda for the G8 and G20 meetings in 2013 and land indicators are planned within the replacement of the Millennium Development Goals (UN, 2013). The ability of the current land administration paradigm to quickly scale up to engage the excluded 75 percent of the worldís population is impossible. It is time to  rethink how land rights are recorded and managed.  The key bottleneck in land administration services is the use of traditional, high accuracy, expensive land surveying techniques to record land rights. However, the adoption of ëspatially-fit-for-purposeí and the ëcontinuum-of-continuumsí concepts will introduce flexibility and fundamentally change how land professionals record land rights. This approach provides a profound opportunity for the profession to positively react to these global land policy agenda challenges.  This report provides a comprehensive overview of the ëfit-for-purposeí approach by initially setting the land governance and global land policy agenda context, describing  how to build fit-for-purpose land administration systems, recognising the benefits of implementing the approach, identifying the potential constraints and barriers for its adoption, highlighting the associated opportunities for land professionals and finally describing the capacity building required to achieve widespread adoption and secure tenure for all.</dc:description>
+		<dc:description xml:lang="en">The current solutions to delivering land administration services have very limited global outreach; 75 percent of the world‚Äôs population do not have access to formal systems to register and safeguard their land rights. The majority of these are the poor and the most vulnerable in society and without any level of security of tenure they constantly live in threat of eviction. For example, foreign investors through large scale land acquisitions have attained more than 30 million hectares of land in largely poor and middle-income countries since 2000; many indigenous people have lost rights to their land. This creates significant instabilities in society and severely limits their ability to participate in economic development.  The pressure to change and provide more appropriate and efficient land administration services and strengthen security of tenure is growing within global political circles. Land was prominent on the agenda for the G8 and G20 meetings in 2013 and land indicators are planned within the replacement of the Millennium Development Goals (UN, 2013). The ability of the current land administration paradigm to quickly scale up to engage the excluded 75 percent of the world‚Äôs population is impossible. It is time to  rethink how land rights are recorded and managed.  The key bottleneck in land administration services is the use of traditional, high accuracy, expensive land surveying techniques to record land rights. However, the adoption of ‚Äòspatially-fit-for-purpose‚Äô and the ‚Äòcontinuum-of-continuums‚Äô concepts will introduce flexibility and fundamentally change how land professionals record land rights. This approach provides a profound opportunity for the profession to positively react to these global land policy agenda challenges.  This report provides a comprehensive overview of the ‚Äòfit-for-purpose‚Äô approach by initially setting the land governance and global land policy agenda context, describing  how to build fit-for-purpose land administration systems, recognising the benefits of implementing the approach, identifying the potential constraints and barriers for its adoption, highlighting the associated opportunities for land professionals and finally describing the capacity building required to achieve widespread adoption and secure tenure for all.</dc:description>
 		<dc:publisher>World Bank; International Federation of Surveyors (FIG)</dc:publisher>
 		<dc:author>Stig Enemark; Keith Clifford Bell; Christiaan Lemmen; Robin McLaren</dc:author>
 		<dc:subject>Acceso a suelos y tenencia segura</dc:subject>
-		<dc:subject>AdministraciÛn de suelos e informaciÛn</dc:subject>
+		<dc:subject>Administraci√≥n de suelos e informaci√≥n</dc:subject>
 		<dc:subject>Financiamiento urbano basado en suelos</dc:subject>
-		<dc:subject>GestiÛn y planificaciÛn del territorio</dc:subject>
-		<dc:subject>LegislaciÛn y polÌticas de suelos</dc:subject>
+		<dc:subject>Gesti√≥n y planificaci√≥n del territorio</dc:subject>
+		<dc:subject>Legislaci√≥n y pol√≠ticas de suelos</dc:subject>
 		<dc:type>Investigaciones y estudios</dc:type>
 		<schema:image rdf:resource="http://www.suelourbano.org/wp-content/uploads/2016/03/Web_-_fit_for_purpose_-_capa-103x146.png" />
 		<bibo:uri rdf:resource ="http://www.suelourbano.org/wp-content/uploads/2016/03/Web-fit-for-purpose.pdf" />
@@ -747,9 +747,9 @@ xmlns:bibo="http://purl.org/ontology/bibo/">
 	</rdf:Description>
 	<rdf:Description rdf:about="http://www.suelourbano.org/bibliotecas/2016/03/02/2-foro-latinoamericano-y-del-caribe-de-vivienda-adecuada-2015/">
 		<dc:title xml:lang="en">2 Foro Latinoamericano y del Caribe de Vivienda Adecuada 2015</dc:title>
-		<dc:description xml:lang="en">Un res˙men de experiencias prometedoras en materia de vivienda adecuada y asentamientos humanos en AmÈrica Latina y el Caribe. Dichas experiencias fueron seleccionadas por medio de un ComitÈ Calificador, compuesto por representantes de las instituciones organizadoras del Foro Latinoamericano y del Caribe de Vivienda Adecuada, a partir de m·s de 70 concursantes. Los criterios para seleccionarlas fueron: inclusividad, participaciÛn de m˙ltiples actores, innovaciÛn, impacto y potencial de escala y sostenibilidad. TambiÈn se procurÛ mantener un balance tem·tico y geogr·fico entre las experiencias seleccionadas.  Cada experiencia contribuye al menos a uno de los cuatro ejes tem·ticos prioritarios del  Foro. Cada eje constituye una secciÛn dentro del cat·logo:  1. Suelo, vivienda y territorio.  2. Viviendas y comunidades resilientes.  3. Vivienda y asentamientos saludables, incluyentes y sostenibles.  4. Modelos de Financiamiento y Desarrollo de Mercados.  Les invitamos a disfrutar de este material. Esperamos sea una herramienta que invite al establecimiento de relaciones en aras de la construcciÛn de ciudades incluyentes, sostenibles y prÛsperas, como soportes para la vida, la superaciÛn de la pobreza y el desarrollo nacional econÛmico y social.</dc:description>
-		<dc:publisher>Habitat para la Humanidad Internacional; Cities Alliance; FederaciÛn Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja; Banco Interamericano de Desarrollo - BID</dc:publisher>
-		<dc:author>Habitat para la Humanidad Internacional; Cities Alliance; FederaciÛn Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja; Banco Interamericano de Desarrollo - BID; Habitat International Coalition - HIC; ONU-Habitat; Lincoln Institute of Land Policy; World Bank</dc:author>
+		<dc:description xml:lang="en">Un res√∫men de experiencias prometedoras en materia de vivienda adecuada y asentamientos humanos en Am√©rica Latina y el Caribe. Dichas experiencias fueron seleccionadas por medio de un Comit√© Calificador, compuesto por representantes de las instituciones organizadoras del Foro Latinoamericano y del Caribe de Vivienda Adecuada, a partir de m√°s de 70 concursantes. Los criterios para seleccionarlas fueron: inclusividad, participaci√≥n de m√∫ltiples actores, innovaci√≥n, impacto y potencial de escala y sostenibilidad. Tambi√©n se procur√≥ mantener un balance tem√°tico y geogr√°fico entre las experiencias seleccionadas.  Cada experiencia contribuye al menos a uno de los cuatro ejes tem√°ticos prioritarios del  Foro. Cada eje constituye una secci√≥n dentro del cat√°logo:  1. Suelo, vivienda y territorio.  2. Viviendas y comunidades resilientes.  3. Vivienda y asentamientos saludables, incluyentes y sostenibles.  4. Modelos de Financiamiento y Desarrollo de Mercados.  Les invitamos a disfrutar de este material. Esperamos sea una herramienta que invite al establecimiento de relaciones en aras de la construcci√≥n de ciudades incluyentes, sostenibles y pr√≥speras, como soportes para la vida, la superaci√≥n de la pobreza y el desarrollo nacional econ√≥mico y social.</dc:description>
+		<dc:publisher>Habitat para la Humanidad Internacional; Cities Alliance; Federaci√≥n Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja; Banco Interamericano de Desarrollo - BID</dc:publisher>
+		<dc:author>Habitat para la Humanidad Internacional; Cities Alliance; Federaci√≥n Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja; Banco Interamericano de Desarrollo - BID; Habitat International Coalition - HIC; ONU-Habitat; Lincoln Institute of Land Policy; World Bank</dc:author>
 		<dc:coverage>ARG</dc:coverage>
 		<dc:coverage>BOL</dc:coverage>
 		<dc:coverage>BRA</dc:coverage>
@@ -766,11 +766,11 @@ xmlns:bibo="http://purl.org/ontology/bibo/">
 		<dc:coverage/>
 		<dc:coverage/>
 		<dc:subject>Acceso a suelos y tenencia segura</dc:subject>
-		<dc:subject>AdministraciÛn de suelos e informaciÛn</dc:subject>
+		<dc:subject>Administraci√≥n de suelos e informaci√≥n</dc:subject>
 		<dc:subject>Financiamiento urbano basado en suelos</dc:subject>
-		<dc:subject>GestiÛn y planificaciÛn del territorio</dc:subject>
-		<dc:subject>LegislaciÛn y polÌticas de suelos</dc:subject>
-		<dc:type>Sistematizaciones y documentaciÛn de experiencias</dc:type>
+		<dc:subject>Gesti√≥n y planificaci√≥n del territorio</dc:subject>
+		<dc:subject>Legislaci√≥n y pol√≠ticas de suelos</dc:subject>
+		<dc:type>Sistematizaciones y documentaci√≥n de experiencias</dc:type>
 		<schema:image rdf:resource="http://www.suelourbano.org/wp-content/uploads/2016/02/Capa_Foro_Mexico_2015-96x146.png" />
 		<bibo:uri rdf:resource ="http://www.suelourbano.org/wp-content/uploads/2016/03/Marketplace-modelo-factsheet-Evento-Mexico-2015.pdf" />
 		<dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-05-06</dct:date>
