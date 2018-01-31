@@ -125,7 +125,7 @@ schema:LLRShape
     sh:property [
         sh:path dc11:coverage;
         rdfs:comment "Check values of geographical focus"@en ;
-        sh:in ( "ARG" "BHS" "BOL" "BRA" "BRB" "CHL" "COL" "CRI" "CUB" "DMA" "DOM" "ECU" "GTM" "GUY" "HND" "JAM" "MSR" "NIC" "PRI" "PRY" "SLV" "TTO" "URY" "VEN" "MEX" "PER" "HTI" "PAN") ;
+        sh:in ( "AIA" "ARG" "ATG" "BHS" "BLZ" "BMU" "BOL" "BRA" "BRB" "CHL" "COL" "CRI" "CUB" "CYM" "DMA" "DOM" "ECU" "FLK" "GTM" "GUF" "GUY" "HND" "HTI" "JAM" "KNA" "LCA" "MEX" "MSR" "MTQ" "NIC" "PAN" "PER" "PRI" "PRY" "SLV" "SUR" "TCA" "TTO" "URY" "VCT" "VEN" "VGB" "VIR" "001" "419" ) ;
     ] ;
 
     sh:property [
