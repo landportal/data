@@ -1,0 +1,54 @@
+# Gets observations with more than one country
+PREFIX cex: <http://purl.org/weso/ontology/computex#>
+PREFIX qb: <http://purl.org/linked-data/cube#>
+
+SELECT DISTINCT ?obs ?country 
+FROM <http://data.landportal.info>
+WHERE {
+   ?obs rdf:type qb:Observation ;
+        cex:ref-area ?country .
+} GROUP BY ?obs ?country
+HAVING (COUNT(?obs) >1)
+
+##############################################################
+
+# Gets observations with more than one year
+PREFIX cex: <http://purl.org/weso/ontology/computex#>
+PREFIX qb: <http://purl.org/linked-data/cube#>
+
+SELECT DISTINCT ?obs ?time 
+FROM <http://data.landportal.info>
+WHERE {
+   ?obs rdf:type qb:Observation ;
+        cex:ref-time ?time .
+} GROUP BY ?obs ?time
+HAVING (COUNT(?obs) >1)
+
+##############################################################
+
+# Gets observations with more than one value
+PREFIX cex: <http://purl.org/weso/ontology/computex#>
+PREFIX qb: <http://purl.org/linked-data/cube#>
+
+SELECT DISTINCT ?obs ?value 
+FROM <http://data.landportal.info>
+WHERE {
+   ?obs rdf:type qb:Observation ;
+        cex:value ?value .
+} GROUP BY ?obs ?value
+HAVING (COUNT(?obs) >1)
+
+##############################################################
+
+# Gets observations with more than one indicator
+PREFIX cex: <http://purl.org/weso/ontology/computex#>
+PREFIX qb: <http://purl.org/linked-data/cube#>
+
+SELECT DISTINCT ?obs ?indicator 
+FROM <http://data.landportal.info>
+WHERE {
+   ?obs rdf:type qb:Observation ;
+        cex:ref-indicator ?indicator .
+} GROUP BY ?obs ?indicator
+HAVING (COUNT(?obs) >1)
+
