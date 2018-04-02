@@ -1,0 +1,26 @@
+# Get number of non missing indicators for a concrete country
+
+PREFIX cex: <http://purl.org/weso/ontology/computex#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX qb:   <http://purl.org/linked-data/cube#>
+
+SELECT DISTINCT ?indicatorURI ?indicatorLabel ?datasetURI ?datasetLabel ?publisherURI ?publisherLabel
+FROM <http://data.landportal.info>
+FROM <http://indicators.landportal.info>
+FROM <http://datasets.landportal.info>
+FROM <http://organizations.landportal.info>
+WHERE {
+
+	?obs cex:ref-area ?countryURI ;
+         cex:ref-indicator ?indicatorURI ;
+         qb:dataSet ?datasetURI .
+		 
+    ?indicatorURI rdfs:label ?indicatorLabel .
+    ?datasetURI rdfs:label ?datasetLabel .
+	
+	?datasetURI dct:publisher ?publisherURI.
+	?publisherURI rdfs:label ?publisherLabel.
+
+   VALUES ?countryURI { <http://data.landportal.info/geo/SEN>}
+
+} ORDER BY ?indicatorURI
