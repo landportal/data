@@ -25,4 +25,4 @@ WHERE {
 
    VALUES ?countryURI { <http://data.landportal.info/geo/SEN>}
 
-} ORDER BY ?indicatorURI
+} ORDER BY ?indicatorLabel
