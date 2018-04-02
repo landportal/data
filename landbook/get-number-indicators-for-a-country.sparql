@@ -4,7 +4,7 @@ PREFIX cex: <http://purl.org/weso/ontology/computex#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 PREFIX qb:   <http://purl.org/linked-data/cube#>
 
-SELECT DISTINCT ?indicatorURI ?indicatorLabel ?datasetURI ?datasetLabel ?publisherURI ?publisherLabel
+SELECT DISTINCT ?indicatorURI ?indicatorLabel ?indicatorDescription ?datasetURI ?datasetLabel ?publisherURI ?publisherLabel
 FROM <http://data.landportal.info>
 FROM <http://indicators.landportal.info>
 FROM <http://datasets.landportal.info>
@@ -15,7 +15,9 @@ WHERE {
          cex:ref-indicator ?indicatorURI ;
          qb:dataSet ?datasetURI .
 		 
-    ?indicatorURI rdfs:label ?indicatorLabel .
+    ?indicatorURI rdfs:label ?indicatorLabel ;
+	              dct:description ?indicatorDescription.
+	
     ?datasetURI rdfs:label ?datasetLabel .
 	
 	?datasetURI dct:publisher ?publisherURI.
