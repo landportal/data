@@ -3,6 +3,8 @@
 	<name>land_journal</name>
 	<comment></comment>
 	<projects>
+		<project>landvoc</project>
+		<project>llr</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>

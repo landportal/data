@@ -1,17 +1,36 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
 from RISparser import readris
-import landvoc
-from resources.LandLibraryResource import LandLibraryResource
-import utils
-import csv
-#import requests
+from landvoc import LandVoc
+from llr.LandLibraryResource import LandLibraryResource
+from llr import utils
 
-LANDVOC = landvoc.LandVoc()
+LANDVOC = LandVoc()
 
-def create_llrs(filename):
-    llrs = set()
+def curate_RIS_MDI_file(filename):
+    write_filename = "new-"+filename
     with open(filename, 'r') as bibliography_file:
+        new_bibliography_file = open(write_filename, "w")
+        content = bibliography_file.readlines()
+        record = 0
+        for line in content:
+            if "TY  - EJOU" in line:
+                if record == 0:
+                    record = 1
+                else:
+                    new_bibliography_file.write("ER  - \n\n")
+            new_bibliography_file.write(line)
+        new_bibliography_file.write("ER  - ") #latest
+        new_bibliography_file.close()
+    
+    return write_filename    
+    
+def create_llrs(filename):
+
+    curated_filename = curate_RIS_MDI_file(filename)
+    
+    llrs = set()
+    with open(curated_filename, 'r') as bibliography_file:
         # using https://pypi.python.org/pypi/RISparser 
         entries = readris(bibliography_file)
         for entry in entries:
@@ -23,35 +42,35 @@ def create_llrs(filename):
 
 
 def create_llr_from_RIS(ris_entry):
-    llr = LandLibraryResource()
+    llr_record = LandLibraryResource()
 
     #type. Only one
     if ris_entry["type_of_reference"]=="EJOU":
-        llr.set_type(u"Peer-reviewed publication")
+        llr_record.set_type(u"Peer-reviewed publication")
 
     #title. Only one
     title = ris_entry["title"]
-    llr.set_title(title.decode('utf-8'))
+    llr_record.set_title(title.decode('utf-8'))
 
     #subtitle
 
     # description
     description = ris_entry["abstract"]
-    llr.set_description(description.decode('utf-8'))
+    llr_record.set_description(description.decode('utf-8'))
 
     #author. One or more
     authors = ris_entry["authors"]
-    llr.set_authors(authors)
+    llr_record.set_authors(authors)
 
     #corporate_authors. Could be more than one
 
     #publishers. One or more (and more could be in the same item or in a different one
     publishers = [u"Land Journal"]
-    llr.set_publishers(publishers)
+    llr_record.set_publishers(publishers)
 
     #ID. Only one.
     doi = ris_entry["doi"]
-    llr.set_id(doi)
+    llr_record.set_id(doi)
     
     #number of pages. Only one
 
@@ -65,7 +84,7 @@ def create_llr_from_RIS(ris_entry):
         "4" : "12",
     }[issue]
     publish_date = year+"-"+month+"-31"# format (YYYY-MM-DD)
-    llr.set_date(publish_date)
+    llr_record.set_date(publish_date)
 
 
     volume = ris_entry["volume"]
@@ -74,10 +93,10 @@ def create_llr_from_RIS(ris_entry):
     resource_url = original_url+"pdf"
     
     #original url. Only one
-    llr.set_original_url(original_url)
+    llr_record.set_original_url(original_url)
     
     #resource url. Only one
-    llr.set_resource_url(resource_url)
+    llr_record.set_resource_url(resource_url)
 
 
 #     #plan B
@@ -86,17 +105,17 @@ def create_llr_from_RIS(ris_entry):
 #     location = resp.headers["Location"]
     
     #License
-    llr.set_license(u"Creative Commons Attribution")
+    llr_record.set_license(u"Creative Commons Attribution")
 
     #Copyright details
     copyright_details = u"© "+year+" by the authors; licensee MDPI, Basel, Switzerland. This article is an open access article."
-    llr.set_copyright_details(copyright_details)
+    llr_record.set_copyright_details(copyright_details)
 
     #data provider
-    llr.set_data_provider(u"Land Journal")
+    llr_record.set_data_provider(u"Land Journal")
 
     #image
-    llr.set_image("private://feeds/LandJournal-thumbnail.png")
+    llr_record.set_image("private://feeds/LandJournal-thumbnail.png")
 
     #keywords
     keywords = ris_entry["keywords"]
@@ -104,22 +123,22 @@ def create_llr_from_RIS(ris_entry):
     #geographical focus. list
     countries = set(utils.flatten(filter(None,[utils.getISO3166_1code(k) for k in keywords])))
     regions = set(utils.flatten(filter(None,[utils.getUNM49code(k) for k in keywords])))
-    llr.set_geographical_focus(countries, regions)
+    llr_record.set_geographical_focus(countries, regions)
 
 
     concepts = LANDVOC.get_concepts_direct(keywords)
     themes=LANDVOC.get_fixed_themes(concepts)
     oacs=LANDVOC.get_fixed_oacs(concepts)
 
-    llr.set_concepts(concepts);
-    llr.set_themes(themes);
-    llr.set_overarching_categories(oacs);
+    llr_record.set_concepts(concepts);
+    llr_record.set_themes(themes);
+    llr_record.set_overarching_categories(oacs);
 
     #Language
     lang = u"en"
-    llr.set_language(lang)
+    llr_record.set_language(lang)
     
-    return llr
+    return llr_record
 
 def generate_csv(llrs, filename):
     with open(filename,'w') as csv_file:
@@ -135,8 +154,11 @@ def generate_csv(llrs, filename):
 
 ###############################################################################
 
-llrs = create_llrs('land-v01-i01_20170608.ris')
-generate_csv(llrs, 'land-v01-i01_20170608.csv')
+# llrs = create_llrs('land-v01-i01_20170608.ris')
+# generate_csv(llrs, 'land-v01-i01_20170608.csv')
+# 
+# llrs = create_llrs('land-v02-i04_20170608.ris')
+# generate_csv(llrs, 'land-v02-i04_20170608.csv')
 
-llrs = create_llrs('land-v02-i04_20170608.ris')
-generate_csv(llrs, 'land-v02-i04_20170608.csv')
+llrs = create_llrs('land-v07-i01_20180402.ris')
+generate_csv(llrs, 'land-v07-i01_20180402.csv')
