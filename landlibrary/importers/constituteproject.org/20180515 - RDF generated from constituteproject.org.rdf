@@ -1,0 +1,2921 @@
+<rdf:RDF xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Afghanistan_2004">
+    <dc:coverage>AFG</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Afghanistan 2004</dct:title>
+    <dct:date>2004</dct:date>
+    <dct:description>The Afghan National Assembly (Loya Jirga) approved the constitution before it was formally signed by transitional president Hamid Karzai.</dct:description>
+    <dct:identifier>constituteproject:831</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Afghanistan_2004.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Angola_2010">
+    <dc:coverage>AGO</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Angola 2010</dct:title>
+    <dct:date>2010</dct:date>
+    <dct:description>The Angolan National Assembly approved the draft constitution produced by the constituent assembly before it was signed by President Jos&#194;&#157; Eduardo dos Santos.</dct:description>
+    <dct:identifier>constituteproject:992</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Angola_2010.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Albania_2016">
+    <dc:coverage>ALB</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Albania 1998 (rev. 2016)</dct:title>
+    <dct:date>1998</dct:date>
+    <dct:description>The Albanian Parliament approved the constitution and it was signed by President Rexhep Meidani following approval of 91.1% of voters in a popular referendum.</dct:description>
+    <dct:identifier>constituteproject:443</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Albania_2016.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Andorra_1993">
+    <dc:coverage>AND</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Andorra 1993</dct:title>
+    <dct:date>1993</dct:date>
+    <dct:description>The consell approved the constitution before it was ratified by 74.19% of voters in a popular referendum.</dct:description>
+    <dct:identifier>constituteproject:371</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Andorra_1993.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/United_Arab_Emirates_2009">
+    <dc:coverage>ARE</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of United Arab Emirates 1971 (rev. 2009)</dct:title>
+    <dct:date>1971</dct:date>
+    <dct:description>The constitution was drafted by the Supreme Court, approved the  Union National Council and signed by the President.</dct:description>
+    <dct:identifier>constituteproject:817</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/United_Arab_Emirates_2009.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Argentina_1994">
+    <dc:coverage>ARG</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Argentina 1853 (reinst. 1983, rev. 1994)</dct:title>
+    <dct:date>1853</dct:date>
+    <dct:description>A National Constitutional Convention drafted and approved the constitution.</dct:description>
+    <dct:identifier>constituteproject:306</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Argentina_1994.pdf" />
+    <dc:rights xml:lang="en">&#169; Oxford University Press, Inc.</dc:rights>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Armenia_2015">
+    <dc:coverage>ARM</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Armenia 1995 (rev. 2015)</dct:title>
+    <dct:date>1995</dct:date>
+    <dct:description>A Constitutional Commission drafted the constitution before it was approved by 68% of voters in a popular referendum.</dct:description>
+    <dct:identifier>constituteproject:529</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Armenia_2015.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Antigua_and_Barbuda_1981">
+    <dc:coverage>ATG</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Antigua and Barbuda 1981</dct:title>
+    <dct:date>1981</dct:date>
+    <dct:description>The constitution was proposed by the legislature of Antigua and Barbuda and was promulgated by Queen Elizabeth II.</dct:description>
+    <dct:identifier>constituteproject:84</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Antigua_and_Barbuda_1981.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Australia_1985">
+    <dc:coverage>AUS</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Australia 1901 (rev. 1985)</dct:title>
+    <dct:date>1901</dct:date>
+    <dct:description>The constitution was passed by the Imperial (British) Parliament and given royal assent by Queen Victoria.</dct:description>
+    <dct:identifier>constituteproject:939</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Australia_1985.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Austria_2013">
+    <dc:coverage>AUT</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Austria 1920 (reinst. 1945, rev. 2013)</dct:title>
+    <dct:date>1920</dct:date>
+    <dct:description>A Constituent National Assembly drafted the constitution before it was enacted by the Austrian Parliament.</dct:description>
+    <dct:identifier>constituteproject:417</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Austria_2013.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Azerbaijan_2016">
+    <dc:coverage>AZE</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Azerbaijan 1995 (rev. 2016)</dct:title>
+    <dct:date>1995</dct:date>
+    <dct:description>The constitution was drafted by a Constitutional Commission and approved by the Supreme Soviet. It was ratified by 91.9% of voters in a popular referendum.</dct:description>
+    <dct:identifier>constituteproject:534</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Azerbaijan_2016.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Burundi_2005">
+    <dc:coverage>BDI</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Burundi 2005</dct:title>
+    <dct:date>2005</dct:date>
+    <dct:description>The constitution was promulgated by the President after 92.02% of voters approved it an a referendum.</dct:description>
+    <dct:identifier>constituteproject:683</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Burundi_2005.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Belgium_2014">
+    <dc:coverage>BEL</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Belgium 1831 (rev. 2014)</dct:title>
+    <dct:date>1831</dct:date>
+    <dct:description>The constitution was promulgated by the National Congress of Belgium.</dct:description>
+    <dct:identifier>constituteproject:324</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Belgium_2014.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Benin_1990">
+    <dc:coverage>BEN</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Benin 1990</dct:title>
+    <dct:date>1990</dct:date>
+    <dct:description>The constitution was adopted following a national referendum.</dct:description>
+    <dct:identifier>constituteproject:571</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Benin_1990.pdf" />
+    <dc:rights xml:lang="en">&#169; Oxford University Press, Inc.</dc:rights>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Burkina_Faso_2012">
+    <dc:coverage>BFA</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Burkina Faso 1991 (rev. 2012)</dct:title>
+    <dct:date>1991</dct:date>
+    <dct:description>The constitution was approved by 92.83% of voters in a national referendum.</dct:description>
+    <dct:identifier>constituteproject:594</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Burkina_Faso_2012.pdf" />
+    <dc:rights xml:lang="en">English Translation &#169; 2012 by William S. Hein &amp; Co., Inc.  All rights reserved.</dc:rights>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Bangladesh_2014">
+    <dc:coverage>BGD</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Bangladesh 1972 (reinst. 1986, rev. 2014)</dct:title>
+    <dct:date>1972</dct:date>
+    <dct:description>The constitution was approved by the Bangladeshi Constituent Assembly.</dct:description>
+    <dct:identifier>constituteproject:871</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Bangladesh_2014.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Bulgaria_2015">
+    <dc:coverage>BGR</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Bulgaria 1991 (rev. 2015)</dct:title>
+    <dct:date>1991</dct:date>
+    <dct:description>The constitution was adopted by the Grand National Assembly of Bulgaria.</dct:description>
+    <dct:identifier>constituteproject:485</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Bulgaria_2015.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Bahrain_2012">
+    <dc:coverage>BHR</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Bahrain 2002 (rev. 2012)</dct:title>
+    <dct:date>2002</dct:date>
+    <dct:description>The constitution was promulgated by Emir Hamad bin Isa Al Khalifa.</dct:description>
+    <dct:identifier>constituteproject:814</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Bahrain_2012.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Bahamas_1973">
+    <dc:coverage>BHS</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Bahamas (The) 1973</dct:title>
+    <dct:date>1973</dct:date>
+    <dct:description>The constitution was promulgated by Queen Elizabeth II through an Order in Council at independence.</dct:description>
+    <dct:identifier>constituteproject:6</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Bahamas_1973.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Bosnia_Herzegovina_2009">
+    <dc:coverage>BIH</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Bosnia and Herzegovina 1995 (rev. 2009)</dct:title>
+    <dct:date>1995</dct:date>
+    <dct:description>The constitution was drafted as part of the Dayton Peace Accords and was ratified once the accords were signed.</dct:description>
+    <dct:identifier>constituteproject:464</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Bosnia_Herzegovina_2009.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Belarus_2004">
+    <dc:coverage>BLR</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Belarus 1994 (rev. 2004)</dct:title>
+    <dct:date>1994</dct:date>
+    <dct:description>The constitution was approved by the Supreme Soviet.</dct:description>
+    <dct:identifier>constituteproject:524</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Belarus_2004.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Belize_2011">
+    <dc:coverage>BLZ</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Belize 1981 (rev. 2011)</dct:title>
+    <dct:date>1981</dct:date>
+    <dct:description>The Belize National Assembly passed the constitution following independence from the UK.</dct:description>
+    <dct:identifier>constituteproject:97</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Belize_2011.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Bolivia_2009">
+    <dc:coverage>BOL</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Bolivia (Plurinational State of) 2009</dct:title>
+    <dct:date>2009</dct:date>
+    <dct:description>A Constituent Assembly drafted the constitution before being approved by 61% of voters in a popular referendum.</dct:description>
+    <dct:identifier>constituteproject:976</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Bolivia_2009.pdf" />
+    <dc:rights xml:lang="en">&#169; Oxford University Press, Inc.</dc:rights>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Brazil_2017">
+    <dc:coverage>BRA</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Brazil 1988 (rev. 2017)</dct:title>
+    <dct:date>1988</dct:date>
+    <dct:description>The constitution was drafted and promulgated by a National Constituent Assembly.</dct:description>
+    <dct:identifier>constituteproject:264</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Brazil_2017.pdf" />
+    <dc:rights xml:lang="en">&#169; Keith S. Rosenn</dc:rights>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Barbados_2007">
+    <dc:coverage>BRB</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Barbados 1966 (rev. 2007)</dct:title>
+    <dct:date>1966</dct:date>
+    <dct:description>The constitution was promulgated by Queen Elizabeth II through an Order in Council at independence.</dct:description>
+    <dct:identifier>constituteproject:78</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Barbados_2007.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Brunei_2006">
+    <dc:coverage>BRN</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Brunei Darussalam 1959 (rev. 2006)</dct:title>
+    <dct:date>1959</dct:date>
+    <dct:description>The constitution was signed by the governments of Brunei and the UK.</dct:description>
+    <dct:identifier>constituteproject:926</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Brunei_2006.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Bhutan_2008">
+    <dc:coverage>BTN</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Bhutan 2008</dct:title>
+    <dct:date>2008</dct:date>
+    <dct:description>The constitution was signed by the King, and members of the National Assembly and National Council.</dct:description>
+    <dct:identifier>constituteproject:988</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Bhutan_2008.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Botswana_2005">
+    <dc:coverage>BWA</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Botswana 1966 (rev. 2005)</dct:title>
+    <dct:date>1966</dct:date>
+    <dct:description>The constitution was promulgated by Queen Elizabeth II through an Order in Council at independence.</dct:description>
+    <dct:identifier>constituteproject:726</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Botswana_2005.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Canada_2011">
+    <dc:coverage>CAN</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Canada 1867 (rev. 2011)</dct:title>
+    <dct:date>1867</dct:date>
+    <dct:description>The Constitution Act 1867 was passed by the UK Parliament and the Constitution Act 1982 was passed by the Canadian Parliament.</dct:description>
+    <dct:identifier>constituteproject:5</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Canada_2011.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Switzerland_2014">
+    <dc:coverage>CHE</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Switzerland 1999 (rev. 2014)</dct:title>
+    <dct:date>1999</dct:date>
+    <dct:description>The constitution was passed by the Federal Parliament and approved in a public referendum.</dct:description>
+    <dct:identifier>constituteproject:356</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Switzerland_2014.pdf" />
+    <dc:rights xml:lang="en">Text provided by the Swiss Federal Chancellery. </dc:rights>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Chile_2015">
+    <dc:coverage>CHL</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Chile 1980 (rev. 2015)</dct:title>
+    <dct:date>1980</dct:date>
+    <dct:description>The constitution was ratified by 67% of voters.</dct:description>
+    <dct:identifier>constituteproject:299</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Chile_2015.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/China_2004">
+    <dc:coverage>CHN</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of China (People&#8217;s Republic of) 1982 (rev. 2004)</dct:title>
+    <dct:date>1982</dct:date>
+    <dct:description>The constitution was adopted and promulgated by the National People's Congress.</dct:description>
+    <dct:identifier>constituteproject:849</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/China_2004.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Cote_DIvoire_2016">
+    <dc:coverage>CIV</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of C&#244;te d'Ivoire 2016</dct:title>
+    <dct:date>2016</dct:date>
+    <dct:identifier>constituteproject:1151</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Cote_DIvoire_2016.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Cameroon_2008">
+    <dc:coverage>CMR</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Cameroon 1972 (rev. 2008)</dct:title>
+    <dct:date>1972</dct:date>
+    <dct:description>The National Assembly drafted and adopted the constitution. The President brought it into force following the approval of 99.99% of voters in a national referendum.</dct:description>
+    <dct:identifier>constituteproject:620</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Cameroon_2008.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Democratic_Republic_of_the_Congo_2011">
+    <dc:coverage>COD</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Congo (Democratic Republic of the) 2005 (rev. 2011)</dct:title>
+    <dct:date>2005</dct:date>
+    <dct:description>The constitution was adopted by the National Assembly, and was promulgated by the President following the approval of 84.31% of voters in a national referendum.</dct:description>
+    <dct:identifier>constituteproject:664</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Democratic_Republic_of_the_Congo_2011.pdf" />
+    <dc:rights xml:lang="en">English Translation &#169; 2012 by William S. Hein &amp; Co., Inc.  All rights reserved.</dc:rights>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Colombia_2015">
+    <dc:coverage>COL</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Colombia 1991 (rev. 2015)</dct:title>
+    <dct:date>1991</dct:date>
+    <dct:description>The constitution was approved by a Constituent Assembly and was signed by its General Secretary.</dct:description>
+    <dct:identifier>constituteproject:178</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Colombia_2015.pdf" />
+    <dc:rights xml:lang="en">&#169; Oxford University Press, Inc.</dc:rights>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Comoros_2009">
+    <dc:coverage>COM</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Comoros 2001 (rev. 2009)</dct:title>
+    <dct:date>2001</dct:date>
+    <dct:description>The constitution was promulgated by the President following the approval of 76.99% of voters in a national referendum.</dct:description>
+    <dct:identifier>constituteproject:739</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Comoros_2009.pdf" />
+    <dc:rights xml:lang="en">&#169; Oxford University Press, Inc.</dc:rights>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Cape_Verde_1992">
+    <dc:coverage>CPV</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Cape Verde 1980 (rev. 1992)</dct:title>
+    <dct:date>1980</dct:date>
+    <dct:description>The President promulgated the constitution after being approved by the National Assembly.</dct:description>
+    <dct:identifier>constituteproject:547</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Cape_Verde_1992.pdf" />
+    <dc:rights xml:lang="en">&#169; Oxford University Press, Inc.</dc:rights>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Costa_Rica_2011">
+    <dc:coverage>CRI</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Costa Rica 1949 (rev. 2011)</dct:title>
+    <dct:date>1949</dct:date>
+    <dct:description>The constitution was adopted by a National Constitutional Assembly.</dct:description>
+    <dct:identifier>constituteproject:163</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Costa_Rica_2011.pdf" />
+    <dc:rights xml:lang="en">English Translation &#169; 2012 by William S. Hein &amp; Co., Inc.  All rights reserved.</dc:rights>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Cuba_2002">
+    <dc:coverage>CUB</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Cuba 1976 (rev. 2002)</dct:title>
+    <dct:date>1976</dct:date>
+    <dct:description>The constitution was approved by 99.02% of voters.</dct:description>
+    <dct:identifier>constituteproject:14</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Cuba_2002.pdf" />
+    <dc:rights xml:lang="en">&#169; Oxford University Press, Inc.</dc:rights>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Cyprus_2013">
+    <dc:coverage>CYP</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Cyprus 1960 (rev. 2013)</dct:title>
+    <dct:date>1960</dct:date>
+    <dct:description>The constitution was promulgated by Queen Elizabeth II through an Order in Council at independence.</dct:description>
+    <dct:identifier>constituteproject:479</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Cyprus_2013.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Czech_Republic_2013">
+    <dc:coverage>CZE</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Czech Republic 1993 (rev. 2013)</dct:title>
+    <dct:date>1993</dct:date>
+    <dct:description>The constitution was enacted by the Czech National Council .</dct:description>
+    <dct:identifier>constituteproject:426</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Czech_Republic_2013.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/German_Federal_Republic_2014">
+    <dc:coverage>DEU</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Germany 1949 (rev. 2014)</dct:title>
+    <dct:date>1949</dct:date>
+    <dct:description>The basic law was passed a Parliamentary Council and approved by the Allied Powers.</dct:description>
+    <dct:identifier>constituteproject:390</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/German_Federal_Republic_2014.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Djibouti_2010">
+    <dc:coverage>DJI</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Djibouti 1992 (rev. 2010)</dct:title>
+    <dct:date>1992</dct:date>
+    <dct:description>The constitution was approved by 98.05% of voters in a national referendum.</dct:description>
+    <dct:identifier>constituteproject:691</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Djibouti_2010.pdf" />
+    <dc:rights xml:lang="en">English Translation &#169; 2012 by William S. Hein &amp; Co., Inc.  All rights reserved.</dc:rights>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Dominica_2014">
+    <dc:coverage>DMA</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Dominica 1978 (rev. 2014)</dct:title>
+    <dct:date>1978</dct:date>
+    <dct:description>The constitution was promulgated by Queen Elizabeth II through an Order in Council at independence.</dct:description>
+    <dct:identifier>constituteproject:79</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Dominica_2014.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Denmark_1953">
+    <dc:coverage>DNK</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Denmark 1953</dct:title>
+    <dct:date>1953</dct:date>
+    <dct:description>The constitution was approved by 78.8% of voters in a national referendum.</dct:description>
+    <dct:identifier>constituteproject:543</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Denmark_1953.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Dominican_Republic_2015">
+    <dc:coverage>DOM</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Dominican Republic 2015</dct:title>
+    <dct:date>2015</dct:date>
+    <dct:identifier>constituteproject:1147</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Dominican_Republic_2015.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Algeria_2016">
+    <dc:coverage>DZA</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Algeria 1989 (reinst. 1996, rev. 2016)</dct:title>
+    <dct:date>1989</dct:date>
+    <dct:description>President Liamine Z&#194;&#157;roual signed the constitution after it was approved by 85% of voters in a popular referendum.</dct:description>
+    <dct:identifier>constituteproject:1023</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Algeria_2016.pdf" />
+    <dc:rights xml:lang="en">&#169; Oxford University Press, Inc.</dc:rights>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Ecuador_2015">
+    <dc:coverage>ECU</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Ecuador 2008 (rev. 2015)</dct:title>
+    <dct:date>2008</dct:date>
+    <dct:description>A Constituent Assembly drafted the constitution before being approved by 63.93% of voters in a popular referendum.</dct:description>
+    <dct:identifier>constituteproject:978</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Ecuador_2015.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Egypt_2014">
+    <dc:coverage>EGY</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Egypt 2014</dct:title>
+    <dct:date>2014</dct:date>
+    <dct:description>The constitution was approved by 98.13% of voters.</dct:description>
+    <dct:identifier>constituteproject:1019</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Egypt_2014.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Eritrea_1997">
+    <dc:coverage>ERI</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Eritrea 1997</dct:title>
+    <dct:date>1997</dct:date>
+    <dct:description>The constitution was unanimously approved by a Constituent Assembly.  It has never been entirely put into force.</dct:description>
+    <dct:identifier>constituteproject:699</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Eritrea_1997.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Spain_2011">
+    <dc:coverage>ESP</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Spain 1978 (rev. 2011)</dct:title>
+    <dct:date>1978</dct:date>
+    <dct:description>The constitution was approved by the Cortes Generales and approved by the Spanish people in a referendum.</dct:description>
+    <dct:identifier>constituteproject:370</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Spain_2011.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Estonia_2015">
+    <dc:coverage>EST</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Estonia 1992 (rev. 2015)</dct:title>
+    <dct:date>1992</dct:date>
+    <dct:description>The constitution was approved by 91.2% of voters in a referendum.</dct:description>
+    <dct:identifier>constituteproject:507</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Estonia_2015.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Ethiopia_1994">
+    <dc:coverage>ETH</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Ethiopia 1994</dct:title>
+    <dct:date>1994</dct:date>
+    <dct:description>The constitution was ratified by a Constituent Assembly.</dct:description>
+    <dct:identifier>constituteproject:698</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Ethiopia_1994.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Finland_2011">
+    <dc:coverage>FIN</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Finland 1999 (rev. 2011)</dct:title>
+    <dct:date>1999</dct:date>
+    <dct:description>The constitution was approved by Parliament before being signed by the President.</dct:description>
+    <dct:identifier>constituteproject:536</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Finland_2011.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Fiji_2013">
+    <dc:coverage>FJI</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Fiji 2013</dct:title>
+    <dct:date>2013</dct:date>
+    <dct:description>The constitution was signed by President Epeli Nailatikau.</dct:description>
+    <dct:identifier>constituteproject:1013</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Fiji_2013.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/France_2008">
+    <dc:coverage>FRA</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of France 1958 (rev. 2008)</dct:title>
+    <dct:date>1958</dct:date>
+    <dct:description>82.6% of voters backed the constitution proposed by the government before it was promulgated by President Charles de Gaulle.</dct:description>
+    <dct:identifier>constituteproject:343</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/France_2008.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Micronesia_1990">
+    <dc:coverage>FSM</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Micronesia (Federated States of) 1978 (rev. 1990)</dct:title>
+    <dct:date>1978</dct:date>
+    <dct:description>The constitution was drafted by a constitutional convention and approved in a referendum.</dct:description>
+    <dct:identifier>constituteproject:955</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Micronesia_1990.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Gabon_2011">
+    <dc:coverage>GAB</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Gabon 1991 (rev. 2011)</dct:title>
+    <dct:date>1991</dct:date>
+    <dct:description>The National Assembly adopted the constitution before it was signed by the President.</dct:description>
+    <dct:identifier>constituteproject:632</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Gabon_2011.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/United_Kingdom_2013">
+    <dc:coverage>GBR</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of United Kingdom 1215 (rev. 2013)</dct:title>
+    <dct:date>1215</dct:date>
+    <dct:description>The written components of the UK constitution are found in numerous statutes promulgated by the parliaments of England, Great Britain and the UK.</dct:description>
+    <dct:identifier>constituteproject:1006</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/United_Kingdom_2013.pdf" />
+    <dc:rights xml:lang="en">Texts collected from  legislation.gov.uk.</dc:rights>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Georgia_2013">
+    <dc:coverage>GEO</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Georgia 1995 (rev. 2013)</dct:title>
+    <dct:date>1995</dct:date>
+    <dct:description>The constitution was approved by Parliament and was signed by all members. It was also signed and published by the head of state, Eduard Shevardnadze.</dct:description>
+    <dct:identifier>constituteproject:531</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Georgia_2013.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Ghana_1996">
+    <dc:coverage>GHA</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Ghana 1992 (rev. 1996)</dct:title>
+    <dct:date>1992</dct:date>
+    <dct:description>The constitution was drafted by a Consultative Assembly and was approved by 92% of voters in a referendum.</dct:description>
+    <dct:identifier>constituteproject:611</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Ghana_1996.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Guinea_2010">
+    <dc:coverage>GIN</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Guinea 2010</dct:title>
+    <dct:date>2010</dct:date>
+    <dct:description>The Interim President signed the constitution after it was adopted by the National Council of Transition.</dct:description>
+    <dct:identifier>constituteproject:1000</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Guinea_2010.pdf" />
+    <dc:rights xml:lang="en">English Translation &#169; 2012 by William S. Hein &amp; Co., Inc.  All rights reserved.</dc:rights>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Gambia_2004">
+    <dc:coverage>GMB</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Gambia (The) 1996 (rev. 2004)</dct:title>
+    <dct:date>1996</dct:date>
+    <dct:description>The constitution was approved by 70.36% of voters in a referendum.</dct:description>
+    <dct:identifier>constituteproject:558</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Gambia_2004.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Guinea_Bissau_1996">
+    <dc:coverage>GNB</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Guinea-Bissau 1984 (rev. 1996)</dct:title>
+    <dct:date>1984</dct:date>
+    <dct:description>The constitution was approved and adopted by the National Popular Assembly.</dct:description>
+    <dct:identifier>constituteproject:550</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Guinea_Bissau_1996.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Equatorial_Guinea_2012">
+    <dc:coverage>GNQ</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Equatorial Guinea 1991 (rev. 2012)</dct:title>
+    <dct:date>1991</dct:date>
+    <dct:description>The constitution was approved in a national referendum.</dct:description>
+    <dct:identifier>constituteproject:554</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Equatorial_Guinea_2012.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Greece_2008">
+    <dc:coverage>GRC</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Greece 1975 (rev. 2008)</dct:title>
+    <dct:date>1975</dct:date>
+    <dct:description>Parliament approved the constitution before it was signed by the Speaker and published by the President in the government gazette.</dct:description>
+    <dct:identifier>constituteproject:478</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Greece_2008.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Grenada_1992">
+    <dc:coverage>GRD</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Grenada 1973 (reinst. 1991, rev. 1992)</dct:title>
+    <dct:date>1973</dct:date>
+    <dct:description>The constitution was approved by the House of Representatives and Senate, and signed by the Queen upon the advice of here Privy Council.</dct:description>
+    <dct:identifier>constituteproject:81</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Grenada_1992.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Guatemala_1993">
+    <dc:coverage>GTM</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Guatemala 1985 (rev. 1993)</dct:title>
+    <dct:date>1985</dct:date>
+    <dct:description>The constitution was drafted by a Constituent Assembly.</dct:description>
+    <dct:identifier>constituteproject:109</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Guatemala_1993.pdf" />
+    <dc:rights xml:lang="en">English Translation &#169; 2012 by William S. Hein &amp; Co., Inc.  All rights reserved.</dc:rights>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Guyana_2016">
+    <dc:coverage>GUY</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Guyana 1980 (rev. 2016)</dct:title>
+    <dct:date>1980</dct:date>
+    <dct:description>The constitution was adopted by Parliament.</dct:description>
+    <dct:identifier>constituteproject:207</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Guyana_2016.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Honduras_2013">
+    <dc:coverage>HND</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Honduras 1982 (rev. 2013)</dct:title>
+    <dct:date>1982</dct:date>
+    <dct:description>The constitution was drafted and approved by a National Constituent Assembly.</dct:description>
+    <dct:identifier>constituteproject:125</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Honduras_2013.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Croatia_2013">
+    <dc:coverage>HRV</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Croatia 1991 (rev. 2013)</dct:title>
+    <dct:date>1991</dct:date>
+    <dct:description>The Croatian Parliament approved and adopted the constitution.</dct:description>
+    <dct:identifier>constituteproject:453</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Croatia_2013.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Haiti_2012">
+    <dc:coverage>HTI</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Haiti 1987 (rev. 2012)</dct:title>
+    <dct:date>1987</dct:date>
+    <dct:description>A Constituent Assembly drafted the constitution before it was approved by voters in a referendum. It came into force when published in The Monitor"."</dct:description>
+    <dct:identifier>constituteproject:42</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Haiti_2012.pdf" />
+    <dc:rights xml:lang="en">English Translation &#169; 2012 by William S. Hein &amp; Co., Inc.  All rights reserved.</dc:rights>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Hungary_2016">
+    <dc:coverage>HUN</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Hungary 2011 (rev. 2016)</dct:title>
+    <dct:date>2011</dct:date>
+    <dct:description>The fundamental law was adopted by Parliament and signed by President P&#194;&#157;l Schmitt.</dct:description>
+    <dct:identifier>constituteproject:998</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Hungary_2016.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Indonesia_2002">
+    <dc:coverage>IDN</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Indonesia 1945 (reinst. 1959, rev. 2002)</dct:title>
+    <dct:date>1945</dct:date>
+    <dct:description>The constitution was drafted by the Committee for Examination of Indonesian Independence, but was not brought into force until 1959 under the decree of President Sukarno.</dct:description>
+    <dct:identifier>constituteproject:937</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Indonesia_2002.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/India_2016">
+    <dc:coverage>IND</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of India 1949 (rev. 2016)</dct:title>
+    <dct:date>1949</dct:date>
+    <dct:description>A Constituent Assembly drafted and approved the constitution.</dct:description>
+    <dct:identifier>constituteproject:862</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/India_2016.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Ireland_2015">
+    <dc:coverage>IRL</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Ireland 1937 (rev. 2015)</dct:title>
+    <dct:date>1937</dct:date>
+    <dct:description>The constitution was approved by the D&#194;&#157;il &#194;&#157;ireann and voters in a plebiscite.</dct:description>
+    <dct:identifier>constituteproject:316</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Ireland_2015.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Iran_1989">
+    <dc:coverage>IRN</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Iran (Islamic Republic of) 1979 (rev. 1989)</dct:title>
+    <dct:date>1979</dct:date>
+    <dct:description>The constitution was approved in a national referendum.</dct:description>
+    <dct:identifier>constituteproject:763</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Iran_1989.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Iraq_2005">
+    <dc:coverage>IRQ</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Iraq 2005</dct:title>
+    <dct:date>2005</dct:date>
+    <dct:description>The constitution was drafted by the Council of Representatives and approved by the Iraqi people in a referendum.</dct:description>
+    <dct:identifier>constituteproject:777</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Iraq_2005.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Iceland_2013">
+    <dc:coverage>ISL</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Iceland 1944 (rev. 2013)</dct:title>
+    <dct:date>1944</dct:date>
+    <dct:description>The Althingi drafted and approved the constitution before it was confirmed by the President.</dct:description>
+    <dct:identifier>constituteproject:546</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Iceland_2013.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Israel_2013">
+    <dc:coverage>ISR</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Israel 1958 (rev. 2013)</dct:title>
+    <dct:date>1958</dct:date>
+    <dct:description>Israel's basic laws were enacted by the Knesset.</dct:description>
+    <dct:identifier>constituteproject:801</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Israel_2013.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Italy_2012">
+    <dc:coverage>ITA</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Italy 1947 (rev. 2012)</dct:title>
+    <dct:date>1947</dct:date>
+    <dct:description>President Enrico De Nicola promulgated the constitution following its approval by a Constituent Assembly.</dct:description>
+    <dct:identifier>constituteproject:431</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Italy_2012.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Jamaica_2015">
+    <dc:coverage>JAM</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Jamaica 1962 (rev. 2015)</dct:title>
+    <dct:date>1962</dct:date>
+    <dct:description>The constitution was promulgated by Queen Elizabeth II through an Order in Council at independence.</dct:description>
+    <dct:identifier>constituteproject:75</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Jamaica_2015.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Jordan_2016">
+    <dc:coverage>JOR</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Jordan 1952 (rev. 2016)</dct:title>
+    <dct:date>1952</dct:date>
+    <dct:description>The constitution was approved by the Senate and House of Deputies before being signed by the King.</dct:description>
+    <dct:identifier>constituteproject:800</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Jordan_2016.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Japan_1946">
+    <dc:coverage>JPN</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Japan 1946</dct:title>
+    <dct:date>1946</dct:date>
+    <dct:description>The Emperor promulgated the constitution following its approval by the Imperial Diet.</dct:description>
+    <dct:identifier>constituteproject:861</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Japan_1946.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Kazakhstan_2011">
+    <dc:coverage>KAZ</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Kazakhstan 1995 (rev. 2011)</dct:title>
+    <dct:date>1995</dct:date>
+    <dct:description>The constitution was approved in a national referendum.</dct:description>
+    <dct:identifier>constituteproject:838</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Kazakhstan_2011.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Kenya_2010">
+    <dc:coverage>KEN</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Kenya 2010</dct:title>
+    <dct:date>2010</dct:date>
+    <dct:description>The constitution was drafted by the National Assembly and approved by referendum before being promulgated by the President.</dct:description>
+    <dct:identifier>constituteproject:989</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Kenya_2010.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Kyrgyz_Republic_2010">
+    <dc:coverage>KGZ</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Kyrgyzstan 2010</dct:title>
+    <dct:date>2010</dct:date>
+    <dct:description>The constitution was approved by 90.55% of voters in a national referendum.</dct:description>
+    <dct:identifier>constituteproject:993</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Kyrgyz_Republic_2010.pdf" />
+    <dc:rights xml:lang="en">&#169; Oxford University Press, Inc.</dc:rights>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Cambodia_2008">
+    <dc:coverage>KHM</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Cambodia 1993 (rev. 2008)</dct:title>
+    <dct:date>1993</dct:date>
+    <dct:description>The constitution was drafted and adopted by a Constituent Assembly before being signed by Prince Sihanouk.</dct:description>
+    <dct:identifier>constituteproject:913</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Cambodia_2008.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Kiribati_2013">
+    <dc:coverage>KIR</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Kiribati 1979 (rev. 2013)</dct:title>
+    <dct:date>1979</dct:date>
+    <dct:description>The constitution was promulgated by the British Parliament as part of independence.</dct:description>
+    <dct:identifier>constituteproject:948</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Kiribati_2013.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/St_Kitts_and_Nevis_1983">
+    <dc:coverage>KNA</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Saint Kitts and Nevis 1983</dct:title>
+    <dct:date>1983</dct:date>
+    <dct:description>The constitution was promulgated by Queen Elizabeth II through an Order in Council upon independence.</dct:description>
+    <dct:identifier>constituteproject:85</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/St_Kitts_and_Nevis_1983.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Republic_of_Korea_1987">
+    <dc:coverage>KOR</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Korea (Republic of) 1948 (rev. 1987)</dct:title>
+    <dct:date>1948</dct:date>
+    <dct:description>The National Assembly proposed the constitution and the people approved it in a referendum.</dct:description>
+    <dct:identifier>constituteproject:859</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Republic_of_Korea_1987.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Kuwait_1992">
+    <dc:coverage>KWT</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Kuwait 1962 (reinst. 1992)</dct:title>
+    <dct:date>1962</dct:date>
+    <dct:description>The constitution was drafted by a Constituent Assembly before being approved by the Amir.</dct:description>
+    <dct:identifier>constituteproject:812</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Kuwait_1992.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Laos_2003">
+    <dc:coverage>LAO</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Lao People's Democratic Republic 1991 (rev. 2003)</dct:title>
+    <dct:date>1991</dct:date>
+    <dct:description>The constitution was drafted and approved by the National Assembly before being promulgated by the President.</dct:description>
+    <dct:identifier>constituteproject:915</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Laos_2003.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Lebanon_2004">
+    <dc:coverage>LBN</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Lebanon 1926 (rev. 2004)</dct:title>
+    <dct:date>1926</dct:date>
+    <dct:description>The constitution was drafted and adopted by a Constituent Assembly.</dct:description>
+    <dct:identifier>constituteproject:798</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Lebanon_2004.pdf" />
+    <dc:rights xml:lang="en">&#169; Oxford University Press, Inc.</dc:rights>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Liberia_1986">
+    <dc:coverage>LBR</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Liberia 1986</dct:title>
+    <dct:date>1986</dct:date>
+    <dct:description>The constitution was approved by 95% of voters in a national referendum.</dct:description>
+    <dct:identifier>constituteproject:597</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Liberia_1986.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Libya_2012">
+    <dc:coverage>LBY</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Libya 2011 (rev. 2012)</dct:title>
+    <dct:date>2011</dct:date>
+    <dct:description>The Interim Transitional National Council promulgated the Constitutional Declaration as a transitional document until such time as a permanent constitution is ratified by referendum.</dct:description>
+    <dct:identifier>constituteproject:997</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Libya_2012.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/St_Lucia_1978">
+    <dc:coverage>LCA</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Saint Lucia 1978</dct:title>
+    <dct:date>1978</dct:date>
+    <dct:description>The constitution was promulgated by Queen Elizabeth II through an Order in Council upon independence following a request from the National Assembly.</dct:description>
+    <dct:identifier>constituteproject:82</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/St_Lucia_1978.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Liechtenstein_2011">
+    <dc:coverage>LIE</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Liechtenstein 1921 (rev. 2011)</dct:title>
+    <dct:date>1921</dct:date>
+    <dct:description>The constitution was approved by the Diet and signed by the Prince.</dct:description>
+    <dct:identifier>constituteproject:349</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Liechtenstein_2011.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Sri_Lanka_2015">
+    <dc:coverage>LKA</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Sri Lanka 1978 (rev. 2015)</dct:title>
+    <dct:date>1978</dct:date>
+    <dct:description>The constitution was drafted and enacted by the National Assembly and promulgated by the President.</dct:description>
+    <dct:identifier>constituteproject:881</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Sri_Lanka_2015.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Lesotho_2011">
+    <dc:coverage>LSO</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Lesotho 1993 (rev. 2011)</dct:title>
+    <dct:date>1993</dct:date>
+    <dct:description>The constitution was drafted by a National Constituent Assembly and commenced by an Order of the Military Council.</dct:description>
+    <dct:identifier>constituteproject:725</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Lesotho_2011.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Lithuania_2006">
+    <dc:coverage>LTU</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Lithuania 1992 (rev. 2006)</dct:title>
+    <dct:date>1992</dct:date>
+    <dct:description>The President of the Supreme Council signed and promulgated the constitution after it was approved by 78.2% voters in a referendum.</dct:description>
+    <dct:identifier>constituteproject:521</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Lithuania_2006.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Luxembourg_2009">
+    <dc:coverage>LUX</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Luxembourg 1868 (rev. 2009)</dct:title>
+    <dct:date>1868</dct:date>
+    <dct:description>The constitution was adopted by the Assembly of Estates.</dct:description>
+    <dct:identifier>constituteproject:328</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Luxembourg_2009.pdf" />
+    <dc:rights xml:lang="en">English Translation &#169; 2012 by William S. Hein &amp; Co., Inc.  All rights reserved.</dc:rights>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Latvia_2016">
+    <dc:coverage>LVA</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Latvia 1922 (reinst. 1991, rev. 2016)</dct:title>
+    <dct:date>1922</dct:date>
+    <dct:description>The constitution was adopted by the Constitutional Assembly and signed by its President and Secretary.</dct:description>
+    <dct:identifier>constituteproject:512</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Latvia_2016.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Morocco_2011">
+    <dc:coverage>MAR</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Morocco 2011</dct:title>
+    <dct:date>2011</dct:date>
+    <dct:description>The constitution was adopted by referendum and promulgated by His Majesty Mohammad VI.</dct:description>
+    <dct:identifier>constituteproject:1001</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Morocco_2011.pdf" />
+    <dc:rights xml:lang="en">English Translation &#169; 2012 by William S. Hein &amp; Co., Inc.  All rights reserved.</dc:rights>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Monaco_2002">
+    <dc:coverage>MCO</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Monaco 1962 (rev. 2002)</dct:title>
+    <dct:date>1962</dct:date>
+    <dct:description>The constitution was approved by Prince Rainier III.</dct:description>
+    <dct:identifier>constituteproject:346</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Monaco_2002.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Moldova_2016">
+    <dc:coverage>MDA</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Moldova (Republic of) 1994 (rev. 2016)</dct:title>
+    <dct:date>1994</dct:date>
+    <dct:description>The constitution was approved by Parliament and promulgated by the President.</dct:description>
+    <dct:identifier>constituteproject:487</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Moldova_2016.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Madagascar_2010">
+    <dc:coverage>MDG</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Madagascar 2010</dct:title>
+    <dct:date>2010</dct:date>
+    <dct:description>The President of the Highest Transitional Authority declared the constitution in effect following the approval of 74.19% of voters in a referendum.</dct:description>
+    <dct:identifier>constituteproject:994</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Madagascar_2010.pdf" />
+    <dc:rights xml:lang="en">English Translation &#169; 2012 by William S. Hein &amp; Co., Inc.  All rights reserved.</dc:rights>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Maldives_2008">
+    <dc:coverage>MDV</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Maldives 2008</dct:title>
+    <dct:date>2008</dct:date>
+    <dct:description>The constitution was approved by a Special Majlis and given assent by the President before it was published in the government gazette.</dct:description>
+    <dct:identifier>constituteproject:980</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Maldives_2008.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Mexico_2015">
+    <dc:coverage>MEX</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Mexico 1917 (rev. 2015)</dct:title>
+    <dct:date>1917</dct:date>
+    <dct:description>The constitution was enacted by a Constitutional Congress.</dct:description>
+    <dct:identifier>constituteproject:96</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Mexico_2015.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Marshall_Islands_1995">
+    <dc:coverage>MHL</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Marshall Islands 1979 (rev. 1995)</dct:title>
+    <dct:date>1979</dct:date>
+    <dct:description>The constitution was drafted by a constitutional convention and approved in a referendum.</dct:description>
+    <dct:identifier>constituteproject:953</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Marshall_Islands_1995.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Macedonia_2011">
+    <dc:coverage>MKD</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Macedonia (Republic of) 1991 (rev. 2011)</dct:title>
+    <dct:date>1991</dct:date>
+    <dct:description>The constitution was adopted by the National Assembly.</dct:description>
+    <dct:identifier>constituteproject:452</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Macedonia_2011.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Mali_1992">
+    <dc:coverage>MLI</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Mali 1992</dct:title>
+    <dct:date>1992</dct:date>
+    <dct:description>Drafted by a national conference, the constitution was promulgated by the President of the Committee of Transition for the Welfare of the People following the approval of voters in a referendum.</dct:description>
+    <dct:identifier>constituteproject:561</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Mali_1992.pdf" />
+    <dc:rights xml:lang="en">&#169; Oxford University Press, Inc.</dc:rights>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Malta_2016">
+    <dc:coverage>MLT</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Malta 1964 (rev. 2016)</dct:title>
+    <dct:date>1964</dct:date>
+    <dct:description>The constitution was promulgated by Queen Elizabeth II through an Order in Council at independence.</dct:description>
+    <dct:identifier>constituteproject:433</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Malta_2016.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Myanmar_2008">
+    <dc:coverage>MMR</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Myanmar 2008</dct:title>
+    <dct:date>2008</dct:date>
+    <dct:description>The constitution was drafted by a national convention and approved in a referendum.</dct:description>
+    <dct:identifier>constituteproject:982</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Myanmar_2008.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Montenegro_2013">
+    <dc:coverage>MNE</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Montenegro 2007 (rev. 2013)</dct:title>
+    <dct:date>2007</dct:date>
+    <dct:description>The constitution was adopted by parliament.</dct:description>
+    <dct:identifier>constituteproject:981</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Montenegro_2013.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Mongolia_2001">
+    <dc:coverage>MNG</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Mongolia 1992 (rev. 2001)</dct:title>
+    <dct:date>1992</dct:date>
+    <dct:description>The constitution was adopted by the Great Hural.</dct:description>
+    <dct:identifier>constituteproject:855</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Mongolia_2001.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Mozambique_2007">
+    <dc:coverage>MOZ</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Mozambique 2004 (rev. 2007)</dct:title>
+    <dct:date>2004</dct:date>
+    <dct:description>The constitution was approved by the National Assembly.</dct:description>
+    <dct:identifier>constituteproject:703</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Mozambique_2007.pdf" />
+    <dc:rights xml:lang="en">English Translation of amended Article 304 &#169; 2012 by William S. Hein &amp; Co., Inc.  All rights reserved.</dc:rights>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Mauritania_2012">
+    <dc:coverage>MRT</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Mauritania 1991 (rev. 2012)</dct:title>
+    <dct:date>1991</dct:date>
+    <dct:description>The constitution was approved by 97.94% of voters.</dct:description>
+    <dct:identifier>constituteproject:577</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Mauritania_2012.pdf" />
+    <dc:rights xml:lang="en">English Translation &#169; 2012 by William S. Hein &amp; Co., Inc.  All rights reserved.</dc:rights>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Mauritius_2016">
+    <dc:coverage>MUS</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Mauritius 1968 (rev. 2016)</dct:title>
+    <dct:date>1968</dct:date>
+    <dct:description>The constitution was promulgated by Queen Elizabeth II through an Order in Council at independence.</dct:description>
+    <dct:identifier>constituteproject:740</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Mauritius_2016.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Malawi_1999">
+    <dc:coverage>MWI</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Malawi 1994 (rev. 1999)</dct:title>
+    <dct:date>1994</dct:date>
+    <dct:description>The constitution was drafted by the National Consultative Council and eventually ratified by the National Assembly.</dct:description>
+    <dct:identifier>constituteproject:712</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Malawi_1999.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Malaysia_2007">
+    <dc:coverage>MYS</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Malaysia 1957 (rev. 2007)</dct:title>
+    <dct:date>1957</dct:date>
+    <dct:description>The constitution was promulgated by Queen Elizabeth II through an Order in Council, and passed by the Malaysian Federal Legislative Council.</dct:description>
+    <dct:identifier>constituteproject:924</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Malaysia_2007.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Namibia_2014">
+    <dc:coverage>NAM</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Namibia 1990 (rev. 2014)</dct:title>
+    <dct:date>1990</dct:date>
+    <dct:description>The constitution was drafted and approved by a Constituent Assembly.</dct:description>
+    <dct:identifier>constituteproject:722</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Namibia_2014.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Niger_2010">
+    <dc:coverage>NER</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Niger 2010</dct:title>
+    <dct:date>2010</dct:date>
+    <dct:description>The constitution was adopted in a referendum, and the Constitutional Council of Transition proclaimed the results. It was then promulgated by the President of Supreme Council for Restoration of Democracy.</dct:description>
+    <dct:identifier>constituteproject:1002</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Niger_2010.pdf" />
+    <dc:rights xml:lang="en">English Translation &#169; 2012 by William S. Hein &amp; Co., Inc.  All rights reserved.</dc:rights>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Nigeria_2011">
+    <dc:coverage>NGA</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Nigeria 1999 (rev. 2011)</dct:title>
+    <dct:date>1999</dct:date>
+    <dct:description>The constitution was promulgated by the military government.</dct:description>
+    <dct:identifier>constituteproject:627</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Nigeria_2011.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Nicaragua_2014">
+    <dc:coverage>NIC</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Nicaragua 1987 (rev. 2014)</dct:title>
+    <dct:date>1987</dct:date>
+    <dct:description>A Constituent National Assembly drafted and promulgated the constitution.</dct:description>
+    <dct:identifier>constituteproject:152</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Nicaragua_2014.pdf" />
+    <dc:rights xml:lang="en">&#169; Oxford University Press, Inc.</dc:rights>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Netherlands_2008">
+    <dc:coverage>NLD</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Netherlands 1815 (rev. 2008)</dct:title>
+    <dct:date>1815</dct:date>
+    <dct:description>The constitution was published by royal decree after being adopted by Parliament.</dct:description>
+    <dct:identifier>constituteproject:323</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Netherlands_2008.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Norway_2016">
+    <dc:coverage>NOR</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Norway 1814 (rev. 2016)</dct:title>
+    <dct:date>1814</dct:date>
+    <dct:description>The constitution was drafted and approved by a Constituent Assembly.</dct:description>
+    <dct:identifier>constituteproject:539</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Norway_2016.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Nepal_2016">
+    <dc:coverage>NPL</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Nepal 2015 (rev. 2016)</dct:title>
+    <dct:date>2015</dct:date>
+    <dct:identifier>constituteproject:1144</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Nepal_2016.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Nauru_2015">
+    <dc:coverage>NRU</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Nauru 1968 (rev. 2015)</dct:title>
+    <dct:date>1968</dct:date>
+    <dct:description>The constitution was drafted and approved by a constitutional convention.</dct:description>
+    <dct:identifier>constituteproject:949</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Nauru_2015.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/New_Zealand_2014">
+    <dc:coverage>NZL</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of New Zealand 1852 (rev. 2014)</dct:title>
+    <dct:date>1852</dct:date>
+    <dct:description>New Zealand's main constitutional statutes, the Constitution Act 1986, was passed by the New Zealand Parliament</dct:description>
+    <dct:identifier>constituteproject:941</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/New_Zealand_2014.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Oman_2011">
+    <dc:coverage>OMN</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Oman 1996 (rev. 2011)</dct:title>
+    <dct:date>1996</dct:date>
+    <dct:description>The basic law was promulgated by the Sultan.</dct:description>
+    <dct:identifier>constituteproject:818</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Oman_2011.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Pakistan_2015">
+    <dc:coverage>PAK</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Pakistan 1973 (reinst. 2002, rev. 2015)</dct:title>
+    <dct:date>1973</dct:date>
+    <dct:description>The constitution was approved by the National Assembly.</dct:description>
+    <dct:identifier>constituteproject:974</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Pakistan_2015.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Panama_2004">
+    <dc:coverage>PAN</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Panama 1972 (rev. 2004)</dct:title>
+    <dct:date>1972</dct:date>
+    <dct:description>The constitution was drafted by a Constituent Assembly formed by the representatives of corregimientos.</dct:description>
+    <dct:identifier>constituteproject:166</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Panama_2004.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Peru_2009">
+    <dc:coverage>PER</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Peru 1993 (rev. 2009)</dct:title>
+    <dct:date>1993</dct:date>
+    <dct:description>The Democratic Constituent Congress approved the constitution, which was ratified by referendum.</dct:description>
+    <dct:identifier>constituteproject:255</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Peru_2009.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Philippines_1987">
+    <dc:coverage>PHL</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Philippines 1987</dct:title>
+    <dct:date>1987</dct:date>
+    <dct:description>A Constitutional Commission drafted the constitution and its ratification was proclaimed by the President following a public referendum.</dct:description>
+    <dct:identifier>constituteproject:932</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Philippines_1987.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Palau_1992">
+    <dc:coverage>PLW</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Palau 1981 (rev. 1992)</dct:title>
+    <dct:date>1981</dct:date>
+    <dct:description>The constitution was adopted by a Constitutional Convention and ratified by 92% of voters in a referendum.</dct:description>
+    <dct:identifier>constituteproject:954</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Palau_1992.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Papua_New_Guinea_2014">
+    <dc:coverage>PNG</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Papua New Guinea 1975 (rev. 2014)</dct:title>
+    <dct:date>1975</dct:date>
+    <dct:description>A Constituent Assembly ratified the constitution.</dct:description>
+    <dct:identifier>constituteproject:940</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Papua_New_Guinea_2014.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Poland_2009">
+    <dc:coverage>POL</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Poland 1997 (rev. 2009)</dct:title>
+    <dct:date>1997</dct:date>
+    <dct:description>The National Assembly approved the constitution which was drafted by a Constitutional Committee.</dct:description>
+    <dct:identifier>constituteproject:412</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Poland_2009.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Peoples_Republic_of_Korea_1998">
+    <dc:coverage>PRK</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Korea (Democratic People's Republic of) 1972 (rev. 1998)</dct:title>
+    <dct:date>1972</dct:date>
+    <dct:description>The constitution was approved by the Supreme People's Assembly.</dct:description>
+    <dct:identifier>constituteproject:858</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Peoples_Republic_of_Korea_1998.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Portugal_2005">
+    <dc:coverage>PRT</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Portugal 1976 (rev. 2005)</dct:title>
+    <dct:date>1976</dct:date>
+    <dct:description>The constitution was drafted and approved by a Constituent Assembly.</dct:description>
+    <dct:identifier>constituteproject:377</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Portugal_2005.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Paraguay_2011">
+    <dc:coverage>PRY</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Paraguay 1992 (rev. 2011)</dct:title>
+    <dct:date>1992</dct:date>
+    <dct:description>The constitution was approved by a National Constituent Assembly and was signed by the President.</dct:description>
+    <dct:identifier>constituteproject:288</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Paraguay_2011.pdf" />
+    <dc:rights xml:lang="en">English Translation &#169; 2012 by William S. Hein &amp; Co., Inc.  All rights reserved.</dc:rights>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Qatar_2003">
+    <dc:coverage>QAT</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Qatar 2003</dct:title>
+    <dct:date>2003</dct:date>
+    <dct:description>The constitution drafted by a Constitutional Commission before being approved by 96.6% of voters in a referendum.</dct:description>
+    <dct:identifier>constituteproject:816</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Qatar_2003.pdf" />
+    <dc:rights xml:lang="en">&#169; Oxford University Press, Inc.</dc:rights>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Romania_2003">
+    <dc:coverage>ROU</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Romania 1991 (rev. 2003)</dct:title>
+    <dct:date>1991</dct:date>
+    <dct:description>The constitution was adopted by a Constituent Assembly and approved by 79.11% of voters in a national referendum.</dct:description>
+    <dct:identifier>constituteproject:495</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Romania_2003.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Russia_2014">
+    <dc:coverage>RUS</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Russian Federation 1993 (rev. 2014)</dct:title>
+    <dct:date>1993</dct:date>
+    <dct:description>After a protracted drafting process, the constitution was approved by a Constitutional Conference before a revised form was ratified by 58.4% of voters in a plebiscite.</dct:description>
+    <dct:identifier>constituteproject:501</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Russia_2014.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Rwanda_2015">
+    <dc:coverage>RWA</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Rwanda 2003 (rev. 2015)</dct:title>
+    <dct:date>2003</dct:date>
+    <dct:description>The constitution was drafted by a Legal and Constitutional Commission, approved by the  Transitional National Assembly and approved by 93.42% of voters in a referendum, before being promulgated by the President.</dct:description>
+    <dct:identifier>constituteproject:687</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Rwanda_2015.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Saudi_Arabia_2013">
+    <dc:coverage>SAU</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Saudi Arabia 1992 (rev. 2013)</dct:title>
+    <dct:date>1992</dct:date>
+    <dct:description>The Basic Law and other constitutional documents were decreed by King Fahd bin Abdulaziz Al Saud.</dct:description>
+    <dct:identifier>constituteproject:803</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Saudi_Arabia_2013.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Sudan_2005">
+    <dc:coverage>SDN</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Sudan 2005</dct:title>
+    <dct:date>2005</dct:date>
+    <dct:description>The constitution was approved by both the National Assembly and the National Liberation Council before being signed by the President.</dct:description>
+    <dct:identifier>constituteproject:761</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Sudan_2005.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Senegal_2009">
+    <dc:coverage>SEN</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Senegal 2001 (rev. 2009)</dct:title>
+    <dct:date>2001</dct:date>
+    <dct:description>The President promulgated the constitution after it was approved in a national referendum.</dct:description>
+    <dct:identifier>constituteproject:564</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Senegal_2009.pdf" />
+    <dc:rights xml:lang="en">English Translation &#169; 2012 by William S. Hein &amp; Co., Inc.  All rights reserved.</dc:rights>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Singapore_2010">
+    <dc:coverage>SGP</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Singapore 1963 (rev. 2010)</dct:title>
+    <dct:date>1963</dct:date>
+    <dct:description>The constitution was passed by Parliament and brought into force retrospectively.</dct:description>
+    <dct:identifier>constituteproject:925</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Singapore_2010.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Solomon_Islands_2014">
+    <dc:coverage>SLB</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Solomon Islands 1978 (rev. 2014)</dct:title>
+    <dct:date>1978</dct:date>
+    <dct:description>The constitution was promulgated by Queen Elizabeth II through an Order in Council upon independence,  following approval by the Solomons Assembly.</dct:description>
+    <dct:identifier>constituteproject:944</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Solomon_Islands_2014.pdf" />
+    <dc:rights xml:lang="en">&#169; Oxford University Press, Inc.</dc:rights>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Sierra_Leone_2008">
+    <dc:coverage>SLE</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Sierra Leone 1991 (reinst. 1996, rev. 2008)</dct:title>
+    <dct:date>1991</dct:date>
+    <dct:description>The constitution was adopted by Parliament and approved in a national referendum.</dct:description>
+    <dct:identifier>constituteproject:983</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Sierra_Leone_2008.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/El_Salvador_2014">
+    <dc:coverage>SLV</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of El Salvador 1983 (rev. 2014)</dct:title>
+    <dct:date>1983</dct:date>
+    <dct:description>The constitution was adopted by a Constituent Assembly.</dct:description>
+    <dct:identifier>constituteproject:140</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/El_Salvador_2014.pdf" />
+    <dc:rights xml:lang="en">&#169; Oxford University Press, Inc.</dc:rights>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Somalia_2012">
+    <dc:coverage>SOM</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Somalia 2012</dct:title>
+    <dct:date>2012</dct:date>
+    <dct:description>The constitution was approved by a Constituent Assembly.</dct:description>
+    <dct:identifier>constituteproject:1007</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Somalia_2012.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Serbia_2006">
+    <dc:coverage>SRB</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Serbia 2006</dct:title>
+    <dct:date>2006</dct:date>
+    <dct:description>The National Assembly promulgated the constitution after adopting it and after it was approved in a national referendum.</dct:description>
+    <dct:identifier>constituteproject:462</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Serbia_2006.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/South_Sudan_2013">
+    <dc:coverage>SSD</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of South Sudan 2011 (rev. 2013)</dct:title>
+    <dct:date>2011</dct:date>
+    <dct:description>The constitution was approved by the Legislative Assembly and signed by the President.</dct:description>
+    <dct:identifier>constituteproject:1003</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/South_Sudan_2013.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Sao_Tome_and_Principe_1990">
+    <dc:coverage>STP</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Sao Tome and Principe 1975 (rev. 1990)</dct:title>
+    <dct:date>1975</dct:date>
+    <dct:description>The constitution was approved by the National Assembly ratified in a popular referendum.</dct:description>
+    <dct:identifier>constituteproject:548</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Sao_Tome_and_Principe_1990.pdf" />
+    <dc:rights xml:lang="en">&#169; Oxford University Press, Inc.</dc:rights>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Surinam_1992">
+    <dc:coverage>SUR</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Suriname 1987 (rev. 1992)</dct:title>
+    <dct:date>1987</dct:date>
+    <dct:description>The constitution was drafted by the National Assembly which approved it following a plebiscite. It was then ratified by the President.</dct:description>
+    <dct:identifier>constituteproject:211</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Surinam_1992.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Slovakia_2014">
+    <dc:coverage>SVK</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Slovakia 1992 (rev. 2014)</dct:title>
+    <dct:date>1992</dct:date>
+    <dct:description>The constitution was promulgated by the Chairman of the National Council of the Slovak Republic.</dct:description>
+    <dct:identifier>constituteproject:427</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Slovakia_2014.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Slovenia_2013">
+    <dc:coverage>SVN</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Slovenia 1991 (rev. 2013)</dct:title>
+    <dct:date>1991</dct:date>
+    <dct:description>The constitution was adopted by the National Assembly.</dct:description>
+    <dct:identifier>constituteproject:465</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Slovenia_2013.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Sweden_2012">
+    <dc:coverage>SWE</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Sweden 1974 (rev. 2012)</dct:title>
+    <dct:date>1974</dct:date>
+    <dct:description>The Instrument of Government and Sweden's other fundamental laws were approved by the Riksdag.</dct:description>
+    <dct:identifier>constituteproject:538</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Sweden_2012.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Swaziland_2005">
+    <dc:coverage>SWZ</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Swaziland 2005</dct:title>
+    <dct:date>2005</dct:date>
+    <dct:description>The draft of the constitution was vetted by the people at Tinkhundla and Sibaya meetings before being approved by Parliament and signed by the President.</dct:description>
+    <dct:identifier>constituteproject:729</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Swaziland_2005.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Seychelles_2017">
+    <dc:coverage>SYC</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Seychelles 1993 (rev. 2017)</dct:title>
+    <dct:date>1993</dct:date>
+    <dct:description>The constitution was approved in a national referendum.</dct:description>
+    <dct:identifier>constituteproject:745</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Seychelles_2017.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Syria_2012">
+    <dc:coverage>SYR</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Syrian Arab Republic 2012</dct:title>
+    <dct:date>2012</dct:date>
+    <dct:description>The constitution was drafted by the President and approved by the people in a referendum.</dct:description>
+    <dct:identifier>constituteproject:999</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Syria_2012.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Chad_2005">
+    <dc:coverage>TCD</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Chad 1996 (rev. 2005)</dct:title>
+    <dct:date>1996</dct:date>
+    <dct:description>The President promulgated the constitution after being approved by 63.18% of voters in a referendum.</dct:description>
+    <dct:identifier>constituteproject:648</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Chad_2005.pdf" />
+    <dc:rights xml:lang="en">English Translation &#169; 2012 by William S. Hein &amp; Co., Inc.  All rights reserved.</dc:rights>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Togo_2007">
+    <dc:coverage>TGO</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Togo 1992 (rev. 2007)</dct:title>
+    <dct:date>1992</dct:date>
+    <dct:description>The constitution, drafted by a Constitutional Commission, was adopted following a national referendum.</dct:description>
+    <dct:identifier>constituteproject:617</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Togo_2007.pdf" />
+    <dc:rights xml:lang="en">English Translation &#169; 2012 by William S. Hein &amp; Co., Inc.  All rights reserved.</dc:rights>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Thailand_2017">
+    <dc:coverage>THA</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Thailand 2017</dct:title>
+    <dct:date>2017</dct:date>
+    <dct:identifier>constituteproject:1155</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Thailand_2017.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Tajikistan_2003">
+    <dc:coverage>TJK</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Tajikistan 1994 (rev. 2003)</dct:title>
+    <dct:date>1994</dct:date>
+    <dct:description>The constitution was approved by 90% of voters in a referendum.</dct:description>
+    <dct:identifier>constituteproject:833</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Tajikistan_2003.pdf" />
+    <dc:rights xml:lang="en">&#169; Oxford University Press, Inc.</dc:rights>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Turkmenistan_2008">
+    <dc:coverage>TKM</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Turkmenistan 2008</dct:title>
+    <dct:date>2008</dct:date>
+    <dct:description>The constitution was approved by the People's Council.</dct:description>
+    <dct:identifier>constituteproject:990</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Turkmenistan_2008.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/East_Timor_2002">
+    <dc:coverage>TLS</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Timor-Leste 2002</dct:title>
+    <dct:date>2002</dct:date>
+    <dct:description>The constitution was approved by a Constituent Assembly.</dct:description>
+    <dct:identifier>constituteproject:938</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/East_Timor_2002.pdf" />
+    <dc:rights xml:lang="en">&#169; Oxford University Press, Inc.</dc:rights>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Tonga_1988">
+    <dc:coverage>TON</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Tonga 1875 (rev. 1988)</dct:title>
+    <dct:date>1875</dct:date>
+    <dct:description>The constitution was promulgated by King George Tupou I.</dct:description>
+    <dct:identifier>constituteproject:950</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Tonga_1988.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Trinidad_and_Tobago_2007">
+    <dc:coverage>TTO</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Trinidad and Tobago 1976 (rev. 2007)</dct:title>
+    <dct:date>1976</dct:date>
+    <dct:description>The constitution was passed by the House of Representatives.</dct:description>
+    <dct:identifier>constituteproject:77</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Trinidad_and_Tobago_2007.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Tunisia_2014">
+    <dc:coverage>TUN</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Tunisia 2014</dct:title>
+    <dct:date>2014</dct:date>
+    <dct:description>The constitution was drafted by the National Constituent Assembly and signed by the President of the Republic , the Head of the Government and the President of the National Constituent Assembly.</dct:description>
+    <dct:identifier>constituteproject:1017</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Tunisia_2014.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Turkey_2011">
+    <dc:coverage>TUR</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Turkey 1982 (rev. 2011)</dct:title>
+    <dct:date>1982</dct:date>
+    <dct:description>The constitution was drafted in a Consultative Assembly and approved in a national referendum.</dct:description>
+    <dct:identifier>constituteproject:770</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Turkey_2011.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Tuvalu_1986">
+    <dc:coverage>TUV</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Tuvalu 1986</dct:title>
+    <dct:date>1986</dct:date>
+    <dct:description>The constitution was approved by Parliament and given royal assent by the Governor-General on behalf of Queen Elizabeth II.</dct:description>
+    <dct:identifier>constituteproject:952</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Tuvalu_1986.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Taiwan_2005">
+    <dc:coverage>TWN</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Taiwan (Republic of China) 1947 (rev. 2005)</dct:title>
+    <dct:date>1947</dct:date>
+    <dct:description>The constitution was drafted by a Constituent Assembly before being promulgated by the national government.</dct:description>
+    <dct:identifier>constituteproject:856</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Taiwan_2005.pdf" />
+    <dc:rights xml:lang="en">&#169; Oxford University Press, Inc.</dc:rights>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Tanzania_1995">
+    <dc:coverage>TZA</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Tanzania (United Republic of) 1977 (rev. 1995)</dct:title>
+    <dct:date>1977</dct:date>
+    <dct:description>A joint conference of the parties drafted the constitution before it was approved by the legislature.</dct:description>
+    <dct:identifier>constituteproject:675</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Tanzania_1995.pdf" />
+    <dc:rights xml:lang="en">&#169; Oxford University Press, Inc.</dc:rights>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Uganda_2005">
+    <dc:coverage>UGA</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Uganda 1995 (rev. 2005)</dct:title>
+    <dct:date>1995</dct:date>
+    <dct:description>A Constituent Assembly deliberated and approved the draft it received from a Constitutional Commission.</dct:description>
+    <dct:identifier>constituteproject:669</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Uganda_2005.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Ukraine_2014">
+    <dc:coverage>UKR</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Ukraine 1996 (rev. 2014)</dct:title>
+    <dct:date>1996</dct:date>
+    <dct:description>The constitution was adopted by the Verkhovna Rada of Ukraine</dct:description>
+    <dct:identifier>constituteproject:523</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Ukraine_2014.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Uruguay_2004">
+    <dc:coverage>URY</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Uruguay 1966 (reinst. 1985, rev. 2004)</dct:title>
+    <dct:date>1966</dct:date>
+    <dct:description>The constitution was approved in a national referendum.</dct:description>
+    <dct:identifier>constituteproject:313</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Uruguay_2004.pdf" />
+    <dc:rights xml:lang="en">English Translation &#169; 2012 by William S. Hein &amp; Co., Inc.  All rights reserved.</dc:rights>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/United_States_of_America_1992">
+    <dc:coverage>USA</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of United States of America 1789 (rev. 1992)</dct:title>
+    <dct:date>1789</dct:date>
+    <dct:description>The constitution was approved by Congress and ratified by state conventions.</dct:description>
+    <dct:identifier>constituteproject:2</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/United_States_of_America_1992.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Uzbekistan_2011">
+    <dc:coverage>UZB</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Uzbekistan 1992 (rev. 2011)</dct:title>
+    <dct:date>1992</dct:date>
+    <dct:description>The constitution was drafted by a Constitutional Commission and adopted by the Supreme Council.</dct:description>
+    <dct:identifier>constituteproject:836</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Uzbekistan_2011.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/St_Vincent_and_the_Grenadines_1979">
+    <dc:coverage>VCT</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Saint Vincent and the Grenadines 1979</dct:title>
+    <dct:date>1979</dct:date>
+    <dct:description>The constitution was promulgated by Queen Elizabeth II through an Order in Council upon independence, and passed by the National Assembly.</dct:description>
+    <dct:identifier>constituteproject:83</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/St_Vincent_and_the_Grenadines_1979.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Venezuela_2009">
+    <dc:coverage>VEN</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Venezuela (Bolivarian Republic of) 1999 (rev. 2009)</dct:title>
+    <dct:date>1999</dct:date>
+    <dct:description>The constitution was approved by referendum.</dct:description>
+    <dct:identifier>constituteproject:204</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Venezuela_2009.pdf" />
+    <dc:rights xml:lang="en">English Translation of amended Articles 160, 162, 174, 192, and 230 &#169; 2012 by William S. Hein &amp; Co., Inc.  All rights reserved.</dc:rights>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Socialist_Republic_of_Vietnam_2013">
+    <dc:coverage>VNM</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Viet Nam 1992 (rev. 2013)</dct:title>
+    <dct:date>1992</dct:date>
+    <dct:description>The constitution was approved by the National Assembly.</dct:description>
+    <dct:identifier>constituteproject:919</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Socialist_Republic_of_Vietnam_2013.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Vanuatu_1983">
+    <dc:coverage>VUT</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Vanuatu 1980 (rev. 1983)</dct:title>
+    <dct:date>1980</dct:date>
+    <dct:description>The constitution was drafted by Constitutional Planning Committee and finalised by a constitutional conference. It was ratified by the British and French governments.</dct:description>
+    <dct:identifier>constituteproject:943</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Vanuatu_1983.pdf" />
+    <dc:rights xml:lang="en">&#169; Oxford University Press, Inc.</dc:rights>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Samoa_2013">
+    <dc:coverage>WSM</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land governance</dc:subject>
+    <dc:subject>land law</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Samoa 1962 (rev. 2013)</dct:title>
+    <dct:date>1962</dct:date>
+    <dct:description>The constitution was adopted by a Constitution Convention.</dct:description>
+    <dct:identifier>constituteproject:956</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Samoa_2013.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Kosovo_2016">
+    <dc:coverage>XKX</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:title>Constitution of Kosovo 2008 (rev. 2016)</dct:title>
+    <dct:date>2008</dct:date>
+    <dct:description>The constitution was drafted the Constitution Commission before being approved by the Assembly of Kosovo.</dct:description>
+    <dct:identifier>constituteproject:979</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Kosovo_2016.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Yemen_2015">
+    <dc:coverage>YEM</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Yemen 1991 (rev. 2015)</dct:title>
+    <dct:date>1991</dct:date>
+    <dct:description>The constitution was ratified in a national referendum.</dct:description>
+    <dct:identifier>constituteproject:807</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Yemen_2015.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/South_Africa_2012">
+    <dc:coverage>ZAF</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of South Africa 1996 (rev. 2012)</dct:title>
+    <dct:date>1996</dct:date>
+    <dct:description>The constitution was promulgated by President Nelson Mandela.</dct:description>
+    <dct:identifier>constituteproject:717</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/South_Africa_2012.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Zambia_2009">
+    <dc:coverage>ZMB</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Zambia 1991 (rev. 2009)</dct:title>
+    <dct:date>1991</dct:date>
+    <dct:description>The constitution was drafted by a cross-party committee before it was approved by Parliament.</dct:description>
+    <dct:identifier>constituteproject:706</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Zambia_2009.pdf" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.constituteproject.org/constitution/Zimbabwe_2013">
+    <dc:coverage>ZWE</dc:coverage>
+    <dc:type>Constitution</dc:type>
+    <dc:language>en</dc:language>
+    <dc:license>All rights reserved</dc:license>
+    <dc:subject>land law</dc:subject>
+    <dc:subject>land governance</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f" />
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d" />
+    <dct:title>Constitution of Zimbabwe 2013</dct:title>
+    <dct:date>2013</dct:date>
+    <dct:description>The constitution was drafted by a Parliamentary Select Committee and approved by Parliament before being signed by President Mugabe.</dct:description>
+    <dct:identifier>constituteproject:1011</dct:identifier>
+    <bibo:uri rdf:resource="http://www.constituteproject.org/constitution/Zimbabwe_2013.pdf" />
+  </rdf:Description>
+</rdf:RDF>

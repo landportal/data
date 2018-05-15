@@ -1,17 +1,16 @@
-@prefix dct: <http://purl.org/dc/terms/>.
-
+@prefix dct: <http://purl.org/dc/terms/> .
 <http://www.constituteproject.org/constitution/Afghanistan_2004> dct:title "Constitution of Afghanistan 2004" .
-<http://www.constituteproject.org/constitution/Albania_2012> dct:title "Constitution of Albania 1998 (rev. 2012)" .
-<http://www.constituteproject.org/constitution/Algeria_2008> dct:title "Constitution of Algeria 1989 (reinst. 1996, rev. 2008)" .
+<http://www.constituteproject.org/constitution/Albania_2016> dct:title "Constitution of Albania 1998 (rev. 2016)" .
+<http://www.constituteproject.org/constitution/Algeria_2016> dct:title "Constitution of Algeria 1989 (reinst. 1996, rev. 2016)" .
 <http://www.constituteproject.org/constitution/Andorra_1993> dct:title "Constitution of Andorra 1993" .
 <http://www.constituteproject.org/constitution/Angola_2010> dct:title "Constitution of Angola 2010" .
 <http://www.constituteproject.org/constitution/Antigua_and_Barbuda_1981> dct:title "Constitution of Antigua and Barbuda 1981" .
 <http://www.constituteproject.org/constitution/Argentina_1994> dct:title "Constitution of Argentina 1853 (reinst. 1983, rev. 1994)" .
-<http://www.constituteproject.org/constitution/Armenia_2005> dct:title "Constitution of Armenia 1995 (rev. 2005)" .
+<http://www.constituteproject.org/constitution/Armenia_2015> dct:title "Constitution of Armenia 1995 (rev. 2015)" .
 <http://www.constituteproject.org/constitution/Australia_1985> dct:title "Constitution of Australia 1901 (rev. 1985)" .
 <http://www.constituteproject.org/constitution/Austria_2013> dct:title "Constitution of Austria 1920 (reinst. 1945, rev. 2013)" .
-<http://www.constituteproject.org/constitution/Azerbaijan_2009> dct:title "Constitution of Azerbaijan 1995 (rev. 2009)" .
-<http://www.constituteproject.org/constitution/Bahamas_2002> dct:title "Constitution of Bahamas 1973 (rev. 2002)" .
+<http://www.constituteproject.org/constitution/Azerbaijan_2016> dct:title "Constitution of Azerbaijan 1995 (rev. 2016)" .
+<http://www.constituteproject.org/constitution/Bahamas_1973> dct:title "Constitution of Bahamas (The) 1973" .
 <http://www.constituteproject.org/constitution/Bahrain_2012> dct:title "Constitution of Bahrain 2002 (rev. 2012)" .
 <http://www.constituteproject.org/constitution/Bangladesh_2014> dct:title "Constitution of Bangladesh 1972 (reinst. 1986, rev. 2014)" .
 <http://www.constituteproject.org/constitution/Barbados_2007> dct:title "Constitution of Barbados 1966 (rev. 2007)" .
@@ -23,113 +22,120 @@
 <http://www.constituteproject.org/constitution/Bolivia_2009> dct:title "Constitution of Bolivia (Plurinational State of) 2009" .
 <http://www.constituteproject.org/constitution/Bosnia_Herzegovina_2009> dct:title "Constitution of Bosnia and Herzegovina 1995 (rev. 2009)" .
 <http://www.constituteproject.org/constitution/Botswana_2005> dct:title "Constitution of Botswana 1966 (rev. 2005)" .
-<http://www.constituteproject.org/constitution/Brazil_2015> dct:title "Constitution of Brazil 1988 (rev. 2015)" .
+<http://www.constituteproject.org/constitution/Brazil_2017> dct:title "Constitution of Brazil 1988 (rev. 2017)" .
 <http://www.constituteproject.org/constitution/Brunei_2006> dct:title "Constitution of Brunei Darussalam 1959 (rev. 2006)" .
-<http://www.constituteproject.org/constitution/Bulgaria_2007> dct:title "Constitution of Bulgaria 1991 (rev. 2007)" .
+<http://www.constituteproject.org/constitution/Bulgaria_2015> dct:title "Constitution of Bulgaria 1991 (rev. 2015)" .
 <http://www.constituteproject.org/constitution/Burkina_Faso_2012> dct:title "Constitution of Burkina Faso 1991 (rev. 2012)" .
 <http://www.constituteproject.org/constitution/Burundi_2005> dct:title "Constitution of Burundi 2005" .
 <http://www.constituteproject.org/constitution/Cambodia_2008> dct:title "Constitution of Cambodia 1993 (rev. 2008)" .
 <http://www.constituteproject.org/constitution/Cameroon_2008> dct:title "Constitution of Cameroon 1972 (rev. 2008)" .
 <http://www.constituteproject.org/constitution/Canada_2011> dct:title "Constitution of Canada 1867 (rev. 2011)" .
 <http://www.constituteproject.org/constitution/Cape_Verde_1992> dct:title "Constitution of Cape Verde 1980 (rev. 1992)" .
+<http://www.constituteproject.org/constitution/Central_African_Republic_2010> dct:title "Constitution of Central African Republic 2004 (rev. 2010)" .
 <http://www.constituteproject.org/constitution/Central_African_Republic_2013> dct:title "Constitution of Central African Republic 2013" .
 <http://www.constituteproject.org/constitution/Chad_2005> dct:title "Constitution of Chad 1996 (rev. 2005)" .
 <http://www.constituteproject.org/constitution/Chile_2015> dct:title "Constitution of Chile 1980 (rev. 2015)" .
-<http://www.constituteproject.org/constitution/China_2004> dct:title "Constitution of China 1982 (rev. 2004)" .
-<http://www.constituteproject.org/constitution/Colombia_2013> dct:title "Constitution of Colombia 1991 (rev. 2013)" .
+<http://www.constituteproject.org/constitution/China_2004> dct:title "Constitution of China (People’s Republic of) 1982 (rev. 2004)" .
+<http://www.constituteproject.org/constitution/Colombia_2015> dct:title "Constitution of Colombia 1991 (rev. 2015)" .
 <http://www.constituteproject.org/constitution/Comoros_2009> dct:title "Constitution of Comoros 2001 (rev. 2009)" .
 <http://www.constituteproject.org/constitution/Democratic_Republic_of_the_Congo_2011> dct:title "Constitution of Congo (Democratic Republic of the) 2005 (rev. 2011)" .
 <http://www.constituteproject.org/constitution/Congo_2001> dct:title "Constitution of Congo 2001" .
 <http://www.constituteproject.org/constitution/Costa_Rica_2011> dct:title "Constitution of Costa Rica 1949 (rev. 2011)" .
 <http://www.constituteproject.org/constitution/Cote_DIvoire_2000> dct:title "Constitution of Côte d'Ivoire 2000" .
-<http://www.constituteproject.org/constitution/Croatia_2010> dct:title "Constitution of Croatia 1991 (rev. 2010)" .
+<http://www.constituteproject.org/constitution/Cote_DIvoire_2016> dct:title "Constitution of Côte d'Ivoire 2016" .
+<http://www.constituteproject.org/constitution/Croatia_2013> dct:title "Constitution of Croatia 1991 (rev. 2013)" .
 <http://www.constituteproject.org/constitution/Cuba_2002> dct:title "Constitution of Cuba 1976 (rev. 2002)" .
 <http://www.constituteproject.org/constitution/Cyprus_2013> dct:title "Constitution of Cyprus 1960 (rev. 2013)" .
 <http://www.constituteproject.org/constitution/Czech_Republic_2013> dct:title "Constitution of Czech Republic 1993 (rev. 2013)" .
 <http://www.constituteproject.org/constitution/Denmark_1953> dct:title "Constitution of Denmark 1953" .
 <http://www.constituteproject.org/constitution/Djibouti_2010> dct:title "Constitution of Djibouti 1992 (rev. 2010)" .
-<http://www.constituteproject.org/constitution/Dominica_1984> dct:title "Constitution of Dominica 1978 (rev. 1984)" .
+<http://www.constituteproject.org/constitution/Dominica_2014> dct:title "Constitution of Dominica 1978 (rev. 2014)" .
+<http://www.constituteproject.org/constitution/Dominican_Republic_2010> dct:title "Constitution of Dominican Republic 2010" .
 <http://www.constituteproject.org/constitution/Dominican_Republic_2015> dct:title "Constitution of Dominican Republic 2015" .
 <http://www.constituteproject.org/constitution/Ecuador_2015> dct:title "Constitution of Ecuador 2008 (rev. 2015)" .
+<http://www.constituteproject.org/constitution/Egypt_2012> dct:title "Constitution of Egypt 2012" .
 <http://www.constituteproject.org/constitution/Egypt_2014> dct:title "Constitution of Egypt 2014" .
 <http://www.constituteproject.org/constitution/El_Salvador_2014> dct:title "Constitution of El Salvador 1983 (rev. 2014)" .
 <http://www.constituteproject.org/constitution/Equatorial_Guinea_2012> dct:title "Constitution of Equatorial Guinea 1991 (rev. 2012)" .
 <http://www.constituteproject.org/constitution/Eritrea_1997> dct:title "Constitution of Eritrea 1997" .
-<http://www.constituteproject.org/constitution/Estonia_2011> dct:title "Constitution of Estonia 1992 (rev. 2011)" .
+<http://www.constituteproject.org/constitution/Estonia_2015> dct:title "Constitution of Estonia 1992 (rev. 2015)" .
 <http://www.constituteproject.org/constitution/Ethiopia_1994> dct:title "Constitution of Ethiopia 1994" .
 <http://www.constituteproject.org/constitution/Fiji_2013> dct:title "Constitution of Fiji 2013" .
 <http://www.constituteproject.org/constitution/Finland_2011> dct:title "Constitution of Finland 1999 (rev. 2011)" .
 <http://www.constituteproject.org/constitution/France_2008> dct:title "Constitution of France 1958 (rev. 2008)" .
-<http://www.constituteproject.org/constitution/Gabon_1997> dct:title "Constitution of Gabon 1991 (rev. 1997)" .
-<http://www.constituteproject.org/constitution/Gambia_2004> dct:title "Constitution of Gambia 1996 (rev. 2004)" .
+<http://www.constituteproject.org/constitution/Gabon_2011> dct:title "Constitution of Gabon 1991 (rev. 2011)" .
+<http://www.constituteproject.org/constitution/Gambia_2004> dct:title "Constitution of Gambia (The) 1996 (rev. 2004)" .
 <http://www.constituteproject.org/constitution/Georgia_2013> dct:title "Constitution of Georgia 1995 (rev. 2013)" .
-<http://www.constituteproject.org/constitution/German_Federal_Republic_2012> dct:title "Constitution of Germany 1949 (rev. 2012)" .
+<http://www.constituteproject.org/constitution/German_Federal_Republic_2014> dct:title "Constitution of Germany 1949 (rev. 2014)" .
 <http://www.constituteproject.org/constitution/Ghana_1996> dct:title "Constitution of Ghana 1992 (rev. 1996)" .
 <http://www.constituteproject.org/constitution/Greece_2008> dct:title "Constitution of Greece 1975 (rev. 2008)" .
 <http://www.constituteproject.org/constitution/Grenada_1992> dct:title "Constitution of Grenada 1973 (reinst. 1991, rev. 1992)" .
 <http://www.constituteproject.org/constitution/Guatemala_1993> dct:title "Constitution of Guatemala 1985 (rev. 1993)" .
 <http://www.constituteproject.org/constitution/Guinea_2010> dct:title "Constitution of Guinea 2010" .
-<http://www.constituteproject.org/constitution/Guinea_Bissau_1991> dct:title "Constitution of Guinea-Bissau 1984 (rev. 1991)" .
-<http://www.constituteproject.org/constitution/Guyana_2009> dct:title "Constitution of Guyana 1980 (rev. 2009)" .
+<http://www.constituteproject.org/constitution/Guinea_Bissau_1996> dct:title "Constitution of Guinea-Bissau 1984 (rev. 1996)" .
+<http://www.constituteproject.org/constitution/Guyana_2016> dct:title "Constitution of Guyana 1980 (rev. 2016)" .
 <http://www.constituteproject.org/constitution/Haiti_2012> dct:title "Constitution of Haiti 1987 (rev. 2012)" .
 <http://www.constituteproject.org/constitution/Honduras_2013> dct:title "Constitution of Honduras 1982 (rev. 2013)" .
-<http://www.constituteproject.org/constitution/Hungary_2013> dct:title "Constitution of Hungary 2011 (rev. 2013)" .
+<http://www.constituteproject.org/constitution/Hungary_2016> dct:title "Constitution of Hungary 2011 (rev. 2016)" .
 <http://www.constituteproject.org/constitution/Iceland_2013> dct:title "Constitution of Iceland 1944 (rev. 2013)" .
-<http://www.constituteproject.org/constitution/India_2015> dct:title "Constitution of India 1949 (rev. 2015)" .
+<http://www.constituteproject.org/constitution/Iceland_2011D> dct:title "Constitution of Iceland 2011" .
+<http://www.constituteproject.org/constitution/India_2016> dct:title "Constitution of India 1949 (rev. 2016)" .
 <http://www.constituteproject.org/constitution/Indonesia_2002> dct:title "Constitution of Indonesia 1945 (reinst. 1959, rev. 2002)" .
 <http://www.constituteproject.org/constitution/Iran_1989> dct:title "Constitution of Iran (Islamic Republic of) 1979 (rev. 1989)" .
 <http://www.constituteproject.org/constitution/Iraq_2005> dct:title "Constitution of Iraq 2005" .
 <http://www.constituteproject.org/constitution/Ireland_2015> dct:title "Constitution of Ireland 1937 (rev. 2015)" .
 <http://www.constituteproject.org/constitution/Israel_2013> dct:title "Constitution of Israel 1958 (rev. 2013)" .
 <http://www.constituteproject.org/constitution/Italy_2012> dct:title "Constitution of Italy 1947 (rev. 2012)" .
-<http://www.constituteproject.org/constitution/Jamaica_2011> dct:title "Constitution of Jamaica 1962 (rev. 2011)" .
+<http://www.constituteproject.org/constitution/Jamaica_2015> dct:title "Constitution of Jamaica 1962 (rev. 2015)" .
 <http://www.constituteproject.org/constitution/Japan_1946> dct:title "Constitution of Japan 1946" .
-<http://www.constituteproject.org/constitution/Jordan_2014> dct:title "Constitution of Jordan 1952 (rev. 2014)" .
+<http://www.constituteproject.org/constitution/Jordan_2016> dct:title "Constitution of Jordan 1952 (rev. 2016)" .
 <http://www.constituteproject.org/constitution/Kazakhstan_2011> dct:title "Constitution of Kazakhstan 1995 (rev. 2011)" .
 <http://www.constituteproject.org/constitution/Kenya_2010> dct:title "Constitution of Kenya 2010" .
-<http://www.constituteproject.org/constitution/Kiribati_1995> dct:title "Constitution of Kiribati 1979 (rev. 1995)" .
+<http://www.constituteproject.org/constitution/Kiribati_2013> dct:title "Constitution of Kiribati 1979 (rev. 2013)" .
 <http://www.constituteproject.org/constitution/Peoples_Republic_of_Korea_1998> dct:title "Constitution of Korea (Democratic People's Republic of) 1972 (rev. 1998)" .
 <http://www.constituteproject.org/constitution/Republic_of_Korea_1987> dct:title "Constitution of Korea (Republic of) 1948 (rev. 1987)" .
-<http://www.constituteproject.org/constitution/Kosovo_2008> dct:title "Constitution of Kosovo 2008" .
+<http://www.constituteproject.org/constitution/Kosovo_2016> dct:title "Constitution of Kosovo 2008 (rev. 2016)" .
 <http://www.constituteproject.org/constitution/Kuwait_1992> dct:title "Constitution of Kuwait 1962 (reinst. 1992)" .
 <http://www.constituteproject.org/constitution/Kyrgyz_Republic_2010> dct:title "Constitution of Kyrgyzstan 2010" .
 <http://www.constituteproject.org/constitution/Laos_2003> dct:title "Constitution of Lao People's Democratic Republic 1991 (rev. 2003)" .
-<http://www.constituteproject.org/constitution/Latvia_2014> dct:title "Constitution of Latvia 1922 (reinst. 1991, rev. 2014)" .
+<http://www.constituteproject.org/constitution/Latvia_2016> dct:title "Constitution of Latvia 1922 (reinst. 1991, rev. 2016)" .
 <http://www.constituteproject.org/constitution/Lebanon_2004> dct:title "Constitution of Lebanon 1926 (rev. 2004)" .
-<http://www.constituteproject.org/constitution/Lesotho_1998> dct:title "Constitution of Lesotho 1993 (rev. 1998)" .
+<http://www.constituteproject.org/constitution/Lesotho_2011> dct:title "Constitution of Lesotho 1993 (rev. 2011)" .
 <http://www.constituteproject.org/constitution/Liberia_1986> dct:title "Constitution of Liberia 1986" .
 <http://www.constituteproject.org/constitution/Libya_2012> dct:title "Constitution of Libya 2011 (rev. 2012)" .
-<http://www.constituteproject.org/constitution/Liechtenstein_2003> dct:title "Constitution of Liechtenstein 1921 (rev. 2003)" .
+<http://www.constituteproject.org/constitution/Libya_2016D> dct:title "Constitution of Libya 2016" .
+<http://www.constituteproject.org/constitution/Liechtenstein_2011> dct:title "Constitution of Liechtenstein 1921 (rev. 2011)" .
 <http://www.constituteproject.org/constitution/Lithuania_2006> dct:title "Constitution of Lithuania 1992 (rev. 2006)" .
 <http://www.constituteproject.org/constitution/Luxembourg_2009> dct:title "Constitution of Luxembourg 1868 (rev. 2009)" .
-<http://www.constituteproject.org/constitution/Macedonia_2011> dct:title "Constitution of Macedonia (The former Yugoslav Republic of) 1991 (rev. 2011)" .
+<http://www.constituteproject.org/constitution/Macedonia_2011> dct:title "Constitution of Macedonia (Republic of) 1991 (rev. 2011)" .
 <http://www.constituteproject.org/constitution/Madagascar_2010> dct:title "Constitution of Madagascar 2010" .
 <http://www.constituteproject.org/constitution/Malawi_1999> dct:title "Constitution of Malawi 1994 (rev. 1999)" .
 <http://www.constituteproject.org/constitution/Malaysia_2007> dct:title "Constitution of Malaysia 1957 (rev. 2007)" .
 <http://www.constituteproject.org/constitution/Maldives_2008> dct:title "Constitution of Maldives 2008" .
 <http://www.constituteproject.org/constitution/Mali_1992> dct:title "Constitution of Mali 1992" .
-<http://www.constituteproject.org/constitution/Malta_2014> dct:title "Constitution of Malta 1964 (rev. 2014)" .
+<http://www.constituteproject.org/constitution/Malta_2016> dct:title "Constitution of Malta 1964 (rev. 2016)" .
 <http://www.constituteproject.org/constitution/Marshall_Islands_1995> dct:title "Constitution of Marshall Islands 1979 (rev. 1995)" .
 <http://www.constituteproject.org/constitution/Mauritania_2012> dct:title "Constitution of Mauritania 1991 (rev. 2012)" .
-<http://www.constituteproject.org/constitution/Mauritius_2011> dct:title "Constitution of Mauritius 1968 (rev. 2011)" .
+<http://www.constituteproject.org/constitution/Mauritius_2016> dct:title "Constitution of Mauritius 1968 (rev. 2016)" .
 <http://www.constituteproject.org/constitution/Mexico_2015> dct:title "Constitution of Mexico 1917 (rev. 2015)" .
 <http://www.constituteproject.org/constitution/Micronesia_1990> dct:title "Constitution of Micronesia (Federated States of) 1978 (rev. 1990)" .
-<http://www.constituteproject.org/constitution/Moldova_2006> dct:title "Constitution of Moldova (Republic of) 1994 (rev. 2006)" .
+<http://www.constituteproject.org/constitution/Moldova_2016> dct:title "Constitution of Moldova (Republic of) 1994 (rev. 2016)" .
 <http://www.constituteproject.org/constitution/Monaco_2002> dct:title "Constitution of Monaco 1962 (rev. 2002)" .
 <http://www.constituteproject.org/constitution/Mongolia_2001> dct:title "Constitution of Mongolia 1992 (rev. 2001)" .
-<http://www.constituteproject.org/constitution/Montenegro_2007> dct:title "Constitution of Montenegro 2007" .
+<http://www.constituteproject.org/constitution/Montenegro_2013> dct:title "Constitution of Montenegro 2007 (rev. 2013)" .
 <http://www.constituteproject.org/constitution/Morocco_2011> dct:title "Constitution of Morocco 2011" .
 <http://www.constituteproject.org/constitution/Mozambique_2007> dct:title "Constitution of Mozambique 2004 (rev. 2007)" .
 <http://www.constituteproject.org/constitution/Myanmar_2008> dct:title "Constitution of Myanmar 2008" .
-<http://www.constituteproject.org/constitution/Namibia_2010> dct:title "Constitution of Namibia 1990 (rev. 2010)" .
-<http://www.constituteproject.org/constitution/Nauru_1968> dct:title "Constitution of Nauru 1968" .
-<http://www.constituteproject.org/constitution/Nepal_2015> dct:title "Constitution of Nepal 2015" .
+<http://www.constituteproject.org/constitution/Namibia_2014> dct:title "Constitution of Namibia 1990 (rev. 2014)" .
+<http://www.constituteproject.org/constitution/Nauru_2015> dct:title "Constitution of Nauru 1968 (rev. 2015)" .
+<http://www.constituteproject.org/constitution/Nepal_2012> dct:title "Constitution of Nepal 2006 (rev. 2012)" .
+<http://www.constituteproject.org/constitution/Nepal_2016> dct:title "Constitution of Nepal 2015 (rev. 2016)" .
 <http://www.constituteproject.org/constitution/Netherlands_2008> dct:title "Constitution of Netherlands 1815 (rev. 2008)" .
 <http://www.constituteproject.org/constitution/New_Zealand_2014> dct:title "Constitution of New Zealand 1852 (rev. 2014)" .
 <http://www.constituteproject.org/constitution/Nicaragua_2014> dct:title "Constitution of Nicaragua 1987 (rev. 2014)" .
 <http://www.constituteproject.org/constitution/Niger_2010> dct:title "Constitution of Niger 2010" .
-<http://www.constituteproject.org/constitution/Nigeria_1999> dct:title "Constitution of Nigeria 1999" .
-<http://www.constituteproject.org/constitution/Norway_2015> dct:title "Constitution of Norway 1814 (rev. 2015)" .
+<http://www.constituteproject.org/constitution/Nigeria_2011> dct:title "Constitution of Nigeria 1999 (rev. 2011)" .
+<http://www.constituteproject.org/constitution/Norway_2016> dct:title "Constitution of Norway 1814 (rev. 2016)" .
 <http://www.constituteproject.org/constitution/Oman_2011> dct:title "Constitution of Oman 1996 (rev. 2011)" .
 <http://www.constituteproject.org/constitution/Pakistan_2015> dct:title "Constitution of Pakistan 1973 (reinst. 2002, rev. 2015)" .
 <http://www.constituteproject.org/constitution/Palau_1992> dct:title "Constitution of Palau 1981 (rev. 1992)" .
@@ -152,12 +158,12 @@
 <http://www.constituteproject.org/constitution/Saudi_Arabia_2013> dct:title "Constitution of Saudi Arabia 1992 (rev. 2013)" .
 <http://www.constituteproject.org/constitution/Senegal_2009> dct:title "Constitution of Senegal 2001 (rev. 2009)" .
 <http://www.constituteproject.org/constitution/Serbia_2006> dct:title "Constitution of Serbia 2006" .
-<http://www.constituteproject.org/constitution/Seychelles_2011> dct:title "Constitution of Seychelles 1993 (rev. 2011)" .
+<http://www.constituteproject.org/constitution/Seychelles_2017> dct:title "Constitution of Seychelles 1993 (rev. 2017)" .
 <http://www.constituteproject.org/constitution/Sierra_Leone_2008> dct:title "Constitution of Sierra Leone 1991 (reinst. 1996, rev. 2008)" .
 <http://www.constituteproject.org/constitution/Singapore_2010> dct:title "Constitution of Singapore 1963 (rev. 2010)" .
 <http://www.constituteproject.org/constitution/Slovakia_2014> dct:title "Constitution of Slovakia 1992 (rev. 2014)" .
 <http://www.constituteproject.org/constitution/Slovenia_2013> dct:title "Constitution of Slovenia 1991 (rev. 2013)" .
-<http://www.constituteproject.org/constitution/Solomon_Islands_2009> dct:title "Constitution of Solomon Islands 1978 (rev. 2009)" .
+<http://www.constituteproject.org/constitution/Solomon_Islands_2014> dct:title "Constitution of Solomon Islands 1978 (rev. 2014)" .
 <http://www.constituteproject.org/constitution/Somalia_2012> dct:title "Constitution of Somalia 2012" .
 <http://www.constituteproject.org/constitution/South_Africa_2012> dct:title "Constitution of South Africa 1996 (rev. 2012)" .
 <http://www.constituteproject.org/constitution/South_Sudan_2013> dct:title "Constitution of South Sudan 2011 (rev. 2013)" .
@@ -169,13 +175,18 @@
 <http://www.constituteproject.org/constitution/Sweden_2012> dct:title "Constitution of Sweden 1974 (rev. 2012)" .
 <http://www.constituteproject.org/constitution/Switzerland_2014> dct:title "Constitution of Switzerland 1999 (rev. 2014)" .
 <http://www.constituteproject.org/constitution/Syria_2012> dct:title "Constitution of Syrian Arab Republic 2012" .
-<http://www.constituteproject.org/constitution/Taiwan_2005> dct:title "Constitution of Taiwan 1947 (rev. 2005)" .
+<http://www.constituteproject.org/constitution/Syria_2017D> dct:title "Constitution of Syrian Arab Republic 2017" .
+<http://www.constituteproject.org/constitution/Taiwan_2005> dct:title "Constitution of Taiwan (Republic of China) 1947 (rev. 2005)" .
 <http://www.constituteproject.org/constitution/Tajikistan_2003> dct:title "Constitution of Tajikistan 1994 (rev. 2003)" .
+<http://www.constituteproject.org/constitution/Tanzania_1995> dct:title "Constitution of Tanzania (United Republic of) 1977 (rev. 1995)" .
+<http://www.constituteproject.org/constitution/Thailand_2007> dct:title "Constitution of Thailand 2007" .
 <http://www.constituteproject.org/constitution/Thailand_2014> dct:title "Constitution of Thailand 2014" .
+<http://www.constituteproject.org/constitution/Thailand_2017> dct:title "Constitution of Thailand 2017" .
 <http://www.constituteproject.org/constitution/East_Timor_2002> dct:title "Constitution of Timor-Leste 2002" .
 <http://www.constituteproject.org/constitution/Togo_2007> dct:title "Constitution of Togo 1992 (rev. 2007)" .
 <http://www.constituteproject.org/constitution/Tonga_1988> dct:title "Constitution of Tonga 1875 (rev. 1988)" .
 <http://www.constituteproject.org/constitution/Trinidad_and_Tobago_2007> dct:title "Constitution of Trinidad and Tobago 1976 (rev. 2007)" .
+<http://www.constituteproject.org/constitution/Tunisia_2008> dct:title "Constitution of Tunisia 1959 (rev. 2008)" .
 <http://www.constituteproject.org/constitution/Tunisia_2014> dct:title "Constitution of Tunisia 2014" .
 <http://www.constituteproject.org/constitution/Turkey_2011> dct:title "Constitution of Turkey 1982 (rev. 2011)" .
 <http://www.constituteproject.org/constitution/Turkmenistan_2008> dct:title "Constitution of Turkmenistan 2008" .
@@ -184,13 +195,13 @@
 <http://www.constituteproject.org/constitution/Ukraine_2014> dct:title "Constitution of Ukraine 1996 (rev. 2014)" .
 <http://www.constituteproject.org/constitution/United_Arab_Emirates_2009> dct:title "Constitution of United Arab Emirates 1971 (rev. 2009)" .
 <http://www.constituteproject.org/constitution/United_Kingdom_2013> dct:title "Constitution of United Kingdom 1215 (rev. 2013)" .
-<http://www.constituteproject.org/constitution/Tanzania_1995> dct:title "Constitution of United Republic of Tanzania 1977 (rev. 1995)" .
 <http://www.constituteproject.org/constitution/United_States_of_America_1992> dct:title "Constitution of United States of America 1789 (rev. 1992)" .
 <http://www.constituteproject.org/constitution/Uruguay_2004> dct:title "Constitution of Uruguay 1966 (reinst. 1985, rev. 2004)" .
 <http://www.constituteproject.org/constitution/Uzbekistan_2011> dct:title "Constitution of Uzbekistan 1992 (rev. 2011)" .
 <http://www.constituteproject.org/constitution/Vanuatu_1983> dct:title "Constitution of Vanuatu 1980 (rev. 1983)" .
 <http://www.constituteproject.org/constitution/Venezuela_2009> dct:title "Constitution of Venezuela (Bolivarian Republic of) 1999 (rev. 2009)" .
 <http://www.constituteproject.org/constitution/Socialist_Republic_of_Vietnam_2013> dct:title "Constitution of Viet Nam 1992 (rev. 2013)" .
-<http://www.constituteproject.org/constitution/Yemen_2001> dct:title "Constitution of Yemen 1991 (rev. 2001)" .
+<http://www.constituteproject.org/constitution/Yemen_2015> dct:title "Constitution of Yemen 1991 (rev. 2015)" .
+<http://www.constituteproject.org/constitution/Yemen_2015D> dct:title "Constitution of Yemen 2015" .
 <http://www.constituteproject.org/constitution/Zambia_2009> dct:title "Constitution of Zambia 1991 (rev. 2009)" .
 <http://www.constituteproject.org/constitution/Zimbabwe_2013> dct:title "Constitution of Zimbabwe 2013" .
