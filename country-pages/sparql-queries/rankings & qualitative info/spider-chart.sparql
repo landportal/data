@@ -1,3 +1,5 @@
+# Generate SIGI, GINI, HDI and GHI values, having 100 as top/max/best value.
+
 PREFIX cex: <http://purl.org/weso/ontology/computex#>
 PREFIX time: <http://www.w3.org/2006/time#>
 

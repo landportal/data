@@ -1,31 +1,32 @@
+# Get country, year and value for a given indicator and list of countries to be queried.
+# Previously, it was approached using subqueries
+
 PREFIX cex: <http://purl.org/weso/ontology/computex#>
 PREFIX time: <http://www.w3.org/2006/time#>
 
-SELECT ?countryISO3 ?countryLabel (year(?dateTime) as ?year) ?value
+SELECT ?countryISO3 (STR(?countryLabel) as ?coutryLabel) (year(?dateTime) as ?year) ?value
 FROM <http://data.landportal.info>
+FROM <http://countries.landportal.info>
 WHERE {
 
 ?obs cex:ref-area ?countryURL ;
-     cex:ref-time ?time ;
-     cex:value ?value.
+    cex:ref-time ?time ;
+    cex:ref-indicator ?indicatorURL ;
+    cex:value ?value .
 
-     ?countryURL rdfs:label ?countryLabel.
+    ?countryURL rdfs:label ?countryLabel.
      	 
-     ?time time:hasBeginning ?timeValue .
-     ?timeValue time:inXSDDateTime ?dateTime .
-     BIND (REPLACE(STR(?countryURL), "http://data.landportal.info/geo/","") AS ?countryISO3)
+    ?time time:hasBeginning ?timeValue .
+    ?timeValue time:inXSDDateTime ?dateTime .
+  
+    VALUES ?indicatorURL { <http://data.landportal.info/indicator/FAO-23045-6083> }
+  
+	VALUES ?countryURL { 
+	<http://data.landportal.info/geo/TZA>
+	<http://data.landportal.info/geo/VNM>
+	<http://data.landportal.info/geo/BWA>
+	}
 
-{
-SELECT ?obs 
-FROM <http://data.landportal.info>
-WHERE{
-  ?obs cex:ref-indicator <http://data.landportal.info/indicator/FAO-23045-6083> .
-  ?obs cex:ref-area ?country .
-  VALUES ?country { 
-   <http://data.landportal.info/geo/TZA>
-   <http://data.landportal.info/geo/VNM>
-   <http://data.landportal.info/geo/BWA>
-  }
-}
-}
+    BIND (REPLACE(STR(?countryURL), "http://data.landportal.info/geo/","") AS ?countryISO3)
+
 } ORDER BY ?dateTime ?countryURL

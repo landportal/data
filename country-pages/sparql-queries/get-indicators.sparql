@@ -1,5 +1,4 @@
 # Gets URL, ID, LABEL and DESCRIPTION of all the indicators, ordered alphabetically by label.
-# NOTE: the properties for label and description MUST change
 
 PREFIX cex: <http://purl.org/weso/ontology/computex#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>

@@ -1,0 +1,27 @@
+# Get information about a given indicator (in production).
+
+PREFIX cex: <http://purl.org/weso/ontology/computex#> 
+PREFIX time: <http://www.w3.org/2006/time#> 
+PREFIX qb: <http://purl.org/linked-data/cube#> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX dct: <http://purl.org/dc/terms/> 
+PREFIX sdmx-attribute: <http://purl.org/linked-data/sdmx/2009/attribute#>  
+SELECT ?id ?uri ?label ?description ?unit ?indicatorSeeAlso ?datasetURL ?dataset ?datasetSeeAlso ?sourceURL ?source ?sourceSeeAlso  
+FROM <http://data.landportal.info> 
+FROM <http://countries.landportal.info> 
+FROM <http://datasets.landportal.info> 
+FROM <http://indicators.landportal.info> 
+FROM <http://organizations.landportal.info>  
+WHERE { 
+?uri rdfs:label ?label ;         
+dct:description ?description ;         
+sdmx-attribute:unitMeasure ?unit ;         
+dct:source ?datasetURL ; 		
+rdfs:seeAlso ?indicatorSeeAlso .
+?datasetURL rdfs:label ?dataset ;         
+dct:publisher ?sourceURL ; 		
+rdfs:seeAlso ?datasetSeeAlso . 
+?sourceURL rdfs:label ?source . 
+BIND( ?sourceURL AS ?sourceSeeAlso ) 
+VALUES (?uri ?id) { (<http://data.landportal.info/indicator/LA-PRI-III.OW> 'LA-PRI-III.OW') } 
+}

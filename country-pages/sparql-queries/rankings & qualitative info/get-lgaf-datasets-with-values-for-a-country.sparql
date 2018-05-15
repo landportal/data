@@ -1,12 +1,16 @@
+# Get LGAF datasets that have values for a given country
+# PER (Perú) has values for 2013 and 2016
+
 PREFIX cex: <http://purl.org/weso/ontology/computex#>
 PREFIX qb: <http://purl.org/linked-data/cube#>
 
 SELECT DISTINCT ?dataset
 FROM <http://data.landportal.info>
 WHERE {
-   ?obs cex:ref-area <http://data.landportal.info/geo/TZA> ;
+   ?obs cex:ref-area ?countryURL ;
         qb:dataSet ?dataset.
-
+		
+   VALUES ?countryURL { <http://data.landportal.info/geo/TZA> }
    VALUES ?dataset {<http://data.landportal.info/dataset/WB-LGAF2013> <http://data.landportal.info/dataset/WB-LGAF2016>}
 
 }

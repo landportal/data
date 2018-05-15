@@ -1,5 +1,4 @@
-# Gets URL, ISO3 code and LABEL for all the countries
-# NOTE: the properties for label MUST change
+# Get URL, ISO3 code and LABEL for all the countries
 
 SELECT ?countryURL ?countryISO3 ?countryLabel
 FROM <http://countries.landportal.info>

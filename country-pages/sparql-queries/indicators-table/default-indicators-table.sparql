@@ -1,3 +1,5 @@
+#NOTE: This SPARQL query was used at the begging. Probably nowadays it is deprecated.
+
 PREFIX cex: <http://purl.org/weso/ontology/computex#>
 PREFIX dct: <http://purl.org/dc/terms/>
 PREFIX time: <http://www.w3.org/2006/time#>
@@ -6,6 +8,10 @@ PREFIX sdmx-attribute: <http://purl.org/linked-data/sdmx/2009/attribute#>
 
 SELECT ?obs ?indicatorURL ?indicatorSeeAlso ?indicatorLabel ?indicatorDescription (year(?dateTime) as ?year) ?value ?unitLabel ?datasetURL ?datasetSeeAlso ?datasetLabel ?sourceURL ?sourceLabel ?sourceSeeAlso
 FROM <http://data.landportal.info>
+FROM <http://indicators.landportal.info>
+FROM <http://datasets.landportal.info>
+FROM <http://organizations.landportal.info>
+
 WHERE {
 ?obs cex:ref-indicator ?indicatorURL ;
      cex:ref-time ?time ;

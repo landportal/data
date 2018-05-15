@@ -7,11 +7,14 @@ PREFIX cex: <http://purl.org/weso/ontology/computex#>
 
 SELECT DISTINCT ?indicatorURL ?indicatorLabel
 FROM <http://data.landportal.info>
+FROM <http://indicators.landportal.info>
 WHERE {
 ?obs cex:ref-indicator ?indicatorURL ;
-     cex:ref-area <http://data.landportal.info/geo/TZA> ;
+     cex:ref-area ?countryURL ;
      cex:value ?value.
 ?indicatorURL rdfs:label ?indicatorLabel .
+
+VALUES ?countryURL {<http://data.landportal.info/geo/TZA>}
 } 
 GROUP BY ?indicatorURL ?indicatorLabel
 HAVING (COUNT(?obs) >= 2)

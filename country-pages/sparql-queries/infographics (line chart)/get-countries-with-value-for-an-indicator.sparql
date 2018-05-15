@@ -1,10 +1,14 @@
+# Get countries with at least one value for a given indicator
+
 PREFIX cex: <http://purl.org/weso/ontology/computex#>
 
 SELECT DISTINCT ?countryURL ?countryISO3 ?countryLabel
 FROM <http://data.landportal.info>
+FROM <http://countries.landportal.info>
 WHERE {
-   ?obs cex:ref-indicator <http://data.landportal.info/indicator/FAO-23045-6083> ;
+   ?obs cex:ref-indicator?indicatorURL;
         cex:ref-area ?countryURL .
    ?countryURL rdfs:label ?countryLabel.
    BIND (REPLACE(STR(?countryURL), "http://data.landportal.info/geo/","") AS ?countryISO3)
+   VALUES ?indicatorURL {<http://data.landportal.info/indicator/FAO-23045-6083>}
 } ORDER BY ?countryLabel

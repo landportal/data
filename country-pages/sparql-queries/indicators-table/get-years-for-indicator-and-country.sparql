@@ -1,13 +1,19 @@
+# Get the years with value for a given indicator and country
+
 PREFIX cex: <http://purl.org/weso/ontology/computex#>
 PREFIX time: <http://www.w3.org/2006/time#>
 
 SELECT (year(?dateTime) as ?year)
 FROM <http://data.landportal.info>
 WHERE {
-?obs cex:ref-area <http://data.landportal.info/geo/TZA> ;
-     cex:ref-indicator <http://data.landportal.info/indicator/FAO-23045-6083> ;
+?obs cex:ref-area ?countryURL ;
+     cex:ref-indicator ?indicatorURL ;
      cex:ref-time ?time .
 ?time time:hasBeginning ?timeValue .
 ?timeValue time:inXSDDateTime ?dateTime
+
+VALUES ?countryURL { <http://data.landportal.info/geo/TZA> }
+VALUES ?indicatorURL { <http://data.landportal.info/indicator/FAO-23045-6083> }
+
 }
 ORDER BY DESC(?dateTime)

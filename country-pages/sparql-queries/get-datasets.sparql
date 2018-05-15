@@ -1,5 +1,4 @@
-# Gets ID and LABEL for all datasets, ordered alphabetically by label.
-# NOTE: the properties for label and description MUST change
+# Get id, label and description for all datasets, ordered alphabetically by label.
 
 PREFIX qb: <http://purl.org/linked-data/cube#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
