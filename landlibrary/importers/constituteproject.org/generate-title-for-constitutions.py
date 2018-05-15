@@ -11,7 +11,7 @@ with codecs.open('constitutions.json', "r", "utf-8") as data_file:
     data = json.load(data_file)
 
 prefix = u"@prefix dct: <http://purl.org/dc/terms/> ."
-with codecs.open('constitutions-title.ttl',"w", "utf-8") as ttl_file:
+with codecs.open('generated-constitutions-title.ttl',"w", "utf-8") as ttl_file:
     ttl_file.write(prefix+"\n")    
     i = 0
     for constitution in data:
