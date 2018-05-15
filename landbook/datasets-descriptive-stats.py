@@ -5,7 +5,7 @@ import datetime
 def statsReview(dataset):
     date = now = datetime.datetime.now().strftime("%Y-%m-%d")
 
-    sparql = SPARQLWrapper("https://landportal.info/sparql")
+    sparql = SPARQLWrapper("https://landportal.org/sparql")
     sparql.setQuery("""
 	PREFIX cex: <http://purl.org/weso/ontology/computex#>
 	PREFIX qb: <http://purl.org/linked-data/cube#>
@@ -52,14 +52,14 @@ def statsReview(dataset):
 
 
 def getDatasets():
-    sparql = SPARQLWrapper("https://landportal.info/sparql")
+    sparql = SPARQLWrapper("https://landportal.org/sparql")
     
     sparql_get_datasets = """
     PREFIX cex: <http://purl.org/weso/ontology/computex#>
     PREFIX qb: <http://purl.org/linked-data/cube#>
 
     SELECT DISTINCT ?dataset
-    FROM <http://data.landportal.info>
+    FROM <http://datasets.landportal.info>
     WHERE {
        ?dataset a qb:DataSet .
     } ORDER BY ?dataset

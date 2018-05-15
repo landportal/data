@@ -6,7 +6,7 @@ import datetime
 def statsReview(indicator):
     date = now = datetime.datetime.now().strftime("%Y-%m-%d")
 
-    sparql = SPARQLWrapper("https://landportal.info/sparql")
+    sparql = SPARQLWrapper("https://landportal.org/sparql")
     sparql.setQuery("""
     PREFIX cex: <http://purl.org/weso/ontology/computex#>
 
@@ -80,13 +80,13 @@ def statsReview(indicator):
 
 
 def getIndicators():
-    sparql = SPARQLWrapper("https://landportal.info/sparql")
+    sparql = SPARQLWrapper("https://landportal.org/sparql")
     
     sparql_get_indicators = """
     PREFIX cex: <http://purl.org/weso/ontology/computex#>
     
     SELECT DISTINCT ?indicatorURL
-    FROM <http://data.landportal.info>
+    FROM <http://indicators.landportal.info>
     WHERE {
        ?indicatorURL a cex:Indicator .
     } ORDER BY ?indicatorURL
