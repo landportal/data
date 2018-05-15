@@ -1,4 +1,4 @@
-# Get indicators from a dataset
+# Get indicators from a given dataset
 # Returns ?indicatorURL ?indicatorID ?indicatorLabel ?indicatorDescription
 # Ordered by indicatorURL
 
@@ -7,7 +7,7 @@ PREFIX dct: <http://purl.org/dc/terms/>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 
 SELECT DISTINCT ?indicatorURL ?indicatorID ?indicatorLabel ?indicatorDescription 
-FROM <http://data.landportal.info>
+FROM <http://indicators.landportal.info>
 WHERE {
 	?indicatorURL dct:source ?dataset.
 	?indicatorURL skos:notation ?indicatorID ;

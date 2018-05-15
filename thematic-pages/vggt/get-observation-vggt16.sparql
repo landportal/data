@@ -1,22 +1,26 @@
+# Get all values (indicator, country, year, value) for dataset VGGT16
+
 PREFIX cex: <http://purl.org/weso/ontology/computex#>
 PREFIX dct: <http://purl.org/dc/terms/>
 PREFIX qb: <http://purl.org/linked-data/cube#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 
-SELECT ?indicatorURL ?indicatorID ?indicatorLabel ?indicatorDescription ?countryURL ?year (STR(?value) AS ?value) (STR(?comment) as ?comment)
+SELECT ?indicatorID ?countryISO3 ?year (STR(?value) AS ?value) (STR(?comment) as ?comment)
 FROM <http://data.landportal.info>
+FROM <http://indicators.landportal.info>
 WHERE {
     ?obs qb:dataSet <http://data.landportal.info/dataset/NKT-VGGT16> ;
 		cex:ref-indicator ?indicatorURL ;
 		cex:ref-area ?countryURL ;
-		cex:ref-time ?year ;
+		cex:ref-time ?yearLong ;
 		cex:value ?value .
 		OPTIONAL { ?obs rdfs:comment ?comment }
+  
+    BIND (REPLACE(STR(?indicatorURL), 'http://data.landportal.info/indicator/','') AS ?indicatorID) 
+    BIND (REPLACE(STR(?countryURL), 'http://data.landportal.info/geo/','') AS ?countryISO3) 
+    BIND (REPLACE(STR(?yearLong), 'http://data.landportal.info/time/','') AS ?year) 
 
-	?indicatorURL skos:notation ?indicatorID ;
-				  rdfs:label ?indicatorLabel ;
-				  dct:description ?indicatorDescription .
 #	VALUES ?countryURL {<http://data.landportal.info/geo/TZA>}
 
 } ORDER BY ?indicatorURL ?countryURL

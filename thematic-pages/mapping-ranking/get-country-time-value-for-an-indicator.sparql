@@ -1,3 +1,6 @@
+# Return country, year and value for a given indicator
+# The results are ordered by year and then by value (so, it is somehow grouped by year)
+
 PREFIX cex: <http://purl.org/weso/ontology/computex#>
 PREFIX time: <http://www.w3.org/2006/time#>
 

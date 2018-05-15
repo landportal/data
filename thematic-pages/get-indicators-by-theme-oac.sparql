@@ -1,4 +1,6 @@
-# Gets Indicators and themes/overarching categories
+# Gets themes and overarching categories related to an indicatorUrl
+# LandVoc concepts are filtered out
+# Order by subject (Theme or OACs)
 
 PREFIX cex: <http://purl.org/weso/ontology/computex#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
