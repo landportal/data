@@ -1,6 +1,6 @@
 # Get descriptive statistics about datasets: Number of indicators, number of observation and number of differente countries for a dataset.
-# If "VALUES ?datasetURL" is commented, all datasets are returned
-# If one concrete dataset is needed, just add in the VALUES ?datasetURL part
+# If "VALUES ?datasetURI" is commented, all datasets are returned
+# If one concrete dataset is needed, just add in the VALUES ?datasetURI part
 # Ordered by datasetID
 
 PREFIX cex: <http://purl.org/weso/ontology/computex#>
@@ -15,10 +15,10 @@ COUNT(DISTINCT ?country) AS ?nCountryWithValue
 FROM <http://data.landportal.info>
 FROM <http://datasets.landportal.info>
 WHERE{
-   ?obs qb:dataSet ?datasetURL ;
+   ?obs qb:dataSet ?datasetURI ;
        cex:ref-indicator ?indicator;
        cex:ref-area ?country ;
        cex:value ?value.
-   ?datasetURL skos:notation ?datasetID.
-   #VALUES ?datasetURL { <http://data.landportal.info/dataset/FAO-ASTI> <http://data.landportal.info/dataset/WB-DEM>}
+   ?datasetURI skos:notation ?datasetID.
+   #VALUES ?datasetURI { <http://data.landportal.info/dataset/FAO-ASTI> <http://data.landportal.info/dataset/WB-DEM>}
 } ORDER BY ?datasetID

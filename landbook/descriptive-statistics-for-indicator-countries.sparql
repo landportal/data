@@ -1,4 +1,6 @@
-# Number of countries with non-missing values (over the total number of available countries)
+# Number of countries with non-missing values (over the total number of available countries) for a given indicator
+# 1) Get number of countries present in the "countries" graph
+# 2) Calculate the number of countries with a value for a given indicator
 
 PREFIX cex: <http://purl.org/weso/ontology/computex#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
@@ -11,12 +13,15 @@ FROM <http://data.landportal.info>
 FROM <http://indicators.landportal.info>
 FROM <http://countries.landportal.info>
 WHERE{
-?obs cex:ref-indicator ?indicatorURL ;
-     cex:ref-area ?countryWithValue ;
-     cex:value ?value.
 
 ?country a <http://purl.org/weso/landbook/ontology#Country> .
 
-?indicatorURL skos:notation ?indicatorID.
-VALUES ?indicatorURL {<http://data.landportal.info/indicator/FAO-23045-6083>}
+?obs cex:ref-indicator ?indicatorURI ;
+     cex:ref-area ?countryWithValue ;
+     cex:value ?value.
+
+?indicatorURI skos:notation ?indicatorID.
+
+VALUES ?indicatorURI {<http://data.landportal.info/indicator/FAO-23045-6083>}
+
 }

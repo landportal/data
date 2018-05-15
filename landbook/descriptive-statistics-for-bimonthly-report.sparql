@@ -1,12 +1,16 @@
-# Get descriptive statistics about the whole grapth: Number of datasets, number of indicators, number of observations, number of sources.
+# Get descriptive statistics about the whole graph: 
+# - number of observations
+# - number of indicators
+# - Number of datasets
+# - number of sources
 
 PREFIX cex: <http://purl.org/weso/ontology/computex#>
 PREFIX qb:   <http://purl.org/linked-data/cube#>
 
 SELECT DISTINCT
 COUNT(?obs) AS ?nObservations
-COUNT(DISTINCT ?dataset) AS ?nDatasets
 COUNT(DISTINCT ?indicator) AS ?nIndicators
+COUNT(DISTINCT ?dataset) AS ?nDatasets
 COUNT(DISTINCT ?source) AS ?nSources
 FROM <http://data.landportal.info>
 FROM <http://datasets.landportal.info>

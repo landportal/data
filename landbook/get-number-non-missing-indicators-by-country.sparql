@@ -1,5 +1,5 @@
-# Get number of non missing indicators by country (including the countries without any observation)
-# Ordered by countryURL
+# Get number of indicators with at least one value for that country
+# Ordered by countryURI
 
 PREFIX cex: <http://purl.org/weso/ontology/computex#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>

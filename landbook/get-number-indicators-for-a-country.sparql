@@ -1,4 +1,4 @@
-# Get number of non missing indicators for a concrete country
+# Get list of non missing indicators for a concrete country
 
 PREFIX cex: <http://purl.org/weso/ontology/computex#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
