@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:dct="http://purl.org/dc/terms/" >
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/WB-CC">
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#DataSet" />
+    <rdfs:label>WB - Climate Change Indicators</rdfs:label>
+    <rdfs:seeAlso rdf:resource="http://landportal.info/book/dataset/wb-cc" />
+    <skos:notation>WB-CC</skos:notation>
+    <dct:title>WB - Climate Change Indicators</dct:title>
+    <dct:description>This dataset contains a range of climate change indicators from the World Bank (Source: http://data.worldbank.org/indicator)</dct:description>
+    <dct:publisher rdf:resource="http://data.landportal.info/organization/WB" />
+    <rdfs:commnent>This dataset contains a range of climate change indicators from the World Bank (Source: http://data.worldbank.org/indicator)</rdfs:commnent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/WB-ENV">
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#DataSet" />
+    <rdfs:label>WB - Environmental indicators</rdfs:label>
+    <rdfs:seeAlso rdf:resource="http://landportal.info/book/dataset/wb-env" />
+    <skos:notation>WB-ENV</skos:notation>
+    <dct:title>WB - Environmental indicators</dct:title>
+    <dct:description>This dataset contains a range of environmental indicators from the World Bank (Source: http://data.worldbank.org/indicator)</dct:description>
+    <dct:publisher rdf:resource="http://data.landportal.info/organization/WB" />
+    <rdfs:commnent>This dataset contains a range of environmental indicators from the World Bank (Source: http://data.worldbank.org/indicator)</rdfs:commnent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/organization/WB">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization" />
+    <rdfs:label>World Bank Group</rdfs:label>
+    <rdfs:seeAlso rdf:resource="http://landportal.info/organization/world-bank-group" />
+    <skos:notation>WB</skos:notation>
+    <dct:title>World Bank Group</dct:title>
+  </rdf:Description>
+</rdf:RDF>
