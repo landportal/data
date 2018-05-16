@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/"
+  xmlns:lingvo="http://www.lingvoj.org/ontology#"
+  xmlns:org="http://www.w3.org/ns/org#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sioc="http://rdfs.org/sioc/ns#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/organization/f5bb7338-c0ac-415e-ad8d-f3c324ea3341">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Entity"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/org#Organization"/>
+    <dct:description>A Data Center in NASA's Earth Observing System Data and Information System (EOSDIS) — Hosted by CIESIN at Columbia University  </dct:description>
+    <schema:description>A Data Center in NASA's Earth Observing System Data and Information System (EOSDIS) — Hosted by CIESIN at Columbia University  </schema:description>
+    <dct:spatial rdf:resource="http://data.landportal.info/geo/001"/>
+    <schema:spatialCoverage rdf:resource="http://data.landportal.info/geo/001"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_35131"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_35131"/>
+    <schema:image rdf:resource="https://landportal.org/sites/landportal.org/files/NASA-SEDAC.jpg"/>
+    <schema:logo rdf:resource="https://landportal.org/sites/landportal.org/files/NASA-SEDAC.jpg"/>
+    <lingvo:workingLanguage rdf:resource="http://data.landportal.info/voc/language/en"/>
+    <dct:identifier>SEDAC</dct:identifier>
+    <org:identifier>SEDAC</org:identifier>
+    <dct:title>Socioeconomic Data and Applications Center</dct:title>
+    <rdfs:label>Socioeconomic Data and Applications Center</rdfs:label>
+    <schema:name>Socioeconomic Data and Applications Center</schema:name>
+    <foaf:name>Socioeconomic Data and Applications Center</foaf:name>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-12T09:50:39+01:00</dc:date>
+    <dc:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-12T09:50:39+01:00</dc:created>
+    <dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-12T10:38:37+01:00</dc:modified>
+    <sioc:has_creator rdf:resource="https://landportal.org/users/carlos-tejo"/>
+    <sioc:num_replies rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</sioc:num_replies>
+  </rdf:Description>
+
+</rdf:RDF>
