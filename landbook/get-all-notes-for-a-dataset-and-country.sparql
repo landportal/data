@@ -1,0 +1,12 @@
+# Get all notes for a given dataset and country
+SELECT DISTINCT ?indicator str(?note) 
+FROM <http://data.landportal.info>
+WHERE {
+   ?obs cex:ref-area ?countryURI ;
+   qb:dataSet ?datasetURI ;
+   cex:ref-indicator ?indicatorURI ;
+   rdfs:comment ?note .
+   VALUES ?countryURI { <http://data.landportal.info/geo/ZAF> }
+   VALUES ?datasetURI { <http://data.landportal.info/dataset/NKT-VGGT16> }
+   BIND (REPLACE(STR(?indicatorURI), 'http://data.landportal.info/indicator/','') AS ?indicator)
+} ORDER BY ?indicator

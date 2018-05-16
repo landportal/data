@@ -1,0 +1,15 @@
+# Get max/min year for a given dataset
+
+SELECT 
+year(min(?dateTime)) AS ?minYear 
+year(max(?dateTime)) AS ?maxYear 
+FROM <http://data.landportal.info>
+WHERE {
+?obs cex:ref-time ?time ;
+qb:dataSet ?datasetURI.
+
+	?time time:hasBeginning ?timeValue .
+	?timeValue time:inXSDDateTime ?dateTime .
+
+	VALUES ?datasetURI {<http://data.landportal.info/dataset/FAO-LU>}
+}
