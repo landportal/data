@@ -1,0 +1,68 @@
+# delete ONE triple, providing all values
+DELETE DATA 
+FROM <http://data.landportal.info>
+{ 
+<http://data.landportal.info/dataset/NKT-VGGT16/observation/NKT-VGGT16-3E_PER_2017> 
+cex:value 
+"B"^^<http://www.w3.org/2001/XMLSchema#string>
+}
+
+
+# delete ONE observation
+WITH <http://data.landportal.info> 
+DELETE
+{ ?obs ?p ?o }
+WHERE {
+    ?obs ?p ?o .
+    VALUES ?obs {<http://data.landportal.info/dataset/OECD-SIGI/observation/OECD-SIGI-9_HTI_2012> } 
+}
+
+# delete ONE or MORE triples, providing some values (but not all)
+WITH <http://data.landportal.info> 
+DELETE
+{ ?obs ?p ?o }
+WHERE {
+    ?obs ?p ?o .
+    VALUES ?obs {<http://data.landportal.info/dataset/NKT-VGGT16/observation/NKT-VGGT16-3A_AFG_2017> } 
+	VALUES ?p {rdfs:comment } 
+}
+
+# insert ONE triple
+WITH <http://data.landportal.info> 
+INSERT DATA
+{
+<http://data.landportal.info/dataset/NKT-VGGT16/observation/NKT-VGGT16-3E_PER_2017>
+cex:value
+"C"^^<http://www.w3.org/2001/XMLSchema#string> }
+}
+
+###############################################################################
+
+# The SELECT query to test a delete. For instance, all comments for a group of indicators
+SELECT ?obs ?p ?o
+FROM <http://data.landportal.info>
+WHERE {
+    ?obs a qb:Observation ;
+         qb:dataSet ?dataset ;
+         cex:ref-area <http://data.landportal.info/geo/LAO> ;
+         cex:ref-indicator ?indicator ;
+         ?p ?o .
+    VALUES ?dataset {<http://data.landportal.info/dataset/NKT-VGGT16>} .
+    VALUES ?p {rdfs:comment } 
+    FILTER STRSTARTS(str(?indicator),"http://data.landportal.info/indicator/NKT-VGGT16-8")
+}
+
+# delete a series of triples (see the WHERE clause). For instance, all comments for a group of indicators
+WITH <http://data.landportal.info> 
+DELETE
+{ ?obs ?p ?o }
+WHERE {
+    ?obs a qb:Observation ;
+         qb:dataSet ?dataset ;
+         cex:ref-area <http://data.landportal.info/geo/LAO> ;
+         cex:ref-indicator ?indicator ;
+         ?p ?o .
+    VALUES ?dataset {<http://data.landportal.info/dataset/NKT-VGGT16>} .
+    VALUES ?p {rdfs:comment } 
+    FILTER STRSTARTS(str(?indicator),"http://data.landportal.info/indicator/NKT-VGGT16-8")
+}
