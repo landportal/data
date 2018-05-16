@@ -1,0 +1,28 @@
+# Remove all observations of a indicator
+WITH <http://data.landportal.info> 
+DELETE
+{ ?obs ?p ?o }
+WHERE {
+?obs a qb:Observation ;
+    qb:dataSet ?dataset ;
+    cex:ref-indicator ?indicator ;
+    ?p ?o .
+VALUES ?dataset {<http://data.landportal.info/dataset/FAO-LU> } .
+VALUES ?indicator {<http://data.landportal.info/indicator/FAO-6716-5110> } .
+}
+
+######
+
+#Select all observations of a indicator
+
+SELECT DISTINCT ?obs ?p ?o
+FROM <http://data.landportal.info> 
+WHERE {
+    ?obs a qb:Observation ;
+         qb:dataSet ?dataset ;
+		 cex:ref-indicator ?indicator ;
+         ?p ?o .
+    VALUES ?dataset {<http://data.landportal.info/dataset/FAO-LU> } .
+	VALUES ?indicator {<http://data.landportal.info/indicator/FAO-6716-5110> } .
+
+}
