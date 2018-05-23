@@ -1,0 +1,29 @@
+PREFIX cex: <http://purl.org/weso/ontology/computex#> 
+PREFIX time: <http://www.w3.org/2006/time#> 
+PREFIX qb: <http://purl.org/linked-data/cube#> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX dct: <http://purl.org/dc/terms/> 
+PREFIX sdmx-attribute: <http://purl.org/linked-data/sdmx/2009/attribute#>  
+SELECT DISTINCT 
+?id 
+year(min(?dateTime)) AS ?minYear 
+year(max(?dateTime)) AS ?maxYear 
+COUNT(?obs) AS ?nObs 
+COUNT(DISTINCT(year(?dateTime))) AS ?nYears 
+COUNT(DISTINCT ?country) AS ?nCountryWithValue 
+min(?value) AS ?minValue max(?value) AS ?maxValue  
+FROM <http://data.landportal.info> 
+WHERE{ 
+?obs cex:ref-indicator ?indicatorURL  ; 
+cex:ref-area ?country ; 
+qb:dataSet ?dataset ;
+cex:value ?value; 
+cex:ref-time ?time . 
+
+?time time:hasBeginning ?timeValue . 
+
+?timeValue time:inXSDDateTime ?dateTime . 
+FILTER(?value != 'N/A'^^<http://www.w3.org/2001/XMLSchema#string>) 
+BIND (REPLACE(STR(?indicatorURL), 'http://data.landportal.info/indicator/','') AS ?id) 
+VALUES ?dataset {<http://data.landportal.info/dataset/FAO-LU>}
+}
