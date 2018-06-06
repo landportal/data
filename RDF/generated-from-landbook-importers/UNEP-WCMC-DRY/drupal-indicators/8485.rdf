@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/UNEP-WCMC-DRY.ARID">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_16112"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_8e487587"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6448"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-USE"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-ENVIR"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-PASTOR"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_16112"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_8e487587"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_6448"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-USE"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-ENVIR"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-PASTOR"/>
+    <dct:identifier>UNEP-WCMC-DRY.ARID</dct:identifier>
+    <skos:notation>UNEP-WCMC-DRY.ARID</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/UNEP-WCMC-DRY"/>
+    <sdmx-attribute:unitMeasure>Sq Km</sdmx-attribute:unitMeasure>
+    <rdfs:label>Drylands - Arid areas (0.06 - 0.20 P/PET)</rdfs:label>
+    <skos:prefLabel>Drylands - Arid areas (0.06 - 0.20 P/PET)</skos:prefLabel>
+    <dct:title>Drylands - Arid areas (0.06 - 0.20 P/PET)</dct:title>
+    <skos:definition>This indicator measures the total dryland area (in sq. km) that can be defined as arid, in a given country. Aridity zones were derived from an Aridity Index (AI) which is calculated as the ratio of precipitation to potential evapotranspiration (P/PET). Arid areas fall into the 0.06 - 0.20 P/PET interval.   The values of this indicator have been aggregated at the country level by ILRI, in collaboration with the ILC's Rangelands initiative, based on: UNEP-WCMC (2007): A spatial analysis approach to the global delineation of dryland areas of relevance to the CBD Programme of Work on Dry and Subhumid Lands. Dataset based on spatial analysis between WWF terrestrial ecoregions (WWF-US, 2004) and aridity zones (CRU/UEA; UNEPGRID, 1991). Dataset checked and refined to remove many gaps, overlaps and slivers (July 2014).</skos:definition>
+    <dct:description>This indicator measures the total dryland area (in sq. km) that can be defined as arid, in a given country. Aridity zones were derived from an Aridity Index (AI) which is calculated as the ratio of precipitation to potential evapotranspiration (P/PET). Arid areas fall into the 0.06 - 0.20 P/PET interval.   The values of this indicator have been aggregated at the country level by ILRI, in collaboration with the ILC's Rangelands initiative, based on: UNEP-WCMC (2007): A spatial analysis approach to the global delineation of dryland areas of relevance to the CBD Programme of Work on Dry and Subhumid Lands. Dataset based on spatial analysis between WWF terrestrial ecoregions (WWF-US, 2004) and aridity zones (CRU/UEA; UNEPGRID, 1991). Dataset checked and refined to remove many gaps, overlaps and slivers (July 2014).</dct:description>
+    <rdfs:comment>This indicator measures the total dryland area (in sq. km) that can be defined as arid, in a given country. Aridity zones were derived from an Aridity Index (AI) which is calculated as the ratio of precipitation to potential evapotranspiration (P/PET). Arid areas fall into the 0.06 - 0.20 P/PET interval.   The values of this indicator have been aggregated at the country level by ILRI, in collaboration with the ILC's Rangelands initiative, based on: UNEP-WCMC (2007): A spatial analysis approach to the global delineation of dryland areas of relevance to the CBD Programme of Work on Dry and Subhumid Lands. Dataset based on spatial analysis between WWF terrestrial ecoregions (WWF-US, 2004) and aridity zones (CRU/UEA; UNEPGRID, 1991). Dataset checked and refined to remove many gaps, overlaps and slivers (July 2014).</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/unep-wcmc-dryarid"/>
+  </rdf:Description>
+
+</rdf:RDF>
