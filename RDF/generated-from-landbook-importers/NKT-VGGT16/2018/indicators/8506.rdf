@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:schema="http://schema.org/"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/NKT-VGGT16-2G">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:identifier>NKT-VGGT16-2G</dct:identifier>
+    <skos:notation>NKT-VGGT16-2G</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/NKT-VGGT16"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INVEST"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INST"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-CONFLICT"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-LAW"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INVEST"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INST"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-CONFLICT"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-LAW"/>
+    <sdmx-attribute:unitMeasure>Index (A; C)</sdmx-attribute:unitMeasure>
+    <rdfs:label>Consultations with Affected Populations Prior to Expropriation</rdfs:label>
+    <skos:prefLabel>Consultations with Affected Populations Prior to Expropriation</skos:prefLabel>
+    <dct:title>Consultations with Affected Populations Prior to Expropriation</dct:title>
+    <skos:definition>This indicator is based on section 16.2 which calls for states to &amp;quot;ensure that the planning and process for expropriation are transparent and participatory. Anyone likely to be affected should be identified, and properly informed and consulted at all stages.&amp;quot; This indicator asks whether the government must consult affected landholders prior to expropriation.</skos:definition>
+    <dct:description>This indicator is based on section 16.2 which calls for states to &amp;quot;ensure that the planning and process for expropriation are transparent and participatory. Anyone likely to be affected should be identified, and properly informed and consulted at all stages.&amp;quot; This indicator asks whether the government must consult affected landholders prior to expropriation.</dct:description>
+    <rdfs:comment>This indicator is based on section 16.2 which calls for states to &amp;quot;ensure that the planning and process for expropriation are transparent and participatory. Anyone likely to be affected should be identified, and properly informed and consulted at all stages.&amp;quot; This indicator asks whether the government must consult affected landholders prior to expropriation.</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/nkt-vggt16-2g"/>
+  </rdf:Description>
+
+</rdf:RDF>

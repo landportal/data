@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:schema="http://schema.org/"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/NKT-VGGT16-2D2">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:identifier>NKT-VGGT16-2D2</dct:identifier>
+    <skos:notation>NKT-VGGT16-2D2</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/NKT-VGGT16"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INVEST"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INST"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-CONFLICT"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-LAW"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INVEST"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INST"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-CONFLICT"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-LAW"/>
+    <sdmx-attribute:unitMeasure>Index (A; C)</sdmx-attribute:unitMeasure>
+    <rdfs:label>Obligation to Conduct a Feasibility Study</rdfs:label>
+    <skos:prefLabel>Obligation to Conduct a Feasibility Study</skos:prefLabel>
+    <dct:title>Obligation to Conduct a Feasibility Study</dct:title>
+    <skos:definition>This indicator is based on section 16.1 which calls for states to acquire the &amp;quot;minimum resources&amp;quot; necessary. This indicator asks whether national laws impose an obligation on the government to conduct a feasibility study prior to expropriation.</skos:definition>
+    <dct:description>This indicator is based on section 16.1 which calls for states to acquire the &amp;quot;minimum resources&amp;quot; necessary. This indicator asks whether national laws impose an obligation on the government to conduct a feasibility study prior to expropriation.</dct:description>
+    <rdfs:comment>This indicator is based on section 16.1 which calls for states to acquire the &amp;quot;minimum resources&amp;quot; necessary. This indicator asks whether national laws impose an obligation on the government to conduct a feasibility study prior to expropriation.</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/nkt-vggt16-2d2"/>
+  </rdf:Description>
+
+</rdf:RDF>

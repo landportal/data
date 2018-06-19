@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/NKT-VGGT16-2A">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-LAW"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INVEST"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INST"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-CONFLICT"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-LAW"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INVEST"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INST"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-CONFLICT"/>
+    <dct:identifier>NKT-VGGT16-2A</dct:identifier>
+    <skos:notation>NKT-VGGT16-2A</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/NKT-VGGT16"/>
+    <sdmx-attribute:unitMeasure>Index (A; C)</sdmx-attribute:unitMeasure>
+    <rdfs:label>Social Impact Assessment Requirements</rdfs:label>
+    <skos:prefLabel>Social Impact Assessment Requirements</skos:prefLabel>
+    <dct:title>Social Impact Assessment Requirements</dct:title>
+    <skos:definition>This indicator is based on section 16.1 which provides that &amp;quot;States should be sensitive where proposed expropriations involve areas of particular cultural, religious or environmental significance, or where the land, fisheries and forests in question are particularly important to the livelihoods of the poor or vulnerable.&amp;quot; This indicator asks whether the national laws require the government or project developers to conduct a social impact assessment prior to expropriation.</skos:definition>
+    <dct:description>This indicator is based on section 16.1 which provides that &amp;quot;States should be sensitive where proposed expropriations involve areas of particular cultural, religious or environmental significance, or where the land, fisheries and forests in question are particularly important to the livelihoods of the poor or vulnerable.&amp;quot; This indicator asks whether the national laws require the government or project developers to conduct a social impact assessment prior to expropriation.</dct:description>
+    <rdfs:comment>This indicator is based on section 16.1 which provides that &amp;quot;States should be sensitive where proposed expropriations involve areas of particular cultural, religious or environmental significance, or where the land, fisheries and forests in question are particularly important to the livelihoods of the poor or vulnerable.&amp;quot; This indicator asks whether the national laws require the government or project developers to conduct a social impact assessment prior to expropriation.</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/nkt-vggt16-2a"/>
+  </rdf:Description>
+
+</rdf:RDF>
