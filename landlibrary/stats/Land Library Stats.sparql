@@ -9,17 +9,16 @@ WHERE {
 
 # Get the number of LLRs by country/region
 PREFIX bibo:<http://purl.org/ontology/bibo/>
-SELECT ?region_title  (COUNT(?llr) AS ?no_llr)
+SELECT STR(?area_title) as ?country  (COUNT(?llr) AS ?no_llr)
 FROM <http://library.landportal.info>
-FROM <http://regions.landportal.info>
+FROM <http://countries.landportal.info>
 WHERE {
     ?llr a bibo:Document ;
      dct:spatial ?area .
-?area dct:title ?region_title .
+?area dct:title ?area_title .
 }
-
-GROUP BY ?region_title
-ORDER BY ?region_title
+GROUP BY ?area_title
+ORDER BY ?area_title
 
 
 
@@ -75,3 +74,65 @@ WHERE {
     ?organizationTypeURI rdfs:label ?organizationType .
 }
 ORDER BY ?publisherName
+
+
+# Number of resources per resource type
+PREFIX bibo:<http://purl.org/ontology/bibo/>
+SELECT STR(?type) as ?type (COUNT(?llr) AS ?no_llr)
+FROM <http://library.landportal.info>
+WHERE {
+    ?llr a bibo:Document ;
+     dct:type ?type .
+FILTER (strStarts(str(?type),"https://landportal.org/library/resource-type/"))
+}
+
+GROUP BY ?type
+ORDER BY ?type
+
+
+# Get the list of names of distinct publishers AND the number of LLRs
+PREFIX bibo:<http://purl.org/ontology/bibo/>
+PREFIX schema:<http://schema.org/>
+SELECT DISTINCT ?publisherName COUNT (?llr) as ?count
+FROM <http://library.landportal.info>
+FROM <http://organizations.landportal.info>
+WHERE {
+   ?llr a bibo:Document ;
+       schema:publisher ?publisher .
+?publisher schema:name ?publisherName .
+}
+ORDER BY DESC (?count)
+
+
+# Organization type of publishers
+PREFIX bibo:<http://purl.org/ontology/bibo/>
+PREFIX schema:<http://schema.org/>
+SELECT ?organizationType (COUNT(?organizationType) AS ?num_organizations)
+FROM <http://library.landportal.info>
+FROM <http://organizations.landportal.info>
+FROM <http://organization-types.landportal.info>
+WHERE {
+    
+	{SELECT DISTINCT ?publisher 
+	    { ?llr a bibo:Document ;
+           schema:publisher ?publisher .}}
+	   
+    ?publisher dct:type ?organizationTypeURI .
+    ?organizationTypeURI rdfs:label ?organizationType .
+}
+GROUP BY ?organizationType
+ORDER BY DESC (?num_organizations)
+
+
+# Get the number of LLRs by language
+PREFIX bibo:<http://purl.org/ontology/bibo/>
+SELECT STR(?lang_label) as ?lang  (COUNT(?llr) AS ?num_llr)
+FROM <http://library.landportal.info>
+FROM <http://languages.landportal.info>
+WHERE {
+    ?llr a bibo:Document ;
+     dct:language ?lang .
+    ?lang rdfs:label ?lang_label
+}
+GROUP BY ?lang_label
+ORDER BY DESC (?num_llr)
