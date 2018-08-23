@@ -59,10 +59,10 @@ WHERE {
 }
 ORDER BY ?publisherName
 
-# Get the list of URI, names of distinct publishers of LLRs, the type of organization AND the number of LLRs of each publisher in the LOD
+# Get the list of names of distinct publishers of LLRs, the types of organization AND the number of LLRs of each publisher in the LOD
 PREFIX bibo:<http://purl.org/ontology/bibo/>
 PREFIX schema:<http://schema.org/>
-SELECT DISTINCT ?publisher ?publisherName ?organizationType COUNT (?llr) as ?numberOfLLRs
+SELECT DISTINCT STR(?publisherName) AS ?publisherName (GROUP_CONCAT(DISTINCT ?organizationType;separator=";") AS ?organizationTypes) COUNT (?llr) as ?numberOfLLRs
 FROM <http://library.landportal.info>
 FROM <http://organizations.landportal.info>
 FROM <http://organization-types.landportal.info>
@@ -73,7 +73,7 @@ WHERE {
     ?publisher dct:type ?organizationTypeURI .
     ?organizationTypeURI rdfs:label ?organizationType .
 }
-ORDER BY ?publisherName
+ORDER BY DESC (?numberOfLLRs)
 
 
 # Number of resources per resource type
