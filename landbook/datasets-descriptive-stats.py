@@ -2,7 +2,7 @@ from SPARQLWrapper import SPARQLWrapper, JSON
 from cmath import sqrt
 import datetime
 
-def statsReview(dataset):
+def statsReview(dataset, datasetLabel):
     date = now = datetime.datetime.now().strftime("%Y-%m-%d")
 
     sparql = SPARQLWrapper("https://landportal.org/sparql")
@@ -48,7 +48,7 @@ def statsReview(dataset):
 		# COUNT = Number of observations
 		# NUMBER YEARS = NUMBER OF YEARS WITH AT LEAST ONE VALUE
 		# NUMBER COUNTRIES = NUMBER OF COUNTRIES WITH AT LEAST ONE VALUE
-        print date + ";" + datasetID + ";" + minYear + ";" + maxYear + ";" + count + ";" + nYears + ";" + nCountryWithValue + ";"
+        print date + ";" + datasetID + ";" + datasetLabel + ";" + minYear + ";" + maxYear + ";" + count + ";" + nYears + ";" + nCountryWithValue + ";"
 
 
 def getDatasets():
@@ -58,10 +58,11 @@ def getDatasets():
     PREFIX cex: <http://purl.org/weso/ontology/computex#>
     PREFIX qb: <http://purl.org/linked-data/cube#>
 
-    SELECT DISTINCT ?dataset
+    SELECT DISTINCT ?dataset ?datasetLabel
     FROM <http://datasets.landportal.info>
     WHERE {
-       ?dataset a qb:DataSet .
+       ?dataset a qb:DataSet ;
+                rdfs:label ?datasetLabel .
     } ORDER BY ?dataset
     """
     sparql.setQuery(sparql_get_datasets)
@@ -70,7 +71,7 @@ def getDatasets():
     results = sparql.query().convert()
     datasets = []
     for result in results["results"]["bindings"]:
-        dataset = result["dataset"]["value"]
+        dataset = (result["dataset"]["value"], result["datasetLabel"]["value"])
         #print("-------------------------------------------------------")
         #print("dataset: " + dataset)
         datasets.append(dataset)
@@ -79,9 +80,9 @@ def getDatasets():
 
 # main	
 #header 
-print "date ; indicator ID; minYear ; maxYear; number observations ; number years ; total countries ;"
+print "date ; dataset ID; minYear ; maxYear; number observations ; number years ; total countries ;"
 
 datasets = getDatasets()
 
 for dataset in datasets :
-    statsReview(dataset)
+    statsReview(dataset[0], dataset[1])
