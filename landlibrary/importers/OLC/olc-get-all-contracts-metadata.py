@@ -1,7 +1,8 @@
 import urllib, json
 from sets import Set
 
-url = "http://api.resourcecontracts.org/contracts?category=olc&per_page=500"
+url = "http://api.resourcecontracts.org/contracts?category=olc&per_page=100"
+
 response = urllib.urlopen(url) 
 html=response.read() 
 data = json.loads(html)
@@ -23,7 +24,7 @@ print "**********************************"
 
 contracts=[]
 for rs in sorted(resultSet):
-	contract_metadata_url = "http://api.resourcecontracts.org/contracts/"+str(rs)+"/metadata"
+	contract_metadata_url = "http://api.resourcecontracts.org/contract/"+str(rs)+"/metadata"
 	response = urllib.urlopen(contract_metadata_url) 
 	html=response.read() 
 	data = json.loads(html)
