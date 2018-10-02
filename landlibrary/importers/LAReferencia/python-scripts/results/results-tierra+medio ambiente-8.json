@@ -1,0 +1,3157 @@
+[
+    {
+        "primaryAuthors": [
+            "Perin Bertoni, Fernando Celso"
+        ], 
+        "secondaryAuthors": [
+            "Raulin, Jean Pierre", 
+            "Rivero Gavil\u00e1n, Hern\u00e1n", 
+            "Kaufmann, Pierre", 
+            "Rodriguez, Rodolfo", 
+            "Clilverd, Mark", 
+            "Samanes C\u00e1rdenas, Jorge", 
+            "Fernandez, German Enzo Leonel"
+        ], 
+        "title": "Lower ionosphere monitoring by the South America VLF Network (SAVNET): C region occurrence and atmospheric temperature variability", 
+        "publicationDates": [
+            "2016"
+        ], 
+        "summary": [
+            "Daily profiles of phase measurements as observed on fixed VLF paths generally show a transient phase advance, followed by a phase delay, for about 90 min after sunrise hours. This is indicative of a reflecting ionospheric C region developing along the terminator line at an altitude below the normal D region. The suggested occurrence of a C region is consistent with rocket measurements made in the 1960s, showing a maximum of the electron density between 64 and 68 km, and by radio sounding in the 1980s. In order to correctly describe the properties of the phase effect associated with the presence of a C region, it is important to understand the subionospheric propagation characteristics of the VLF paths. In this paper, we analyze the variations presented by the temporal properties of the VLF narrowband phase effect and determined a parameter associated with the appearance of the C region at sunrise hours observed by receivers from the South America VLF Network. Periodic patterns emerge from the parameter curves. Two distinct temporal behavior regimes can be identified: one exhibiting slow variations between March and October, and another one exhibiting faster variations between October and March. Solar illumination conditions and the geometrical configuration of the VLF paths relative to the sunrise terminator partly explain the slow variation regime. During periods of faster variations, we have observed good association with atmospheric temperature variability found in the measurements of the Thermosphere Ionosphere Mesosphere Energetics and Dynamics and Sounding of the Atmosphere using Broadband Emission Radiometry satellite instrument, which we assume to be related to the winter anomaly atmospheric phenomenon. However, when comparing the parameter time series with temperature curves, no direct one-to-one correspondence was found for transient events."
+        ], 
+        "languages": [
+            "eng"
+        ], 
+        "subjects": [
+            [
+                "IONOSPHERE"
+            ], 
+            [
+                "VLF TECHNIQUE"
+            ], 
+            [
+                "SOLAR MONITORING"
+            ], 
+            [
+                "UPPER AND LOWER ATMOSPHERE INTERACTION"
+            ], 
+            [
+                "Meteorolog\u00eda y Ciencias Atmosf\u00e9ricas"
+            ], 
+            [
+                "Ciencias de la Tierra y relacionadas con el Medio Ambiente"
+            ], 
+            [
+                "CIENCIAS NATURALES Y EXACTAS"
+            ], 
+            [
+                "Ingenier\u00eda El\u00e9ctrica y Electr\u00f3nica"
+            ], 
+            [
+                "Ingenier\u00eda El\u00e9ctrica, Ingenier\u00eda Electr\u00f3nica e Ingenier\u00eda de la Informaci\u00f3n"
+            ], 
+            [
+                "INGENIER\u00cdAS Y TECNOLOG\u00cdAS"
+            ]
+        ], 
+        "rawData": {
+            "dc.creator.none.fl_str_mv": [
+                "Perin Bertoni, Fernando Celso", 
+                "Raulin, Jean Pierre", 
+                "Rivero Gavil\u00e1n, Hern\u00e1n", 
+                "Kaufmann, Pierre", 
+                "Rodriguez, Rodolfo", 
+                "Clilverd, Mark", 
+                "Samanes C\u00e1rdenas, Jorge", 
+                "Fernandez, German Enzo Leonel"
+            ], 
+            "dc.date.none.fl_str_mv": [
+                "2016-12-06"
+            ], 
+            "title_sort": "Lower ionosphere monitoring by the South America VLF Network (SAVNET): C region occurrence and atmospheric temperature variability", 
+            "dc.relation.none.fl_str_mv": [
+                "info:eu-repo/semantics/altIdentifier/url/http://onlinelibrary.wiley.com/doi/10.1002/jgra.50559/full", 
+                "info:eu-repo/semantics/altIdentifier/doi/http://dx.doi.org/10.1002/jgra.50559"
+            ], 
+            "publisher.none.fl_str_mv": [
+                "American Geophysical Union"
+            ], 
+            "topic": [
+                "IONOSPHERE", 
+                "VLF TECHNIQUE", 
+                "SOLAR MONITORING", 
+                "UPPER AND LOWER ATMOSPHERE INTERACTION", 
+                "Meteorolog\u00eda y Ciencias Atmosf\u00e9ricas", 
+                "Ciencias de la Tierra y relacionadas con el Medio Ambiente", 
+                "CIENCIAS NATURALES Y EXACTAS", 
+                "Ingenier\u00eda El\u00e9ctrica y Electr\u00f3nica", 
+                "Ingenier\u00eda El\u00e9ctrica, Ingenier\u00eda Electr\u00f3nica e Ingenier\u00eda de la Informaci\u00f3n", 
+                "INGENIER\u00cdAS Y TECNOLOG\u00cdAS"
+            ], 
+            "dc.description.none.fl_txt_mv": [
+                "Daily profiles of phase measurements as observed on fixed VLF paths generally show a transient phase advance, followed by a phase delay, for about 90 min after sunrise hours. This is indicative of a reflecting ionospheric C region developing along the terminator line at an altitude below the normal D region. The suggested occurrence of a C region is consistent with rocket measurements made in the 1960s, showing a maximum of the electron density between 64 and 68 km, and by radio sounding in the 1980s. In order to correctly describe the properties of the phase effect associated with the presence of a C region, it is important to understand the subionospheric propagation characteristics of the VLF paths. In this paper, we analyze the variations presented by the temporal properties of the VLF narrowband phase effect and determined a parameter associated with the appearance of the C region at sunrise hours observed by receivers from the South America VLF Network. Periodic patterns emerge from the parameter curves. Two distinct temporal behavior regimes can be identified: one exhibiting slow variations between March and October, and another one exhibiting faster variations between October and March. Solar illumination conditions and the geometrical configuration of the VLF paths relative to the sunrise terminator partly explain the slow variation regime. During periods of faster variations, we have observed good association with atmospheric temperature variability found in the measurements of the Thermosphere Ionosphere Mesosphere Energetics and Dynamics and Sounding of the Atmosphere using Broadband Emission Radiometry satellite instrument, which we assume to be related to the winter anomaly atmospheric phenomenon. However, when comparing the parameter time series with temperature curves, no direct one-to-one correspondence was found for transient events.", 
+                "Fil: Perin Bertoni, Fernando Celso. Universidade Presbiteriana Mackenzie. Escola de Engenharia. Centro de Radio Astronomia E Astrofisica; Brasil", 
+                "Fil: Raulin, Jean Pierre. Universidade Presbiteriana Mackenzie. Escola de Engenharia. Centro de Radio Astronomia E Astrofisica; Brasil", 
+                "Fil: Rivero Gavil\u00e1n, Hern\u00e1n. Universidade Presbiteriana Mackenzie. Escola de Engenharia. Centro de Radio Astronomia E Astrofisica; Brasil. Minist\u00e9rio da Ci\u00eancia e Tecnologia. Instituto Nacional de Pesquisas Espaciais; Brasil", 
+                "Fil: Kaufmann, Pierre. Universidade Presbiteriana Mackenzie. Escola de Engenharia. Centro de Radio Astronomia E Astrofisica; Brasil", 
+                "Fil: Rodriguez, Rodolfo. Universidad de Piura; Per\u00fa", 
+                "Fil: Clilverd, Mark. University Of Cambridge; Reino Unido", 
+                "Fil: Samanes C\u00e1rdenas, Jorge. Universidade Presbiteriana Mackenzie. Escola de Engenharia. Centro de Radio Astronomia E Astrofisica; Brasil", 
+                "Fil: Fernandez, German Enzo Leonel. Consejo Nacional de Investigaciones Cient\u00ed\u00e2\u00adficas y T\u00e9cnicas. Centro Cient\u00ed\u00e2\u00adfico Tecnol\u00f3gico San Juan. Complejo Astron\u00f3mico \"el Leoncito\"; Argentina"
+            ], 
+            "url": [
+                "http://hdl.handle.net/11336/8922"
+            ], 
+            "author2": [
+                "Raulin, Jean Pierre", 
+                "Rivero Gavil\u00e1n, Hern\u00e1n", 
+                "Kaufmann, Pierre", 
+                "Rodriguez, Rodolfo", 
+                "Clilverd, Mark", 
+                "Samanes C\u00e1rdenas, Jorge", 
+                "Fernandez, German Enzo Leonel"
+            ], 
+            "title_full_unstemmed": "Lower ionosphere monitoring by the South America VLF Network (SAVNET): C region occurrence and atmospheric temperature variability", 
+            "id": "AR_900cd90984f14c563ede2ff89dbd1d4a", 
+            "status_str": "publishedVersion", 
+            "author": [
+                "Perin Bertoni, Fernando Celso"
+            ], 
+            "spellingShingle": [
+                "Lower ionosphere monitoring by the South America VLF Network (SAVNET): C region occurrence and atmospheric temperature variability", 
+                "Perin Bertoni, Fernando Celso", 
+                "IONOSPHERE", 
+                "VLF TECHNIQUE", 
+                "SOLAR MONITORING", 
+                "UPPER AND LOWER ATMOSPHERE INTERACTION", 
+                "Meteorolog\u00eda y Ciencias Atmosf\u00e9ricas", 
+                "Ciencias de la Tierra y relacionadas con el Medio Ambiente", 
+                "CIENCIAS NATURALES Y EXACTAS", 
+                "Ingenier\u00eda El\u00e9ctrica y Electr\u00f3nica", 
+                "Ingenier\u00eda El\u00e9ctrica, Ingenier\u00eda Electr\u00f3nica e Ingenier\u00eda de la Informaci\u00f3n", 
+                "INGENIER\u00cdAS Y TECNOLOG\u00cdAS"
+            ], 
+            "score": 1211.6094, 
+            "repository.mail.fl_str_mv": [
+                "mail@mail.com"
+            ], 
+            "dc.publisher.none.fl_str_mv": [
+                "American Geophysical Union"
+            ], 
+            "dc.type.none.fl_str_mv": [
+                "info:eu-repo/semantics/article", 
+                "info:ar-repo/semantics/art\u00edculo", 
+                "info:eu-repo/semantics/publishedVersion"
+            ], 
+            "repository.name.fl_str_mv": [
+                "\n\t\t\t-\n\t\t\t"
+            ], 
+            "description": "Daily profiles of phase measurements as observed on fixed VLF paths generally show a transient phase advance, followed by a phase delay, for about 90 min after sunrise hours. This is indicative of a reflecting ionospheric C region developing along the terminator line at an altitude below the normal D region. The suggested occurrence of a C region is consistent with rocket measurements made in the 1960s, showing a maximum of the electron density between 64 and 68 km, and by radio sounding in the 1980s. In order to correctly describe the properties of the phase effect associated with the presence of a C region, it is important to understand the subionospheric propagation characteristics of the VLF paths. In this paper, we analyze the variations presented by the temporal properties of the VLF narrowband phase effect and determined a parameter associated with the appearance of the C region at sunrise hours observed by receivers from the South America VLF Network. Periodic patterns emerge from the parameter curves. Two distinct temporal behavior regimes can be identified: one exhibiting slow variations between March and October, and another one exhibiting faster variations between October and March. Solar illumination conditions and the geometrical configuration of the VLF paths relative to the sunrise terminator partly explain the slow variation regime. During periods of faster variations, we have observed good association with atmospheric temperature variability found in the measurements of the Thermosphere Ionosphere Mesosphere Energetics and Dynamics and Sounding of the Atmosphere using Broadband Emission Radiometry satellite instrument, which we assume to be related to the winter anomaly atmospheric phenomenon. However, when comparing the parameter time series with temperature curves, no direct one-to-one correspondence was found for transient events.", 
+            "format": [
+                "article"
+            ], 
+            "network_name_str": "Argentina", 
+            "publishDate": [
+                "2016"
+            ], 
+            "network_acronym_str": "AR", 
+            "dc.format.none.fl_str_mv": [
+                "application/pdf", 
+                "application/pdf"
+            ], 
+            "eu_rights_str_mv": [
+                "openAccess"
+            ], 
+            "_version_": 1607631557618565120, 
+            "oai_identifier_str": "dd367aee-5972-4301-a636-b1afdaffeb98/oai:ri.conicet.gov.ar:11336/8922", 
+            "rights_invalid_str_mv": [
+                "https://creativecommons.org/licenses/by-nc-sa/2.5/ar/"
+            ], 
+            "dc.title.none.fl_str_mv": [
+                "Lower ionosphere monitoring by the South America VLF Network (SAVNET): C region occurrence and atmospheric temperature variability"
+            ], 
+            "dc.identifier.none.fl_str_mv": [
+                "http://hdl.handle.net/11336/8922"
+            ], 
+            "title_short": "Lower ionosphere monitoring by the South America VLF Network (SAVNET): C region occurrence and atmospheric temperature variability", 
+            "language": [
+                "eng"
+            ], 
+            "dc.subject.none.fl_str_mv": [
+                "IONOSPHERE", 
+                "VLF TECHNIQUE", 
+                "SOLAR MONITORING", 
+                "UPPER AND LOWER ATMOSPHERE INTERACTION", 
+                "Meteorolog\u00eda y Ciencias Atmosf\u00e9ricas", 
+                "Ciencias de la Tierra y relacionadas con el Medio Ambiente", 
+                "CIENCIAS NATURALES Y EXACTAS", 
+                "Ingenier\u00eda El\u00e9ctrica y Electr\u00f3nica", 
+                "Ingenier\u00eda El\u00e9ctrica, Ingenier\u00eda Electr\u00f3nica e Ingenier\u00eda de la Informaci\u00f3n", 
+                "INGENIER\u00cdAS Y TECNOLOG\u00cdAS"
+            ], 
+            "title": "Lower ionosphere monitoring by the South America VLF Network (SAVNET): C region occurrence and atmospheric temperature variability", 
+            "dc.rights.none.fl_str_mv": [
+                "info:eu-repo/semantics/openAccess", 
+                "https://creativecommons.org/licenses/by-nc-sa/2.5/ar/"
+            ], 
+            "title_full": "Lower ionosphere monitoring by the South America VLF Network (SAVNET): C region occurrence and atmospheric temperature variability", 
+            "dc.language.*.fl_str_mv": [
+                "eng"
+            ], 
+            "author_facet": [
+                "Perin Bertoni, Fernando Celso", 
+                "Raulin, Jean Pierre", 
+                "Rivero Gavil\u00e1n, Hern\u00e1n", 
+                "Kaufmann, Pierre", 
+                "Rodriguez, Rodolfo", 
+                "Clilverd, Mark", 
+                "Samanes C\u00e1rdenas, Jorge", 
+                "Fernandez, German Enzo Leonel"
+            ], 
+            "title_fullStr": "Lower ionosphere monitoring by the South America VLF Network (SAVNET): C region occurrence and atmospheric temperature variability"
+        }, 
+        "urls": [
+            {
+                "url": "http://hdl.handle.net/11336/8922", 
+                "desc": "http://hdl.handle.net/11336/8922"
+            }
+        ], 
+        "formats": [
+            "article"
+        ], 
+        "id": "AR_900cd90984f14c563ede2ff89dbd1d4a"
+    }, 
+    {
+        "primaryAuthors": [
+            "Tagliaferro, Marina Beatriz"
+        ], 
+        "secondaryAuthors": [
+            "Quiroga, Anal\u00eda", 
+            "Pascual, Miguel Alberto"
+        ], 
+        "title": "Spatial pattern and habitat requirements of Galaxias maculatus in the last un-interrupted large river of Patagonia: a baseline for management", 
+        "publicationDates": [
+            "2017"
+        ], 
+        "summary": [
+            "The relationship between the native Galaxias maculatus and environmental variables was studied in 52 sites located along 306 km of the main stemof the Santa Cruz River, the second largest river in Argentinean Patagonia. The abundance varied along the river, with three general sections clearly defined: upstream with minimum abundance increasing towards midstream and downstream areas. Distance to the sea and river wet width which were negatively significantly associated with abundance,and maximum depth explained the abundance in a polynomial shape - achieving a total explanation of 41.1%. The best predictive model also combined the river sinuosity. Our results suggested that the construction of two proposed hydroelectric dams will modify these variables, which might generate changes in G. maculatus distribution. The information obtainedduring the present study represents valuable information for conservation management of this species."
+        ], 
+        "languages": [
+            "eng"
+        ], 
+        "subjects": [
+            [
+                "habitat"
+            ], 
+            [
+                "Galaxiids"
+            ], 
+            [
+                "large river"
+            ], 
+            [
+                "patagonia"
+            ], 
+            [
+                "GLM"
+            ], 
+            [
+                "dams"
+            ], 
+            [
+                "Oceanograf\u00eda, Hidrolog\u00eda, Recursos H\u00eddricos"
+            ], 
+            [
+                "Ciencias de la Tierra y relacionadas con el Medio Ambiente"
+            ], 
+            [
+                "CIENCIAS NATURALES Y EXACTAS"
+            ], 
+            [
+                "Conservaci\u00f3n de la Biodiversidad"
+            ], 
+            [
+                "Ciencias Biol\u00f3gicas"
+            ], 
+            [
+                "Ecolog\u00eda"
+            ]
+        ], 
+        "rawData": {
+            "dc.creator.none.fl_str_mv": [
+                "Tagliaferro, Marina Beatriz", 
+                "Quiroga, Anal\u00eda", 
+                "Pascual, Miguel Alberto"
+            ], 
+            "dc.date.none.fl_str_mv": [
+                "2017-05-31"
+            ], 
+            "title_sort": "Spatial pattern and habitat requirements of Galaxias maculatus in the last un-interrupted large river of Patagonia: a baseline for management", 
+            "dc.relation.none.fl_str_mv": [
+                "info:eu-repo/semantics/altIdentifier/url/http://dx.doi.org/10.5539/enrr.v4n1p54", 
+                "info:eu-repo/semantics/altIdentifier/url/http://www.ccsenet.org/journal/index.php/enrr/article/view/32988"
+            ], 
+            "publisher.none.fl_str_mv": [
+                "Canadian Center of Science and Education"
+            ], 
+            "topic": [
+                "habitat", 
+                "Galaxiids", 
+                "large river", 
+                "patagonia", 
+                "GLM", 
+                "dams", 
+                "Oceanograf\u00eda, Hidrolog\u00eda, Recursos H\u00eddricos", 
+                "Ciencias de la Tierra y relacionadas con el Medio Ambiente", 
+                "CIENCIAS NATURALES Y EXACTAS", 
+                "Conservaci\u00f3n de la Biodiversidad", 
+                "Ciencias Biol\u00f3gicas", 
+                "CIENCIAS NATURALES Y EXACTAS", 
+                "Ecolog\u00eda", 
+                "Ciencias Biol\u00f3gicas", 
+                "CIENCIAS NATURALES Y EXACTAS"
+            ], 
+            "dc.description.none.fl_txt_mv": [
+                "The relationship between the native Galaxias maculatus and environmental variables was studied in 52 sites located along 306 km of the main stemof the Santa Cruz River, the second largest river in Argentinean Patagonia. The abundance varied along the river, with three general sections clearly defined: upstream with minimum abundance increasing towards midstream and downstream areas. Distance to the sea and river wet width which were negatively significantly associated with abundance,and maximum depth explained the abundance in a polynomial shape - achieving a total explanation of 41.1%. The best predictive model also combined the river sinuosity. Our results suggested that the construction of two proposed hydroelectric dams will modify these variables, which might generate changes in G. maculatus distribution. The information obtainedduring the present study represents valuable information for conservation management of this species.", 
+                "Fil: Tagliaferro, Marina Beatriz. Consejo Nacional de Investigaciones Cient\u00edficas y T\u00e9cnicas. Centro Nacional Patag\u00f3nico; Argentina", 
+                "Fil: Quiroga, Anal\u00eda. Consejo Nacional de Investigaciones Cient\u00edficas y T\u00e9cnicas. Centro Nacional Patag\u00f3nico; Argentina", 
+                "Fil: Pascual, Miguel Alberto. Consejo Nacional de Investigaciones Cient\u00edficas y T\u00e9cnicas. Centro Nacional Patag\u00f3nico; Argentina"
+            ], 
+            "url": [
+                "http://hdl.handle.net/11336/17217"
+            ], 
+            "author2": [
+                "Quiroga, Anal\u00eda", 
+                "Pascual, Miguel Alberto"
+            ], 
+            "title_full_unstemmed": "Spatial pattern and habitat requirements of Galaxias maculatus in the last un-interrupted large river of Patagonia: a baseline for management", 
+            "id": "AR_db5599cd32ebc586ba6ad846fa2c8440", 
+            "status_str": "publishedVersion", 
+            "author": [
+                "Tagliaferro, Marina Beatriz"
+            ], 
+            "spellingShingle": [
+                "Spatial pattern and habitat requirements of Galaxias maculatus in the last un-interrupted large river of Patagonia: a baseline for management", 
+                "Tagliaferro, Marina Beatriz", 
+                "habitat", 
+                "Galaxiids", 
+                "large river", 
+                "patagonia", 
+                "GLM", 
+                "dams", 
+                "Oceanograf\u00eda, Hidrolog\u00eda, Recursos H\u00eddricos", 
+                "Ciencias de la Tierra y relacionadas con el Medio Ambiente", 
+                "CIENCIAS NATURALES Y EXACTAS", 
+                "Conservaci\u00f3n de la Biodiversidad", 
+                "Ciencias Biol\u00f3gicas", 
+                "CIENCIAS NATURALES Y EXACTAS", 
+                "Ecolog\u00eda", 
+                "Ciencias Biol\u00f3gicas", 
+                "CIENCIAS NATURALES Y EXACTAS"
+            ], 
+            "score": 1211.6094, 
+            "repository.mail.fl_str_mv": [
+                "mail@mail.com"
+            ], 
+            "dc.publisher.none.fl_str_mv": [
+                "Canadian Center of Science and Education"
+            ], 
+            "dc.type.none.fl_str_mv": [
+                "info:eu-repo/semantics/article", 
+                "info:ar-repo/semantics/art\u00edculo", 
+                "info:eu-repo/semantics/publishedVersion"
+            ], 
+            "repository.name.fl_str_mv": [
+                "\n\t\t\t-\n\t\t\t"
+            ], 
+            "description": "The relationship between the native Galaxias maculatus and environmental variables was studied in 52 sites located along 306 km of the main stemof the Santa Cruz River, the second largest river in Argentinean Patagonia. The abundance varied along the river, with three general sections clearly defined: upstream with minimum abundance increasing towards midstream and downstream areas. Distance to the sea and river wet width which were negatively significantly associated with abundance,and maximum depth explained the abundance in a polynomial shape - achieving a total explanation of 41.1%. The best predictive model also combined the river sinuosity. Our results suggested that the construction of two proposed hydroelectric dams will modify these variables, which might generate changes in G. maculatus distribution. The information obtainedduring the present study represents valuable information for conservation management of this species.", 
+            "format": [
+                "article"
+            ], 
+            "network_name_str": "Argentina", 
+            "publishDate": [
+                "2017"
+            ], 
+            "network_acronym_str": "AR", 
+            "dc.format.none.fl_str_mv": [
+                "application/pdf", 
+                "application/pdf", 
+                "application/pdf", 
+                "application/pdf"
+            ], 
+            "eu_rights_str_mv": [
+                "openAccess"
+            ], 
+            "_version_": 1607631486353145856, 
+            "oai_identifier_str": "dd367aee-5972-4301-a636-b1afdaffeb98/oai:ri.conicet.gov.ar:11336/17217", 
+            "rights_invalid_str_mv": [
+                "https://creativecommons.org/licenses/by-nc-sa/2.5/ar/"
+            ], 
+            "dc.title.none.fl_str_mv": [
+                "Spatial pattern and habitat requirements of Galaxias maculatus in the last un-interrupted large river of Patagonia: a baseline for management"
+            ], 
+            "dc.identifier.none.fl_str_mv": [
+                "http://hdl.handle.net/11336/17217"
+            ], 
+            "title_short": "Spatial pattern and habitat requirements of Galaxias maculatus in the last un-interrupted large river of Patagonia: a baseline for management", 
+            "language": [
+                "eng"
+            ], 
+            "dc.subject.none.fl_str_mv": [
+                "habitat", 
+                "Galaxiids", 
+                "large river", 
+                "patagonia", 
+                "GLM", 
+                "dams", 
+                "Oceanograf\u00eda, Hidrolog\u00eda, Recursos H\u00eddricos", 
+                "Ciencias de la Tierra y relacionadas con el Medio Ambiente", 
+                "CIENCIAS NATURALES Y EXACTAS", 
+                "Conservaci\u00f3n de la Biodiversidad", 
+                "Ciencias Biol\u00f3gicas", 
+                "CIENCIAS NATURALES Y EXACTAS", 
+                "Ecolog\u00eda", 
+                "Ciencias Biol\u00f3gicas", 
+                "CIENCIAS NATURALES Y EXACTAS"
+            ], 
+            "title": "Spatial pattern and habitat requirements of Galaxias maculatus in the last un-interrupted large river of Patagonia: a baseline for management", 
+            "dc.rights.none.fl_str_mv": [
+                "info:eu-repo/semantics/openAccess", 
+                "https://creativecommons.org/licenses/by-nc-sa/2.5/ar/"
+            ], 
+            "title_full": "Spatial pattern and habitat requirements of Galaxias maculatus in the last un-interrupted large river of Patagonia: a baseline for management", 
+            "dc.language.*.fl_str_mv": [
+                "eng"
+            ], 
+            "author_facet": [
+                "Tagliaferro, Marina Beatriz", 
+                "Quiroga, Anal\u00eda", 
+                "Pascual, Miguel Alberto"
+            ], 
+            "title_fullStr": "Spatial pattern and habitat requirements of Galaxias maculatus in the last un-interrupted large river of Patagonia: a baseline for management"
+        }, 
+        "urls": [
+            {
+                "url": "http://hdl.handle.net/11336/17217", 
+                "desc": "http://hdl.handle.net/11336/17217"
+            }
+        ], 
+        "formats": [
+            "article"
+        ], 
+        "id": "AR_db5599cd32ebc586ba6ad846fa2c8440"
+    }, 
+    {
+        "primaryAuthors": [
+            "Koenig, Zo\u00e9"
+        ], 
+        "secondaryAuthors": [
+            "Provost, Christine", 
+            "Park, Young Hyang", 
+            "Ferrari, Ramiro", 
+            "Sennechael, Nathalie"
+        ], 
+        "title": "Anatomy of the Antarctic Circumpolar Current volume transports through Drake Passage", 
+        "publicationDates": [
+            "2017"
+        ], 
+        "summary": [
+            "The 20 year (October 1992 to August 2013) observation-based volume transport time series of the Antarctic Circumpolar Current (ACC) through Drake Passage (DP) across the Jason altimeter track #104 is analyzed to better understand the ACC transport variability and its potential causes. The time series of three transport components (total (TT), barotropic (BT), and baroclinic (BC)) referenced to 3000 m present energetic intraseasonal fluctuations, with a salient spectral peak at 50 and 36 days, with the largest (least) variance being associated with the BT (BC) component. Low-frequency variations are much less energetic with a significant variance limited to the annual and biannual timescales and show a nonstationary intermittent link with the Southern Annular Mode and the Nino 3.4 index for interannual timescales. The region around 57\u00b0S in the Yaghan Basin appears to be a strategic point for a practical monitoring of the ACC transport, as the whole-track TT is significantly correlated with the local TT (r\u2009=\u20090.53) and BT (r\u2009=\u20090.69) around 57\u00b0S. These local BT (and TT) variations are associated with a well-defined tripole pattern in altimetric sea level anomaly (SLA). There is evidence that the tripole pattern associated with BT is locally generated when the BC-associated mesoscale SLAs, which have propagated eastward from an upstream area of DP, cross the Shackleton Fracture Zone to penetrate into the Yaghan Basin. Barotropic basin modes excited within the Yaghan Basin are discussed as a plausible mechanism for the observed energy-containing intraseasonal spectral peaks found in the transport variability."
+        ], 
+        "languages": [
+            "eng"
+        ], 
+        "subjects": [
+            [
+                "ACC transports in Drake Passage: energetic intraseasonal fluctuations"
+            ], 
+            [
+                "Different SLA signature for barotropic and baroclinic component"
+            ], 
+            [
+                "Barotropic Basin Modes in the Yaghan Basin"
+            ], 
+            [
+                "Oceanograf\u00eda, Hidrolog\u00eda, Recursos H\u00eddricos"
+            ], 
+            [
+                "Ciencias de la Tierra y relacionadas con el Medio Ambiente"
+            ], 
+            [
+                "CIENCIAS NATURALES Y EXACTAS"
+            ]
+        ], 
+        "rawData": {
+            "dc.creator.none.fl_str_mv": [
+                "Koenig, Zo\u00e9", 
+                "Provost, Christine", 
+                "Park, Young Hyang", 
+                "Ferrari, Ramiro", 
+                "Sennechael, Nathalie"
+            ], 
+            "dc.date.none.fl_str_mv": [
+                "2017-06-08"
+            ], 
+            "title_sort": "Anatomy of the Antarctic Circumpolar Current volume transports through Drake Passage", 
+            "dc.relation.none.fl_str_mv": [
+                "info:eu-repo/semantics/altIdentifier/doi/http://dx.doi.org/10.1002/2015JC011436", 
+                "info:eu-repo/semantics/altIdentifier/url/http://onlinelibrary.wiley.com/doi/10.1002/2015JC011436/abstract"
+            ], 
+            "publisher.none.fl_str_mv": [
+                "American Geophysical Union"
+            ], 
+            "topic": [
+                "ACC transports in Drake Passage: energetic intraseasonal fluctuations", 
+                "Different SLA signature for barotropic and baroclinic component", 
+                "Barotropic Basin Modes in the Yaghan Basin", 
+                "Oceanograf\u00eda, Hidrolog\u00eda, Recursos H\u00eddricos", 
+                "Ciencias de la Tierra y relacionadas con el Medio Ambiente", 
+                "CIENCIAS NATURALES Y EXACTAS"
+            ], 
+            "dc.description.none.fl_txt_mv": [
+                "The 20 year (October 1992 to August 2013) observation-based volume transport time series of the Antarctic Circumpolar Current (ACC) through Drake Passage (DP) across the Jason altimeter track #104 is analyzed to better understand the ACC transport variability and its potential causes. The time series of three transport components (total (TT), barotropic (BT), and baroclinic (BC)) referenced to 3000 m present energetic intraseasonal fluctuations, with a salient spectral peak at 50 and 36 days, with the largest (least) variance being associated with the BT (BC) component. Low-frequency variations are much less energetic with a significant variance limited to the annual and biannual timescales and show a nonstationary intermittent link with the Southern Annular Mode and the Nino 3.4 index for interannual timescales. The region around 57\u00b0S in the Yaghan Basin appears to be a strategic point for a practical monitoring of the ACC transport, as the whole-track TT is significantly correlated with the local TT (r\u2009=\u20090.53) and BT (r\u2009=\u20090.69) around 57\u00b0S. These local BT (and TT) variations are associated with a well-defined tripole pattern in altimetric sea level anomaly (SLA). There is evidence that the tripole pattern associated with BT is locally generated when the BC-associated mesoscale SLAs, which have propagated eastward from an upstream area of DP, cross the Shackleton Fracture Zone to penetrate into the Yaghan Basin. Barotropic basin modes excited within the Yaghan Basin are discussed as a plausible mechanism for the observed energy-containing intraseasonal spectral peaks found in the transport variability.", 
+                "Fil: Koenig, Zo\u00e9. Universite de Paris Vi; Francia", 
+                "Fil: Provost, Christine. Universite de Paris Vi; Francia", 
+                "Fil: Park, Young Hyang. Universite de Paris Vi; Francia", 
+                "Fil: Ferrari, Ramiro. Consejo Nacional de Investigaciones Cient\u00edficas y T\u00e9cnicas. Oficina de Coordinaci\u00f3n Administrativa Ciudad Universitaria. Centro de Investigaciones del Mar y la Atmosfera. Universidad de Buenos Aires. Facultad de Ciencias Exactas y Naturales. Centro de Investigaciones del Mar y la Atmosfera; Argentina", 
+                "Fil: Sennechael, Nathalie. Universite de Paris Vi; Francia"
+            ], 
+            "url": [
+                "http://hdl.handle.net/11336/17820"
+            ], 
+            "author2": [
+                "Provost, Christine", 
+                "Park, Young Hyang", 
+                "Ferrari, Ramiro", 
+                "Sennechael, Nathalie"
+            ], 
+            "title_full_unstemmed": "Anatomy of the Antarctic Circumpolar Current volume transports through Drake Passage", 
+            "id": "AR_e474ec529759f803113b3afcbe44c209", 
+            "status_str": "publishedVersion", 
+            "author": [
+                "Koenig, Zo\u00e9"
+            ], 
+            "spellingShingle": [
+                "Anatomy of the Antarctic Circumpolar Current volume transports through Drake Passage", 
+                "Koenig, Zo\u00e9", 
+                "ACC transports in Drake Passage: energetic intraseasonal fluctuations", 
+                "Different SLA signature for barotropic and baroclinic component", 
+                "Barotropic Basin Modes in the Yaghan Basin", 
+                "Oceanograf\u00eda, Hidrolog\u00eda, Recursos H\u00eddricos", 
+                "Ciencias de la Tierra y relacionadas con el Medio Ambiente", 
+                "CIENCIAS NATURALES Y EXACTAS"
+            ], 
+            "score": 1211.6094, 
+            "repository.mail.fl_str_mv": [
+                "mail@mail.com"
+            ], 
+            "dc.publisher.none.fl_str_mv": [
+                "American Geophysical Union"
+            ], 
+            "dc.type.none.fl_str_mv": [
+                "info:eu-repo/semantics/article", 
+                "info:ar-repo/semantics/art\u00edculo", 
+                "info:eu-repo/semantics/publishedVersion"
+            ], 
+            "repository.name.fl_str_mv": [
+                "\n\t\t\t-\n\t\t\t"
+            ], 
+            "description": "The 20 year (October 1992 to August 2013) observation-based volume transport time series of the Antarctic Circumpolar Current (ACC) through Drake Passage (DP) across the Jason altimeter track #104 is analyzed to better understand the ACC transport variability and its potential causes. The time series of three transport components (total (TT), barotropic (BT), and baroclinic (BC)) referenced to 3000 m present energetic intraseasonal fluctuations, with a salient spectral peak at 50 and 36 days, with the largest (least) variance being associated with the BT (BC) component. Low-frequency variations are much less energetic with a significant variance limited to the annual and biannual timescales and show a nonstationary intermittent link with the Southern Annular Mode and the Nino 3.4 index for interannual timescales. The region around 57\u00b0S in the Yaghan Basin appears to be a strategic point for a practical monitoring of the ACC transport, as the whole-track TT is significantly correlated with the local TT (r\u2009=\u20090.53) and BT (r\u2009=\u20090.69) around 57\u00b0S. These local BT (and TT) variations are associated with a well-defined tripole pattern in altimetric sea level anomaly (SLA). There is evidence that the tripole pattern associated with BT is locally generated when the BC-associated mesoscale SLAs, which have propagated eastward from an upstream area of DP, cross the Shackleton Fracture Zone to penetrate into the Yaghan Basin. Barotropic basin modes excited within the Yaghan Basin are discussed as a plausible mechanism for the observed energy-containing intraseasonal spectral peaks found in the transport variability.", 
+            "format": [
+                "article"
+            ], 
+            "network_name_str": "Argentina", 
+            "publishDate": [
+                "2017"
+            ], 
+            "network_acronym_str": "AR", 
+            "dc.format.none.fl_str_mv": [
+                "application/pdf", 
+                "application/pdf"
+            ], 
+            "eu_rights_str_mv": [
+                "openAccess"
+            ], 
+            "_version_": 1607631487286378496, 
+            "oai_identifier_str": "dd367aee-5972-4301-a636-b1afdaffeb98/oai:ri.conicet.gov.ar:11336/17820", 
+            "rights_invalid_str_mv": [
+                "https://creativecommons.org/licenses/by-nc-sa/2.5/ar/"
+            ], 
+            "dc.title.none.fl_str_mv": [
+                "Anatomy of the Antarctic Circumpolar Current volume transports through Drake Passage"
+            ], 
+            "dc.identifier.none.fl_str_mv": [
+                "http://hdl.handle.net/11336/17820"
+            ], 
+            "title_short": "Anatomy of the Antarctic Circumpolar Current volume transports through Drake Passage", 
+            "language": [
+                "eng"
+            ], 
+            "dc.subject.none.fl_str_mv": [
+                "ACC transports in Drake Passage: energetic intraseasonal fluctuations", 
+                "Different SLA signature for barotropic and baroclinic component", 
+                "Barotropic Basin Modes in the Yaghan Basin", 
+                "Oceanograf\u00eda, Hidrolog\u00eda, Recursos H\u00eddricos", 
+                "Ciencias de la Tierra y relacionadas con el Medio Ambiente", 
+                "CIENCIAS NATURALES Y EXACTAS"
+            ], 
+            "title": "Anatomy of the Antarctic Circumpolar Current volume transports through Drake Passage", 
+            "dc.rights.none.fl_str_mv": [
+                "info:eu-repo/semantics/openAccess", 
+                "https://creativecommons.org/licenses/by-nc-sa/2.5/ar/"
+            ], 
+            "title_full": "Anatomy of the Antarctic Circumpolar Current volume transports through Drake Passage", 
+            "dc.language.*.fl_str_mv": [
+                "eng"
+            ], 
+            "author_facet": [
+                "Koenig, Zo\u00e9", 
+                "Provost, Christine", 
+                "Park, Young Hyang", 
+                "Ferrari, Ramiro", 
+                "Sennechael, Nathalie"
+            ], 
+            "title_fullStr": "Anatomy of the Antarctic Circumpolar Current volume transports through Drake Passage"
+        }, 
+        "urls": [
+            {
+                "url": "http://hdl.handle.net/11336/17820", 
+                "desc": "http://hdl.handle.net/11336/17820"
+            }
+        ], 
+        "formats": [
+            "article"
+        ], 
+        "id": "AR_e474ec529759f803113b3afcbe44c209"
+    }, 
+    {
+        "primaryAuthors": [
+            "Boninsegna, Jose Armando"
+        ], 
+        "title": "Impacto del cambio clim\u00e1tico en los oasis del oeste argentino", 
+        "publicationDates": [
+            "2016"
+        ], 
+        "summary": [
+            "En Argentina, una de las regiones m\u00e1s vulnerables al Cambio Clim\u00e1tico son los oasis productivos del centro-oeste. La actividad agr\u00edcola, industrial, la producci\u00f3n de hidroelectricidad y los asentamientos humanos dependen casi exclusivamente del agua proveniente de la fusi\u00f3n de la nieve y de los cuerpos de hielo que se encuentran en la Cordillera de los Andes. la variabilidad de las nevadas (y de los caudales de r\u00edos) es\u00a0 alta, con a\u00f1os de abundancia y de escasez, aunque para la regi\u00f3n su tendencia es a disminuir. El aumento de la temperatura, observable en las series instrumentales, es coherente con el aumento pronosticado debido al incremento de la concentraci\u00f3n de CO2 en la atm\u00f3sfera. La disminuci\u00f3n de las precipitaciones y el aumento de la temperatura originan el retroceso de los glaciares observado desde el siglo XIX, indicando una p\u00e9rdida importante en reserva de agua. La variaci\u00f3n de los caudales originada puede alterar la distribuci\u00f3n del agua para riego y el manejo de las presas para generar hidroelectricidad. En la Cordillera de Mendoza y San Juan, la precipitaci\u00f3n es fundamentalmente invernal. En cambio en los oasis, ubicados en el pedemonte, la lluvia ocurre durante el verano en forma de tormentas convectivas. \u00c9stas han aumentado durante las \u00faltimas d\u00e9cadas en forma significativa y constituyen un aporte de agua que puede aliviar condiciones de sequ\u00eda. la temperatura tambi\u00e9n muestra una tendencia positiva en esta regi\u00f3n. Los estudios realizados mediante el uso de modelos regionales de circulaci\u00f3n general han permitido construir hip\u00f3tesis sobre el impacto del cambio clim\u00e1tico, estimar la vulnerabilidad de la regi\u00f3n y dise\u00f1ar posibles medidas de adaptaci\u00f3n."
+        ], 
+        "languages": [
+            "spa"
+        ], 
+        "subjects": [
+            [
+                "CAMBIO CLIMATICO"
+            ], 
+            [
+                "IMPACTOS"
+            ], 
+            [
+                "OASIS DEL CENTRO-OESTE"
+            ], 
+            [
+                "CICLO HIDROLOGICO"
+            ], 
+            [
+                "ARGENTINA"
+            ], 
+            [
+                "IMPACTS"
+            ], 
+            [
+                "CENTRAL-WEST OASES"
+            ], 
+            [
+                "HYDROLOGICAL CICLE"
+            ], 
+            [
+                "Oceanograf\u00eda, Hidrolog\u00eda, Recursos H\u00eddricos"
+            ], 
+            [
+                "Ciencias de la Tierra y relacionadas con el Medio Ambiente"
+            ], 
+            [
+                "CIENCIAS NATURALES Y EXACTAS"
+            ]
+        ], 
+        "rawData": {
+            "dc.creator.none.fl_str_mv": [
+                "Boninsegna, Jose Armando"
+            ], 
+            "dc.date.none.fl_str_mv": [
+                "2016-03-17"
+            ], 
+            "title_sort": "Impacto del cambio clim\u00e1tico en los oasis del oeste argentino", 
+            "dc.relation.none.fl_str_mv": [
+                "info:eu-repo/semantics/altIdentifier/url/http://goo.gl/mhTUAB"
+            ], 
+            "publisher.none.fl_str_mv": [
+                "Asociaci\u00f3n Argentina para el Progreso de las Ciencias"
+            ], 
+            "topic": [
+                "CAMBIO CLIMATICO", 
+                "IMPACTOS", 
+                "OASIS DEL CENTRO-OESTE", 
+                "CICLO HIDROLOGICO", 
+                "ARGENTINA", 
+                "CAMBIO CLIMATICO", 
+                "IMPACTS", 
+                "CENTRAL-WEST OASES", 
+                "HYDROLOGICAL CICLE", 
+                "Oceanograf\u00eda, Hidrolog\u00eda, Recursos H\u00eddricos", 
+                "Ciencias de la Tierra y relacionadas con el Medio Ambiente", 
+                "CIENCIAS NATURALES Y EXACTAS"
+            ], 
+            "dc.description.none.fl_txt_mv": [
+                "En Argentina, una de las regiones m\u00e1s vulnerables al Cambio Clim\u00e1tico son los oasis productivos del centro-oeste. La actividad agr\u00edcola, industrial, la producci\u00f3n de hidroelectricidad y los asentamientos humanos dependen casi exclusivamente del agua proveniente de la fusi\u00f3n de la nieve y de los cuerpos de hielo que se encuentran en la Cordillera de los Andes. la variabilidad de las nevadas (y de los caudales de r\u00edos) es\u00a0 alta, con a\u00f1os de abundancia y de escasez, aunque para la regi\u00f3n su tendencia es a disminuir. El aumento de la temperatura, observable en las series instrumentales, es coherente con el aumento pronosticado debido al incremento de la concentraci\u00f3n de CO2 en la atm\u00f3sfera. La disminuci\u00f3n de las precipitaciones y el aumento de la temperatura originan el retroceso de los glaciares observado desde el siglo XIX, indicando una p\u00e9rdida importante en reserva de agua. La variaci\u00f3n de los caudales originada puede alterar la distribuci\u00f3n del agua para riego y el manejo de las presas para generar hidroelectricidad. En la Cordillera de Mendoza y San Juan, la precipitaci\u00f3n es fundamentalmente invernal. En cambio en los oasis, ubicados en el pedemonte, la lluvia ocurre durante el verano en forma de tormentas convectivas. \u00c9stas han aumentado durante las \u00faltimas d\u00e9cadas en forma significativa y constituyen un aporte de agua que puede aliviar condiciones de sequ\u00eda. la temperatura tambi\u00e9n muestra una tendencia positiva en esta regi\u00f3n. Los estudios realizados mediante el uso de modelos regionales de circulaci\u00f3n general han permitido construir hip\u00f3tesis sobre el impacto del cambio clim\u00e1tico, estimar la vulnerabilidad de la regi\u00f3n y dise\u00f1ar posibles medidas de adaptaci\u00f3n.", 
+                "In Argentina, one of the most vulnerable regions to climate change is the central-west productive oases. All agricultural, industrial, hydropower production and human settlements depend almost exclusively on the melting water from the snow and ice bodies found in the Andes. The variability of the snowfall and stream-flow are very high, with years of abundance and years of scarcity, although in the region the number of abundant years is decreasing. The observed time series of temperature indicates a positive trend, consistent with the predicted increase due to the higher CO2 concentration in the atmosphere. The negative trend in rainfall and positive in temperature explain the glacier retreat observed since the 19th century indicating the loss of a major water reserve. This altered hydrograph can have a high impact on the distribution of water for irrigation and for the management of dams to generate hydroelectricity. In the Cordillera of Mendoza and San Juan, precipitation falls mainly in winter. In contrast, in the foothills oases, rainfall occurs during the summer in the form of convective storms. The summer precipitation has significantly increased in recent decades and represents a water contribution that to some extent could relieve drought conditions. The temperature also shows a positive trend in the region of cultivated oases. The use of regional general circulation models has permitted to build hypotheses about the expected impact of climate change. These studies are important to estimate the vulnerability to the changes and to design possible adaptation measures.", 
+                "Fil: Boninsegna, Jose Armando. Consejo Nacional de Investigaciones Cient\u00edficas y T\u00e9cnicas. Cient\u00edfico Tecnol\u00f3gico Mendoza. Instituto Argentino de Nivolog\u00eda, Glaciolog\u00eda y Ciencias Ambientales; Argentina"
+            ], 
+            "url": [
+                "http://hdl.handle.net/11336/4849"
+            ], 
+            "title_full_unstemmed": "Impacto del cambio clim\u00e1tico en los oasis del oeste argentino", 
+            "id": "AR_2d960327b94fff8197cc9fb31b9f1cc1", 
+            "status_str": "publishedVersion", 
+            "author": [
+                "Boninsegna, Jose Armando"
+            ], 
+            "spellingShingle": [
+                "Impacto del cambio clim\u00e1tico en los oasis del oeste argentino", 
+                "Boninsegna, Jose Armando", 
+                "CAMBIO CLIMATICO", 
+                "IMPACTOS", 
+                "OASIS DEL CENTRO-OESTE", 
+                "CICLO HIDROLOGICO", 
+                "ARGENTINA", 
+                "CAMBIO CLIMATICO", 
+                "IMPACTS", 
+                "CENTRAL-WEST OASES", 
+                "HYDROLOGICAL CICLE", 
+                "Oceanograf\u00eda, Hidrolog\u00eda, Recursos H\u00eddricos", 
+                "Ciencias de la Tierra y relacionadas con el Medio Ambiente", 
+                "CIENCIAS NATURALES Y EXACTAS"
+            ], 
+            "score": 1211.6094, 
+            "_version_": 1607631494344343552, 
+            "dc.publisher.none.fl_str_mv": [
+                "Asociaci\u00f3n Argentina para el Progreso de las Ciencias"
+            ], 
+            "dc.type.none.fl_str_mv": [
+                "info:eu-repo/semantics/article", 
+                "info:ar-repo/semantics/art\u00edculo", 
+                "info:eu-repo/semantics/publishedVersion"
+            ], 
+            "repository.name.fl_str_mv": [
+                "\n\t\t\t-\n\t\t\t"
+            ], 
+            "description": "En Argentina, una de las regiones m\u00e1s vulnerables al Cambio Clim\u00e1tico son los oasis productivos del centro-oeste. La actividad agr\u00edcola, industrial, la producci\u00f3n de hidroelectricidad y los asentamientos humanos dependen casi exclusivamente del agua proveniente de la fusi\u00f3n de la nieve y de los cuerpos de hielo que se encuentran en la Cordillera de los Andes. la variabilidad de las nevadas (y de los caudales de r\u00edos) es\u00a0 alta, con a\u00f1os de abundancia y de escasez, aunque para la regi\u00f3n su tendencia es a disminuir. El aumento de la temperatura, observable en las series instrumentales, es coherente con el aumento pronosticado debido al incremento de la concentraci\u00f3n de CO2 en la atm\u00f3sfera. La disminuci\u00f3n de las precipitaciones y el aumento de la temperatura originan el retroceso de los glaciares observado desde el siglo XIX, indicando una p\u00e9rdida importante en reserva de agua. La variaci\u00f3n de los caudales originada puede alterar la distribuci\u00f3n del agua para riego y el manejo de las presas para generar hidroelectricidad. En la Cordillera de Mendoza y San Juan, la precipitaci\u00f3n es fundamentalmente invernal. En cambio en los oasis, ubicados en el pedemonte, la lluvia ocurre durante el verano en forma de tormentas convectivas. \u00c9stas han aumentado durante las \u00faltimas d\u00e9cadas en forma significativa y constituyen un aporte de agua que puede aliviar condiciones de sequ\u00eda. la temperatura tambi\u00e9n muestra una tendencia positiva en esta regi\u00f3n. Los estudios realizados mediante el uso de modelos regionales de circulaci\u00f3n general han permitido construir hip\u00f3tesis sobre el impacto del cambio clim\u00e1tico, estimar la vulnerabilidad de la regi\u00f3n y dise\u00f1ar posibles medidas de adaptaci\u00f3n.", 
+            "format": [
+                "article"
+            ], 
+            "network_name_str": "Argentina", 
+            "publishDate": [
+                "2016"
+            ], 
+            "network_acronym_str": "AR", 
+            "dc.format.none.fl_str_mv": [
+                "application/pdf", 
+                "application/pdf"
+            ], 
+            "eu_rights_str_mv": [
+                "openAccess"
+            ], 
+            "oai_identifier_str": "dd367aee-5972-4301-a636-b1afdaffeb98/oai:ri.conicet.gov.ar:11336/4849", 
+            "rights_invalid_str_mv": [
+                "https://creativecommons.org/licenses/by-nc-sa/2.5/ar/"
+            ], 
+            "dc.language.none.fl_str_mv": [
+                "spa"
+            ], 
+            "dc.title.none.fl_str_mv": [
+                "Impacto del cambio clim\u00e1tico en los oasis del oeste argentino"
+            ], 
+            "dc.identifier.none.fl_str_mv": [
+                "http://hdl.handle.net/11336/4849"
+            ], 
+            "title_short": "Impacto del cambio clim\u00e1tico en los oasis del oeste argentino", 
+            "language": [
+                "spa"
+            ], 
+            "dc.subject.none.fl_str_mv": [
+                "CAMBIO CLIMATICO", 
+                "IMPACTOS", 
+                "OASIS DEL CENTRO-OESTE", 
+                "CICLO HIDROLOGICO", 
+                "ARGENTINA", 
+                "CAMBIO CLIMATICO", 
+                "IMPACTS", 
+                "CENTRAL-WEST OASES", 
+                "HYDROLOGICAL CICLE", 
+                "Oceanograf\u00eda, Hidrolog\u00eda, Recursos H\u00eddricos", 
+                "Ciencias de la Tierra y relacionadas con el Medio Ambiente", 
+                "CIENCIAS NATURALES Y EXACTAS"
+            ], 
+            "title": "Impacto del cambio clim\u00e1tico en los oasis del oeste argentino", 
+            "dc.rights.none.fl_str_mv": [
+                "info:eu-repo/semantics/openAccess", 
+                "https://creativecommons.org/licenses/by-nc-sa/2.5/ar/"
+            ], 
+            "title_full": "Impacto del cambio clim\u00e1tico en los oasis del oeste argentino", 
+            "repository.mail.fl_str_mv": [
+                "mail@mail.com"
+            ], 
+            "author_facet": [
+                "Boninsegna, Jose Armando"
+            ], 
+            "title_fullStr": "Impacto del cambio clim\u00e1tico en los oasis del oeste argentino"
+        }, 
+        "urls": [
+            {
+                "url": "http://hdl.handle.net/11336/4849", 
+                "desc": "http://hdl.handle.net/11336/4849"
+            }
+        ], 
+        "formats": [
+            "article"
+        ], 
+        "id": "AR_2d960327b94fff8197cc9fb31b9f1cc1"
+    }, 
+    {
+        "primaryAuthors": [
+            "Puliafito, Salvador Enrique"
+        ], 
+        "secondaryAuthors": [
+            "Bochaca, Fabian Rolando", 
+            "Allende, David Gabriel"
+        ], 
+        "title": "Mitigaci\u00f3n de la isla de calor urbana en ciudades de zonas \u00e1ridas", 
+        "publicationDates": [
+            "2016"
+        ], 
+        "summary": [
+            "A partir de mediciones meteorol\u00f3gicas fijas y m\u00f3viles realizadas en la ciudad de Mendoza se mostr\u00f3 que los \u00e1rboles y parques mejoran el confort t\u00e9rmico por efecto de la sombra y la evapotranspiraci\u00f3n durante el d\u00eda; pero al mismo tiempo, las calles arboladas retrasan el enfriamiento nocturno por retenci\u00f3n de aire caliente debajo de sus copas. No obstante, el balance de confort t\u00e9rmico d\u00eda-noche es favorable. La extensi\u00f3n del efecto de enfriamiento del parque se extiende hasta unos 800 a 1.000 m hacia su entorno, con una disminuci\u00f3n de la temperatura promedio de 1,3 \u00baC durante el d\u00eda y m\u00e1s de 4,0 \u00baC por la noche."
+        ], 
+        "languages": [
+            "spa"
+        ], 
+        "subjects": [
+            [
+                "ISLA DE CALOR URBANA"
+            ], 
+            [
+                "INDICE PET"
+            ], 
+            [
+                "MEDICIONES M\u00d3VILES"
+            ], 
+            [
+                "ZONAS \u00c1RIDAS"
+            ], 
+            [
+                "ICU"
+            ], 
+            [
+                "PET"
+            ], 
+            [
+                "CONFORT CLIM\u00c1TICO URBANO"
+            ], 
+            [
+                "UHI"
+            ], 
+            [
+                "MOBILE MEASUREMENTS"
+            ], 
+            [
+                "URBAN CLIMATIC COMFORT"
+            ], 
+            [
+                "ARID ZONES"
+            ], 
+            [
+                "Investigaci\u00f3n Climatol\u00f3gica"
+            ], 
+            [
+                "Ciencias de la Tierra y relacionadas con el Medio Ambiente"
+            ], 
+            [
+                "CIENCIAS NATURALES Y EXACTAS"
+            ]
+        ], 
+        "rawData": {
+            "dc.creator.none.fl_str_mv": [
+                "Puliafito, Salvador Enrique", 
+                "Bochaca, Fabian Rolando", 
+                "Allende, David Gabriel"
+            ], 
+            "dc.date.none.fl_str_mv": [
+                "2016-07-18"
+            ], 
+            "title_sort": "Mitigaci\u00f3n de la isla de calor urbana en ciudades de zonas \u00e1ridas", 
+            "dc.relation.none.fl_str_mv": [
+                "info:eu-repo/semantics/altIdentifier/url/https://www4.frba.utn.edu.ar/sectip/proyecciones/pdf/v11_2_2.pdf"
+            ], 
+            "publisher.none.fl_str_mv": [
+                "Universidad Tecnol\u00f3gica Nacional"
+            ], 
+            "topic": [
+                "ISLA DE CALOR URBANA", 
+                "INDICE PET", 
+                "MEDICIONES M\u00d3VILES", 
+                "ZONAS \u00c1RIDAS", 
+                "ICU", 
+                "PET", 
+                "CONFORT CLIM\u00c1TICO URBANO", 
+                "UHI", 
+                "MOBILE MEASUREMENTS", 
+                "URBAN CLIMATIC COMFORT", 
+                "ARID ZONES", 
+                "Investigaci\u00f3n Climatol\u00f3gica", 
+                "Ciencias de la Tierra y relacionadas con el Medio Ambiente", 
+                "CIENCIAS NATURALES Y EXACTAS"
+            ], 
+            "dc.description.none.fl_txt_mv": [
+                "A partir de mediciones meteorol\u00f3gicas fijas y m\u00f3viles realizadas en la ciudad de Mendoza se mostr\u00f3 que los \u00e1rboles y parques mejoran el confort t\u00e9rmico por efecto de la sombra y la evapotranspiraci\u00f3n durante el d\u00eda; pero al mismo tiempo, las calles arboladas retrasan el enfriamiento nocturno por retenci\u00f3n de aire caliente debajo de sus copas. No obstante, el balance de confort t\u00e9rmico d\u00eda-noche es favorable. La extensi\u00f3n del efecto de enfriamiento del parque se extiende hasta unos 800 a 1.000 m hacia su entorno, con una disminuci\u00f3n de la temperatura promedio de 1,3 \u00baC durante el d\u00eda y m\u00e1s de 4,0 \u00baC por la noche.", 
+                "Fixed and mobile meteorological measurements performed in the city of Mendoza showed that trees and parks improve thermal comfort by shade and evapotranspiration during the day, but at the same time, trees delays night cooling by retaining hot air under their canopy. However, the balance of day-night thermal comfort is favorable. The cooling effect of parks extends up to 800 to 1000m, to the surroundings reaching an average temperature decrease of 1.3\u00b0C during the day and more than 4.0\u00b0C at night.", 
+                "Fil: Puliafito, Salvador Enrique. Universidad Tecnol\u00f3gica Nacional. Facultad Regional Buenos Aires; Argentina. Universidad Tecnol\u00f3gica Nacional. Facultad Regional Mendoza; Argentina. Consejo Nacional de Investigaciones Cient\u00edficas y T\u00e9cnicas. Centro Cient\u00edfico Tecnol\u00f3gico Mendoza; Argentina", 
+                "Fil: Bochaca, Fabian Rolando. Universidad Tecnol\u00f3gica Nacional. Facultad Regional de Mendoza; Argentina", 
+                "Fil: Allende, David Gabriel. Universidad Tecnol\u00f3gica Nacional. Facultad Regional de Mendoza; Argentina"
+            ], 
+            "url": [
+                "http://hdl.handle.net/11336/6578"
+            ], 
+            "author2": [
+                "Bochaca, Fabian Rolando", 
+                "Allende, David Gabriel"
+            ], 
+            "title_full_unstemmed": "Mitigaci\u00f3n de la isla de calor urbana en ciudades de zonas \u00e1ridas", 
+            "id": "AR_b4e04c1290767895b726c44cde3fef56", 
+            "status_str": "publishedVersion", 
+            "author": [
+                "Puliafito, Salvador Enrique"
+            ], 
+            "spellingShingle": [
+                "Mitigaci\u00f3n de la isla de calor urbana en ciudades de zonas \u00e1ridas", 
+                "Puliafito, Salvador Enrique", 
+                "ISLA DE CALOR URBANA", 
+                "INDICE PET", 
+                "MEDICIONES M\u00d3VILES", 
+                "ZONAS \u00c1RIDAS", 
+                "ICU", 
+                "PET", 
+                "CONFORT CLIM\u00c1TICO URBANO", 
+                "UHI", 
+                "MOBILE MEASUREMENTS", 
+                "URBAN CLIMATIC COMFORT", 
+                "ARID ZONES", 
+                "Investigaci\u00f3n Climatol\u00f3gica", 
+                "Ciencias de la Tierra y relacionadas con el Medio Ambiente", 
+                "CIENCIAS NATURALES Y EXACTAS"
+            ], 
+            "score": 1211.6094, 
+            "_version_": 1607631496971026432, 
+            "dc.publisher.none.fl_str_mv": [
+                "Universidad Tecnol\u00f3gica Nacional"
+            ], 
+            "dc.type.none.fl_str_mv": [
+                "info:eu-repo/semantics/article", 
+                "info:ar-repo/semantics/art\u00edculo", 
+                "info:eu-repo/semantics/publishedVersion"
+            ], 
+            "repository.name.fl_str_mv": [
+                "\n\t\t\t-\n\t\t\t"
+            ], 
+            "description": "A partir de mediciones meteorol\u00f3gicas fijas y m\u00f3viles realizadas en la ciudad de Mendoza se mostr\u00f3 que los \u00e1rboles y parques mejoran el confort t\u00e9rmico por efecto de la sombra y la evapotranspiraci\u00f3n durante el d\u00eda; pero al mismo tiempo, las calles arboladas retrasan el enfriamiento nocturno por retenci\u00f3n de aire caliente debajo de sus copas. No obstante, el balance de confort t\u00e9rmico d\u00eda-noche es favorable. La extensi\u00f3n del efecto de enfriamiento del parque se extiende hasta unos 800 a 1.000 m hacia su entorno, con una disminuci\u00f3n de la temperatura promedio de 1,3 \u00baC durante el d\u00eda y m\u00e1s de 4,0 \u00baC por la noche.", 
+            "format": [
+                "article"
+            ], 
+            "network_name_str": "Argentina", 
+            "publishDate": [
+                "2016"
+            ], 
+            "network_acronym_str": "AR", 
+            "dc.format.none.fl_str_mv": [
+                "application/pdf", 
+                "application/pdf", 
+                "application/pdf"
+            ], 
+            "eu_rights_str_mv": [
+                "openAccess"
+            ], 
+            "oai_identifier_str": "dd367aee-5972-4301-a636-b1afdaffeb98/oai:ri.conicet.gov.ar:11336/6578", 
+            "rights_invalid_str_mv": [
+                "https://creativecommons.org/licenses/by-nc-sa/2.5/ar/"
+            ], 
+            "dc.language.none.fl_str_mv": [
+                "spa"
+            ], 
+            "dc.title.none.fl_str_mv": [
+                "Mitigaci\u00f3n de la isla de calor urbana en ciudades de zonas \u00e1ridas"
+            ], 
+            "dc.identifier.none.fl_str_mv": [
+                "http://hdl.handle.net/11336/6578"
+            ], 
+            "title_short": "Mitigaci\u00f3n de la isla de calor urbana en ciudades de zonas \u00e1ridas", 
+            "language": [
+                "spa"
+            ], 
+            "dc.subject.none.fl_str_mv": [
+                "ISLA DE CALOR URBANA", 
+                "INDICE PET", 
+                "MEDICIONES M\u00d3VILES", 
+                "ZONAS \u00c1RIDAS", 
+                "ICU", 
+                "PET", 
+                "CONFORT CLIM\u00c1TICO URBANO", 
+                "UHI", 
+                "MOBILE MEASUREMENTS", 
+                "URBAN CLIMATIC COMFORT", 
+                "ARID ZONES", 
+                "Investigaci\u00f3n Climatol\u00f3gica", 
+                "Ciencias de la Tierra y relacionadas con el Medio Ambiente", 
+                "CIENCIAS NATURALES Y EXACTAS"
+            ], 
+            "title": "Mitigaci\u00f3n de la isla de calor urbana en ciudades de zonas \u00e1ridas", 
+            "dc.rights.none.fl_str_mv": [
+                "info:eu-repo/semantics/openAccess", 
+                "https://creativecommons.org/licenses/by-nc-sa/2.5/ar/"
+            ], 
+            "title_full": "Mitigaci\u00f3n de la isla de calor urbana en ciudades de zonas \u00e1ridas", 
+            "repository.mail.fl_str_mv": [
+                "mail@mail.com"
+            ], 
+            "author_facet": [
+                "Puliafito, Salvador Enrique", 
+                "Bochaca, Fabian Rolando", 
+                "Allende, David Gabriel"
+            ], 
+            "title_fullStr": "Mitigaci\u00f3n de la isla de calor urbana en ciudades de zonas \u00e1ridas"
+        }, 
+        "urls": [
+            {
+                "url": "http://hdl.handle.net/11336/6578", 
+                "desc": "http://hdl.handle.net/11336/6578"
+            }
+        ], 
+        "formats": [
+            "article"
+        ], 
+        "id": "AR_b4e04c1290767895b726c44cde3fef56"
+    }, 
+    {
+        "primaryAuthors": [
+            "Lorenzo, Cristian A."
+        ], 
+        "title": "La dendroenerg\u00eda en la pol\u00edtica forestal de la Organizaci\u00f3n de las Naciones Unidas para la Agricultura y la Alimentaci\u00f3n (2008-2010)", 
+        "publicationDates": [
+            "2015"
+        ], 
+        "summary": [
+            "Este trabajo analiza la pol\u00edtica forestal en la Organizaci\u00f3n de las Naciones Unidas para la Agricultura y la Alimentaci\u00f3n durante 2008-2010 para dilucidar el contexto internacional de la inserci\u00f3n internacional de Argentina. En este sentido, los interrogantes que guiaron las observaciones realizadas fueron: a) \u00bfqu\u00e9 caracter\u00edsticas tuvo la pol\u00edtica forestal de este organismo?; b) \u00bfcu\u00e1l fue el lugar de la bioenerg\u00eda en la agenda forestal?; c) \u00bfqu\u00e9 se discut\u00eda sobre deforestaci\u00f3n?; y por \u00faltimo, d) \u00bfqu\u00e9 avances se realizaron en el conocimiento sobre recursos forestales disponibles para producir dendroenerg\u00eda? La principal conclusi\u00f3n de este trabajo es que la conservaci\u00f3n de los bosques y la producci\u00f3n de dendroenerg\u00eda tendieron a instalarse como estrategias para la mitigaci\u00f3n del cambio clim\u00e1tico."
+        ], 
+        "languages": [
+            "spa"
+        ], 
+        "subjects": [
+            [
+                "Naciones Unidas"
+            ], 
+            [
+                "Bosques"
+            ], 
+            [
+                "Energ\u00edas alternativas"
+            ], 
+            [
+                "Cambio Clim\u00e1tico"
+            ], 
+            [
+                "Investigaci\u00f3n Climatol\u00f3gica"
+            ], 
+            [
+                "Ciencias de la Tierra y relacionadas con el Medio Ambiente"
+            ], 
+            [
+                "CIENCIAS NATURALES Y EXACTAS"
+            ], 
+            [
+                "Ciencias Medioambientales"
+            ], 
+            [
+                "Geograf\u00eda Econ\u00f3mica y Social"
+            ], 
+            [
+                "CIENCIAS SOCIALES"
+            ], 
+            [
+                "Silvicultura"
+            ], 
+            [
+                "Agricultura, Silvicultura y Pesca"
+            ], 
+            [
+                "CIENCIAS AGR\u00cdCOLAS"
+            ]
+        ], 
+        "rawData": {
+            "dc.creator.none.fl_str_mv": [
+                "Lorenzo, Cristian A."
+            ], 
+            "dc.date.none.fl_str_mv": [
+                "2015-10-09"
+            ], 
+            "title_sort": "La dendroenerg\u00eda en la pol\u00edtica forestal de la Organizaci\u00f3n de las Naciones Unidas para la Agricultura y la Alimentaci\u00f3n (2008-2010)", 
+            "dc.relation.none.fl_str_mv": [
+                "info:eu-repo/semantics/altIdentifier/url/http://www.revistaintellector.cenegri.org.br/ed2013-18/lourenco-2013-18.pdf"
+            ], 
+            "publisher.none.fl_str_mv": [
+                "Centro de Estudos em Geopol\u00edtica e Rela\u00e7\u00f5es Internacionais (CENEGRI)"
+            ], 
+            "topic": [
+                "Naciones Unidas", 
+                "Bosques", 
+                "Energ\u00edas alternativas", 
+                "Cambio Clim\u00e1tico", 
+                "Investigaci\u00f3n Climatol\u00f3gica", 
+                "Ciencias de la Tierra y relacionadas con el Medio Ambiente", 
+                "CIENCIAS NATURALES Y EXACTAS", 
+                "Ciencias Medioambientales", 
+                "Geograf\u00eda Econ\u00f3mica y Social", 
+                "CIENCIAS SOCIALES", 
+                "Silvicultura", 
+                "Agricultura, Silvicultura y Pesca", 
+                "CIENCIAS AGR\u00cdCOLAS"
+            ], 
+            "dc.description.none.fl_txt_mv": [
+                "Este trabajo analiza la pol\u00edtica forestal en la Organizaci\u00f3n de las Naciones Unidas para la Agricultura y la Alimentaci\u00f3n durante 2008-2010 para dilucidar el contexto internacional de la inserci\u00f3n internacional de Argentina. En este sentido, los interrogantes que guiaron las observaciones realizadas fueron: a) \u00bfqu\u00e9 caracter\u00edsticas tuvo la pol\u00edtica forestal de este organismo?; b) \u00bfcu\u00e1l fue el lugar de la bioenerg\u00eda en la agenda forestal?; c) \u00bfqu\u00e9 se discut\u00eda sobre deforestaci\u00f3n?; y por \u00faltimo, d) \u00bfqu\u00e9 avances se realizaron en el conocimiento sobre recursos forestales disponibles para producir dendroenerg\u00eda? La principal conclusi\u00f3n de este trabajo es que la conservaci\u00f3n de los bosques y la producci\u00f3n de dendroenerg\u00eda tendieron a instalarse como estrategias para la mitigaci\u00f3n del cambio clim\u00e1tico.", 
+                "Fil: Lorenzo, Cristian A.. Consejo Nacional de Investigaciones Cient\u00edficas y T\u00e9cnicas. Centro Austral de Investigaciones Cient\u00edficas; Argentina;"
+            ], 
+            "url": [
+                "http://hdl.handle.net/11336/2486"
+            ], 
+            "title_full_unstemmed": "La dendroenerg\u00eda en la pol\u00edtica forestal de la Organizaci\u00f3n de las Naciones Unidas para la Agricultura y la Alimentaci\u00f3n (2008-2010)", 
+            "id": "AR_5a3bd30d7353324c331d23b6735a1ed7", 
+            "status_str": "publishedVersion", 
+            "author": [
+                "Lorenzo, Cristian A."
+            ], 
+            "spellingShingle": [
+                "La dendroenerg\u00eda en la pol\u00edtica forestal de la Organizaci\u00f3n de las Naciones Unidas para la Agricultura y la Alimentaci\u00f3n (2008-2010)", 
+                "Lorenzo, Cristian A.", 
+                "Naciones Unidas", 
+                "Bosques", 
+                "Energ\u00edas alternativas", 
+                "Cambio Clim\u00e1tico", 
+                "Investigaci\u00f3n Climatol\u00f3gica", 
+                "Ciencias de la Tierra y relacionadas con el Medio Ambiente", 
+                "CIENCIAS NATURALES Y EXACTAS", 
+                "Ciencias Medioambientales", 
+                "Geograf\u00eda Econ\u00f3mica y Social", 
+                "CIENCIAS SOCIALES", 
+                "Silvicultura", 
+                "Agricultura, Silvicultura y Pesca", 
+                "CIENCIAS AGR\u00cdCOLAS"
+            ], 
+            "score": 1211.6094, 
+            "_version_": 1607631499845173248, 
+            "dc.publisher.none.fl_str_mv": [
+                "Centro de Estudos em Geopol\u00edtica e Rela\u00e7\u00f5es Internacionais (CENEGRI)"
+            ], 
+            "dc.type.none.fl_str_mv": [
+                "info:eu-repo/semantics/article", 
+                "info:ar-repo/semantics/art\u00edculo", 
+                "info:eu-repo/semantics/publishedVersion"
+            ], 
+            "repository.name.fl_str_mv": [
+                "\n\t\t\t-\n\t\t\t"
+            ], 
+            "description": "Este trabajo analiza la pol\u00edtica forestal en la Organizaci\u00f3n de las Naciones Unidas para la Agricultura y la Alimentaci\u00f3n durante 2008-2010 para dilucidar el contexto internacional de la inserci\u00f3n internacional de Argentina. En este sentido, los interrogantes que guiaron las observaciones realizadas fueron: a) \u00bfqu\u00e9 caracter\u00edsticas tuvo la pol\u00edtica forestal de este organismo?; b) \u00bfcu\u00e1l fue el lugar de la bioenerg\u00eda en la agenda forestal?; c) \u00bfqu\u00e9 se discut\u00eda sobre deforestaci\u00f3n?; y por \u00faltimo, d) \u00bfqu\u00e9 avances se realizaron en el conocimiento sobre recursos forestales disponibles para producir dendroenerg\u00eda? La principal conclusi\u00f3n de este trabajo es que la conservaci\u00f3n de los bosques y la producci\u00f3n de dendroenerg\u00eda tendieron a instalarse como estrategias para la mitigaci\u00f3n del cambio clim\u00e1tico.", 
+            "format": [
+                "article"
+            ], 
+            "network_name_str": "Argentina", 
+            "publishDate": [
+                "2015"
+            ], 
+            "network_acronym_str": "AR", 
+            "dc.format.none.fl_str_mv": [
+                "application/pdf", 
+                "application/pdf"
+            ], 
+            "eu_rights_str_mv": [
+                "openAccess"
+            ], 
+            "oai_identifier_str": "dd367aee-5972-4301-a636-b1afdaffeb98/oai:ri.conicet.gov.ar:11336/2486", 
+            "rights_invalid_str_mv": [
+                "Atribuci\u00f3n-NoComercial-CompartirIgual 2.5 Argentina (CC BY-NC-SA 2.5 AR)", 
+                "https://creativecommons.org/licenses/by-nc-sa/2.5/ar/"
+            ], 
+            "dc.language.none.fl_str_mv": [
+                "spa"
+            ], 
+            "dc.title.none.fl_str_mv": [
+                "La dendroenerg\u00eda en la pol\u00edtica forestal de la Organizaci\u00f3n de las Naciones Unidas para la Agricultura y la Alimentaci\u00f3n (2008-2010)"
+            ], 
+            "dc.identifier.none.fl_str_mv": [
+                "http://hdl.handle.net/11336/2486"
+            ], 
+            "title_short": "La dendroenerg\u00eda en la pol\u00edtica forestal de la Organizaci\u00f3n de las Naciones Unidas para la Agricultura y la Alimentaci\u00f3n (2008-2010)", 
+            "language": [
+                "spa"
+            ], 
+            "dc.subject.none.fl_str_mv": [
+                "Naciones Unidas", 
+                "Bosques", 
+                "Energ\u00edas alternativas", 
+                "Cambio Clim\u00e1tico", 
+                "Investigaci\u00f3n Climatol\u00f3gica", 
+                "Ciencias de la Tierra y relacionadas con el Medio Ambiente", 
+                "CIENCIAS NATURALES Y EXACTAS", 
+                "Ciencias Medioambientales", 
+                "Geograf\u00eda Econ\u00f3mica y Social", 
+                "CIENCIAS SOCIALES", 
+                "Silvicultura", 
+                "Agricultura, Silvicultura y Pesca", 
+                "CIENCIAS AGR\u00cdCOLAS"
+            ], 
+            "title": "La dendroenerg\u00eda en la pol\u00edtica forestal de la Organizaci\u00f3n de las Naciones Unidas para la Agricultura y la Alimentaci\u00f3n (2008-2010)", 
+            "dc.rights.none.fl_str_mv": [
+                "info:eu-repo/semantics/openAccess", 
+                "Atribuci\u00f3n-NoComercial-CompartirIgual 2.5 Argentina (CC BY-NC-SA 2.5 AR)", 
+                "https://creativecommons.org/licenses/by-nc-sa/2.5/ar/"
+            ], 
+            "title_full": "La dendroenerg\u00eda en la pol\u00edtica forestal de la Organizaci\u00f3n de las Naciones Unidas para la Agricultura y la Alimentaci\u00f3n (2008-2010)", 
+            "repository.mail.fl_str_mv": [
+                "mail@mail.com"
+            ], 
+            "author_facet": [
+                "Lorenzo, Cristian A."
+            ], 
+            "title_fullStr": "La dendroenerg\u00eda en la pol\u00edtica forestal de la Organizaci\u00f3n de las Naciones Unidas para la Agricultura y la Alimentaci\u00f3n (2008-2010)"
+        }, 
+        "urls": [
+            {
+                "url": "http://hdl.handle.net/11336/2486", 
+                "desc": "http://hdl.handle.net/11336/2486"
+            }
+        ], 
+        "formats": [
+            "article"
+        ], 
+        "id": "AR_5a3bd30d7353324c331d23b6735a1ed7"
+    }, 
+    {
+        "primaryAuthors": [
+            "Gasparri, Nestor Ignacio"
+        ], 
+        "secondaryAuthors": [
+            "Le Polain de Waroux, Yann"
+        ], 
+        "title": "The coupling of South American soybean and cattle production frontiers: new challenges for conservation policy and land change science", 
+        "publicationDates": [
+            "2016"
+        ], 
+        "summary": [
+            "Different drivers and places of land use change in South America have often been studied in isolation. Evidence suggests, however, that in many instances, both places and drivers are becoming increasingly interconnected. The growing diversification and internationalization of agricultural commodity chains is creating new linkages across production frontiers and sectors that have important implications for conservation. In this article, we explore the implications of the sectoral and geographical coupling of soybean and cattle production frontiers for forest conservation in South America, with particular attention to the potential for policy-induced deforestation leakage. We conclude that the existence of coupled frontiers creates a need for more actor-centered approaches to conservation policy and research."
+        ], 
+        "languages": [
+            "eng"
+        ], 
+        "subjects": [
+            [
+                "AGRIBUSINESS"
+            ], 
+            [
+                "ARGENTINA"
+            ], 
+            [
+                "BOLIVIA"
+            ], 
+            [
+                "BRAZIL"
+            ], 
+            [
+                "CATTLE"
+            ], 
+            [
+                "DISPLACEMENT"
+            ], 
+            [
+                "LAND USE CHANGE"
+            ], 
+            [
+                "PARAGUAY"
+            ], 
+            [
+                "SOYBEANS"
+            ], 
+            [
+                "TELECOUPLING"
+            ], 
+            [
+                "Ciencias Medioambientales"
+            ], 
+            [
+                "Ciencias de la Tierra y relacionadas con el Medio Ambiente"
+            ], 
+            [
+                "CIENCIAS NATURALES Y EXACTAS"
+            ], 
+            [
+                "Ecolog\u00eda"
+            ], 
+            [
+                "Ciencias Biol\u00f3gicas"
+            ], 
+            [
+                "Silvicultura"
+            ], 
+            [
+                "Agricultura, Silvicultura y Pesca"
+            ], 
+            [
+                "CIENCIAS AGR\u00cdCOLAS"
+            ]
+        ], 
+        "rawData": {
+            "dc.creator.none.fl_str_mv": [
+                "Gasparri, Nestor Ignacio", 
+                "Le Polain de Waroux, Yann"
+            ], 
+            "dc.date.none.fl_str_mv": [
+                "2016-08-22"
+            ], 
+            "title_sort": "The coupling of South American soybean and cattle production frontiers: new challenges for conservation policy and land change science", 
+            "dc.relation.none.fl_str_mv": [
+                "info:eu-repo/semantics/altIdentifier/url/http://onlinelibrary.wiley.com/doi/10.1111/conl.12121/abstract", 
+                "info:eu-repo/semantics/altIdentifier/doi/10.1111/conl.12121", 
+                "info:eu-repo/semantics/altIdentifier/doi/http://dx.doi.org/10.1111/conl.12121"
+            ], 
+            "publisher.none.fl_str_mv": [
+                "Wiley"
+            ], 
+            "topic": [
+                "AGRIBUSINESS", 
+                "ARGENTINA", 
+                "BOLIVIA", 
+                "BRAZIL", 
+                "CATTLE", 
+                "DISPLACEMENT", 
+                "LAND USE CHANGE", 
+                "PARAGUAY", 
+                "SOYBEANS", 
+                "TELECOUPLING", 
+                "Ciencias Medioambientales", 
+                "Ciencias de la Tierra y relacionadas con el Medio Ambiente", 
+                "CIENCIAS NATURALES Y EXACTAS", 
+                "Ecolog\u00eda", 
+                "Ciencias Biol\u00f3gicas", 
+                "CIENCIAS NATURALES Y EXACTAS", 
+                "Silvicultura", 
+                "Agricultura, Silvicultura y Pesca", 
+                "CIENCIAS AGR\u00cdCOLAS"
+            ], 
+            "dc.description.none.fl_txt_mv": [
+                "Different drivers and places of land use change in South America have often been studied in isolation. Evidence suggests, however, that in many instances, both places and drivers are becoming increasingly interconnected. The growing diversification and internationalization of agricultural commodity chains is creating new linkages across production frontiers and sectors that have important implications for conservation. In this article, we explore the implications of the sectoral and geographical coupling of soybean and cattle production frontiers for forest conservation in South America, with particular attention to the potential for policy-induced deforestation leakage. We conclude that the existence of coupled frontiers creates a need for more actor-centered approaches to conservation policy and research.", 
+                "Fil: Gasparri, Nestor Ignacio. Universidad Nacional de Tucum\u00e1n. Facultad de Ciencias Naturales e Instituto Miguel Lillo. Instituto de Ecolog\u00eda Regional; Argentina. Consejo Nacional de Investigaciones Cient\u00edficas y T\u00e9cnicas. Centro Cient\u00edfico Tecnol\u00f3gico Tucum\u00e1n; Argentina", 
+                "Fil: Le Polain de Waroux, Yann. University Of Stanford; Estados Unidos"
+            ], 
+            "url": [
+                "http://hdl.handle.net/11336/7260"
+            ], 
+            "author2": [
+                "Le Polain de Waroux, Yann"
+            ], 
+            "title_full_unstemmed": "The coupling of South American soybean and cattle production frontiers: new challenges for conservation policy and land change science", 
+            "id": "AR_b8245b1c486b0a5d0ae5ac82269766ec", 
+            "status_str": "publishedVersion", 
+            "author": [
+                "Gasparri, Nestor Ignacio"
+            ], 
+            "spellingShingle": [
+                "The coupling of South American soybean and cattle production frontiers: new challenges for conservation policy and land change science", 
+                "Gasparri, Nestor Ignacio", 
+                "AGRIBUSINESS", 
+                "ARGENTINA", 
+                "BOLIVIA", 
+                "BRAZIL", 
+                "CATTLE", 
+                "DISPLACEMENT", 
+                "LAND USE CHANGE", 
+                "PARAGUAY", 
+                "SOYBEANS", 
+                "TELECOUPLING", 
+                "Ciencias Medioambientales", 
+                "Ciencias de la Tierra y relacionadas con el Medio Ambiente", 
+                "CIENCIAS NATURALES Y EXACTAS", 
+                "Ecolog\u00eda", 
+                "Ciencias Biol\u00f3gicas", 
+                "CIENCIAS NATURALES Y EXACTAS", 
+                "Silvicultura", 
+                "Agricultura, Silvicultura y Pesca", 
+                "CIENCIAS AGR\u00cdCOLAS"
+            ], 
+            "score": 1211.6094, 
+            "repository.mail.fl_str_mv": [
+                "mail@mail.com"
+            ], 
+            "dc.publisher.none.fl_str_mv": [
+                "Wiley"
+            ], 
+            "dc.type.none.fl_str_mv": [
+                "info:eu-repo/semantics/article", 
+                "info:ar-repo/semantics/art\u00edculo", 
+                "info:eu-repo/semantics/publishedVersion"
+            ], 
+            "repository.name.fl_str_mv": [
+                "\n\t\t\t-\n\t\t\t"
+            ], 
+            "description": "Different drivers and places of land use change in South America have often been studied in isolation. Evidence suggests, however, that in many instances, both places and drivers are becoming increasingly interconnected. The growing diversification and internationalization of agricultural commodity chains is creating new linkages across production frontiers and sectors that have important implications for conservation. In this article, we explore the implications of the sectoral and geographical coupling of soybean and cattle production frontiers for forest conservation in South America, with particular attention to the potential for policy-induced deforestation leakage. We conclude that the existence of coupled frontiers creates a need for more actor-centered approaches to conservation policy and research.", 
+            "format": [
+                "article"
+            ], 
+            "network_name_str": "Argentina", 
+            "publishDate": [
+                "2016"
+            ], 
+            "network_acronym_str": "AR", 
+            "dc.format.none.fl_str_mv": [
+                "application/pdf", 
+                "application/pdf"
+            ], 
+            "eu_rights_str_mv": [
+                "openAccess"
+            ], 
+            "_version_": 1607631503262482432, 
+            "oai_identifier_str": "dd367aee-5972-4301-a636-b1afdaffeb98/oai:ri.conicet.gov.ar:11336/7260", 
+            "rights_invalid_str_mv": [
+                "https://creativecommons.org/licenses/by-nc-sa/2.5/ar/"
+            ], 
+            "dc.title.none.fl_str_mv": [
+                "The coupling of South American soybean and cattle production frontiers: new challenges for conservation policy and land change science"
+            ], 
+            "dc.identifier.none.fl_str_mv": [
+                "http://hdl.handle.net/11336/7260"
+            ], 
+            "title_short": "The coupling of South American soybean and cattle production frontiers: new challenges for conservation policy and land change science", 
+            "language": [
+                "eng"
+            ], 
+            "dc.subject.none.fl_str_mv": [
+                "AGRIBUSINESS", 
+                "ARGENTINA", 
+                "BOLIVIA", 
+                "BRAZIL", 
+                "CATTLE", 
+                "DISPLACEMENT", 
+                "LAND USE CHANGE", 
+                "PARAGUAY", 
+                "SOYBEANS", 
+                "TELECOUPLING", 
+                "Ciencias Medioambientales", 
+                "Ciencias de la Tierra y relacionadas con el Medio Ambiente", 
+                "CIENCIAS NATURALES Y EXACTAS", 
+                "Ecolog\u00eda", 
+                "Ciencias Biol\u00f3gicas", 
+                "CIENCIAS NATURALES Y EXACTAS", 
+                "Silvicultura", 
+                "Agricultura, Silvicultura y Pesca", 
+                "CIENCIAS AGR\u00cdCOLAS"
+            ], 
+            "title": "The coupling of South American soybean and cattle production frontiers: new challenges for conservation policy and land change science", 
+            "dc.rights.none.fl_str_mv": [
+                "info:eu-repo/semantics/openAccess", 
+                "https://creativecommons.org/licenses/by-nc-sa/2.5/ar/"
+            ], 
+            "title_full": "The coupling of South American soybean and cattle production frontiers: new challenges for conservation policy and land change science", 
+            "dc.language.*.fl_str_mv": [
+                "eng"
+            ], 
+            "author_facet": [
+                "Gasparri, Nestor Ignacio", 
+                "Le Polain de Waroux, Yann"
+            ], 
+            "title_fullStr": "The coupling of South American soybean and cattle production frontiers: new challenges for conservation policy and land change science"
+        }, 
+        "urls": [
+            {
+                "url": "http://hdl.handle.net/11336/7260", 
+                "desc": "http://hdl.handle.net/11336/7260"
+            }
+        ], 
+        "formats": [
+            "article"
+        ], 
+        "id": "AR_b8245b1c486b0a5d0ae5ac82269766ec"
+    }, 
+    {
+        "primaryAuthors": [
+            "Mendieta L\u00f3pez, Juan Carlos"
+        ], 
+        "title": "Valoraci\u00f3n de tierras de inter\u00e9s p\u00fablico y la toma de decisiones sobre uso eficiente en pol\u00edtica p\u00fablica", 
+        "publicationDates": [
+            "2008"
+        ], 
+        "summary": [
+            "El prop\u00f3sito de este art\u00edculo es explorar algunas consideraciones basadas en el criterio de la eficiencia econ\u00f3mica pura; necesarias para dise\u00f1ar una pol\u00edtica p\u00fablica eficiente para la de asignaci\u00f3n de activos ambientales de inter\u00e9s p\u00fablico. Se presenta una versi\u00f3n del modelo de Fisher y Krutilla para estudiar el problema de asignaci\u00f3n \u00f3ptima de recursos naturales bajo conflictos del uso entre conservaci\u00f3n y desarrollo. El modelo se aplica a un estudio de caso para determinar el mayor y mejor uso de un ambiente natural urbano en Bogot\u00e1; Colombia. Bajo los escenarios de conservaci\u00f3n-uso pasivo; conservaci\u00f3n-uso activo y desarrollo parcial; el resultado apunta a que el mayor y mejor uso para el ambiente natural urbano es el de la conservaci\u00f3n-uso pasivo. Esta opci\u00f3n reporta un indicador de beneficio costo de 3;44 a partir de la estimaci\u00f3n con el m\u00e9todo de Valoraci\u00f3n Contingente de los valores no mercadeables generados bajo esta opci\u00f3n. Esta informaci\u00f3n es de m\u00e1xima utilidad para quienes toman las decisiones sobre la elecci\u00f3n del mayor y mejor uso para el ambiente natural."
+        ], 
+        "languages": [
+            "spa"
+        ], 
+        "subjects": [
+            [
+                "Inversiones p\u00fablicas - Aspectos ambientales - Bogot\u00e1"
+            ], 
+            [
+                "Uso de la tierra - Aspectos ambientales - Bogot\u00e1"
+            ], 
+            [
+                "Econom\u00eda urbana - Bogot\u00e1"
+            ], 
+            [
+                "Beneficios no mercadeables"
+            ], 
+            [
+                "asignaci\u00f3n \u00f3ptima"
+            ], 
+            [
+                "conservaci\u00f3n versus desarrollo"
+            ], 
+            [
+                "an\u00e1lisis costo beneficio y medio ambiente"
+            ], 
+            [
+                "Non-market Benefits"
+            ], 
+            [
+                "Optimal Allocation"
+            ], 
+            [
+                "Conservation versus Development"
+            ], 
+            [
+                "Cost Benefit Analysis and the Environment."
+            ]
+        ], 
+        "rawData": {
+            "dc.creator.none.fl_str_mv": [
+                "Mendieta L\u00f3pez, Juan Carlos"
+            ], 
+            "dc.date.none.fl_str_mv": [
+                "2008", 
+                "2015-07-22T21:14:03Z", 
+                "2015-07-22T21:14:03Z", 
+                "2016-05-11T14:36:40Z", 
+                "2016-05-11T14:36:40Z"
+            ], 
+            "title_sort": "Valoraci\u00f3n de tierras de inter\u00e9s p\u00fablico y la toma de decisiones sobre uso eficiente en pol\u00edtica p\u00fablica", 
+            "publisher.none.fl_str_mv": [
+                "Universidad Sergio Arboleda"
+            ], 
+            "topic": [
+                "Inversiones p\u00fablicas - Aspectos ambientales - Bogot\u00e1", 
+                "Uso de la tierra - Aspectos ambientales - Bogot\u00e1", 
+                "Econom\u00eda urbana - Bogot\u00e1", 
+                "Beneficios no mercadeables", 
+                "asignaci\u00f3n \u00f3ptima", 
+                "conservaci\u00f3n versus desarrollo", 
+                "an\u00e1lisis costo beneficio y medio ambiente", 
+                "Non-market Benefits", 
+                "Optimal Allocation", 
+                "Conservation versus Development", 
+                "Cost Benefit Analysis and the Environment."
+            ], 
+            "dc.description.none.fl_txt_mv": [
+                "El prop\u00f3sito de este art\u00edculo es explorar algunas consideraciones basadas en el criterio de la eficiencia econ\u00f3mica pura; necesarias para dise\u00f1ar una pol\u00edtica p\u00fablica eficiente para la de asignaci\u00f3n de activos ambientales de inter\u00e9s p\u00fablico. Se presenta una versi\u00f3n del modelo de Fisher y Krutilla para estudiar el problema de asignaci\u00f3n \u00f3ptima de recursos naturales bajo conflictos del uso entre conservaci\u00f3n y desarrollo. El modelo se aplica a un estudio de caso para determinar el mayor y mejor uso de un ambiente natural urbano en Bogot\u00e1; Colombia. Bajo los escenarios de conservaci\u00f3n-uso pasivo; conservaci\u00f3n-uso activo y desarrollo parcial; el resultado apunta a que el mayor y mejor uso para el ambiente natural urbano es el de la conservaci\u00f3n-uso pasivo. Esta opci\u00f3n reporta un indicador de beneficio costo de 3;44 a partir de la estimaci\u00f3n con el m\u00e9todo de Valoraci\u00f3n Contingente de los valores no mercadeables generados bajo esta opci\u00f3n. Esta informaci\u00f3n es de m\u00e1xima utilidad para quienes toman las decisiones sobre la elecci\u00f3n del mayor y mejor uso para el ambiente natural."
+            ], 
+            "url": [
+                "http://hdl.handle.net/11232/375"
+            ], 
+            "title_full_unstemmed": "Valoraci\u00f3n de tierras de inter\u00e9s p\u00fablico y la toma de decisiones sobre uso eficiente en pol\u00edtica p\u00fablica", 
+            "id": "CO_5d1c1985d0e6ecf49568d36681c30413", 
+            "status_str": "publishedVersion", 
+            "reponame_str": "Repositorio Universidad Sergio Arboleda", 
+            "author": [
+                "Mendieta L\u00f3pez, Juan Carlos"
+            ], 
+            "instname_str": "Universidad Sergio Arboleda", 
+            "spellingShingle": [
+                "Valoraci\u00f3n de tierras de inter\u00e9s p\u00fablico y la toma de decisiones sobre uso eficiente en pol\u00edtica p\u00fablica", 
+                "Mendieta L\u00f3pez, Juan Carlos", 
+                "Inversiones p\u00fablicas - Aspectos ambientales - Bogot\u00e1", 
+                "Uso de la tierra - Aspectos ambientales - Bogot\u00e1", 
+                "Econom\u00eda urbana - Bogot\u00e1", 
+                "Beneficios no mercadeables", 
+                "asignaci\u00f3n \u00f3ptima", 
+                "conservaci\u00f3n versus desarrollo", 
+                "an\u00e1lisis costo beneficio y medio ambiente", 
+                "Non-market Benefits", 
+                "Optimal Allocation", 
+                "Conservation versus Development", 
+                "Cost Benefit Analysis and the Environment."
+            ], 
+            "score": 1211.6094, 
+            "_version_": 1607631932729851904, 
+            "dc.publisher.none.fl_str_mv": [
+                "Universidad Sergio Arboleda"
+            ], 
+            "dc.type.none.fl_str_mv": [
+                "info:eu-repo/semantics/article", 
+                "info:eu-repo/semantics/publishedVersion"
+            ], 
+            "repository.name.fl_str_mv": [
+                "\n\t\t\t-\n\t\t\t"
+            ], 
+            "description": "El prop\u00f3sito de este art\u00edculo es explorar algunas consideraciones basadas en el criterio de la eficiencia econ\u00f3mica pura; necesarias para dise\u00f1ar una pol\u00edtica p\u00fablica eficiente para la de asignaci\u00f3n de activos ambientales de inter\u00e9s p\u00fablico. Se presenta una versi\u00f3n del modelo de Fisher y Krutilla para estudiar el problema de asignaci\u00f3n \u00f3ptima de recursos naturales bajo conflictos del uso entre conservaci\u00f3n y desarrollo. El modelo se aplica a un estudio de caso para determinar el mayor y mejor uso de un ambiente natural urbano en Bogot\u00e1; Colombia. Bajo los escenarios de conservaci\u00f3n-uso pasivo; conservaci\u00f3n-uso activo y desarrollo parcial; el resultado apunta a que el mayor y mejor uso para el ambiente natural urbano es el de la conservaci\u00f3n-uso pasivo. Esta opci\u00f3n reporta un indicador de beneficio costo de 3;44 a partir de la estimaci\u00f3n con el m\u00e9todo de Valoraci\u00f3n Contingente de los valores no mercadeables generados bajo esta opci\u00f3n. Esta informaci\u00f3n es de m\u00e1xima utilidad para quienes toman las decisiones sobre la elecci\u00f3n del mayor y mejor uso para el ambiente natural.", 
+            "format": [
+                "article"
+            ], 
+            "network_name_str": "Colombia", 
+            "publishDate": [
+                "2008"
+            ], 
+            "network_acronym_str": "CO", 
+            "dc.format.none.fl_str_mv": [
+                "application/pdf", 
+                "application/pdf", 
+                "documentos"
+            ], 
+            "eu_rights_str_mv": [
+                "openAccess"
+            ], 
+            "collection": [
+                "Repositorio Universidad Sergio Arboleda"
+            ], 
+            "oai_identifier_str": "lr::3750::21153081::oai:localhost:11232/375", 
+            "rights_invalid_str_mv": [
+                "Abierto (Texto Completo)"
+            ], 
+            "dc.source.none.fl_str_mv": [
+                "Revista Civilizar Ciencias Sociales y Humanas,Vol. 7,n\u00fam 14, Art 10", 
+                "reponame:Repositorio Universidad Sergio Arboleda", 
+                "instname:Universidad Sergio Arboleda"
+            ], 
+            "dc.language.none.fl_str_mv": [
+                "spa"
+            ], 
+            "dc.title.none.fl_str_mv": [
+                "Valoraci\u00f3n de tierras de inter\u00e9s p\u00fablico y la toma de decisiones sobre uso eficiente en pol\u00edtica p\u00fablica"
+            ], 
+            "dc.identifier.none.fl_str_mv": [
+                "http://hdl.handle.net/11232/375"
+            ], 
+            "title_short": "Valoraci\u00f3n de tierras de inter\u00e9s p\u00fablico y la toma de decisiones sobre uso eficiente en pol\u00edtica p\u00fablica", 
+            "language": [
+                "spa"
+            ], 
+            "dc.subject.none.fl_str_mv": [
+                "Inversiones p\u00fablicas - Aspectos ambientales - Bogot\u00e1", 
+                "Uso de la tierra - Aspectos ambientales - Bogot\u00e1", 
+                "Econom\u00eda urbana - Bogot\u00e1", 
+                "Beneficios no mercadeables", 
+                "asignaci\u00f3n \u00f3ptima", 
+                "conservaci\u00f3n versus desarrollo", 
+                "an\u00e1lisis costo beneficio y medio ambiente", 
+                "Non-market Benefits", 
+                "Optimal Allocation", 
+                "Conservation versus Development", 
+                "Cost Benefit Analysis and the Environment."
+            ], 
+            "title": "Valoraci\u00f3n de tierras de inter\u00e9s p\u00fablico y la toma de decisiones sobre uso eficiente en pol\u00edtica p\u00fablica", 
+            "dc.rights.none.fl_str_mv": [
+                "info:eu-repo/semantics/openAccess", 
+                "Abierto (Texto Completo)"
+            ], 
+            "title_full": "Valoraci\u00f3n de tierras de inter\u00e9s p\u00fablico y la toma de decisiones sobre uso eficiente en pol\u00edtica p\u00fablica", 
+            "repository.mail.fl_str_mv": [
+                "mail@mail.com"
+            ], 
+            "author_facet": [
+                "Mendieta L\u00f3pez, Juan Carlos"
+            ], 
+            "title_fullStr": "Valoraci\u00f3n de tierras de inter\u00e9s p\u00fablico y la toma de decisiones sobre uso eficiente en pol\u00edtica p\u00fablica"
+        }, 
+        "urls": [
+            {
+                "url": "http://hdl.handle.net/11232/375", 
+                "desc": "http://hdl.handle.net/11232/375"
+            }
+        ], 
+        "formats": [
+            "article"
+        ], 
+        "id": "CO_5d1c1985d0e6ecf49568d36681c30413"
+    }, 
+    {
+        "primaryAuthors": [
+            "Cruz Guti\u00e9rrez, Efra\u00edn"
+        ], 
+        "secondaryAuthors": [
+            "Guzm\u00e1n, Andres Mauricio"
+        ], 
+        "title": "Restituci\u00f3n de tierras y derecho al medioambiente en Colombia: tensiones y proximidades en torno a la situaci\u00f3n de los campesinos en zonas de reserva forestal", 
+        "publicationDates": [
+            "2016"
+        ], 
+        "summary": [
+            "La restituci\u00f3n de tierras como instrumento de reparaci\u00f3n en el contexto de la justicia transicional en Colombia, incorpora importantes herramientas que denotan su potencialidad en la consecuci\u00f3n de objetivos de justicia que van m\u00e1s all\u00e1 de la justicia correctiva. En el presente art\u00edculo se reflexiona sobre la necesidad de comprenderla de forma coherente con las exigencias del derecho ambiental para lograr soluciones efectivas frente a las tensiones que se suscitan ante la exigencia de restituci\u00f3n en territorios que hacen parte de zonas de reserva forestal de Ley 2 de 1959, y en consecuencia man\u00adtienen ciertas restricciones para su adjudicaci\u00f3n, uso y explotaci\u00f3n. El examen precedente demuestra entonces que es posible identificar una dimensi\u00f3n ambiental de la restituci\u00f3n de tierras en el pa\u00eds.\u00a0"
+        ], 
+        "languages": [
+            "spa"
+        ], 
+        "subjects": [
+            [
+                "Derecho; justicia transicional; derecho del medio ambiente"
+            ], 
+            [
+                "Restituci\u00f3n de tierras; zonas de reserva forestal; derecho al medio ambiente; Ley 2 de 1959; Ley 1448 de 2011"
+            ], 
+            [
+                "Restitui\u00e7\u00e3o de terras; zonas de reserva florestal; direito ao meio ambiente; Lei 2 de 1959; Lei 1448 de 2011"
+            ], 
+            [
+                "Land restitution program; Transitional Justice; environmental law; Corrective Justice; Post- Conflict"
+            ]
+        ], 
+        "rawData": {
+            "dc.creator.none.fl_str_mv": [
+                "Cruz Guti\u00e9rrez, Efra\u00edn", 
+                "Guzm\u00e1n, Andres Mauricio"
+            ], 
+            "dc.date.none.fl_str_mv": [
+                "2016-06-15", 
+                "2018-03-07T14:51:54Z", 
+                "2018-03-07T14:51:54Z"
+            ], 
+            "title_sort": "Restituci\u00f3n de tierras y derecho al medioambiente en Colombia: tensiones y proximidades en torno a la situaci\u00f3n de los campesinos en zonas de reserva forestal", 
+            "publisher.none.fl_str_mv": [
+                "Universidad del Rosario"
+            ], 
+            "topic": [
+                "Derecho; justicia transicional; derecho del medio ambiente", 
+                "Restituci\u00f3n de tierras; zonas de reserva forestal; derecho al medio ambiente; Ley 2 de 1959; Ley 1448 de 2011", 
+                "Restitui\u00e7\u00e3o de terras; zonas de reserva florestal; direito ao meio ambiente; Lei 2 de 1959; Lei 1448 de 2011", 
+                "Land restitution program; Transitional Justice; environmental law; Corrective Justice; Post- Conflict"
+            ], 
+            "dc.description.none.fl_txt_mv": [
+                "La restituci\u00f3n de tierras como instrumento de reparaci\u00f3n en el contexto de la justicia transicional en Colombia, incorpora importantes herramientas que denotan su potencialidad en la consecuci\u00f3n de objetivos de justicia que van m\u00e1s all\u00e1 de la justicia correctiva. En el presente art\u00edculo se reflexiona sobre la necesidad de comprenderla de forma coherente con las exigencias del derecho ambiental para lograr soluciones efectivas frente a las tensiones que se suscitan ante la exigencia de restituci\u00f3n en territorios que hacen parte de zonas de reserva forestal de Ley 2 de 1959, y en consecuencia man\u00adtienen ciertas restricciones para su adjudicaci\u00f3n, uso y explotaci\u00f3n. El examen precedente demuestra entonces que es posible identificar una dimensi\u00f3n ambiental de la restituci\u00f3n de tierras en el pa\u00eds.\u00a0", 
+                "A restitui\u00e7\u00e3o de terras como instrumento de repara\u00e7\u00e3o no contexto da justi\u00e7a transicional na Co\u00adl\u00f4mbia, incorpora importantes ferramentas que denotam a sua potencialidade na consecu\u00e7\u00e3o de objetivos de justi\u00e7a que v\u00e3o para al\u00e9m da justi\u00e7a corretiva. No presente artigo se reflexiona sobre a necessidade de compreende-la de forma coerente com as exig\u00eancias do direito ambiental para conse\u00adguir solu\u00e7\u00f5es efetivas frente \u00e0s tens\u00f5es que se suscitam ante a exig\u00eancia de restitui\u00e7\u00e3o em territ\u00f3rios que fazem parte de zonas de reserva florestal de Lei 2\u00aa de 1959, e em consequ\u00eancia mant\u00eam certas restri\u00e7\u00f5es para a sua adjudica\u00e7\u00e3o, uso e explora\u00e7\u00e3o. O exame precedente demonstra ent\u00e3o que \u00e9 poss\u00edvel identificar uma dimens\u00e3o ambiental da restitui\u00e7\u00e3o de terras no pa\u00eds.", 
+                "As any Transitional Justice mechanism, the land restitution program implemented in Colombia faces important challenges that involve principles of Constitutional Law and the International Law of Human Rights. This article reflects on the challenges that the implementation of the land resti\u00adtution program will bring about, in particular, the proximity to environmental law. Our analytical framework to address this question revolves around the notion of Corrective Justice and its rela\u00adtionship with social and redistributive justice. Overall, the article maintains that the Colombia\u00b4s land restitution has an environmental perspective.\u00a0"
+            ], 
+            "url": [
+                "https://revistas.urosario.edu.co/index.php/territorios/article/view/4310", 
+                "http://repository.urosario.edu.co/handle/10336/17401"
+            ], 
+            "author2": [
+                "Guzm\u00e1n, Andres Mauricio"
+            ], 
+            "title_full_unstemmed": "Restituci\u00f3n de tierras y derecho al medioambiente en Colombia: tensiones y proximidades en torno a la situaci\u00f3n de los campesinos en zonas de reserva forestal", 
+            "id": "CO_5cc2cb55bfb0763719d6d9f77992c7b6", 
+            "status_str": "publishedVersion", 
+            "reponame_str": "Repositorio Institucional EdocUR", 
+            "author": [
+                "Cruz Guti\u00e9rrez, Efra\u00edn"
+            ], 
+            "identifier_str_mv": [
+                "10.12804/territ35.2016.07"
+            ], 
+            "instname_str": "Colegio Mayor de Nuestra Se\u00f1ora del Rosario", 
+            "spellingShingle": [
+                "Restituci\u00f3n de tierras y derecho al medioambiente en Colombia: tensiones y proximidades en torno a la situaci\u00f3n de los campesinos en zonas de reserva forestal", 
+                "Cruz Guti\u00e9rrez, Efra\u00edn", 
+                "Derecho; justicia transicional; derecho del medio ambiente", 
+                "Restituci\u00f3n de tierras; zonas de reserva forestal; derecho al medio ambiente; Ley 2 de 1959; Ley 1448 de 2011", 
+                "Restitui\u00e7\u00e3o de terras; zonas de reserva florestal; direito ao meio ambiente; Lei 2 de 1959; Lei 1448 de 2011", 
+                "Land restitution program; Transitional Justice; environmental law; Corrective Justice; Post- Conflict"
+            ], 
+            "score": 1136.1196, 
+            "_version_": 1607631703586635776, 
+            "dc.publisher.none.fl_str_mv": [
+                "Universidad del Rosario"
+            ], 
+            "dc.type.none.fl_str_mv": [
+                "info:eu-repo/semantics/article", 
+                "info:eu-repo/semantics/publishedVersion"
+            ], 
+            "repository.name.fl_str_mv": [
+                "\n\t\t\t-\n\t\t\t"
+            ], 
+            "description": "La restituci\u00f3n de tierras como instrumento de reparaci\u00f3n en el contexto de la justicia transicional en Colombia, incorpora importantes herramientas que denotan su potencialidad en la consecuci\u00f3n de objetivos de justicia que van m\u00e1s all\u00e1 de la justicia correctiva. En el presente art\u00edculo se reflexiona sobre la necesidad de comprenderla de forma coherente con las exigencias del derecho ambiental para lograr soluciones efectivas frente a las tensiones que se suscitan ante la exigencia de restituci\u00f3n en territorios que hacen parte de zonas de reserva forestal de Ley 2 de 1959, y en consecuencia man\u00adtienen ciertas restricciones para su adjudicaci\u00f3n, uso y explotaci\u00f3n. El examen precedente demuestra entonces que es posible identificar una dimensi\u00f3n ambiental de la restituci\u00f3n de tierras en el pa\u00eds.\u00a0", 
+            "format": [
+                "article"
+            ], 
+            "network_name_str": "Colombia", 
+            "publishDate": [
+                "2016"
+            ], 
+            "network_acronym_str": "CO", 
+            "eu_rights_str_mv": [
+                "openAccess"
+            ], 
+            "collection": [
+                "Repositorio Institucional EdocUR"
+            ], 
+            "oai_identifier_str": "lr::4093::22865455::oai:repository.urosario.edu.co:10336/17401", 
+            "rights_invalid_str_mv": [
+                "Copyright (c) 2016 Territorios", 
+                "http://creativecommons.org/licenses/by-nc/4.0"
+            ], 
+            "dc.source.none.fl_str_mv": [
+                "Territorios; N\u00fam. 35 (2016): (Julio-diciembre) La fase actual del capitalismo y la urbanizaci\u00f3n en Am\u00e9rica Latina (II); 149-170", 
+                "Territorios; N\u00fam. 35 (2016): (Julio-diciembre) La fase actual del capitalismo y la urbanizaci\u00f3n en Am\u00e9rica Latina (II); 149-170", 
+                "2215-7484", 
+                "0123-8418", 
+                "10.12804/territ35.2016", 
+                "reponame:Repositorio Institucional EdocUR", 
+                "instname:Colegio Mayor de Nuestra Se\u00f1ora del Rosario"
+            ], 
+            "dc.language.none.fl_str_mv": [
+                "spa"
+            ], 
+            "dc.title.none.fl_str_mv": [
+                "Restituci\u00f3n de tierras y derecho al medioambiente en Colombia: tensiones y proximidades en torno a la situaci\u00f3n de los campesinos en zonas de reserva forestal", 
+                "Colombia\u2019s land restitution program and environmental law: tensions and proximity on the situation of the farmers in reservation forest zones", 
+                "Restitui\u00e7\u00e3o de terras e direito ao meio ambiente na Col\u00f4mbia: tens\u00f5es e proximidades em torno \u00e0 situa\u00e7\u00e3o dos camponeses em zonas de reserva florestal"
+            ], 
+            "dc.identifier.none.fl_str_mv": [
+                "https://revistas.urosario.edu.co/index.php/territorios/article/view/4310", 
+                "10.12804/territ35.2016.07", 
+                "http://repository.urosario.edu.co/handle/10336/17401"
+            ], 
+            "title_short": "Restituci\u00f3n de tierras y derecho al medioambiente en Colombia: tensiones y proximidades en torno a la situaci\u00f3n de los campesinos en zonas de reserva forestal", 
+            "language": [
+                "spa"
+            ], 
+            "dc.subject.none.fl_str_mv": [
+                "Derecho; justicia transicional; derecho del medio ambiente", 
+                "Restituci\u00f3n de tierras; zonas de reserva forestal; derecho al medio ambiente; Ley 2 de 1959; Ley 1448 de 2011", 
+                "Restitui\u00e7\u00e3o de terras; zonas de reserva florestal; direito ao meio ambiente; Lei 2 de 1959; Lei 1448 de 2011", 
+                "Land restitution program; Transitional Justice; environmental law; Corrective Justice; Post- Conflict"
+            ], 
+            "title": "Restituci\u00f3n de tierras y derecho al medioambiente en Colombia: tensiones y proximidades en torno a la situaci\u00f3n de los campesinos en zonas de reserva forestal", 
+            "dc.rights.none.fl_str_mv": [
+                "Copyright (c) 2016 Territorios", 
+                "http://creativecommons.org/licenses/by-nc/4.0", 
+                "info:eu-repo/semantics/openAccess"
+            ], 
+            "title_full": "Restituci\u00f3n de tierras y derecho al medioambiente en Colombia: tensiones y proximidades en torno a la situaci\u00f3n de los campesinos en zonas de reserva forestal", 
+            "repository.mail.fl_str_mv": [
+                "mail@mail.com"
+            ], 
+            "author_facet": [
+                "Cruz Guti\u00e9rrez, Efra\u00edn", 
+                "Guzm\u00e1n, Andres Mauricio"
+            ], 
+            "title_fullStr": "Restituci\u00f3n de tierras y derecho al medioambiente en Colombia: tensiones y proximidades en torno a la situaci\u00f3n de los campesinos en zonas de reserva forestal"
+        }, 
+        "urls": [
+            {
+                "url": "https://revistas.urosario.edu.co/index.php/territorios/article/view/4310", 
+                "desc": "https://revistas.urosario.edu.co/index.php/territorios/article/view/4310"
+            }, 
+            {
+                "url": "http://repository.urosario.edu.co/handle/10336/17401", 
+                "desc": "http://repository.urosario.edu.co/handle/10336/17401"
+            }
+        ], 
+        "formats": [
+            "article"
+        ], 
+        "id": "CO_5cc2cb55bfb0763719d6d9f77992c7b6"
+    }, 
+    {
+        "primaryAuthors": [
+            "Crispin Cunya, Marianella"
+        ], 
+        "title": "Valoraci\u00f3n econ\u00f3mica ambiental de los bofedales del distrito de Pilpichaca Huancavelica Per\u00fa", 
+        "publicationDates": [
+            "2015"
+        ], 
+        "summary": [
+            "Universidad Nacional Agraria La Molina. Escuela de Posgrado. Maestr\u00eda en Ciencias Ambientales"
+        ], 
+        "languages": [
+            "spa"
+        ], 
+        "subjects": [
+            [
+                "Provisi\u00f3n de agua"
+            ], 
+            [
+                "Huancavelica (Dpto)"
+            ], 
+            [
+                "Huaytara (Prov)"
+            ], 
+            [
+                "Pilpichaca (Dist)"
+            ], 
+            [
+                "Almacenamiento de carbono"
+            ], 
+            [
+                "Servicios ambientales"
+            ], 
+            [
+                "Bofedales"
+            ], 
+            [
+                "Tierras h\u00famedas"
+            ], 
+            [
+                "Servicios"
+            ], 
+            [
+                "Medio ambiente"
+            ], 
+            [
+                "Almacenamiento de agua"
+            ], 
+            [
+                "Carbono"
+            ], 
+            [
+                "An\u00e1lisis econ\u00f3mico"
+            ], 
+            [
+                "Valor econ\u00f3mico"
+            ], 
+            [
+                "Factores ambientales"
+            ], 
+            [
+                "Evaluaci\u00f3n"
+            ], 
+            [
+                "Per\u00fa"
+            ]
+        ], 
+        "rawData": {
+            "dc.creator.none.fl_str_mv": [
+                "Crispin Cunya, Marianella"
+            ], 
+            "dc.date.none.fl_str_mv": [
+                "2015", 
+                "2016-07-08T17:06:17Z", 
+                "2016-07-08T17:06:17Z"
+            ], 
+            "title_sort": "Valoraci\u00f3n econ\u00f3mica ambiental de los bofedales del distrito de Pilpichaca Huancavelica Per\u00fa", 
+            "publisher.none.fl_str_mv": [
+                "Universidad Nacional Agraria La Molina"
+            ], 
+            "topic": [
+                "Provisi\u00f3n de agua", 
+                "Huancavelica (Dpto)", 
+                "Huaytara (Prov)", 
+                "Pilpichaca (Dist)", 
+                "Almacenamiento de carbono", 
+                "Servicios ambientales", 
+                "Bofedales", 
+                "Tierras h\u00famedas", 
+                "Servicios", 
+                "Medio ambiente", 
+                "Almacenamiento de agua", 
+                "Carbono", 
+                "An\u00e1lisis econ\u00f3mico", 
+                "Valor econ\u00f3mico", 
+                "Factores ambientales", 
+                "Evaluaci\u00f3n", 
+                "Per\u00fa"
+            ], 
+            "dc.description.none.fl_txt_mv": [
+                "Universidad Nacional Agraria La Molina. Escuela de Posgrado. Maestr\u00eda en Ciencias Ambientales", 
+                "Huancavelica forma parte del \u201cEl corredor Econ\u00f3mico de los cam\u00e9lidos sudamericanos\u201d junto a Apurimac y Ayacucho, donde hay presencia familias altoandinas con presencia de uno o varios NBI\u2019s (Necesidades B\u00e1sicas Insatisfechas) cuya principal actividad econ\u00f3mica es la ganader\u00eda desarrollada en los bofedales. Los servicios ambientales propios de estos bofedales son el de provisi\u00f3n de agua y almacenamiento de agua y carbono en el suelo de los bofedales. En ese sentido, el objetivo de la presente investigaci\u00f3n es la Valoraci\u00f3n Econ\u00f3mica Ambiental de los bofedales del distrito de Pilpichaca, Provincia de Huaytar\u00e1 y Regi\u00f3n de Huancavelica, cuyo valor de uso directo del bofedal est\u00e1 dado por el Servicio Ambiental Provisi\u00f3n de Agua y los valores de uso indirecto est\u00e1 dado por el Servicio Ambiental de Almacenamiento de Agua y el Servicio Ambiental de Almacenamiento de Carbono. El servicio ambiental de provisi\u00f3n de agua, se basa en la metodolog\u00eda de Barrantes y Vega (2001). El servicio ambiental de almacenamiento de agua en el suelo de los bofedales, se analiza mediante el m\u00e9todo del costo de reposici\u00f3n dado por un proyecto que puede sustituir este servicio ambiental (de Groot et al., 2007; Bate\u00acman et al., 2003) y finalmente, la valoraci\u00f3n del servicio ambiental de al\u00acmacenamiento de carbono en el suelo de los bofedales mediante el m\u00e9todo del costo del da\u00f1o evitado a nivel global por la mitigaci\u00f3n del cambio clim\u00e1tico y el m\u00e9todo de precio de mercado para el an\u00e1lisis de valor. Como resultado del an\u00e1lisis el Valor del Servicio Ambiental Provisi\u00f3n de agua es el de mayor importancia comparado con los Servicios ambientales de Almacenamiento de agua y carbono en el suelo de los bofedales. As\u00ed, el valor de la productividad h\u00eddrica del bofedal en Huancavelica es igual 0.05 US$/m3 frente a un 0.03 US$/m3 y 0.02 US$/m3 en O\u00f1a-Nab\u00f3n y Tungurahua respectivamente, mientras que en Ferrobamba se tiene 0.15 US$/m3. El valor unitario de almacenamiento de agua en Pilpichaca es igual a 2 744.39 US$/ha frente a los valores de 3 196.9 US$/ha y 3 299.21 US$/ha en O\u00f1a-Nab\u00f3n y Tungurahua respectivamente y valor unitario de almacenamiento de carbono en Pilpichaca asciende a 160.63 US$/ha frente a 13 340.62 US$/ha y 7 787.26 US$/ha O\u00f1a-Nab\u00f3n y Tungurahua respectivamente. De la integraci\u00f3n de los valores el Servicio Ambiental de Provisi\u00f3n de agua es mayor en Pilpichaca mientras que en O\u00f1a-Nab\u00f3n y Tungurahua est\u00e1 dado por el Servicio Ambiental de Almacenamiento de carbono.", 
+                "Huancavelica is part of \"The Economic Corridor of South American camelids\" along with the Apurimac and Ayacucho departments, which has presence Andean families with the presence of one or more NBI's (Unsatisfied Basic Needs) whose main economic activity is livestock in the area of the wetlands. Own environmental services of these wetlands are water provision, water and carbon storage on the wetlands. This research focus in the analysis of Environmental Service Valuation of wetlands in the district of Pilpichaca, Huaytar\u00e1 Province and Region of Huancavelica, where direct use value of wetlands is given by the Water Provision Environmental Services and indirect use values given by the Water Storage Environmental Service and Carbon Storage Environmental. Water Provision Environmental Service is based on the methodology of Barrantes and Vega (2001). Water storage Environmental Service is analyzed by the method of replacement cost because a project that can replace this environmental service (Perez, 2008) and finally the method used by the Carbon Storage Environmental Services is the cost avoided by global climate change mitigation. As a result, the Water Provision is more important than water and Carbon Storage environmental services in the soil of the wetlands, therefore, the unit value of wetlands productivity is equal $ 0.05 / m3 compared to 0.03 and 0.02 and in ONA-Nab\u00f3n and Tungurahua respectivily, while in Ferrobamba is $ 0.15 / m3. The unit value of water storage in Pilpichaca is 2 744.39 $/ ha compared to 3 196.9 $/ ha and 3 299.21 $/ ha in Ona-Nab\u00f3n and Tungurahua respectively and unit value of carbon storage in Pilpichaca amounts to 160.63 $/ha compared to 13 340.62 $/ha and 7 787.26 $/ha and ONA-Nab\u00f3n Tungurahua respectively. In conclusion, the most important value in Pilpichaca is given by Water Provision Environmental Services while in Ona-Nab\u00f3n and Tungurahua is given by Carbon Storage Environmental Service.", 
+                "Tesis"
+            ], 
+            "url": [
+                "http://repositorio.lamolina.edu.pe/handle/UNALM/1584"
+            ], 
+            "title_full_unstemmed": "Valoraci\u00f3n econ\u00f3mica ambiental de los bofedales del distrito de Pilpichaca Huancavelica Per\u00fa", 
+            "id": "PE_a92d60c201bbd6ecd53263a2f3668070", 
+            "status_str": "publishedVersion", 
+            "reponame_str": "UNALM-Institucional", 
+            "author": [
+                "Crispin Cunya, Marianella"
+            ], 
+            "identifier_str_mv": [
+                "P01.C75-T BAN UNALM"
+            ], 
+            "instname_str": "Universidad Nacional Agraria La Molina", 
+            "spellingShingle": [
+                "Valoraci\u00f3n econ\u00f3mica ambiental de los bofedales del distrito de Pilpichaca Huancavelica Per\u00fa", 
+                "Crispin Cunya, Marianella", 
+                "Provisi\u00f3n de agua", 
+                "Huancavelica (Dpto)", 
+                "Huaytara (Prov)", 
+                "Pilpichaca (Dist)", 
+                "Almacenamiento de carbono", 
+                "Servicios ambientales", 
+                "Bofedales", 
+                "Tierras h\u00famedas", 
+                "Servicios", 
+                "Medio ambiente", 
+                "Almacenamiento de agua", 
+                "Carbono", 
+                "An\u00e1lisis econ\u00f3mico", 
+                "Valor econ\u00f3mico", 
+                "Factores ambientales", 
+                "Evaluaci\u00f3n", 
+                "Per\u00fa"
+            ], 
+            "score": 1050.1025, 
+            "_version_": 1612509894436454400, 
+            "dc.publisher.none.fl_str_mv": [
+                "Universidad Nacional Agraria La Molina"
+            ], 
+            "dc.type.none.fl_str_mv": [
+                "info:eu-repo/semantics/masterThesis", 
+                "info:eu-repo/semantics/publishedVersion"
+            ], 
+            "repository.name.fl_str_mv": [
+                "\n\t\t\t-\n\t\t\t"
+            ], 
+            "description": "Universidad Nacional Agraria La Molina. Escuela de Posgrado. Maestr\u00eda en Ciencias Ambientales", 
+            "institution": [
+                "UNALM"
+            ], 
+            "format": [
+                "masterThesis"
+            ], 
+            "network_name_str": "Per\u00fa", 
+            "publishDate": [
+                "2015"
+            ], 
+            "network_acronym_str": "PE", 
+            "dc.format.none.fl_str_mv": [
+                "application/pdf"
+            ], 
+            "eu_rights_str_mv": [
+                "openAccess"
+            ], 
+            "collection": [
+                "UNALM-Institucional"
+            ], 
+            "instacron_str": "UNALM", 
+            "oai_identifier_str": "oai:172.16.0.151:UNALM/1584", 
+            "rights_invalid_str_mv": [
+                "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            ], 
+            "dc.source.none.fl_str_mv": [
+                "Universidad Nacional Agraria La Molina", 
+                "Repositorio institucional - UNALM", 
+                "reponame:UNALM-Institucional", 
+                "instname:Universidad Nacional Agraria La Molina", 
+                "instacron:UNALM"
+            ], 
+            "dc.language.none.fl_str_mv": [
+                "spa"
+            ], 
+            "dc.title.none.fl_str_mv": [
+                "Valoraci\u00f3n econ\u00f3mica ambiental de los bofedales del distrito de Pilpichaca Huancavelica Per\u00fa"
+            ], 
+            "dc.identifier.none.fl_str_mv": [
+                "P01.C75-T BAN UNALM", 
+                "http://repositorio.lamolina.edu.pe/handle/UNALM/1584"
+            ], 
+            "title_short": "Valoraci\u00f3n econ\u00f3mica ambiental de los bofedales del distrito de Pilpichaca Huancavelica Per\u00fa", 
+            "language": [
+                "spa"
+            ], 
+            "dc.relation.ispartof.fl_str_mv": [
+                "SUNEDU"
+            ], 
+            "dc.subject.none.fl_str_mv": [
+                "Provisi\u00f3n de agua", 
+                "Huancavelica (Dpto)", 
+                "Huaytara (Prov)", 
+                "Pilpichaca (Dist)", 
+                "Almacenamiento de carbono", 
+                "Servicios ambientales", 
+                "Bofedales", 
+                "Tierras h\u00famedas", 
+                "Servicios", 
+                "Medio ambiente", 
+                "Almacenamiento de agua", 
+                "Carbono", 
+                "An\u00e1lisis econ\u00f3mico", 
+                "Valor econ\u00f3mico", 
+                "Factores ambientales", 
+                "Evaluaci\u00f3n", 
+                "Per\u00fa"
+            ], 
+            "title": "Valoraci\u00f3n econ\u00f3mica ambiental de los bofedales del distrito de Pilpichaca Huancavelica Per\u00fa", 
+            "dc.rights.none.fl_str_mv": [
+                "info:eu-repo/semantics/openAccess", 
+                "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            ], 
+            "title_full": "Valoraci\u00f3n econ\u00f3mica ambiental de los bofedales del distrito de Pilpichaca Huancavelica Per\u00fa", 
+            "repository.mail.fl_str_mv": [
+                "mail@mail.com"
+            ], 
+            "dc.contributor.none.fl_str_mv": [
+                "Jim\u00e9nez D\u00edaz, Luis Alberto"
+            ], 
+            "author_facet": [
+                "Crispin Cunya, Marianella"
+            ], 
+            "title_fullStr": "Valoraci\u00f3n econ\u00f3mica ambiental de los bofedales del distrito de Pilpichaca Huancavelica Per\u00fa"
+        }, 
+        "urls": [
+            {
+                "url": "http://repositorio.lamolina.edu.pe/handle/UNALM/1584", 
+                "desc": "http://repositorio.lamolina.edu.pe/handle/UNALM/1584"
+            }
+        ], 
+        "formats": [
+            "masterThesis"
+        ], 
+        "id": "PE_a92d60c201bbd6ecd53263a2f3668070"
+    }, 
+    {
+        "primaryAuthors": [
+            "Crispin Cunya, Marianella"
+        ], 
+        "title": "Valoraci\u00f3n econ\u00f3mica ambiental de los bofedales del distrito de Pilpichaca Huancavelica Per\u00fa", 
+        "publicationDates": [
+            "2015"
+        ], 
+        "summary": [
+            "Universidad Nacional Agraria La Molina. Escuela de Posgrado. Maestr\u00eda en Ciencias Ambientales"
+        ], 
+        "languages": [
+            "spa"
+        ], 
+        "subjects": [
+            [
+                "Provisi\u00f3n de agua"
+            ], 
+            [
+                "Huancavelica (Dpto)"
+            ], 
+            [
+                "Huaytara (Prov)"
+            ], 
+            [
+                "Pilpichaca (Dist)"
+            ], 
+            [
+                "Almacenamiento de carbono"
+            ], 
+            [
+                "Servicios ambientales"
+            ], 
+            [
+                "Bofedales"
+            ], 
+            [
+                "Tierras h\u00famedas"
+            ], 
+            [
+                "Servicios"
+            ], 
+            [
+                "Medio ambiente"
+            ], 
+            [
+                "Almacenamiento de agua"
+            ], 
+            [
+                "Carbono"
+            ], 
+            [
+                "An\u00e1lisis econ\u00f3mico"
+            ], 
+            [
+                "Valor econ\u00f3mico"
+            ], 
+            [
+                "Factores ambientales"
+            ], 
+            [
+                "Evaluaci\u00f3n"
+            ], 
+            [
+                "Per\u00fa"
+            ]
+        ], 
+        "rawData": {
+            "dc.creator.none.fl_str_mv": [
+                "Crispin Cunya, Marianella"
+            ], 
+            "dc.date.none.fl_str_mv": [
+                "2015", 
+                "2016-07-08T17:06:17Z", 
+                "2016-07-08T17:06:17Z"
+            ], 
+            "title_sort": "Valoraci\u00f3n econ\u00f3mica ambiental de los bofedales del distrito de Pilpichaca Huancavelica Per\u00fa", 
+            "publisher.none.fl_str_mv": [
+                "Universidad Nacional Agraria La Molina"
+            ], 
+            "topic": [
+                "Provisi\u00f3n de agua", 
+                "Huancavelica (Dpto)", 
+                "Huaytara (Prov)", 
+                "Pilpichaca (Dist)", 
+                "Almacenamiento de carbono", 
+                "Servicios ambientales", 
+                "Bofedales", 
+                "Tierras h\u00famedas", 
+                "Servicios", 
+                "Medio ambiente", 
+                "Almacenamiento de agua", 
+                "Carbono", 
+                "An\u00e1lisis econ\u00f3mico", 
+                "Valor econ\u00f3mico", 
+                "Factores ambientales", 
+                "Evaluaci\u00f3n", 
+                "Per\u00fa"
+            ], 
+            "dc.description.none.fl_txt_mv": [
+                "Universidad Nacional Agraria La Molina. Escuela de Posgrado. Maestr\u00eda en Ciencias Ambientales", 
+                "Huancavelica forma parte del \u201cEl corredor Econ\u00f3mico de los cam\u00e9lidos sudamericanos\u201d junto a Apurimac y Ayacucho, donde hay presencia familias altoandinas con presencia de uno o varios NBI\u2019s (Necesidades B\u00e1sicas Insatisfechas) cuya principal actividad econ\u00f3mica es la ganader\u00eda desarrollada en los bofedales. Los servicios ambientales propios de estos bofedales son el de provisi\u00f3n de agua y almacenamiento de agua y carbono en el suelo de los bofedales. En ese sentido, el objetivo de la presente investigaci\u00f3n es la Valoraci\u00f3n Econ\u00f3mica Ambiental de los bofedales del distrito de Pilpichaca, Provincia de Huaytar\u00e1 y Regi\u00f3n de Huancavelica, cuyo valor de uso directo del bofedal est\u00e1 dado por el Servicio Ambiental Provisi\u00f3n de Agua y los valores de uso indirecto est\u00e1 dado por el Servicio Ambiental de Almacenamiento de Agua y el Servicio Ambiental de Almacenamiento de Carbono. El servicio ambiental de provisi\u00f3n de agua, se basa en la metodolog\u00eda de Barrantes y Vega (2001). El servicio ambiental de almacenamiento de agua en el suelo de los bofedales, se analiza mediante el m\u00e9todo del costo de reposici\u00f3n dado por un proyecto que puede sustituir este servicio ambiental (de Groot et al., 2007; Bate\u00acman et al., 2003) y finalmente, la valoraci\u00f3n del servicio ambiental de al\u00acmacenamiento de carbono en el suelo de los bofedales mediante el m\u00e9todo del costo del da\u00f1o evitado a nivel global por la mitigaci\u00f3n del cambio clim\u00e1tico y el m\u00e9todo de precio de mercado para el an\u00e1lisis de valor. Como resultado del an\u00e1lisis el Valor del Servicio Ambiental Provisi\u00f3n de agua es el de mayor importancia comparado con los Servicios ambientales de Almacenamiento de agua y carbono en el suelo de los bofedales. As\u00ed, el valor de la productividad h\u00eddrica del bofedal en Huancavelica es igual 0.05 US$/m3 frente a un 0.03 US$/m3 y 0.02 US$/m3 en O\u00f1a-Nab\u00f3n y Tungurahua respectivamente, mientras que en Ferrobamba se tiene 0.15 US$/m3. El valor unitario de almacenamiento de agua en Pilpichaca es igual a 2 744.39 US$/ha frente a los valores de 3 196.9 US$/ha y 3 299.21 US$/ha en O\u00f1a-Nab\u00f3n y Tungurahua respectivamente y valor unitario de almacenamiento de carbono en Pilpichaca asciende a 160.63 US$/ha frente a 13 340.62 US$/ha y 7 787.26 US$/ha O\u00f1a-Nab\u00f3n y Tungurahua respectivamente. De la integraci\u00f3n de los valores el Servicio Ambiental de Provisi\u00f3n de agua es mayor en Pilpichaca mientras que en O\u00f1a-Nab\u00f3n y Tungurahua est\u00e1 dado por el Servicio Ambiental de Almacenamiento de carbono.", 
+                "Huancavelica is part of \"The Economic Corridor of South American camelids\" along with the Apurimac and Ayacucho departments, which has presence Andean families with the presence of one or more NBI's (Unsatisfied Basic Needs) whose main economic activity is livestock in the area of the wetlands. Own environmental services of these wetlands are water provision, water and carbon storage on the wetlands. This research focus in the analysis of Environmental Service Valuation of wetlands in the district of Pilpichaca, Huaytar\u00e1 Province and Region of Huancavelica, where direct use value of wetlands is given by the Water Provision Environmental Services and indirect use values given by the Water Storage Environmental Service and Carbon Storage Environmental. Water Provision Environmental Service is based on the methodology of Barrantes and Vega (2001). Water storage Environmental Service is analyzed by the method of replacement cost because a project that can replace this environmental service (Perez, 2008) and finally the method used by the Carbon Storage Environmental Services is the cost avoided by global climate change mitigation. As a result, the Water Provision is more important than water and Carbon Storage environmental services in the soil of the wetlands, therefore, the unit value of wetlands productivity is equal $ 0.05 / m3 compared to 0.03 and 0.02 and in ONA-Nab\u00f3n and Tungurahua respectivily, while in Ferrobamba is $ 0.15 / m3. The unit value of water storage in Pilpichaca is 2 744.39 $/ ha compared to 3 196.9 $/ ha and 3 299.21 $/ ha in Ona-Nab\u00f3n and Tungurahua respectively and unit value of carbon storage in Pilpichaca amounts to 160.63 $/ha compared to 13 340.62 $/ha and 7 787.26 $/ha and ONA-Nab\u00f3n Tungurahua respectively. In conclusion, the most important value in Pilpichaca is given by Water Provision Environmental Services while in Ona-Nab\u00f3n and Tungurahua is given by Carbon Storage Environmental Service.", 
+                "Tesis"
+            ], 
+            "url": [
+                "http://repositorio.lamolina.edu.pe/handle/UNALM/1584"
+            ], 
+            "title_full_unstemmed": "Valoraci\u00f3n econ\u00f3mica ambiental de los bofedales del distrito de Pilpichaca Huancavelica Per\u00fa", 
+            "id": "PE_65d2d8911dd1cd9e0c5127f208825226", 
+            "status_str": "publishedVersion", 
+            "reponame_str": "UNALM-Institucional", 
+            "author": [
+                "Crispin Cunya, Marianella"
+            ], 
+            "identifier_str_mv": [
+                "P01.C75-T BAN UNALM"
+            ], 
+            "instname_str": "Universidad Nacional Agraria La Molina", 
+            "spellingShingle": [
+                "Valoraci\u00f3n econ\u00f3mica ambiental de los bofedales del distrito de Pilpichaca Huancavelica Per\u00fa", 
+                "Crispin Cunya, Marianella", 
+                "Provisi\u00f3n de agua", 
+                "Huancavelica (Dpto)", 
+                "Huaytara (Prov)", 
+                "Pilpichaca (Dist)", 
+                "Almacenamiento de carbono", 
+                "Servicios ambientales", 
+                "Bofedales", 
+                "Tierras h\u00famedas", 
+                "Servicios", 
+                "Medio ambiente", 
+                "Almacenamiento de agua", 
+                "Carbono", 
+                "An\u00e1lisis econ\u00f3mico", 
+                "Valor econ\u00f3mico", 
+                "Factores ambientales", 
+                "Evaluaci\u00f3n", 
+                "Per\u00fa"
+            ], 
+            "score": 1050.1025, 
+            "_version_": 1612509974751084544, 
+            "dc.publisher.none.fl_str_mv": [
+                "Universidad Nacional Agraria La Molina"
+            ], 
+            "dc.type.none.fl_str_mv": [
+                "info:eu-repo/semantics/masterThesis", 
+                "info:eu-repo/semantics/publishedVersion"
+            ], 
+            "repository.name.fl_str_mv": [
+                "\n\t\t\t-\n\t\t\t"
+            ], 
+            "description": "Universidad Nacional Agraria La Molina. Escuela de Posgrado. Maestr\u00eda en Ciencias Ambientales", 
+            "institution": [
+                "UNALM"
+            ], 
+            "format": [
+                "masterThesis"
+            ], 
+            "network_name_str": "Per\u00fa", 
+            "publishDate": [
+                "2015"
+            ], 
+            "network_acronym_str": "PE", 
+            "dc.format.none.fl_str_mv": [
+                "application/pdf"
+            ], 
+            "eu_rights_str_mv": [
+                "openAccess"
+            ], 
+            "collection": [
+                "UNALM-Institucional"
+            ], 
+            "instacron_str": "UNALM", 
+            "oai_identifier_str": "oai:repositorio.lamolina.edu.pe:UNALM/1584", 
+            "rights_invalid_str_mv": [
+                "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            ], 
+            "dc.source.none.fl_str_mv": [
+                "Universidad Nacional Agraria La Molina", 
+                "Repositorio institucional - UNALM", 
+                "reponame:UNALM-Institucional", 
+                "instname:Universidad Nacional Agraria La Molina", 
+                "instacron:UNALM"
+            ], 
+            "dc.language.none.fl_str_mv": [
+                "spa"
+            ], 
+            "dc.title.none.fl_str_mv": [
+                "Valoraci\u00f3n econ\u00f3mica ambiental de los bofedales del distrito de Pilpichaca Huancavelica Per\u00fa"
+            ], 
+            "dc.identifier.none.fl_str_mv": [
+                "P01.C75-T BAN UNALM", 
+                "http://repositorio.lamolina.edu.pe/handle/UNALM/1584"
+            ], 
+            "title_short": "Valoraci\u00f3n econ\u00f3mica ambiental de los bofedales del distrito de Pilpichaca Huancavelica Per\u00fa", 
+            "language": [
+                "spa"
+            ], 
+            "dc.relation.ispartof.fl_str_mv": [
+                "SUNEDU"
+            ], 
+            "dc.subject.none.fl_str_mv": [
+                "Provisi\u00f3n de agua", 
+                "Huancavelica (Dpto)", 
+                "Huaytara (Prov)", 
+                "Pilpichaca (Dist)", 
+                "Almacenamiento de carbono", 
+                "Servicios ambientales", 
+                "Bofedales", 
+                "Tierras h\u00famedas", 
+                "Servicios", 
+                "Medio ambiente", 
+                "Almacenamiento de agua", 
+                "Carbono", 
+                "An\u00e1lisis econ\u00f3mico", 
+                "Valor econ\u00f3mico", 
+                "Factores ambientales", 
+                "Evaluaci\u00f3n", 
+                "Per\u00fa"
+            ], 
+            "title": "Valoraci\u00f3n econ\u00f3mica ambiental de los bofedales del distrito de Pilpichaca Huancavelica Per\u00fa", 
+            "dc.rights.none.fl_str_mv": [
+                "info:eu-repo/semantics/openAccess", 
+                "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            ], 
+            "title_full": "Valoraci\u00f3n econ\u00f3mica ambiental de los bofedales del distrito de Pilpichaca Huancavelica Per\u00fa", 
+            "repository.mail.fl_str_mv": [
+                "mail@mail.com"
+            ], 
+            "dc.contributor.none.fl_str_mv": [
+                "Jim\u00e9nez D\u00edaz, Luis Alberto"
+            ], 
+            "author_facet": [
+                "Crispin Cunya, Marianella"
+            ], 
+            "title_fullStr": "Valoraci\u00f3n econ\u00f3mica ambiental de los bofedales del distrito de Pilpichaca Huancavelica Per\u00fa"
+        }, 
+        "urls": [
+            {
+                "url": "http://repositorio.lamolina.edu.pe/handle/UNALM/1584", 
+                "desc": "http://repositorio.lamolina.edu.pe/handle/UNALM/1584"
+            }
+        ], 
+        "formats": [
+            "masterThesis"
+        ], 
+        "id": "PE_65d2d8911dd1cd9e0c5127f208825226"
+    }, 
+    {
+        "primaryAuthors": [
+            "Zulaica, Maria Laura"
+        ], 
+        "secondaryAuthors": [
+            "Vazquez, Patricia Susana", 
+            "Celemin, Juan Pablo"
+        ], 
+        "title": "Servicios ecosist\u00e9micos y deforestaci\u00f3n en la Selva Paranaense : An\u00e1lisis comparativo en la Cuenca Binacional del r\u00edo San Antonio (Argentina-Brasil) entre 2001 y 2011", 
+        "publicationDates": [
+            "2016"
+        ], 
+        "summary": [
+            "Por sus condiciones biof\u00edsicas, los bosques tropicales poseen gran capacidad para ofrecer servicios ecosist\u00e9micos. La Selva Paranaense, uno de los bosques tropicales lluviosos m\u00e1s amenazados de Sudam\u00e9rica, alcanza actualmente 1.200.000 ha, conservadas fundamentalmente en Argentina y en menor medida en Brasil y Paraguay. Este trabajo propone analizar la p\u00e9rdida de servicios de regulaci\u00f3n a partir de la evaluaci\u00f3n del proceso de deforestaci\u00f3n y cambio de uso del suelo entre 2001 y 2011 en una cuenca binacional argentino-brasile\u00f1a, la Cuenca del r\u00edo San Antonio CrSA). La superficie de dicha cuenca (117.348 ha), que forma parte del r\u00edo Iguaz\u00fa, se distribuye de manera semejante en ambos pa\u00edses. Sin embargo, la clasificaci\u00f3n de las im\u00e1genes satelitales (Landsat 5, sensor TM) revela que Argentina conserva en 2011 el 61,7% de \u00e1reas boscosas en las que predominan servicios de regulaci\u00f3n, mientras que Brasil el 25%. No obstante, la tasa de deforestaci\u00f3n total anual promedio (R) y la tasa de cambio anual (q) en el per\u00edodo, fueron significativamente m\u00e1s altas en el sector argentino (R: 8,143; q: 0,02) que en el brasile\u00f1o (R: 1,493; q: 0,01). Los datos de temperatura proporcionados por el sat\u00e9lite (banda 6), indican una relaci\u00f3n directa entre las temperaturas m\u00e1s bajas y lasuperficie boscosa, que coincide con la clasificaci\u00f3n realizada. Se considera fundamental profundizar en el an\u00e1lisis de los v\u00ednculos existentes entre la capacidad de provisi\u00f3n de servicios ecosist\u00e9micos y las demandas sociales, as\u00ed como en el desarrollo de metodolog\u00edas para la valoraci\u00f3n de servicios en \u00e1reas de frontera."
+        ], 
+        "languages": [
+            "spa"
+        ], 
+        "subjects": [
+            [
+                "Servicios de regulaci\u00f3n y suministro"
+            ], 
+            [
+                "Tasas de deforestaci\u00f3n y cambio anual"
+            ], 
+            [
+                "\u00c1reas de frontera"
+            ], 
+            [
+                "Gesti\u00f3n integrada de cuencas"
+            ], 
+            [
+                "Regulation and supply services"
+            ], 
+            [
+                "Integrated watershed management"
+            ], 
+            [
+                "Border areas"
+            ], 
+            [
+                "Deforestation and annual change rates"
+            ], 
+            [
+                "Servi\u00e7os de regula\u00e7\u00e3o e provis\u00e3o"
+            ], 
+            [
+                "Gest\u00e3o integrada de bacias"
+            ], 
+            [
+                "\u00c1reas de fronteira"
+            ], 
+            [
+                "Taxas de desmatamento e mudan\u00e7a anual"
+            ], 
+            [
+                "Geociencias multidisciplinaria"
+            ], 
+            [
+                "Ciencias de la Tierra y relacionadas con el Medio Ambiente"
+            ], 
+            [
+                "CIENCIAS NATURALES Y EXACTAS"
+            ]
+        ], 
+        "rawData": {
+            "dc.creator.none.fl_str_mv": [
+                "Zulaica, Maria Laura", 
+                "Vazquez, Patricia Susana", 
+                "Celemin, Juan Pablo"
+            ], 
+            "dc.date.none.fl_str_mv": [
+                "2016-12-28"
+            ], 
+            "title_sort": "Servicios ecosist\u00e9micos y deforestaci\u00f3n en la Selva Paranaense : An\u00e1lisis comparativo en la Cuenca Binacional del r\u00edo San Antonio (Argentina-Brasil) entre 2001 y 2011", 
+            "dc.relation.none.fl_str_mv": [
+                "info:eu-repo/semantics/altIdentifier/url/http://ojs.c3sl.ufpr.br/ojs2/index.php/raega/article/view/36798", 
+                "info:eu-repo/semantics/altIdentifier/doi/http://dx.doi.org/10.5380/raega.v34i0.36798"
+            ], 
+            "publisher.none.fl_str_mv": [
+                "Universidade Federal do Paran\u00e1"
+            ], 
+            "topic": [
+                "Servicios de regulaci\u00f3n y suministro", 
+                "Tasas de deforestaci\u00f3n y cambio anual", 
+                "\u00c1reas de frontera", 
+                "Gesti\u00f3n integrada de cuencas", 
+                "Regulation and supply services", 
+                "Integrated watershed management", 
+                "Border areas", 
+                "Deforestation and annual change rates", 
+                "Servi\u00e7os de regula\u00e7\u00e3o e provis\u00e3o", 
+                "Gest\u00e3o integrada de bacias", 
+                "\u00c1reas de fronteira", 
+                "Taxas de desmatamento e mudan\u00e7a anual", 
+                "Geociencias multidisciplinaria", 
+                "Ciencias de la Tierra y relacionadas con el Medio Ambiente", 
+                "CIENCIAS NATURALES Y EXACTAS"
+            ], 
+            "dc.description.none.fl_txt_mv": [
+                "Por sus condiciones biof\u00edsicas, los bosques tropicales poseen gran capacidad para ofrecer servicios ecosist\u00e9micos. La Selva Paranaense, uno de los bosques tropicales lluviosos m\u00e1s amenazados de Sudam\u00e9rica, alcanza actualmente 1.200.000 ha, conservadas fundamentalmente en Argentina y en menor medida en Brasil y Paraguay. Este trabajo propone analizar la p\u00e9rdida de servicios de regulaci\u00f3n a partir de la evaluaci\u00f3n del proceso de deforestaci\u00f3n y cambio de uso del suelo entre 2001 y 2011 en una cuenca binacional argentino-brasile\u00f1a, la Cuenca del r\u00edo San Antonio CrSA). La superficie de dicha cuenca (117.348 ha), que forma parte del r\u00edo Iguaz\u00fa, se distribuye de manera semejante en ambos pa\u00edses. Sin embargo, la clasificaci\u00f3n de las im\u00e1genes satelitales (Landsat 5, sensor TM) revela que Argentina conserva en 2011 el 61,7% de \u00e1reas boscosas en las que predominan servicios de regulaci\u00f3n, mientras que Brasil el 25%. No obstante, la tasa de deforestaci\u00f3n total anual promedio (R) y la tasa de cambio anual (q) en el per\u00edodo, fueron significativamente m\u00e1s altas en el sector argentino (R: 8,143; q: 0,02) que en el brasile\u00f1o (R: 1,493; q: 0,01). Los datos de temperatura proporcionados por el sat\u00e9lite (banda 6), indican una relaci\u00f3n directa entre las temperaturas m\u00e1s bajas y lasuperficie boscosa, que coincide con la clasificaci\u00f3n realizada. Se considera fundamental profundizar en el an\u00e1lisis de los v\u00ednculos existentes entre la capacidad de provisi\u00f3n de servicios ecosist\u00e9micos y las demandas sociales, as\u00ed como en el desarrollo de metodolog\u00edas para la valoraci\u00f3n de servicios en \u00e1reas de frontera.", 
+                "By their biophysical conditions, tropical forests have a large ability to provide ecosystem services. The Paranaense Forest, one of the most threatened tropical rainforests of South America, has now reached 1,200,000 has., mainly preserved in Argentina and to a lesser extent in Brazil and Paraguay. This work aims to analyze the loss of regulation services from the assessment of the deforestation process and land use change between 2001 and 2011 in an Argentinean-Brazilian Binational Basin, the San Antonio River Basin (SArB). The surface of the basin (117,348 has.), which is part of the Iguaz\u00fa River, is distributed similarly in both countries. However, the classification of satellite images (Landsat 5 TM sensor) reveals that, in 2011, Argentina retains 61.7% of forested areas prevailing regulatory services, while Brazil 25%. Nevertheless, the average annual total deforestation (R) and the annual change rate (q) in the period were significantly higher in the Argentinean sector (R: 8.143, q: 0.02) than in Brazil (R: 1.493, q: 0.01). The temperature data provided by the satellite (band 6) indicate a direct relationship between lower temperatures and the forest area, which coincides with the classification made. It is considered essential to deepen the analysis of the links between the ability to provision ecosystem services and social demands, as well as of the development of methodologies for valuation services in border areas.", 
+                "Por suas condi\u00e7\u00f5es biof\u00edsicas, as florestas tropicais possuem grande capacidade para oferecer servi\u00e7os ecossist\u00eamicos. A Selva Paranaense, uma das florestas tropicais chuvosas mais amea\u00e7adas da Am\u00e9rica do Sul, alcan\u00e7a atualmente 1.200.000 ha, conservadas fundamentalmente na Argentina e em menor medida no Brasil e Paraguai. Este trabalho prop\u00f5e analisar a perda de servi\u00e7os de regula\u00e7\u00e3o a partir da avalia\u00e7\u00e3o do processo de desmatamento e mudan\u00e7a do uso do solo entre 2001 e 2011 em uma bacia binacional argentina-brasileira, a Bacia do rio San Antonio. A superf\u00edcie da referida bacia (117.348 ha), que forma parte do rio Iguaz\u00fa, se distribui de maneira semelhante em ambos os pa\u00edses. Entretanto, a classifica\u00e7\u00e3o das imagens de sat\u00e9lite (Landsat 5, sensor TM) revela que Argentina conserva, em 2011, 61,7% de \u00e1reas florestadas nas que predominam servi\u00e7os de regula\u00e7\u00e3o, enquanto que no Brasil, 25%. N\u00e3o obstante, a taxa de desmatamento total anual m\u00e9dia (R) e a taxa de mudan\u00e7a anual (q) no per\u00edodo foram significativamente mais altas no setor argentino (R: 8,143; q: 0,02) que no brasileiro (R: 1,493; q: 0,01). Os dados de temperatura proporcionados pelo sat\u00e9lite (banda 6), indicam uma rela\u00e7\u00e3o direta entre as temperaturas mais baixas e a superf\u00edcie florestada, que coincide com a classifica\u00e7\u00e3o realizada. Considera-se fundamental aprofundar a an\u00e1lise dos v\u00ednculos existentes entre a capacidade de provis\u00e3o de servi\u00e7os ecossist\u00eamicos e as demandas sociais, assim como o desenvolvimento de metodologias para a valoriza\u00e7\u00e3o de servi\u00e7os em \u00e1reas de fronteira.", 
+                "Fil: Zulaica, Maria Laura. Universidad Nacional de Mar del Plata. Facultad de Arquitectura, Urbanismo y Dise\u00f1o. Instituto de Habitat y Medio Ambiente; Argentina", 
+                "Fil: Vazquez, Patricia Susana. Universidad Nacional del Centro de la Provincia de Buenos Aires. Facultad de Ciencias Humanas. Centro de Estudios Sociales de America Latina; Argentina. Consejo Nacional de Investigaciones Cient\u00edficas y T\u00e9cnicas; Argentina", 
+                "Fil: Celemin, Juan Pablo. Consejo Nacional de Investigaciones Cient\u00edficas y T\u00e9cnicas. Centro Cient\u00edfico Tecnol\u00f3gico Tandil. Instituto de Geograf\u00eda, Historia y Ciencias Sociales; Argentina. Universidad Nacional del Centro de la Provincia de Buenos Aires; Argentina"
+            ], 
+            "url": [
+                "http://hdl.handle.net/11336/10535"
+            ], 
+            "author2": [
+                "Vazquez, Patricia Susana", 
+                "Celemin, Juan Pablo"
+            ], 
+            "title_full_unstemmed": "Servicios ecosist\u00e9micos y deforestaci\u00f3n en la Selva Paranaense : An\u00e1lisis comparativo en la Cuenca Binacional del r\u00edo San Antonio (Argentina-Brasil) entre 2001 y 2011", 
+            "id": "AR_25e156f4fa05eeb3947274d4464e0d8b", 
+            "status_str": "publishedVersion", 
+            "author": [
+                "Zulaica, Maria Laura"
+            ], 
+            "spellingShingle": [
+                "Servicios ecosist\u00e9micos y deforestaci\u00f3n en la Selva Paranaense : An\u00e1lisis comparativo en la Cuenca Binacional del r\u00edo San Antonio (Argentina-Brasil) entre 2001 y 2011", 
+                "Zulaica, Maria Laura", 
+                "Servicios de regulaci\u00f3n y suministro", 
+                "Tasas de deforestaci\u00f3n y cambio anual", 
+                "\u00c1reas de frontera", 
+                "Gesti\u00f3n integrada de cuencas", 
+                "Regulation and supply services", 
+                "Integrated watershed management", 
+                "Border areas", 
+                "Deforestation and annual change rates", 
+                "Servi\u00e7os de regula\u00e7\u00e3o e provis\u00e3o", 
+                "Gest\u00e3o integrada de bacias", 
+                "\u00c1reas de fronteira", 
+                "Taxas de desmatamento e mudan\u00e7a anual", 
+                "Geociencias multidisciplinaria", 
+                "Ciencias de la Tierra y relacionadas con el Medio Ambiente", 
+                "CIENCIAS NATURALES Y EXACTAS"
+            ], 
+            "score": 866.1521, 
+            "_version_": 1607631547580547072, 
+            "dc.publisher.none.fl_str_mv": [
+                "Universidade Federal do Paran\u00e1"
+            ], 
+            "dc.type.none.fl_str_mv": [
+                "info:eu-repo/semantics/article", 
+                "info:ar-repo/semantics/art\u00edculo", 
+                "info:eu-repo/semantics/publishedVersion"
+            ], 
+            "repository.name.fl_str_mv": [
+                "\n\t\t\t-\n\t\t\t"
+            ], 
+            "description": "Por sus condiciones biof\u00edsicas, los bosques tropicales poseen gran capacidad para ofrecer servicios ecosist\u00e9micos. La Selva Paranaense, uno de los bosques tropicales lluviosos m\u00e1s amenazados de Sudam\u00e9rica, alcanza actualmente 1.200.000 ha, conservadas fundamentalmente en Argentina y en menor medida en Brasil y Paraguay. Este trabajo propone analizar la p\u00e9rdida de servicios de regulaci\u00f3n a partir de la evaluaci\u00f3n del proceso de deforestaci\u00f3n y cambio de uso del suelo entre 2001 y 2011 en una cuenca binacional argentino-brasile\u00f1a, la Cuenca del r\u00edo San Antonio CrSA). La superficie de dicha cuenca (117.348 ha), que forma parte del r\u00edo Iguaz\u00fa, se distribuye de manera semejante en ambos pa\u00edses. Sin embargo, la clasificaci\u00f3n de las im\u00e1genes satelitales (Landsat 5, sensor TM) revela que Argentina conserva en 2011 el 61,7% de \u00e1reas boscosas en las que predominan servicios de regulaci\u00f3n, mientras que Brasil el 25%. No obstante, la tasa de deforestaci\u00f3n total anual promedio (R) y la tasa de cambio anual (q) en el per\u00edodo, fueron significativamente m\u00e1s altas en el sector argentino (R: 8,143; q: 0,02) que en el brasile\u00f1o (R: 1,493; q: 0,01). Los datos de temperatura proporcionados por el sat\u00e9lite (banda 6), indican una relaci\u00f3n directa entre las temperaturas m\u00e1s bajas y lasuperficie boscosa, que coincide con la clasificaci\u00f3n realizada. Se considera fundamental profundizar en el an\u00e1lisis de los v\u00ednculos existentes entre la capacidad de provisi\u00f3n de servicios ecosist\u00e9micos y las demandas sociales, as\u00ed como en el desarrollo de metodolog\u00edas para la valoraci\u00f3n de servicios en \u00e1reas de frontera.", 
+            "format": [
+                "article"
+            ], 
+            "network_name_str": "Argentina", 
+            "publishDate": [
+                "2016"
+            ], 
+            "network_acronym_str": "AR", 
+            "dc.format.none.fl_str_mv": [
+                "application/pdf", 
+                "application/pdf", 
+                "application/pdf", 
+                "application/pdf", 
+                "application/pdf"
+            ], 
+            "eu_rights_str_mv": [
+                "openAccess"
+            ], 
+            "oai_identifier_str": "dd367aee-5972-4301-a636-b1afdaffeb98/oai:ri.conicet.gov.ar:11336/10535", 
+            "rights_invalid_str_mv": [
+                "https://creativecommons.org/licenses/by-nc-sa/2.5/ar/"
+            ], 
+            "dc.language.none.fl_str_mv": [
+                "spa"
+            ], 
+            "dc.title.none.fl_str_mv": [
+                "Servicios ecosist\u00e9micos y deforestaci\u00f3n en la Selva Paranaense : An\u00e1lisis comparativo en la Cuenca Binacional del r\u00edo San Antonio (Argentina-Brasil) entre 2001 y 2011", 
+                "Ecosystem services and deforestation in the Paranaense forest : Comparative analysis in the binational basin of the San Antonio river (Argentina-Brazil) between 2001 and 2011", 
+                "Servi\u00e7os ecossist\u00eamicos e desmatamento na selva paranaense: An\u00e1lise comparativa na bacia binacional do rio San Antonio (Argentina-Brasil) entre 2001 e 2011"
+            ], 
+            "dc.identifier.none.fl_str_mv": [
+                "http://hdl.handle.net/11336/10535"
+            ], 
+            "title_short": "Servicios ecosist\u00e9micos y deforestaci\u00f3n en la Selva Paranaense : An\u00e1lisis comparativo en la Cuenca Binacional del r\u00edo San Antonio (Argentina-Brasil) entre 2001 y 2011", 
+            "language": [
+                "spa"
+            ], 
+            "dc.subject.none.fl_str_mv": [
+                "Servicios de regulaci\u00f3n y suministro", 
+                "Tasas de deforestaci\u00f3n y cambio anual", 
+                "\u00c1reas de frontera", 
+                "Gesti\u00f3n integrada de cuencas", 
+                "Regulation and supply services", 
+                "Integrated watershed management", 
+                "Border areas", 
+                "Deforestation and annual change rates", 
+                "Servi\u00e7os de regula\u00e7\u00e3o e provis\u00e3o", 
+                "Gest\u00e3o integrada de bacias", 
+                "\u00c1reas de fronteira", 
+                "Taxas de desmatamento e mudan\u00e7a anual", 
+                "Geociencias multidisciplinaria", 
+                "Ciencias de la Tierra y relacionadas con el Medio Ambiente", 
+                "CIENCIAS NATURALES Y EXACTAS"
+            ], 
+            "title": "Servicios ecosist\u00e9micos y deforestaci\u00f3n en la Selva Paranaense : An\u00e1lisis comparativo en la Cuenca Binacional del r\u00edo San Antonio (Argentina-Brasil) entre 2001 y 2011", 
+            "dc.rights.none.fl_str_mv": [
+                "info:eu-repo/semantics/openAccess", 
+                "https://creativecommons.org/licenses/by-nc-sa/2.5/ar/"
+            ], 
+            "title_full": "Servicios ecosist\u00e9micos y deforestaci\u00f3n en la Selva Paranaense : An\u00e1lisis comparativo en la Cuenca Binacional del r\u00edo San Antonio (Argentina-Brasil) entre 2001 y 2011", 
+            "repository.mail.fl_str_mv": [
+                "mail@mail.com"
+            ], 
+            "author_facet": [
+                "Zulaica, Maria Laura", 
+                "Vazquez, Patricia Susana", 
+                "Celemin, Juan Pablo"
+            ], 
+            "title_fullStr": "Servicios ecosist\u00e9micos y deforestaci\u00f3n en la Selva Paranaense : An\u00e1lisis comparativo en la Cuenca Binacional del r\u00edo San Antonio (Argentina-Brasil) entre 2001 y 2011"
+        }, 
+        "urls": [
+            {
+                "url": "http://hdl.handle.net/11336/10535", 
+                "desc": "http://hdl.handle.net/11336/10535"
+            }
+        ], 
+        "formats": [
+            "article"
+        ], 
+        "id": "AR_25e156f4fa05eeb3947274d4464e0d8b"
+    }, 
+    {
+        "primaryAuthors": [
+            "Pinto, Lucas Henrique"
+        ], 
+        "title": "Conflictos Ambientales y apropiaci\u00f3n de territorios rurales en Brasil y Argentina, un an\u00e1lisis a partir de los actores sociales involucrados : estudio comparativo de la acci\u00f3n internacional de La V\u00eda Campesina", 
+        "publicationDates": [
+            "2013"
+        ], 
+        "summary": [
+            "Pinto, L. H. (2015). Conflictos Ambientales y apropiaci\u00f3n de territorios rurales en Brasil y Argentina, un an\u00e1lisis a partir de los actores sociales involucrados : estudio comparativo de la acci\u00f3n internacional de La V\u00eda Campesina (Tesis de Doctorado). Universidad Nacional de Quilmes, Bernal, Argentina."
+        ], 
+        "languages": [
+            "spa"
+        ], 
+        "subjects": [
+            [
+                "V\u00eda Campesina"
+            ], 
+            [
+                "Movimiento de los Trabajadores Rurales Sin Tierra"
+            ], 
+            [
+                "Movimiento Nacional Campesino Ind\u00edgena"
+            ], 
+            [
+                "Reforma agraria"
+            ], 
+            [
+                "Neoliberalismo"
+            ], 
+            [
+                "Globalizaci\u00f3n"
+            ], 
+            [
+                "Pol\u00edtica agraria"
+            ], 
+            [
+                "Sector agr\u00edcola"
+            ], 
+            [
+                "Medio ambiente"
+            ], 
+            [
+                "Movimiento social"
+            ], 
+            [
+                "Conflictos sociales"
+            ], 
+            [
+                "Landless Workers' Movement"
+            ], 
+            [
+                "Agrarian reform"
+            ], 
+            [
+                "Neo-liberalism"
+            ], 
+            [
+                "Globalisation"
+            ], 
+            [
+                "Agricultural policy"
+            ], 
+            [
+                "Farming sector"
+            ], 
+            [
+                "Environment"
+            ], 
+            [
+                "Social movement"
+            ], 
+            [
+                "Movimento dos Trabalhadores Rurais sem Terra"
+            ], 
+            [
+                "Reforma agr\u00e1ria"
+            ], 
+            [
+                "Globaliza\u00e7\u00e3o"
+            ], 
+            [
+                "Meio ambiente"
+            ], 
+            [
+                "Setor agr\u00edcola"
+            ], 
+            [
+                "Mobilidade social"
+            ], 
+            [
+                "Conflitos sociais"
+            ], 
+            [
+                "Brasil"
+            ], 
+            [
+                "Argentina"
+            ]
+        ], 
+        "rawData": {
+            "dc.creator.none.fl_str_mv": [
+                "Pinto, Lucas Henrique"
+            ], 
+            "dc.date.none.fl_str_mv": [
+                "2013-08-07"
+            ], 
+            "title_sort": "Conflictos Ambientales y apropiaci\u00f3n de territorios rurales en Brasil y Argentina, un an\u00e1lisis a partir de los actores sociales involucrados : estudio comparativo de la acci\u00f3n internacional de La V\u00eda Campesina", 
+            "publisher.none.fl_str_mv": [
+                "Universidad Nacional de Quilmes"
+            ], 
+            "topic": [
+                "V\u00eda Campesina", 
+                "Movimiento de los Trabajadores Rurales Sin Tierra", 
+                "Movimiento Nacional Campesino Ind\u00edgena", 
+                "Reforma agraria", 
+                "Neoliberalismo", 
+                "Globalizaci\u00f3n", 
+                "Pol\u00edtica agraria", 
+                "Sector agr\u00edcola", 
+                "Medio ambiente", 
+                "Movimiento social", 
+                "Conflictos sociales", 
+                "Landless Workers' Movement", 
+                "Agrarian reform", 
+                "Neo-liberalism", 
+                "Globalisation", 
+                "Agricultural policy", 
+                "Farming sector", 
+                "Environment", 
+                "Social movement", 
+                "Movimento dos Trabalhadores Rurais sem Terra", 
+                "Reforma agr\u00e1ria", 
+                "Globaliza\u00e7\u00e3o", 
+                "Meio ambiente", 
+                "Setor agr\u00edcola", 
+                "Mobilidade social", 
+                "Conflitos sociais", 
+                "Brasil", 
+                "Argentina"
+            ], 
+            "dc.description.none.fl_txt_mv": [
+                "Pinto, L. H. (2015). Conflictos Ambientales y apropiaci\u00f3n de territorios rurales en Brasil y Argentina, un an\u00e1lisis a partir de los actores sociales involucrados : estudio comparativo de la acci\u00f3n internacional de La V\u00eda Campesina (Tesis de Doctorado). Universidad Nacional de Quilmes, Bernal, Argentina.", 
+                "La presente tesis doctoral nace con el objetivo de debatir procesos de conflictividad ambiental vinculados a los debates y conflictos hist\u00f3ricos de la cuesti\u00f3n agraria contempor\u00e1nea, donde a partir del avance de la cuesti\u00f3n ambiental (a partir de 1970) en los debates pol\u00edticos mundiales y los cambios biotecnol\u00f3gicos en los modos de producci\u00f3n en el campo desde los a\u00f1os 1960 principalmente, vemos que los tradicionales conflictos agrarios se han reconfigurado considerablemente en las \u00faltimas cuatro d\u00e9cadas. Tal perspectiva gana fuerza y visibilidad mundial contrahegem\u00f3nica a partir de la emergencia y accionar de La V\u00eda Campesina Internacional (LVC) entidad que nace hacia el interior y como reflejo de la transnacionalizaci\u00f3n de la agricultura mundial a partir de la revoluci\u00f3n verde en los a\u00f1os de 1960. Proceso relacionado y dependiente directamente de las din\u00e1micas del ascenso neoliberal y apertura econ\u00f3mica, pol\u00edticas que se incrementaron fuertemente ulterior a la ca\u00edda del Muro de Berl\u00edn y la hegemon\u00eda \u201cdefinitiva\u201d del modelo neoliberal hacia fines de los a\u00f1os de 1980, momento en que el imaginario social mundial es asaltado ideol\u00f3gicamente por la idea de globalizaci\u00f3n planteada a partir de all\u00ed (Consenso de Washington) como el \u201cpensamiento \u00fanico\u201d. Analizamos en el presente trabajo, a partir de investigaciones bibliogr\u00e1ficas; entrevistas a miembros y visitas a movimientos sociales campesinos en Brasil y Argentina (MST y MNCI), c\u00f3mo los actuales conflictos agrarios han asumido tambi\u00e9n desde el proceso antes descripto, una impronta ambiental, a partir de la idea de justicia ambiental vinculada a los debates sobre la reforma agraria, problematizando por ende, c\u00f3mo se configura tal proceso (ambientalizaci\u00f3n de la cuesti\u00f3n agraria) y sus principales desaf\u00edos a mediano y largo plazo al interior de la LVC. Pudimos concluir que efectivamente hay un creciente acercamiento de las entidades campesinas vinculadas a La V\u00eda Campesina Internacional hacia las tem\u00e1ticas medioambientales, reconfigurando sus luchas hist\u00f3ricas y el debate ambiental hegem\u00f3nico. No obstante, tal proceso no es lineal ni tampoco un\u00edvoco, coexistiendo internamente (conflictivamente) con otras perspectivas dentro de las filas de La V\u00eda Campesina Internacional."
+            ], 
+            "url": [
+                "http://ridaa.unq.edu.ar/handle/20.500.11807/104"
+            ], 
+            "title_full_unstemmed": "Conflictos Ambientales y apropiaci\u00f3n de territorios rurales en Brasil y Argentina, un an\u00e1lisis a partir de los actores sociales involucrados : estudio comparativo de la acci\u00f3n internacional de La V\u00eda Campesina", 
+            "id": "AR_1136fff86957bd6dd5b332e8f9626bcd", 
+            "status_str": "acceptedVersion", 
+            "author": [
+                "Pinto, Lucas Henrique"
+            ], 
+            "spellingShingle": [
+                "Conflictos Ambientales y apropiaci\u00f3n de territorios rurales en Brasil y Argentina, un an\u00e1lisis a partir de los actores sociales involucrados : estudio comparativo de la acci\u00f3n internacional de La V\u00eda Campesina", 
+                "Pinto, Lucas Henrique", 
+                "V\u00eda Campesina", 
+                "Movimiento de los Trabajadores Rurales Sin Tierra", 
+                "Movimiento Nacional Campesino Ind\u00edgena", 
+                "Reforma agraria", 
+                "Neoliberalismo", 
+                "Globalizaci\u00f3n", 
+                "Pol\u00edtica agraria", 
+                "Sector agr\u00edcola", 
+                "Medio ambiente", 
+                "Movimiento social", 
+                "Conflictos sociales", 
+                "Landless Workers' Movement", 
+                "Agrarian reform", 
+                "Neo-liberalism", 
+                "Globalisation", 
+                "Agricultural policy", 
+                "Farming sector", 
+                "Environment", 
+                "Social movement", 
+                "Movimento dos Trabalhadores Rurais sem Terra", 
+                "Reforma agr\u00e1ria", 
+                "Globaliza\u00e7\u00e3o", 
+                "Meio ambiente", 
+                "Setor agr\u00edcola", 
+                "Mobilidade social", 
+                "Conflitos sociais", 
+                "Brasil", 
+                "Argentina"
+            ], 
+            "score": 866.1521, 
+            "_version_": 1607631542298869760, 
+            "dc.publisher.none.fl_str_mv": [
+                "Universidad Nacional de Quilmes"
+            ], 
+            "dc.type.none.fl_str_mv": [
+                "info:ar-repo/semantics/tesis doctoral", 
+                "info:eu-repo/semantics/doctoralThesis", 
+                "info:eu-repo/semantics/acceptedVersion"
+            ], 
+            "repository.name.fl_str_mv": [
+                "\n\t\t\t-\n\t\t\t"
+            ], 
+            "description": "Pinto, L. H. (2015). Conflictos Ambientales y apropiaci\u00f3n de territorios rurales en Brasil y Argentina, un an\u00e1lisis a partir de los actores sociales involucrados : estudio comparativo de la acci\u00f3n internacional de La V\u00eda Campesina (Tesis de Doctorado). Universidad Nacional de Quilmes, Bernal, Argentina.", 
+            "format": [
+                "doctoralThesis"
+            ], 
+            "network_name_str": "Argentina", 
+            "publishDate": [
+                "2013"
+            ], 
+            "network_acronym_str": "AR", 
+            "dc.format.none.fl_str_mv": [
+                "application/pdf"
+            ], 
+            "eu_rights_str_mv": [
+                "openAccess"
+            ], 
+            "oai_identifier_str": "bfd8f739-0702-4586-a7e3-0e0bcc1d7c57/oai:ridaa.unq.edu.ar:20.500.11807/104", 
+            "rights_invalid_str_mv": [
+                "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
+            ], 
+            "dc.language.none.fl_str_mv": [
+                "spa"
+            ], 
+            "dc.title.none.fl_str_mv": [
+                "Conflictos Ambientales y apropiaci\u00f3n de territorios rurales en Brasil y Argentina, un an\u00e1lisis a partir de los actores sociales involucrados : estudio comparativo de la acci\u00f3n internacional de La V\u00eda Campesina"
+            ], 
+            "dc.identifier.none.fl_str_mv": [
+                "http://ridaa.unq.edu.ar/handle/20.500.11807/104"
+            ], 
+            "title_short": "Conflictos Ambientales y apropiaci\u00f3n de territorios rurales en Brasil y Argentina, un an\u00e1lisis a partir de los actores sociales involucrados : estudio comparativo de la acci\u00f3n internacional de La V\u00eda Campesina", 
+            "language": [
+                "spa"
+            ], 
+            "dc.subject.none.fl_str_mv": [
+                "V\u00eda Campesina", 
+                "Movimiento de los Trabajadores Rurales Sin Tierra", 
+                "Movimiento Nacional Campesino Ind\u00edgena", 
+                "Reforma agraria", 
+                "Neoliberalismo", 
+                "Globalizaci\u00f3n", 
+                "Pol\u00edtica agraria", 
+                "Sector agr\u00edcola", 
+                "Medio ambiente", 
+                "Movimiento social", 
+                "Conflictos sociales", 
+                "Landless Workers' Movement", 
+                "Agrarian reform", 
+                "Neo-liberalism", 
+                "Globalisation", 
+                "Agricultural policy", 
+                "Farming sector", 
+                "Environment", 
+                "Social movement", 
+                "Movimento dos Trabalhadores Rurais sem Terra", 
+                "Reforma agr\u00e1ria", 
+                "Globaliza\u00e7\u00e3o", 
+                "Meio ambiente", 
+                "Setor agr\u00edcola", 
+                "Mobilidade social", 
+                "Conflitos sociais", 
+                "Brasil", 
+                "Argentina"
+            ], 
+            "title": "Conflictos Ambientales y apropiaci\u00f3n de territorios rurales en Brasil y Argentina, un an\u00e1lisis a partir de los actores sociales involucrados : estudio comparativo de la acci\u00f3n internacional de La V\u00eda Campesina", 
+            "dc.rights.none.fl_str_mv": [
+                "https://creativecommons.org/licenses/by-nc-nd/2.5/ar/", 
+                "info:eu-repo/semantics/openAccess"
+            ], 
+            "title_full": "Conflictos Ambientales y apropiaci\u00f3n de territorios rurales en Brasil y Argentina, un an\u00e1lisis a partir de los actores sociales involucrados : estudio comparativo de la acci\u00f3n internacional de La V\u00eda Campesina", 
+            "repository.mail.fl_str_mv": [
+                "mail@mail.com"
+            ], 
+            "dc.contributor.none.fl_str_mv": [
+                "Zarrilli, Gustavo Adri\u00e1n", 
+                "Carneiro, Eder Jurandir", 
+                "Carballo, Cristina", 
+                "Tognetti, Luis Alberto", 
+                "Secreto de Ferreras, Mar\u00eda Ver\u00f3nica"
+            ], 
+            "author_facet": [
+                "Pinto, Lucas Henrique"
+            ], 
+            "title_fullStr": "Conflictos Ambientales y apropiaci\u00f3n de territorios rurales en Brasil y Argentina, un an\u00e1lisis a partir de los actores sociales involucrados : estudio comparativo de la acci\u00f3n internacional de La V\u00eda Campesina"
+        }, 
+        "urls": [
+            {
+                "url": "http://ridaa.unq.edu.ar/handle/20.500.11807/104", 
+                "desc": "http://ridaa.unq.edu.ar/handle/20.500.11807/104"
+            }
+        ], 
+        "formats": [
+            "doctoralThesis"
+        ], 
+        "id": "AR_1136fff86957bd6dd5b332e8f9626bcd"
+    }, 
+    {
+        "primaryAuthors": [
+            "Nivia Montenegro, Luz Stella"
+        ], 
+        "title": "Gu\u00eda socio-ambiental para las obras de construcci\u00f3n de vivienda en la ciudad de Armenia", 
+        "publicationDates": [
+            "2017"
+        ], 
+        "summary": [
+            "Armenia es una ciudad con una riqueza natural y ambiental, reflejada en las 54 quebradas que conforman 18 microcuencas que recorren el territorio urbano hasta drenar a los r\u00edos Quind\u00edo, Espejo y la Quebrada Cristales -- Estos espacios naturales incluyen fauna y flora que generan una fortaleza y riqueza ambiental en una regi\u00f3n declarada por la Unesco en el a\u00f1o 2011 como paisaje cultural cafetero -- El paisaje y extenso verde de la ciudad, se ve en peligro debido al desarrollo de la construcci\u00f3n por la creciente demanda de vivienda en la zona -- El incremento de las actividades de construcci\u00f3n ha generado la expansi\u00f3n del territorio, la densificaci\u00f3n edificatoria, la intensificaci\u00f3n del uso del suelo, la demanda de recursos naturales, un impacto en los servicios p\u00fablicos por las exigencias de expansi\u00f3n, el incremento de residuos s\u00f3lidos, la contaminaci\u00f3n del suelo, aire, agua e impacto en las microcuencas urbanas y traumatismos en la poblaci\u00f3n del \u00e1rea de influencia -- La actividad de la construcci\u00f3n no sigue lineamientos claros respecto al componente ambiental y la realidad natural de la ciudad -- Algunos de estos actores, sin analizar el impacto socio \u2013 ambiental de los proyectos y sin conocer plenamente las etapas de la construcci\u00f3n e influencia en el entorno no desarrollan una \u00f3ptima planificaci\u00f3n de las actividades que se ejecutan antes y durante el proyecto, al igual que la implementaci\u00f3n de un plan o programa de manejo ambiental para proceder de manera \u00e1gil y r\u00e1pida en la mitigaci\u00f3n del impacto en el medio ambiente y la poblaci\u00f3n del \u00e1rea de influencia -- El estudio permite establecer como son las din\u00e1micas de construcci\u00f3n en la ciudad de Armenia y su relaci\u00f3n con el medio ambiente; adem\u00e1s de proponer unas estrategias en una gu\u00eda ambiental como referente en la toma de decisiones de los diferentes actores (constructores y comunidad en general)"
+        ], 
+        "languages": [
+            "spa"
+        ], 
+        "subjects": [
+            [
+                "Industria de la construcci\u00f3n - Armenia (Quind\u00edo - Colombia)"
+            ], 
+            [
+                "Obras p\u00fablicas - Armenia (Quind\u00edo - Colombia)"
+            ], 
+            [
+                "Obras p\u00fablicas - aspectos ambientales"
+            ], 
+            [
+                "Residuos de materiales de construcci\u00f3n"
+            ], 
+            [
+                "INDUSTRIA DE LA CONSTRUCCI\u00d3N"
+            ], 
+            [
+                "CONSTRUCCI\u00d3N DE VIVIENDAS"
+            ], 
+            [
+                "USO DE LA TIERRA"
+            ], 
+            [
+                "URBANISMO"
+            ], 
+            [
+                "CONTROL AMBIENTAL"
+            ], 
+            [
+                "PROTECCI\u00d3N DEL MEDIO AMBIENTE"
+            ], 
+            [
+                "CONTAMINACI\u00d3N DE SUELOS"
+            ], 
+            [
+                "GESTI\u00d3N AMBIENTAL"
+            ], 
+            [
+                "IMPACTO AMBIENTAL"
+            ], 
+            [
+                "Construction industry"
+            ], 
+            [
+                "House construction"
+            ], 
+            [
+                "Land use"
+            ], 
+            [
+                "Environmental law"
+            ], 
+            [
+                "Environmental protection"
+            ], 
+            [
+                "Soil pollution"
+            ], 
+            [
+                "Environmental management"
+            ], 
+            [
+                "Environmental Impact"
+            ]
+        ], 
+        "rawData": {
+            "dc.creator.none.fl_str_mv": [
+                "Nivia Montenegro, Luz Stella"
+            ], 
+            "dc.date.none.fl_str_mv": [
+                "2017-11-15T16:34:45Z", 
+                "2017", 
+                "2017-11-15T16:34:45Z"
+            ], 
+            "title_sort": "Gu\u00eda socio-ambiental para las obras de construcci\u00f3n de vivienda en la ciudad de Armenia", 
+            "publisher.none.fl_str_mv": [
+                "Universidad EAFIT", 
+                "Maestr\u00eda en Ingenier\u00eda", 
+                "Escuela de Ingenier\u00eda"
+            ], 
+            "dc.coverage.none.fl_str_mv": [
+                "Medell\u00edn de: Lat: 06 15 00 N degrees minutes Lat: 6.2500 decimal degrees Long: 075 36 00 W degrees minutes Long: -75.6000 decimal degrees"
+            ], 
+            "topic": [
+                "Industria de la construcci\u00f3n - Armenia (Quind\u00edo - Colombia)", 
+                "Obras p\u00fablicas - Armenia (Quind\u00edo - Colombia)", 
+                "Obras p\u00fablicas - aspectos ambientales", 
+                "Residuos de materiales de construcci\u00f3n", 
+                "INDUSTRIA DE LA CONSTRUCCI\u00d3N", 
+                "CONSTRUCCI\u00d3N DE VIVIENDAS", 
+                "USO DE LA TIERRA", 
+                "URBANISMO", 
+                "CONTROL AMBIENTAL", 
+                "PROTECCI\u00d3N DEL MEDIO AMBIENTE", 
+                "CONTAMINACI\u00d3N DE SUELOS", 
+                "GESTI\u00d3N AMBIENTAL", 
+                "IMPACTO AMBIENTAL", 
+                "Construction industry", 
+                "House construction", 
+                "Land use", 
+                "Environmental law", 
+                "Environmental protection", 
+                "Soil pollution", 
+                "Environmental management", 
+                "Environmental Impact"
+            ], 
+            "dc.description.none.fl_txt_mv": [
+                "Armenia es una ciudad con una riqueza natural y ambiental, reflejada en las 54 quebradas que conforman 18 microcuencas que recorren el territorio urbano hasta drenar a los r\u00edos Quind\u00edo, Espejo y la Quebrada Cristales -- Estos espacios naturales incluyen fauna y flora que generan una fortaleza y riqueza ambiental en una regi\u00f3n declarada por la Unesco en el a\u00f1o 2011 como paisaje cultural cafetero -- El paisaje y extenso verde de la ciudad, se ve en peligro debido al desarrollo de la construcci\u00f3n por la creciente demanda de vivienda en la zona -- El incremento de las actividades de construcci\u00f3n ha generado la expansi\u00f3n del territorio, la densificaci\u00f3n edificatoria, la intensificaci\u00f3n del uso del suelo, la demanda de recursos naturales, un impacto en los servicios p\u00fablicos por las exigencias de expansi\u00f3n, el incremento de residuos s\u00f3lidos, la contaminaci\u00f3n del suelo, aire, agua e impacto en las microcuencas urbanas y traumatismos en la poblaci\u00f3n del \u00e1rea de influencia -- La actividad de la construcci\u00f3n no sigue lineamientos claros respecto al componente ambiental y la realidad natural de la ciudad -- Algunos de estos actores, sin analizar el impacto socio \u2013 ambiental de los proyectos y sin conocer plenamente las etapas de la construcci\u00f3n e influencia en el entorno no desarrollan una \u00f3ptima planificaci\u00f3n de las actividades que se ejecutan antes y durante el proyecto, al igual que la implementaci\u00f3n de un plan o programa de manejo ambiental para proceder de manera \u00e1gil y r\u00e1pida en la mitigaci\u00f3n del impacto en el medio ambiente y la poblaci\u00f3n del \u00e1rea de influencia -- El estudio permite establecer como son las din\u00e1micas de construcci\u00f3n en la ciudad de Armenia y su relaci\u00f3n con el medio ambiente; adem\u00e1s de proponer unas estrategias en una gu\u00eda ambiental como referente en la toma de decisiones de los diferentes actores (constructores y comunidad en general)"
+            ], 
+            "url": [
+                "http://hdl.handle.net/10784/11833"
+            ], 
+            "title_full_unstemmed": "Gu\u00eda socio-ambiental para las obras de construcci\u00f3n de vivienda en la ciudad de Armenia", 
+            "id": "CO_81a46ddb02d490db956da2a6657c12c4", 
+            "status_str": "publishedVersion", 
+            "reponame_str": "Repositorio Universidad EAFIT", 
+            "author": [
+                "Nivia Montenegro, Luz Stella"
+            ], 
+            "identifier_str_mv": [
+                "338.47624CD N735G"
+            ], 
+            "instname_str": "Universidad EAFIT", 
+            "spellingShingle": [
+                "Gu\u00eda socio-ambiental para las obras de construcci\u00f3n de vivienda en la ciudad de Armenia", 
+                "Nivia Montenegro, Luz Stella", 
+                "Industria de la construcci\u00f3n - Armenia (Quind\u00edo - Colombia)", 
+                "Obras p\u00fablicas - Armenia (Quind\u00edo - Colombia)", 
+                "Obras p\u00fablicas - aspectos ambientales", 
+                "Residuos de materiales de construcci\u00f3n", 
+                "INDUSTRIA DE LA CONSTRUCCI\u00d3N", 
+                "CONSTRUCCI\u00d3N DE VIVIENDAS", 
+                "USO DE LA TIERRA", 
+                "URBANISMO", 
+                "CONTROL AMBIENTAL", 
+                "PROTECCI\u00d3N DEL MEDIO AMBIENTE", 
+                "CONTAMINACI\u00d3N DE SUELOS", 
+                "GESTI\u00d3N AMBIENTAL", 
+                "IMPACTO AMBIENTAL", 
+                "Construction industry", 
+                "House construction", 
+                "Land use", 
+                "Environmental law", 
+                "Environmental protection", 
+                "Soil pollution", 
+                "Environmental management", 
+                "Environmental Impact"
+            ], 
+            "score": 866.1521, 
+            "_version_": 1607631903477727232, 
+            "dc.publisher.none.fl_str_mv": [
+                "Universidad EAFIT", 
+                "Maestr\u00eda en Ingenier\u00eda", 
+                "Escuela de Ingenier\u00eda"
+            ], 
+            "dc.type.none.fl_str_mv": [
+                "info:eu-repo/semantics/masterThesis", 
+                "acceptedVersion", 
+                "info:eu-repo/semantics/publishedVersion"
+            ], 
+            "repository.name.fl_str_mv": [
+                "\n\t\t\t-\n\t\t\t"
+            ], 
+            "description": "Armenia es una ciudad con una riqueza natural y ambiental, reflejada en las 54 quebradas que conforman 18 microcuencas que recorren el territorio urbano hasta drenar a los r\u00edos Quind\u00edo, Espejo y la Quebrada Cristales -- Estos espacios naturales incluyen fauna y flora que generan una fortaleza y riqueza ambiental en una regi\u00f3n declarada por la Unesco en el a\u00f1o 2011 como paisaje cultural cafetero -- El paisaje y extenso verde de la ciudad, se ve en peligro debido al desarrollo de la construcci\u00f3n por la creciente demanda de vivienda en la zona -- El incremento de las actividades de construcci\u00f3n ha generado la expansi\u00f3n del territorio, la densificaci\u00f3n edificatoria, la intensificaci\u00f3n del uso del suelo, la demanda de recursos naturales, un impacto en los servicios p\u00fablicos por las exigencias de expansi\u00f3n, el incremento de residuos s\u00f3lidos, la contaminaci\u00f3n del suelo, aire, agua e impacto en las microcuencas urbanas y traumatismos en la poblaci\u00f3n del \u00e1rea de influencia -- La actividad de la construcci\u00f3n no sigue lineamientos claros respecto al componente ambiental y la realidad natural de la ciudad -- Algunos de estos actores, sin analizar el impacto socio \u2013 ambiental de los proyectos y sin conocer plenamente las etapas de la construcci\u00f3n e influencia en el entorno no desarrollan una \u00f3ptima planificaci\u00f3n de las actividades que se ejecutan antes y durante el proyecto, al igual que la implementaci\u00f3n de un plan o programa de manejo ambiental para proceder de manera \u00e1gil y r\u00e1pida en la mitigaci\u00f3n del impacto en el medio ambiente y la poblaci\u00f3n del \u00e1rea de influencia -- El estudio permite establecer como son las din\u00e1micas de construcci\u00f3n en la ciudad de Armenia y su relaci\u00f3n con el medio ambiente; adem\u00e1s de proponer unas estrategias en una gu\u00eda ambiental como referente en la toma de decisiones de los diferentes actores (constructores y comunidad en general)", 
+            "format": [
+                "masterThesis"
+            ], 
+            "network_name_str": "Colombia", 
+            "publishDate": [
+                "2017"
+            ], 
+            "network_acronym_str": "CO", 
+            "dc.format.none.fl_str_mv": [
+                "application/pdf"
+            ], 
+            "eu_rights_str_mv": [
+                "openAccess"
+            ], 
+            "collection": [
+                "Repositorio Universidad EAFIT"
+            ], 
+            "oai_identifier_str": "lr::4114::22959403::oai:repository.eafit.edu.co:10784/11833", 
+            "rights_invalid_str_mv": [
+                "openAccess", 
+                "Libre acceso"
+            ], 
+            "dc.source.none.fl_str_mv": [
+                "reponame:Repositorio Universidad EAFIT", 
+                "instname:Universidad EAFIT"
+            ], 
+            "dc.language.none.fl_str_mv": [
+                "spa"
+            ], 
+            "dc.title.none.fl_str_mv": [
+                "Gu\u00eda socio-ambiental para las obras de construcci\u00f3n de vivienda en la ciudad de Armenia"
+            ], 
+            "dc.identifier.none.fl_str_mv": [
+                "http://hdl.handle.net/10784/11833", 
+                "338.47624CD N735G"
+            ], 
+            "title_short": "Gu\u00eda socio-ambiental para las obras de construcci\u00f3n de vivienda en la ciudad de Armenia", 
+            "language": [
+                "spa"
+            ], 
+            "dc.subject.none.fl_str_mv": [
+                "Industria de la construcci\u00f3n - Armenia (Quind\u00edo - Colombia)", 
+                "Obras p\u00fablicas - Armenia (Quind\u00edo - Colombia)", 
+                "Obras p\u00fablicas - aspectos ambientales", 
+                "Residuos de materiales de construcci\u00f3n", 
+                "INDUSTRIA DE LA CONSTRUCCI\u00d3N", 
+                "CONSTRUCCI\u00d3N DE VIVIENDAS", 
+                "USO DE LA TIERRA", 
+                "URBANISMO", 
+                "CONTROL AMBIENTAL", 
+                "PROTECCI\u00d3N DEL MEDIO AMBIENTE", 
+                "CONTAMINACI\u00d3N DE SUELOS", 
+                "GESTI\u00d3N AMBIENTAL", 
+                "IMPACTO AMBIENTAL", 
+                "Construction industry", 
+                "House construction", 
+                "Land use", 
+                "Environmental law", 
+                "Environmental protection", 
+                "Soil pollution", 
+                "Environmental management", 
+                "Environmental Impact"
+            ], 
+            "title": "Gu\u00eda socio-ambiental para las obras de construcci\u00f3n de vivienda en la ciudad de Armenia", 
+            "dc.rights.none.fl_str_mv": [
+                "info:eu-repo/semantics/openAccess", 
+                "openAccess", 
+                "Libre acceso"
+            ], 
+            "title_full": "Gu\u00eda socio-ambiental para las obras de construcci\u00f3n de vivienda en la ciudad de Armenia", 
+            "repository.mail.fl_str_mv": [
+                "mail@mail.com"
+            ], 
+            "dc.contributor.none.fl_str_mv": [
+                "Monsalve Durango, Elkin An\u00edbal"
+            ], 
+            "author_facet": [
+                "Nivia Montenegro, Luz Stella"
+            ], 
+            "title_fullStr": "Gu\u00eda socio-ambiental para las obras de construcci\u00f3n de vivienda en la ciudad de Armenia"
+        }, 
+        "urls": [
+            {
+                "url": "http://hdl.handle.net/10784/11833", 
+                "desc": "http://hdl.handle.net/10784/11833"
+            }
+        ], 
+        "formats": [
+            "masterThesis"
+        ], 
+        "id": "CO_81a46ddb02d490db956da2a6657c12c4"
+    }
+]

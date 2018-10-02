@@ -1,0 +1,2388 @@
+[
+    {
+        "primaryAuthors": [
+            "Machado Olivares, Federico Jos\u00e9"
+        ], 
+        "title": "Propuesta para redes de tierra interconectadas en sistemas el\u00e9ctricos que incluyen generadores de energ\u00eda mediante recursos renovables", 
+        "publicationDates": [
+            "2015"
+        ], 
+        "summary": [
+            "Los sistemas de puesta a tierra representan un componente importante en las protecciones que poseen las instalaciones el\u00e9ctricas. Diferentes formas de generaci\u00f3n de la energ\u00eda el\u00e9ctrica mediante recursos renovables incluyen la necesidad de ubicar estructuras de soporte en \u00e1reas expuestas a muy diversas inclemencias atmosf\u00e9ricas, entre ellas, los rayos. De manera adicional, muchos de los equipos de monitoreo y control para los generadores de energ\u00edas renovables, tienen un alto grado de sensibilidad a perturbaciones por la naturaleza de componentes electr\u00f3nicos. Finalmente, se tiene la inclusi\u00f3n de las cargas existentes, que demandar\u00e1n su conexi\u00f3n a la red de puesta de tierra para hacer efectiva su protecci\u00f3n ante perturbaciones en la red de distribuci\u00f3n. Con la necesidad de conectar todos los equipos de generaci\u00f3n y cargas a la red de puesta de tierra, surge la reflexi\u00f3n si disponer de un solo sistema al cual se conecten todas las cargas es el necesario y suficiente para proteger los equipos o, en otro escenario extremo, instalar sistemas de puesta a tierra dedicados individualmente. La propuesta identifica la necesidad de disponer de redes individuales interconectadas con el af\u00e1n de mejorar el nivel de protecci\u00f3n de equipos y personas ante la eventualidad de descargas el\u00e9ctricas."
+        ], 
+        "languages": [
+            "spa"
+        ], 
+        "subjects": [
+            [
+                "Cient\u00edfica"
+            ], 
+            [
+                "Redes"
+            ], 
+            [
+                "Tierra"
+            ], 
+            [
+                "Interconexi\u00f3n"
+            ], 
+            [
+                "Generadores"
+            ], 
+            [
+                "Renovables"
+            ]
+        ], 
+        "rawData": {
+            "dc.creator.none.fl_str_mv": [
+                "Machado Olivares, Federico Jos\u00e9"
+            ], 
+            "dc.date.none.fl_str_mv": [
+                "2015-09-07T17:43:34Z", 
+                "2015-09-07T17:43:34Z", 
+                "2015-05"
+            ], 
+            "title_sort": "Propuesta para redes de tierra interconectadas en sistemas el\u00e9ctricos que incluyen generadores de energ\u00eda mediante recursos renovables", 
+            "dc.relation.none.fl_str_mv": [
+                "Reproducci\u00f3n del documento original", 
+                "Revista Cient\u00edfica, No. 16, p. 45-54."
+            ], 
+            "publisher.none.fl_str_mv": [
+                "Editorial Universidad Don Bosco"
+            ], 
+            "topic": [
+                "Cient\u00edfica", 
+                "Redes", 
+                "Tierra", 
+                "Interconexi\u00f3n", 
+                "Generadores", 
+                "Renovables"
+            ], 
+            "dc.description.none.fl_txt_mv": [
+                "Los sistemas de puesta a tierra representan un componente importante en las protecciones que poseen las instalaciones el\u00e9ctricas. Diferentes formas de generaci\u00f3n de la energ\u00eda el\u00e9ctrica mediante recursos renovables incluyen la necesidad de ubicar estructuras de soporte en \u00e1reas expuestas a muy diversas inclemencias atmosf\u00e9ricas, entre ellas, los rayos. De manera adicional, muchos de los equipos de monitoreo y control para los generadores de energ\u00edas renovables, tienen un alto grado de sensibilidad a perturbaciones por la naturaleza de componentes electr\u00f3nicos. Finalmente, se tiene la inclusi\u00f3n de las cargas existentes, que demandar\u00e1n su conexi\u00f3n a la red de puesta de tierra para hacer efectiva su protecci\u00f3n ante perturbaciones en la red de distribuci\u00f3n. Con la necesidad de conectar todos los equipos de generaci\u00f3n y cargas a la red de puesta de tierra, surge la reflexi\u00f3n si disponer de un solo sistema al cual se conecten todas las cargas es el necesario y suficiente para proteger los equipos o, en otro escenario extremo, instalar sistemas de puesta a tierra dedicados individualmente. La propuesta identifica la necesidad de disponer de redes individuales interconectadas con el af\u00e1n de mejorar el nivel de protecci\u00f3n de equipos y personas ante la eventualidad de descargas el\u00e9ctricas."
+            ], 
+            "url": [
+                "http://hdl.handle.net/11715/324"
+            ], 
+            "title_full_unstemmed": "Propuesta para redes de tierra interconectadas en sistemas el\u00e9ctricos que incluyen generadores de energ\u00eda mediante recursos renovables", 
+            "id": "SV_f804c31c948906c29a95989d97a94d6a", 
+            "status_str": "publishedVersion", 
+            "reponame_str": "Repositorio Digital UDB", 
+            "author": [
+                "Machado Olivares, Federico Jos\u00e9"
+            ], 
+            "identifier_str_mv": [
+                "Machado, F. (2015). Propuesta para redes de tierra interconectadas en sistemas el\u00e9ctricos que incluyen generadores de energ\u00eda mediante recursos renovables. Revista Cient\u00edfica, 2 (1), \u00c9poca 2, pp. 45-54.", 
+                "1814-6309"
+            ], 
+            "instname_str": "Universidad Don Bosco", 
+            "spellingShingle": [
+                "Propuesta para redes de tierra interconectadas en sistemas el\u00e9ctricos que incluyen generadores de energ\u00eda mediante recursos renovables", 
+                "Machado Olivares, Federico Jos\u00e9", 
+                "Cient\u00edfica", 
+                "Redes", 
+                "Tierra", 
+                "Interconexi\u00f3n", 
+                "Generadores", 
+                "Renovables"
+            ], 
+            "score": 1689.7632, 
+            "_version_": 1612586612405829632, 
+            "dc.publisher.none.fl_str_mv": [
+                "Editorial Universidad Don Bosco"
+            ], 
+            "dc.type.none.fl_str_mv": [
+                "info:eu-repo/semantics/publishedVersion", 
+                "info:eu-repo/semantics/article"
+            ], 
+            "repository.name.fl_str_mv": [
+                "\n\t\t\t-\n\t\t\t"
+            ], 
+            "description": "Los sistemas de puesta a tierra representan un componente importante en las protecciones que poseen las instalaciones el\u00e9ctricas. Diferentes formas de generaci\u00f3n de la energ\u00eda el\u00e9ctrica mediante recursos renovables incluyen la necesidad de ubicar estructuras de soporte en \u00e1reas expuestas a muy diversas inclemencias atmosf\u00e9ricas, entre ellas, los rayos. De manera adicional, muchos de los equipos de monitoreo y control para los generadores de energ\u00edas renovables, tienen un alto grado de sensibilidad a perturbaciones por la naturaleza de componentes electr\u00f3nicos. Finalmente, se tiene la inclusi\u00f3n de las cargas existentes, que demandar\u00e1n su conexi\u00f3n a la red de puesta de tierra para hacer efectiva su protecci\u00f3n ante perturbaciones en la red de distribuci\u00f3n. Con la necesidad de conectar todos los equipos de generaci\u00f3n y cargas a la red de puesta de tierra, surge la reflexi\u00f3n si disponer de un solo sistema al cual se conecten todas las cargas es el necesario y suficiente para proteger los equipos o, en otro escenario extremo, instalar sistemas de puesta a tierra dedicados individualmente. La propuesta identifica la necesidad de disponer de redes individuales interconectadas con el af\u00e1n de mejorar el nivel de protecci\u00f3n de equipos y personas ante la eventualidad de descargas el\u00e9ctricas.", 
+            "institution": [
+                "UDB"
+            ], 
+            "format": [
+                "article"
+            ], 
+            "network_name_str": "El Salvador", 
+            "publishDate": [
+                "2015"
+            ], 
+            "network_acronym_str": "SV", 
+            "dc.format.none.fl_str_mv": [
+                "10 p.", 
+                "application/pdf"
+            ], 
+            "eu_rights_str_mv": [
+                "openAccess"
+            ], 
+            "collection": [
+                "Repositorio Digital UDB"
+            ], 
+            "instacron_str": "UDB", 
+            "oai_identifier_str": "oai:rd.udb.edu.sv:11715/324", 
+            "rights_invalid_str_mv": [
+                "\u00a9 Universidad Don Bosco"
+            ], 
+            "dc.source.none.fl_str_mv": [
+                "reponame:Repositorio Digital UDB", 
+                "instname:Universidad Don Bosco", 
+                "instacron:UDB"
+            ], 
+            "dc.language.none.fl_str_mv": [
+                "spa"
+            ], 
+            "dc.title.none.fl_str_mv": [
+                "Propuesta para redes de tierra interconectadas en sistemas el\u00e9ctricos que incluyen generadores de energ\u00eda mediante recursos renovables"
+            ], 
+            "dc.identifier.none.fl_str_mv": [
+                "Machado, F. (2015). Propuesta para redes de tierra interconectadas en sistemas el\u00e9ctricos que incluyen generadores de energ\u00eda mediante recursos renovables. Revista Cient\u00edfica, 2 (1), \u00c9poca 2, pp. 45-54.", 
+                "1814-6309", 
+                "http://hdl.handle.net/11715/324"
+            ], 
+            "title_short": "Propuesta para redes de tierra interconectadas en sistemas el\u00e9ctricos que incluyen generadores de energ\u00eda mediante recursos renovables", 
+            "language": [
+                "spa"
+            ], 
+            "dc.subject.none.fl_str_mv": [
+                "Cient\u00edfica", 
+                "Redes", 
+                "Tierra", 
+                "Interconexi\u00f3n", 
+                "Generadores", 
+                "Renovables"
+            ], 
+            "title": "Propuesta para redes de tierra interconectadas en sistemas el\u00e9ctricos que incluyen generadores de energ\u00eda mediante recursos renovables", 
+            "dc.rights.none.fl_str_mv": [
+                "\u00a9 Universidad Don Bosco", 
+                "info:eu-repo/semantics/openAccess"
+            ], 
+            "title_full": "Propuesta para redes de tierra interconectadas en sistemas el\u00e9ctricos que incluyen generadores de energ\u00eda mediante recursos renovables", 
+            "repository.mail.fl_str_mv": [
+                "mail@mail.com"
+            ], 
+            "dc.contributor.none.fl_str_mv": [
+                "Universidad Don Bosco"
+            ], 
+            "author_facet": [
+                "Machado Olivares, Federico Jos\u00e9"
+            ], 
+            "title_fullStr": "Propuesta para redes de tierra interconectadas en sistemas el\u00e9ctricos que incluyen generadores de energ\u00eda mediante recursos renovables"
+        }, 
+        "urls": [
+            {
+                "url": "http://hdl.handle.net/11715/324", 
+                "desc": "http://hdl.handle.net/11715/324"
+            }
+        ], 
+        "formats": [
+            "article"
+        ], 
+        "id": "SV_f804c31c948906c29a95989d97a94d6a"
+    }, 
+    {
+        "primaryAuthors": [
+            "Barrantes Araya, Trino"
+        ], 
+        "title": "San Ram\u00f3n Tierra de Poetas", 
+        "publicationDates": [
+            "2016"
+        ], 
+        "summary": [
+            "El trabajo consta de dos ejes claramente diferenciados: En el primero se dibuja de manera muy general el desarrollo de la clase pol\u00edtica de San Ram\u00f3n y su real inserci\u00f3n en la estructura del poder del Estado/Naci\u00f3n, atendiendo las razones que le ofrece el contexto hist\u00f3rico costarricense, en su doble variante: como aparato ideol\u00f3gico y como estructura de poder.. En el segundo t\u00f3pico se procura ofrecer una lectura sistematizada desde la antropolog\u00eda/cultural y literaria de las construcciones que se tejen en el texto general de la cultura y que dan lugar a la denominaci\u00f3n de \u201cSan Ram\u00f3n Tierra de Poetas. El inter\u00e9s de este eje, es generar un proceso de ciencia, a fin de dotar a los vecinos de este cant\u00f3n, de algunos instrumentos te\u00f3rico-conceptuales que sirvan de punto de partida para la b\u00fasqueda y afirmaci\u00f3n de su proceso cultural e identidad.Entre ambos temas subyace de manera tangencial la categor\u00eda de cultura, la cual se sugiere, pero no se desarrolla. Queda como una propuesta para un an\u00e1lisis m\u00e1s profundo del tema sugerido."
+        ], 
+        "languages": [
+            "spa"
+        ], 
+        "subjects": [
+            [
+                "San Ram\u00f3n"
+            ], 
+            [
+                "tierra de poetas"
+            ], 
+            [
+                "poes\u00eda"
+            ], 
+            [
+                "control ideol\u00f3gico"
+            ], 
+            [
+                "g\u00e9nero literario"
+            ], 
+            [
+                "Lis\u00edmaco Chavarr\u00eda"
+            ], 
+            [
+                "antolog\u00edas po\u00e9ticas"
+            ]
+        ], 
+        "rawData": {
+            "dc.creator.none.fl_str_mv": [
+                "Barrantes Araya, Trino"
+            ], 
+            "dc.date.none.fl_str_mv": [
+                "2016-01-20"
+            ], 
+            "title_sort": "San Ram\u00f3n Tierra de Poetas", 
+            "dc.relation.none.fl_str_mv": [
+                "https://revistas.ucr.ac.cr/index.php/estudios/article/view/22890/23109", 
+                "/*ref*/Fuentes Primarias", 
+                "/*ref*/Archivo del Hospital de San Ram\u00f3n.", 
+                "/*ref*/Municipalidad: Actas, patentes y permisos comerciales.", 
+                "/*ref*/\u00cdndice de matrimonios, Parroquia de San Ram\u00f3n.", 
+                "/*ref*/Leyes y Decretos de Costa Rica.", 
+                "/*ref*/Registro de la propiedad.", 
+                "/*ref*/Serie Congreso Nacional del Archivo Nacional de Costa Rica.", 
+                "/*ref*/Colecciones de anuarios estad\u00edsticos de la Direcci\u00f3n General de Estad\u00edstica y Censos.", 
+                "/*ref*/Diferentes publicaciones peri\u00f3dicas del per\u00edodo en estudio.", 
+                "/*ref*/Fuentes Secundarias", 
+                "/*ref*/Bonilla, Abelardo. (1984). Historia de la literatura costarricense. Studium: San Jos\u00e9, Costa Rica.", 
+                "/*ref*/Cerdas Cruz, Rodolfo.(1978) La formaci\u00f3n del Estado de Costa Rica. Editorial Universidad de Costa Rica.", 
+                "/*ref*/La crisis de la democracia liberal en Costa Rica. EDUCA.", 
+                "/*ref*/Cordero Araya, Ulises.(2004). Poemas de tres \u00e9pocas. Editorial Mirambell: San Jos\u00e9- Costa Rica.", 
+                "/*ref*/Cruz Rodr\u00edguez, Hern\u00e1n.(2008). Composiciones literarias populares. Coordinaci\u00f3n de Investigaci\u00f3n Sede de Occidente: San Ram\u00f3n-Alajuela.", 
+                "/*ref*/Echavarr\u00eda Campos, Trino. (1966). Historia y geograf\u00eda del cant\u00f3n de San Ram\u00f3n. Imprenta Nacional: San Jos\u00e9-Costa Rica.", 
+                "/*ref*/Fern\u00e1ndez, Mario. Apuntes acerca de las bases de la evoluci\u00f3n de la estructura agraria cafetalera en Costa Rica. Avances de Investigaci\u00f3n n\uf0b0 36. Instituto de Investigaciones Sociales de la Universidad de Costa Rica.", 
+                "/*ref*/Fern\u00e1ndez Guardia, Ricardo.(1970) (Introducci\u00f3n, notas y traducci\u00f3n de), Costa Rica en el siglo XIX, Antolog\u00eda de viajeros. San Jos\u00e9, EDUCA.", 
+                "/*ref*/Fournier Garc\u00eda, Eduardo.(1976). Un an\u00e1lisis hist\u00f3rico demogr\u00e1fico de la parroquia de San Ram\u00f3n:1850-1900. Tesis. San Jos\u00e9, Costa Rica, Universidad de Costa Rica.", 
+                "/*ref*/Gamboa Villalobos, Eliseo.(1959). \u201cCon el padre Garc\u00eda Carrillo, se inici\u00f3 en 1870, la vida literaria de San Ram\u00f3n\u201d. La Naci\u00f3n, 30 de agosto de 1959, P.5", 
+                "/*ref*/-.(1965). Rafael Rodr\u00edguez Salas. Su vida y su obra en beneficio del pueblo ramonense. Apuntes hist\u00f3ricos. Direcci\u00f3n Regional de Escuelas. San Ram\u00f3n, Costa Rica.", 
+                "/*ref*/Hall, Carolyn.(1976) El caf\u00e9 y el desarrollo hist\u00f3rico geogr\u00e1fico de Costa Rica. San Jos\u00e9; coedici\u00f3n Editorial Costa Rica-Universidad Nacional.", 
+                "/*ref*/Escobar, Francisco.(1978) Sociedad y comunidad rural. Editorial San Jos\u00e9; Ministerio de Cultura.", 
+                "/*ref*/Moncada Gamboa, Arturo, (1917). Historia de San Ram\u00f3n. Tipograf\u00eda de San Jos\u00e9: San Jos\u00e9, Costa Rica.", 
+                "/*ref*/Paniagua Alvarado, Rafael Lino.(1943). Apuntes hist\u00f3ricos y cr\u00f3nicas de la ciudad de San Ram\u00f3n. Imprenta La Tribuna. San Jos\u00e9, Costa Rica.", 
+                "/*ref*/Pineda, Miriam. Cien a\u00f1os de salud en San Ram\u00f3n. Tesis, Universidad de Costa Rica, Escuela de Historia.", 
+                "/*ref*/Aspectos econ\u00f3mico-pol\u00edticos de San Ram\u00f3n, Ediciones Centro Universitario de Occidente.", 
+                "/*ref*/Quesada Alvarado, \u00c1ngela .(1996). Recordando la historia de mi pueblo San Ram\u00f3n. UNED: San Jos\u00e9, Costa Rica.", 
+                "/*ref*/- (1999). Perfil de las letras ramonenses. Editorial Mirambell: San Jos\u00e9, Costa Rica.", 
+                "/*ref*/- (2003). En el suelo ramonense tambi\u00e9n vemos estrellas. ABC Ediciones Gala: San Jos\u00e9-Costa Rica.", 
+                "/*ref*/Rodr\u00edguez, Sonia. (1981) Trayectoria po\u00e9tica de F\u00e9lix \u00c1ngel Salas y su ubicaci\u00f3n en la l\u00edrica costarricense. Tesis de Grado Licenciatura \u2013 Universidad de Costa Rica", 
+                "/*ref*/Rovira Mas, Jorge. (1982)Estado y pol\u00edtica econ\u00f3mica en Costa Rica 1948- 1970. San Jos\u00e9, Editorial Porvenir.", 
+                "/*ref*/La formaci\u00f3n del Estado nacional en Costa Rica. ICAP, San Jos\u00e9.", 
+                "/*ref*/Stone, Samuel.(1976) La dinast\u00eda de los conquistadores. 2 Edici\u00f3n, EDUCA, Centroam\u00e9rica.", 
+                "/*ref*/Vargas Vargas, Jos\u00e9 \u00c1ngel. Et. Al.(1990). Antolog\u00eda po\u00e9tica ramonense. Ediciones Z\u00fa\u00f1iga & Cabal. San Jos\u00e9, Costa Rica.", 
+                "/*ref*/- (2009). Testamento de Judas del Presb\u00edtero Joaqu\u00edn Garc\u00eda Carrillo: Primer texto literario ramonense. Alma Mater. San Jos\u00e9, Costa Rica.", 
+                "/*ref*/- \u201cNotas para una aproximaci\u00f3n a la poes\u00eda ramonense\u201d. En Revista Comunicaci\u00f3n. Vol.8, No.1, octubre 1995 (23-28)", 
+                "/*ref*/Willink Broekman, Frank y Castro S\u00e1nchez, Silvia. (1989). San Ram\u00f3n: Econom\u00eda y sociedad 1900-1948. Taller de Publicaciones Sede de Occidente. San Ram\u00f3n, Costa Rica."
+            ], 
+            "publisher.none.fl_str_mv": [
+                "UCR"
+            ], 
+            "topic": [
+                "San Ram\u00f3n", 
+                "tierra de poetas", 
+                "poes\u00eda", 
+                "control ideol\u00f3gico", 
+                "g\u00e9nero literario", 
+                "Lis\u00edmaco Chavarr\u00eda", 
+                "antolog\u00edas po\u00e9ticas"
+            ], 
+            "dc.description.none.fl_txt_mv": [
+                "El trabajo consta de dos ejes claramente diferenciados: En el primero se dibuja de manera muy general el desarrollo de la clase pol\u00edtica de San Ram\u00f3n y su real inserci\u00f3n en la estructura del poder del Estado/Naci\u00f3n, atendiendo las razones que le ofrece el contexto hist\u00f3rico costarricense, en su doble variante: como aparato ideol\u00f3gico y como estructura de poder.. En el segundo t\u00f3pico se procura ofrecer una lectura sistematizada desde la antropolog\u00eda/cultural y literaria de las construcciones que se tejen en el texto general de la cultura y que dan lugar a la denominaci\u00f3n de \u201cSan Ram\u00f3n Tierra de Poetas. El inter\u00e9s de este eje, es generar un proceso de ciencia, a fin de dotar a los vecinos de este cant\u00f3n, de algunos instrumentos te\u00f3rico-conceptuales que sirvan de punto de partida para la b\u00fasqueda y afirmaci\u00f3n de su proceso cultural e identidad.Entre ambos temas subyace de manera tangencial la categor\u00eda de cultura, la cual se sugiere, pero no se desarrolla. Queda como una propuesta para un an\u00e1lisis m\u00e1s profundo del tema sugerido.", 
+                "This work consists of two clearly differentiated themes. In the first, in a very general manner the development of the political class in San Ramon and its insertion in to the power structure of the nation state is described, with attention to the reasons offered by the Costa Rican historical context in its double variables: as an ideological apparatus and as a power structure. The second theme attempts to\u00a0offer a systemized reading from the anthropological/cultural and literary constructions that are woven in to the general text of the culture and that give rise to the denomination of \u201cSan Ramon: Land of Poets\u201d. The interest of this theme is to create a scientific process with the aim of providing the residents of this district with some theoretical/conceptual instruments that serve as the launching point for the research and affirmation of its cultural process and identity.Between these two themes in a tangential manner are underlined by the category of culture, which arises but is not developed. This is left as a proposal for further study of that subject."
+            ], 
+            "url": [
+                "https://revistas.ucr.ac.cr/index.php/estudios/article/view/22890"
+            ], 
+            "title_full_unstemmed": "San Ram\u00f3n Tierra de Poetas", 
+            "id": "CR_2434b42bf2726d520799a6f533d5beba", 
+            "status_str": "publishedVersion", 
+            "reponame_str": "Portal de Revistas UCR", 
+            "author": [
+                "Barrantes Araya, Trino"
+            ], 
+            "identifier_str_mv": [
+                "10.15517/re.v0i23.22890"
+            ], 
+            "instname_str": "Universidad de Costa Rica", 
+            "spellingShingle": [
+                "San Ram\u00f3n Tierra de Poetas", 
+                "Barrantes Araya, Trino", 
+                "San Ram\u00f3n", 
+                "tierra de poetas", 
+                "poes\u00eda", 
+                "control ideol\u00f3gico", 
+                "g\u00e9nero literario", 
+                "Lis\u00edmaco Chavarr\u00eda", 
+                "antolog\u00edas po\u00e9ticas"
+            ], 
+            "score": 1458.144, 
+            "_version_": 1610351919988998144, 
+            "dc.publisher.none.fl_str_mv": [
+                "UCR"
+            ], 
+            "dc.type.none.fl_str_mv": [
+                "info:eu-repo/semantics/article", 
+                "info:eu-repo/semantics/publishedVersion"
+            ], 
+            "repository.name.fl_str_mv": [
+                "\n\t\t\t-\n\t\t\t"
+            ], 
+            "description": "El trabajo consta de dos ejes claramente diferenciados: En el primero se dibuja de manera muy general el desarrollo de la clase pol\u00edtica de San Ram\u00f3n y su real inserci\u00f3n en la estructura del poder del Estado/Naci\u00f3n, atendiendo las razones que le ofrece el contexto hist\u00f3rico costarricense, en su doble variante: como aparato ideol\u00f3gico y como estructura de poder.. En el segundo t\u00f3pico se procura ofrecer una lectura sistematizada desde la antropolog\u00eda/cultural y literaria de las construcciones que se tejen en el texto general de la cultura y que dan lugar a la denominaci\u00f3n de \u201cSan Ram\u00f3n Tierra de Poetas. El inter\u00e9s de este eje, es generar un proceso de ciencia, a fin de dotar a los vecinos de este cant\u00f3n, de algunos instrumentos te\u00f3rico-conceptuales que sirvan de punto de partida para la b\u00fasqueda y afirmaci\u00f3n de su proceso cultural e identidad.Entre ambos temas subyace de manera tangencial la categor\u00eda de cultura, la cual se sugiere, pero no se desarrolla. Queda como una propuesta para un an\u00e1lisis m\u00e1s profundo del tema sugerido.", 
+            "institution": [
+                "UCR"
+            ], 
+            "format": [
+                "article"
+            ], 
+            "network_name_str": "Costa Rica", 
+            "publishDate": [
+                "2016"
+            ], 
+            "network_acronym_str": "CR", 
+            "dc.format.none.fl_str_mv": [
+                "application/pdf"
+            ], 
+            "eu_rights_str_mv": [
+                "openAccess"
+            ], 
+            "collection": [
+                "Portal de Revistas UCR"
+            ], 
+            "instacron_str": "UCR", 
+            "oai_identifier_str": "oai:portal.ucr.ac.cr:article/22890", 
+            "rights_invalid_str_mv": [
+                "Copyright (c) 2016 Estudios"
+            ], 
+            "dc.source.none.fl_str_mv": [
+                "Estudios; N\u00fam. 23 (2010): Diciembre 2010 \u2013 Mayo 2011; 133-158", 
+                "Estudios; N\u00fam. 23 (2010): Diciembre 2010 \u2013 Mayo 2011; 133-158", 
+                "Estudios; N\u00fam. 23 (2010): Diciembre 2010 \u2013 Mayo 2011; 133-158", 
+                "1659-3316", 
+                "10.15517/re.v0i23", 
+                "reponame:Portal de Revistas UCR", 
+                "instname:Universidad de Costa Rica", 
+                "instacron:UCR"
+            ], 
+            "dc.language.none.fl_str_mv": [
+                "spa"
+            ], 
+            "dc.title.none.fl_str_mv": [
+                "San Ram\u00f3n Tierra de Poetas"
+            ], 
+            "dc.identifier.none.fl_str_mv": [
+                "https://revistas.ucr.ac.cr/index.php/estudios/article/view/22890", 
+                "10.15517/re.v0i23.22890"
+            ], 
+            "title_short": "San Ram\u00f3n Tierra de Poetas", 
+            "language": [
+                "spa"
+            ], 
+            "dc.subject.none.fl_str_mv": [
+                "San Ram\u00f3n", 
+                "tierra de poetas", 
+                "poes\u00eda", 
+                "control ideol\u00f3gico", 
+                "g\u00e9nero literario", 
+                "Lis\u00edmaco Chavarr\u00eda", 
+                "antolog\u00edas po\u00e9ticas"
+            ], 
+            "title": "San Ram\u00f3n Tierra de Poetas", 
+            "dc.rights.none.fl_str_mv": [
+                "Copyright (c) 2016 Estudios", 
+                "info:eu-repo/semantics/openAccess"
+            ], 
+            "title_full": "San Ram\u00f3n Tierra de Poetas", 
+            "repository.mail.fl_str_mv": [
+                "mail@mail.com"
+            ], 
+            "author_facet": [
+                "Barrantes Araya, Trino"
+            ], 
+            "title_fullStr": "San Ram\u00f3n Tierra de Poetas"
+        }, 
+        "urls": [
+            {
+                "url": "https://revistas.ucr.ac.cr/index.php/estudios/article/view/22890", 
+                "desc": "https://revistas.ucr.ac.cr/index.php/estudios/article/view/22890"
+            }
+        ], 
+        "formats": [
+            "article"
+        ], 
+        "id": "CR_2434b42bf2726d520799a6f533d5beba"
+    }, 
+    {
+        "primaryAuthors": [
+            "Castrell\u00f3n P\u00e9rez, Mariana"
+        ], 
+        "secondaryAuthors": [
+            "Catherine Romero, Cristancho"
+        ], 
+        "title": "Enfoque de g\u00e9nero en la implementaci\u00f3n de la Ley de V\u00edctimas y Restituci\u00f3n de Tierras: una propuesta para la caracterizaci\u00f3n de las mujeres y ni\u00f1as v\u00edctimas del conflicto armado en Colombia", 
+        "publicationDates": [
+            "2016"
+        ], 
+        "summary": [
+            "El objetivo de este art\u00edculo es hacer una propuesta metodol\u00f3gica para incorporar la perspectiva de g\u00e9nero en las herramientas de planeaci\u00f3n de la Ley de V\u00edctimas y Restituci\u00f3n de Tierras a nivel territorial. Las medidas de reparaci\u00f3n integral a favor de las mujeres deben reconocer que las violencias producto del conflicto superan el episodio mismo y agudizan las brechas de inequidad y goce efectivo de derechos entre hombres y mujeres. Por lo tanto, todo intento de caracterizaci\u00f3n de las mujeres sobrevivientes del conflicto debe tener en cuenta: la situaci\u00f3n de las mujeres en los diferentes \u00e1mbitos de exclusi\u00f3n como el acceso a la vivienda y tierra, el nivel de educaci\u00f3n, la autonom\u00eda econ\u00f3mica, y los diferentes tipos de discriminaci\u00f3n que viven en tiempos de paz, como puntos de partida para la formulaci\u00f3n de pol\u00edticas de prevenci\u00f3n y reparaci\u00f3n integral de las mujeres en los territorios."
+        ], 
+        "languages": [
+            "spa"
+        ], 
+        "subjects": [
+            [
+                "G\u00e9nero"
+            ], 
+            [
+                "Entidades territoriales"
+            ], 
+            [
+                "Ley de v\u00edctimas - Colombia"
+            ], 
+            [
+                "Restituci\u00f3n de tierras - Colombia"
+            ]
+        ], 
+        "rawData": {
+            "dc.creator.none.fl_str_mv": [
+                "Castrell\u00f3n P\u00e9rez, Mariana", 
+                "Catherine Romero, Cristancho"
+            ], 
+            "dc.date.none.fl_str_mv": [
+                "2016-05-01", 
+                "2017-02-06T21:02:45Z", 
+                "2017-02-06T21:02:45Z"
+            ], 
+            "title_sort": "Enfoque de g\u00e9nero en la implementaci\u00f3n de la Ley de V\u00edctimas y Restituci\u00f3n de Tierras: una propuesta para la caracterizaci\u00f3n de las mujeres y ni\u00f1as v\u00edctimas del conflicto armado en Colombia", 
+            "dc.relation.none.fl_str_mv": [
+                "CS; No.19 - Mayo/Agosto 2016 : sociedades en conflicto y construcciones de paz"
+            ], 
+            "publisher.none.fl_str_mv": [
+                "Universidad Icesi", 
+                "Facultad de Derecho y Ciencias Sociales", 
+                "Derecho", 
+                "Departamento de Estudios Pol\u00edticos"
+            ], 
+            "dc.coverage.none.fl_str_mv": [
+                "Cali de Lat: 03 24 00 N degrees minutes Lat: 3.4000 decimal degrees Long: 076 30 00 W degrees minutes Long: -76.5000 decimal degrees."
+            ], 
+            "topic": [
+                "G\u00e9nero", 
+                "Entidades territoriales", 
+                "Ley de v\u00edctimas - Colombia", 
+                "Restituci\u00f3n de tierras - Colombia"
+            ], 
+            "dc.description.none.fl_txt_mv": [
+                "El objetivo de este art\u00edculo es hacer una propuesta metodol\u00f3gica para incorporar la perspectiva de g\u00e9nero en las herramientas de planeaci\u00f3n de la Ley de V\u00edctimas y Restituci\u00f3n de Tierras a nivel territorial. Las medidas de reparaci\u00f3n integral a favor de las mujeres deben reconocer que las violencias producto del conflicto superan el episodio mismo y agudizan las brechas de inequidad y goce efectivo de derechos entre hombres y mujeres. Por lo tanto, todo intento de caracterizaci\u00f3n de las mujeres sobrevivientes del conflicto debe tener en cuenta: la situaci\u00f3n de las mujeres en los diferentes \u00e1mbitos de exclusi\u00f3n como el acceso a la vivienda y tierra, el nivel de educaci\u00f3n, la autonom\u00eda econ\u00f3mica, y los diferentes tipos de discriminaci\u00f3n que viven en tiempos de paz, como puntos de partida para la formulaci\u00f3n de pol\u00edticas de prevenci\u00f3n y reparaci\u00f3n integral de las mujeres en los territorios.", 
+                "The purpose of this article is to present a methodological proposal to be included by local governments in their planning tools to implement the Victims and Land Restitution Law. Integral reparation measures on behalf of women who have been victimized by the armed actors have to recognize that the victimization oversees the violent episode and exacerbates inequality gaps and the effective enjoyment of rights between men and women. Hence, any attempt to characterize women survivors of the conflict must consider women\u2019s situation in different areas of exclusion such as access to land and housing, educational level, economic independence, among others; as well as the different types of discrimination that women face during peace times. All this to formulate public policy that aims at preventing violence and repairing women in local territories."
+            ], 
+            "url": [
+                "http://hdl.handle.net/10906/80967", 
+                "http://www.icesi.edu.co/revistas/index.php/revista_cs/article/view/2166", 
+                "http://biblioteca2.icesi.edu.co/cgi-olib/?infile=details.glu&loid=303871&rs=321413&hitno=-1"
+            ], 
+            "author2": [
+                "Catherine Romero, Cristancho"
+            ], 
+            "title_full_unstemmed": "Enfoque de g\u00e9nero en la implementaci\u00f3n de la Ley de V\u00edctimas y Restituci\u00f3n de Tierras: una propuesta para la caracterizaci\u00f3n de las mujeres y ni\u00f1as v\u00edctimas del conflicto armado en Colombia", 
+            "id": "CO_330c2a39b1ef319dd057c9928fef13a4", 
+            "status_str": "publishedVersion", 
+            "reponame_str": "Repositorio Universidad ICESI", 
+            "author": [
+                "Castrell\u00f3n P\u00e9rez, Mariana"
+            ], 
+            "identifier_str_mv": [
+                "2011-0324"
+            ], 
+            "instname_str": "Universidad ICESI", 
+            "spellingShingle": [
+                "Enfoque de g\u00e9nero en la implementaci\u00f3n de la Ley de V\u00edctimas y Restituci\u00f3n de Tierras: una propuesta para la caracterizaci\u00f3n de las mujeres y ni\u00f1as v\u00edctimas del conflicto armado en Colombia", 
+                "Castrell\u00f3n P\u00e9rez, Mariana", 
+                "G\u00e9nero", 
+                "Entidades territoriales", 
+                "Ley de v\u00edctimas - Colombia", 
+                "Restituci\u00f3n de tierras - Colombia"
+            ], 
+            "score": 1423.4727, 
+            "_version_": 1607631915663228928, 
+            "dc.publisher.none.fl_str_mv": [
+                "Universidad Icesi", 
+                "Facultad de Derecho y Ciencias Sociales", 
+                "Derecho", 
+                "Departamento de Estudios Pol\u00edticos"
+            ], 
+            "dc.type.none.fl_str_mv": [
+                "info:eu-repo/semantics/article", 
+                "info:eu-repo/semantics/publishedVersion"
+            ], 
+            "repository.name.fl_str_mv": [
+                "\n\t\t\t-\n\t\t\t"
+            ], 
+            "description": "El objetivo de este art\u00edculo es hacer una propuesta metodol\u00f3gica para incorporar la perspectiva de g\u00e9nero en las herramientas de planeaci\u00f3n de la Ley de V\u00edctimas y Restituci\u00f3n de Tierras a nivel territorial. Las medidas de reparaci\u00f3n integral a favor de las mujeres deben reconocer que las violencias producto del conflicto superan el episodio mismo y agudizan las brechas de inequidad y goce efectivo de derechos entre hombres y mujeres. Por lo tanto, todo intento de caracterizaci\u00f3n de las mujeres sobrevivientes del conflicto debe tener en cuenta: la situaci\u00f3n de las mujeres en los diferentes \u00e1mbitos de exclusi\u00f3n como el acceso a la vivienda y tierra, el nivel de educaci\u00f3n, la autonom\u00eda econ\u00f3mica, y los diferentes tipos de discriminaci\u00f3n que viven en tiempos de paz, como puntos de partida para la formulaci\u00f3n de pol\u00edticas de prevenci\u00f3n y reparaci\u00f3n integral de las mujeres en los territorios.", 
+            "format": [
+                "article"
+            ], 
+            "network_name_str": "Colombia", 
+            "publishDate": [
+                "2016"
+            ], 
+            "network_acronym_str": "CO", 
+            "dc.format.none.fl_str_mv": [
+                "pdf", 
+                "44 p\u00e1ginas", 
+                "Digital"
+            ], 
+            "eu_rights_str_mv": [
+                "openAccess"
+            ], 
+            "collection": [
+                "Repositorio Universidad ICESI"
+            ], 
+            "oai_identifier_str": "lr::3947::22126286::oai:repository.icesi.edu.co:10906/80967", 
+            "rights_invalid_str_mv": [
+                "EL AUTOR, expresa que la obra objeto de la presente autorizaci\u00f3n es original y la elabor\u00f3 sin quebrantar ni suplantar los derechos de autor de terceros, y de tal forma, la obra es de su exclusiva autor\u00eda y tiene la titularidad sobre \u00e9ste. PAR\u00c1GRAFO: en caso de queja o acci\u00f3n por parte de un tercero referente a los derechos de autor sobre el art\u00edculo, folleto o libro en cuesti\u00f3n, EL AUTOR, asumir\u00e1 la responsabilidad total, y saldr\u00e1 en defensa de los derechos aqu\u00ed autorizados; para todos los efectos, la Universidad Icesi act\u00faa como un tercero de buena fe. Esta autorizaci\u00f3n, permite a la Universidad Icesi, de forma indefinida, para que en los t\u00e9rminos establecidos en la Ley 23 de 1982, la Ley 44 de 1993, leyes y jurisprudencia vigente al respecto, haga publicaci\u00f3n de este con fines educativos. Toda persona que consulte ya sea la biblioteca o en medio electr\u00f3nico podr\u00e1 copiar apartes del texto citando siempre la fuentes, es decir el t\u00edtulo del trabajo y el autor."
+            ], 
+            "dc.source.none.fl_str_mv": [
+                "reponame:Repositorio Universidad ICESI", 
+                "instname:Universidad ICESI"
+            ], 
+            "dc.language.none.fl_str_mv": [
+                "spa"
+            ], 
+            "dc.title.none.fl_str_mv": [
+                "Enfoque de g\u00e9nero en la implementaci\u00f3n de la Ley de V\u00edctimas y Restituci\u00f3n de Tierras: una propuesta para la caracterizaci\u00f3n de las mujeres y ni\u00f1as v\u00edctimas del conflicto armado en Colombia"
+            ], 
+            "dc.identifier.none.fl_str_mv": [
+                "2011-0324", 
+                "http://hdl.handle.net/10906/80967", 
+                "http://www.icesi.edu.co/revistas/index.php/revista_cs/article/view/2166", 
+                "http://biblioteca2.icesi.edu.co/cgi-olib/?infile=details.glu&loid=303871&rs=321413&hitno=-1"
+            ], 
+            "title_short": "Enfoque de g\u00e9nero en la implementaci\u00f3n de la Ley de V\u00edctimas y Restituci\u00f3n de Tierras: una propuesta para la caracterizaci\u00f3n de las mujeres y ni\u00f1as v\u00edctimas del conflicto armado en Colombia", 
+            "language": [
+                "spa"
+            ], 
+            "dc.subject.none.fl_str_mv": [
+                "G\u00e9nero", 
+                "Entidades territoriales", 
+                "Ley de v\u00edctimas - Colombia", 
+                "Restituci\u00f3n de tierras - Colombia"
+            ], 
+            "title": "Enfoque de g\u00e9nero en la implementaci\u00f3n de la Ley de V\u00edctimas y Restituci\u00f3n de Tierras: una propuesta para la caracterizaci\u00f3n de las mujeres y ni\u00f1as v\u00edctimas del conflicto armado en Colombia", 
+            "dc.rights.none.fl_str_mv": [
+                "EL AUTOR, expresa que la obra objeto de la presente autorizaci\u00f3n es original y la elabor\u00f3 sin quebrantar ni suplantar los derechos de autor de terceros, y de tal forma, la obra es de su exclusiva autor\u00eda y tiene la titularidad sobre \u00e9ste. PAR\u00c1GRAFO: en caso de queja o acci\u00f3n por parte de un tercero referente a los derechos de autor sobre el art\u00edculo, folleto o libro en cuesti\u00f3n, EL AUTOR, asumir\u00e1 la responsabilidad total, y saldr\u00e1 en defensa de los derechos aqu\u00ed autorizados; para todos los efectos, la Universidad Icesi act\u00faa como un tercero de buena fe. Esta autorizaci\u00f3n, permite a la Universidad Icesi, de forma indefinida, para que en los t\u00e9rminos establecidos en la Ley 23 de 1982, la Ley 44 de 1993, leyes y jurisprudencia vigente al respecto, haga publicaci\u00f3n de este con fines educativos. Toda persona que consulte ya sea la biblioteca o en medio electr\u00f3nico podr\u00e1 copiar apartes del texto citando siempre la fuentes, es decir el t\u00edtulo del trabajo y el autor.", 
+                "info:eu-repo/semantics/openAccess"
+            ], 
+            "title_full": "Enfoque de g\u00e9nero en la implementaci\u00f3n de la Ley de V\u00edctimas y Restituci\u00f3n de Tierras: una propuesta para la caracterizaci\u00f3n de las mujeres y ni\u00f1as v\u00edctimas del conflicto armado en Colombia", 
+            "repository.mail.fl_str_mv": [
+                "mail@mail.com"
+            ], 
+            "author_facet": [
+                "Castrell\u00f3n P\u00e9rez, Mariana", 
+                "Catherine Romero, Cristancho"
+            ], 
+            "title_fullStr": "Enfoque de g\u00e9nero en la implementaci\u00f3n de la Ley de V\u00edctimas y Restituci\u00f3n de Tierras: una propuesta para la caracterizaci\u00f3n de las mujeres y ni\u00f1as v\u00edctimas del conflicto armado en Colombia"
+        }, 
+        "urls": [
+            {
+                "url": "http://hdl.handle.net/10906/80967", 
+                "desc": "http://hdl.handle.net/10906/80967"
+            }, 
+            {
+                "url": "http://www.icesi.edu.co/revistas/index.php/revista_cs/article/view/2166", 
+                "desc": "http://www.icesi.edu.co/revistas/index.php/revista_cs/article/view/2166"
+            }, 
+            {
+                "url": "http://biblioteca2.icesi.edu.co/cgi-olib/?infile=details.glu&loid=303871&rs=321413&hitno=-1", 
+                "desc": "http://biblioteca2.icesi.edu.co/cgi-olib/?infile=details.glu&loid=303871&rs=321413&hitno=-1"
+            }
+        ], 
+        "formats": [
+            "article"
+        ], 
+        "id": "CO_330c2a39b1ef319dd057c9928fef13a4"
+    }, 
+    {
+        "primaryAuthors": [
+            "Ru?z Mondrag?n, Byron F."
+        ], 
+        "secondaryAuthors": [
+            "Mora Fl?rez, Juan Jos?", 
+            "P?rez Londo?o, Sandra Milena", 
+            "Grupo de Investigaci?n en Calidad de Energ?a El?ctrica y Estabilidad - ICE3"
+        ], 
+        "title": "High reactance grounding generator modeling to analyze stator faults", 
+        "publicationDates": [
+            "2009"
+        ], 
+        "summary": [
+            "Una de las protecciones de generadores que actualmente requiere m?s investigaci?n es la del 100% del estator ante fallas a tierra. Para su dise?o es indispensable conocer las variaciones de la corriente del neutro de la m?quina. En este art?culo se propone un modelo para un generador puesto a tierra a trav?s de una alta reactancia que sirve para el an?lisis de fallas en el estator. Como resultado, se obtiene el conjunto de ecuaciones que permiten evaluar el comportamiento del generador ante fallas a tierra. Las pruebas en un sistema de generaci?n prototipo, muestran las variaciones en la corriente del neutro debidas a cambios en los par?metros y ?tiles para el ajuste de las protecciones."
+        ], 
+        "languages": [
+            "spa"
+        ], 
+        "subjects": [
+            [
+                "Falla a tierra"
+            ], 
+            [
+                "Generador s?ncrono"
+            ], 
+            [
+                "Inductancia de aterramiento"
+            ], 
+            [
+                "Modelado"
+            ], 
+            [
+                "Grounding inductance"
+            ], 
+            [
+                "Modeling"
+            ], 
+            [
+                "Synchronous generator"
+            ]
+        ], 
+        "rawData": {
+            "dc.creator.none.fl_str_mv": [
+                "Ru?z Mondrag?n, Byron F.", 
+                "Mora Fl?rez, Juan Jos?", 
+                "P?rez Londo?o, Sandra Milena", 
+                "Grupo de Investigaci?n en Calidad de Energ?a El?ctrica y Estabilidad - ICE3"
+            ], 
+            "dc.date.none.fl_str_mv": [
+                "2009", 
+                "2011-03-22T18:38:04Z", 
+                "2011-03-22T18:38:04Z"
+            ], 
+            "title_sort": "High reactance grounding generator modeling to analyze stator faults", 
+            "publisher.none.fl_str_mv": [
+                "Pereira : Universidad Tecnol?gica de Pereira", 
+                "Facultad de Ciencias B?sicas"
+            ], 
+            "topic": [
+                "Falla a tierra", 
+                "Generador s?ncrono", 
+                "Inductancia de aterramiento", 
+                "Modelado", 
+                "Grounding inductance", 
+                "Modeling", 
+                "Synchronous generator"
+            ], 
+            "dc.description.none.fl_txt_mv": [
+                "Una de las protecciones de generadores que actualmente requiere m?s investigaci?n es la del 100% del estator ante fallas a tierra. Para su dise?o es indispensable conocer las variaciones de la corriente del neutro de la m?quina. En este art?culo se propone un modelo para un generador puesto a tierra a trav?s de una alta reactancia que sirve para el an?lisis de fallas en el estator. Como resultado, se obtiene el conjunto de ecuaciones que permiten evaluar el comportamiento del generador ante fallas a tierra. Las pruebas en un sistema de generaci?n prototipo, muestran las variaciones en la corriente del neutro debidas a cambios en los par?metros y ?tiles para el ajuste de las protecciones.", 
+                "One of the currently field of research is related to 100% stator ground fault protection. To adequately set this protective device it is required to know the possible variations at the machine neutral current. In this paper, a model for high reactance grounding generators for analyzing stator ground faults is proposed. As results, a set of equations used to evaluate the behavior of the generator in case of stator ground faults is derived. Test in a prototype generation system, show the variations of the neutral current, next used for relay setting."
+            ], 
+            "url": [
+                "http://www.utp.edu.co/php/revistas/ScientiaEtTechnica/docsFTP/223633333-338.pdf", 
+                "http://hdl.handle.net/11059/558"
+            ], 
+            "author2": [
+                "Mora Fl?rez, Juan Jos?", 
+                "P?rez Londo?o, Sandra Milena", 
+                "Grupo de Investigaci?n en Calidad de Energ?a El?ctrica y Estabilidad - ICE3"
+            ], 
+            "title_full_unstemmed": "High reactance grounding generator modeling to analyze stator faults", 
+            "id": "CO_6f1960c5f9c720be9cca0d9032e28f5b", 
+            "status_str": "publishedVersion", 
+            "reponame_str": "Repositorio Universidad Tecnol\u00f3gica de Pereira", 
+            "author": [
+                "Ru?z Mondrag?n, Byron F."
+            ], 
+            "identifier_str_mv": [
+                "Scientia et Technica A?o XV, No. 42 (Agosto 2009)", 
+                "0122-1701"
+            ], 
+            "instname_str": "Universidad Tecnol\u00f3gica de Pereira", 
+            "spellingShingle": [
+                "High reactance grounding generator modeling to analyze stator faults", 
+                "Ru?z Mondrag?n, Byron F.", 
+                "Falla a tierra", 
+                "Generador s?ncrono", 
+                "Inductancia de aterramiento", 
+                "Modelado", 
+                "Grounding inductance", 
+                "Modeling", 
+                "Synchronous generator"
+            ], 
+            "score": 1232.027, 
+            "_version_": 1607631939895820288, 
+            "dc.publisher.none.fl_str_mv": [
+                "Pereira : Universidad Tecnol?gica de Pereira", 
+                "Facultad de Ciencias B?sicas"
+            ], 
+            "dc.type.none.fl_str_mv": [
+                "info:eu-repo/semantics/article", 
+                "info:eu-repo/semantics/publishedVersion"
+            ], 
+            "repository.name.fl_str_mv": [
+                "\n\t\t\t-\n\t\t\t"
+            ], 
+            "description": "Una de las protecciones de generadores que actualmente requiere m?s investigaci?n es la del 100% del estator ante fallas a tierra. Para su dise?o es indispensable conocer las variaciones de la corriente del neutro de la m?quina. En este art?culo se propone un modelo para un generador puesto a tierra a trav?s de una alta reactancia que sirve para el an?lisis de fallas en el estator. Como resultado, se obtiene el conjunto de ecuaciones que permiten evaluar el comportamiento del generador ante fallas a tierra. Las pruebas en un sistema de generaci?n prototipo, muestran las variaciones en la corriente del neutro debidas a cambios en los par?metros y ?tiles para el ajuste de las protecciones.", 
+            "format": [
+                "article"
+            ], 
+            "network_name_str": "Colombia", 
+            "publishDate": [
+                "2009"
+            ], 
+            "network_acronym_str": "CO", 
+            "dc.format.none.fl_str_mv": [
+                "PDF", 
+                "application/pdf"
+            ], 
+            "eu_rights_str_mv": [
+                "openAccess"
+            ], 
+            "collection": [
+                "Repositorio Universidad Tecnol\u00f3gica de Pereira"
+            ], 
+            "oai_identifier_str": "lr::4094::22842726::oai:repositorio.utp.edu.co:11059/558", 
+            "rights_invalid_str_mv": [
+                "Attribution-NonCommercial-NoDerivatives 4.0 International", 
+                "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+            ], 
+            "dc.source.none.fl_str_mv": [
+                "reponame:Repositorio Universidad Tecnol\u00f3gica de Pereira", 
+                "instname:Universidad Tecnol\u00f3gica de Pereira"
+            ], 
+            "dc.language.none.fl_str_mv": [
+                "spa"
+            ], 
+            "dc.title.none.fl_str_mv": [
+                "High reactance grounding generator modeling to analyze stator faults", 
+                "Modelado del generador con aterramiento de alta reactancia para el an?lisis de fallas del estator"
+            ], 
+            "dc.identifier.none.fl_str_mv": [
+                "Scientia et Technica A?o XV, No. 42 (Agosto 2009)", 
+                "0122-1701", 
+                "http://www.utp.edu.co/php/revistas/ScientiaEtTechnica/docsFTP/223633333-338.pdf", 
+                "http://hdl.handle.net/11059/558"
+            ], 
+            "title_short": "High reactance grounding generator modeling to analyze stator faults", 
+            "language": [
+                "spa"
+            ], 
+            "dc.subject.none.fl_str_mv": [
+                "Falla a tierra", 
+                "Generador s?ncrono", 
+                "Inductancia de aterramiento", 
+                "Modelado", 
+                "Grounding inductance", 
+                "Modeling", 
+                "Synchronous generator"
+            ], 
+            "title": "High reactance grounding generator modeling to analyze stator faults", 
+            "dc.rights.none.fl_str_mv": [
+                "Attribution-NonCommercial-NoDerivatives 4.0 International", 
+                "http://creativecommons.org/licenses/by-nc-nd/4.0/", 
+                "info:eu-repo/semantics/openAccess"
+            ], 
+            "title_full": "High reactance grounding generator modeling to analyze stator faults", 
+            "repository.mail.fl_str_mv": [
+                "mail@mail.com"
+            ], 
+            "author_facet": [
+                "Ru?z Mondrag?n, Byron F.", 
+                "Mora Fl?rez, Juan Jos?", 
+                "P?rez Londo?o, Sandra Milena", 
+                "Grupo de Investigaci?n en Calidad de Energ?a El?ctrica y Estabilidad - ICE3"
+            ], 
+            "title_fullStr": "High reactance grounding generator modeling to analyze stator faults"
+        }, 
+        "urls": [
+            {
+                "url": "http://www.utp.edu.co/php/revistas/ScientiaEtTechnica/docsFTP/223633333-338.pdf", 
+                "desc": "http://www.utp.edu.co/php/revistas/ScientiaEtTechnica/docsFTP/223633333-338.pdf"
+            }, 
+            {
+                "url": "http://hdl.handle.net/11059/558", 
+                "desc": "http://hdl.handle.net/11059/558"
+            }
+        ], 
+        "formats": [
+            "article"
+        ], 
+        "id": "CO_6f1960c5f9c720be9cca0d9032e28f5b"
+    }, 
+    {
+        "primaryAuthors": [
+            "Meertens, Donalda Jeanine; Pontificia Universidad Javeriana"
+        ], 
+        "title": "Discursive frictions: the transitional justice paradigm, land restitution and gender in Colombia.", 
+        "publicationDates": [
+            "2015"
+        ], 
+        "summary": [
+            "The transition towards a \u201cpost-peace agreements\u201d state of affairs in Colombia creates special scenarios in which a universal model of Transitional Justice policy \u2013 in our case that of land restitution \u2013meets with the local. \u00a0We should understand the \u201clocal\u201d not only in a material sense \u2013 as land and territory \u2013 but also as a perspective that brings into circulation different discourses on peasant society, family, gender, justice and development. The following text analyzes the (dis)encounters between different gender discourses and practices, for the purpose of assessing the transformative capacity of the law for gender justice. In this analysis we use the concept of frictions through which we hope to better understand complex interactions, hidden conflicts, ambiguous outcomes, and also new possibilities for agency.\u00a0"
+        ], 
+        "languages": [
+            "spa"
+        ], 
+        "subjects": [
+            [
+                "Politic science"
+            ], 
+            [
+                "transitional Justice; gender; policy; land restitution"
+            ], 
+            [
+                "justicia transicional; g\u00e9nero; pol\u00edtica p\u00fablica; restituci\u00f3n de tierras"
+            ]
+        ], 
+        "rawData": {
+            "dc.creator.none.fl_str_mv": [
+                "Meertens, Donalda Jeanine; Pontificia Universidad Javeriana"
+            ], 
+            "dc.date.none.fl_str_mv": [
+                "2015-12-01"
+            ], 
+            "title_sort": "Discursive frictions: the transitional justice paradigm, land restitution and gender in Colombia.", 
+            "dc.relation.none.fl_str_mv": [
+                "http://revistas.javeriana.edu.co/index.php/papelpol/article/view/15292/13650"
+            ], 
+            "publisher.none.fl_str_mv": [
+                "Pontificia Universidad Javeriana"
+            ], 
+            "topic": [
+                "Politic science", 
+                "transitional Justice; gender; policy; land restitution", 
+                "justicia transicional; g\u00e9nero; pol\u00edtica p\u00fablica; restituci\u00f3n de tierras"
+            ], 
+            "dc.description.none.fl_txt_mv": [
+                "The transition towards a \u201cpost-peace agreements\u201d state of affairs in Colombia creates special scenarios in which a universal model of Transitional Justice policy \u2013 in our case that of land restitution \u2013meets with the local. \u00a0We should understand the \u201clocal\u201d not only in a material sense \u2013 as land and territory \u2013 but also as a perspective that brings into circulation different discourses on peasant society, family, gender, justice and development. The following text analyzes the (dis)encounters between different gender discourses and practices, for the purpose of assessing the transformative capacity of the law for gender justice. In this analysis we use the concept of frictions through which we hope to better understand complex interactions, hidden conflicts, ambiguous outcomes, and also new possibilities for agency.\u00a0", 
+                "En la transici\u00f3n hacia un estado \u201cpos-acuerdos de paz\u201d en Colombia se crean unos escenarios particulares en los cuales el modelo universal de la Justicia Transicional, implementado a trav\u00e9s de la pol\u00edtica p\u00fablica, en este caso la de la restituci\u00f3n de tierras, se encuentra con diversos elementos de lo local.\u00a0 Esto es entendido no s\u00f3lo en su acepci\u00f3n material de tierra y territorio, sino como una perspectiva desde la cual se conjugan discursos sobre la sociedad campesina, la familia, el g\u00e9nero, la justicia y el desarrollo. En el siguiente texto analizamos los (des)encuentros entre los diferentes discursos de g\u00e9nero, con miras a la capacidad transformadora de la Ley de V\u00edctimas y Restituci\u00f3n de Tierras, en materia de justicia de g\u00e9nero. Para el an\u00e1lisis se emplea el concepto de fricciones, que nos permitir\u00e1 ver las interacciones complejas, los conflictos ocultos y los resultados ambiguos, pero tambi\u00e9n las nuevas posibilidades de agencia.\u00a0 \u00a0"
+            ], 
+            "url": [
+                "http://revistas.javeriana.edu.co/index.php/papelpol/article/view/15292"
+            ], 
+            "title_full_unstemmed": "Discursive frictions: the transitional justice paradigm, land restitution and gender in Colombia.", 
+            "id": "CO_5b6025b5057bec4ee8c307fb631f8096", 
+            "status_str": "publishedVersion", 
+            "reponame_str": "Repositorio Pontificia Universidad Javeriana", 
+            "author": [
+                "Meertens, Donalda Jeanine; Pontificia Universidad Javeriana"
+            ], 
+            "identifier_str_mv": [
+                "10.11144/Javeriana.papo20-2.dftj"
+            ], 
+            "instname_str": "Pontificia Universidad Javeriana", 
+            "spellingShingle": [
+                "Discursive frictions: the transitional justice paradigm, land restitution and gender in Colombia.", 
+                "Meertens, Donalda Jeanine; Pontificia Universidad Javeriana", 
+                "Politic science", 
+                "transitional Justice; gender; policy; land restitution", 
+                "justicia transicional; g\u00e9nero; pol\u00edtica p\u00fablica; restituci\u00f3n de tierras"
+            ], 
+            "score": 1173.622, 
+            "_version_": 1607631755678842880, 
+            "dc.publisher.none.fl_str_mv": [
+                "Pontificia Universidad Javeriana"
+            ], 
+            "dc.type.none.fl_str_mv": [
+                "info:eu-repo/semantics/article", 
+                "info:eu-repo/semantics/publishedVersion"
+            ], 
+            "repository.name.fl_str_mv": [
+                "\n\t\t\t-\n\t\t\t"
+            ], 
+            "description": "The transition towards a \u201cpost-peace agreements\u201d state of affairs in Colombia creates special scenarios in which a universal model of Transitional Justice policy \u2013 in our case that of land restitution \u2013meets with the local. \u00a0We should understand the \u201clocal\u201d not only in a material sense \u2013 as land and territory \u2013 but also as a perspective that brings into circulation different discourses on peasant society, family, gender, justice and development. The following text analyzes the (dis)encounters between different gender discourses and practices, for the purpose of assessing the transformative capacity of the law for gender justice. In this analysis we use the concept of frictions through which we hope to better understand complex interactions, hidden conflicts, ambiguous outcomes, and also new possibilities for agency.\u00a0", 
+            "format": [
+                "article"
+            ], 
+            "network_name_str": "Colombia", 
+            "publishDate": [
+                "2015"
+            ], 
+            "network_acronym_str": "CO", 
+            "dc.format.none.fl_str_mv": [
+                "application/pdf"
+            ], 
+            "eu_rights_str_mv": [
+                "openAccess"
+            ], 
+            "collection": [
+                "Repositorio Pontificia Universidad Javeriana"
+            ], 
+            "oai_identifier_str": "lr::4104::22925340::oai:ojs.10.2.1.246:article/15292", 
+            "rights_invalid_str_mv": [
+                "Copyright (c) 2016 Papel Pol\u00edtico"
+            ], 
+            "dc.source.none.fl_str_mv": [
+                "Papel Pol\u00edtico; Vol. 20, N\u00fam. 2 (2015)", 
+                "Papel Pol\u00edtico; Vol. 20, N\u00fam. 2 (2015)", 
+                "2145-0617", 
+                "0122-4409", 
+                "reponame:Repositorio Pontificia Universidad Javeriana", 
+                "instname:Pontificia Universidad Javeriana"
+            ], 
+            "dc.language.none.fl_str_mv": [
+                "spa"
+            ], 
+            "dc.title.none.fl_str_mv": [
+                "Discursive frictions: the transitional justice paradigm, land restitution and gender in Colombia.", 
+                "Discursive frictions: the transitional justice paradigm, land restitution and gender in Colombia."
+            ], 
+            "dc.identifier.none.fl_str_mv": [
+                "http://revistas.javeriana.edu.co/index.php/papelpol/article/view/15292", 
+                "10.11144/Javeriana.papo20-2.dftj"
+            ], 
+            "title_short": "Discursive frictions: the transitional justice paradigm, land restitution and gender in Colombia.", 
+            "language": [
+                "spa"
+            ], 
+            "dc.subject.none.fl_str_mv": [
+                "Politic science", 
+                "transitional Justice; gender; policy; land restitution", 
+                "justicia transicional; g\u00e9nero; pol\u00edtica p\u00fablica; restituci\u00f3n de tierras"
+            ], 
+            "title": "Discursive frictions: the transitional justice paradigm, land restitution and gender in Colombia.", 
+            "dc.rights.none.fl_str_mv": [
+                "Copyright (c) 2016 Papel Pol\u00edtico", 
+                "info:eu-repo/semantics/openAccess"
+            ], 
+            "title_full": "Discursive frictions: the transitional justice paradigm, land restitution and gender in Colombia.", 
+            "repository.mail.fl_str_mv": [
+                "mail@mail.com"
+            ], 
+            "author_facet": [
+                "Meertens, Donalda Jeanine; Pontificia Universidad Javeriana"
+            ], 
+            "title_fullStr": "Discursive frictions: the transitional justice paradigm, land restitution and gender in Colombia."
+        }, 
+        "urls": [
+            {
+                "url": "http://revistas.javeriana.edu.co/index.php/papelpol/article/view/15292", 
+                "desc": "http://revistas.javeriana.edu.co/index.php/papelpol/article/view/15292"
+            }
+        ], 
+        "formats": [
+            "article"
+        ], 
+        "id": "CO_5b6025b5057bec4ee8c307fb631f8096"
+    }, 
+    {
+        "primaryAuthors": [
+            "Meertens, Donalda Jeanine; Pontificia Universidad Javeriana"
+        ], 
+        "title": "Discursive frictions: the transitional justice paradigm, land restitution and gender in Colombia.", 
+        "publicationDates": [
+            "2015"
+        ], 
+        "summary": [
+            "The transition towards a \u201cpost-peace agreements\u201d state of affairs in Colombia creates special scenarios in which a universal model of Transitional Justice policy \u2013 in our case that of land restitution \u2013meets with the local. \u00a0We should understand the \u201clocal\u201d not only in a material sense \u2013 as land and territory \u2013 but also as a perspective that brings into circulation different discourses on peasant society, family, gender, justice and development. The following text analyzes the (dis)encounters between different gender discourses and practices, for the purpose of assessing the transformative capacity of the law for gender justice. In this analysis we use the concept of frictions through which we hope to better understand complex interactions, hidden conflicts, ambiguous outcomes, and also new possibilities for agency.\u00a0"
+        ], 
+        "languages": [
+            "spa"
+        ], 
+        "subjects": [
+            [
+                "Politic science"
+            ], 
+            [
+                "transitional Justice; gender; policy; land restitution"
+            ], 
+            [
+                "justicia transicional; g\u00e9nero; pol\u00edtica p\u00fablica; restituci\u00f3n de tierras"
+            ]
+        ], 
+        "rawData": {
+            "dc.creator.none.fl_str_mv": [
+                "Meertens, Donalda Jeanine; Pontificia Universidad Javeriana"
+            ], 
+            "dc.date.none.fl_str_mv": [
+                "2015-12-01", 
+                "2018-02-24T15:33:24Z", 
+                "2018-02-24T15:33:24Z"
+            ], 
+            "title_sort": "Discursive frictions: the transitional justice paradigm, land restitution and gender in Colombia.", 
+            "dc.relation.none.fl_str_mv": [
+                "http://revistas.javeriana.edu.co/index.php/papelpol/article/view/15292/13650"
+            ], 
+            "publisher.none.fl_str_mv": [
+                "Pontificia Universidad Javeriana"
+            ], 
+            "topic": [
+                "Politic science", 
+                "transitional Justice; gender; policy; land restitution", 
+                "justicia transicional; g\u00e9nero; pol\u00edtica p\u00fablica; restituci\u00f3n de tierras"
+            ], 
+            "dc.description.none.fl_txt_mv": [
+                "The transition towards a \u201cpost-peace agreements\u201d state of affairs in Colombia creates special scenarios in which a universal model of Transitional Justice policy \u2013 in our case that of land restitution \u2013meets with the local. \u00a0We should understand the \u201clocal\u201d not only in a material sense \u2013 as land and territory \u2013 but also as a perspective that brings into circulation different discourses on peasant society, family, gender, justice and development. The following text analyzes the (dis)encounters between different gender discourses and practices, for the purpose of assessing the transformative capacity of the law for gender justice. In this analysis we use the concept of frictions through which we hope to better understand complex interactions, hidden conflicts, ambiguous outcomes, and also new possibilities for agency.\u00a0", 
+                "En la transici\u00f3n hacia un estado \u201cpos-acuerdos de paz\u201d en Colombia se crean unos escenarios particulares en los cuales el modelo universal de la Justicia Transicional, implementado a trav\u00e9s de la pol\u00edtica p\u00fablica, en este caso la de la restituci\u00f3n de tierras, se encuentra con diversos elementos de lo local.\u00a0 Esto es entendido no s\u00f3lo en su acepci\u00f3n material de tierra y territorio, sino como una perspectiva desde la cual se conjugan discursos sobre la sociedad campesina, la familia, el g\u00e9nero, la justicia y el desarrollo. En el siguiente texto analizamos los (des)encuentros entre los diferentes discursos de g\u00e9nero, con miras a la capacidad transformadora de la Ley de V\u00edctimas y Restituci\u00f3n de Tierras, en materia de justicia de g\u00e9nero. Para el an\u00e1lisis se emplea el concepto de fricciones, que nos permitir\u00e1 ver las interacciones complejas, los conflictos ocultos y los resultados ambiguos, pero tambi\u00e9n las nuevas posibilidades de agencia.\u00a0 \u00a0"
+            ], 
+            "url": [
+                "http://revistas.javeriana.edu.co/index.php/papelpol/article/view/15292", 
+                "http://hdl.handle.net/10554/26838"
+            ], 
+            "title_full_unstemmed": "Discursive frictions: the transitional justice paradigm, land restitution and gender in Colombia.", 
+            "id": "CO_d2f8a36d4f8790836debf8d2fc0a02aa", 
+            "status_str": "publishedVersion", 
+            "reponame_str": "Repositorio Pontificia Universidad Javeriana", 
+            "author": [
+                "Meertens, Donalda Jeanine; Pontificia Universidad Javeriana"
+            ], 
+            "identifier_str_mv": [
+                "10.11144/Javeriana.papo20-2.dftj"
+            ], 
+            "instname_str": "Pontificia Universidad Javeriana", 
+            "spellingShingle": [
+                "Discursive frictions: the transitional justice paradigm, land restitution and gender in Colombia.", 
+                "Meertens, Donalda Jeanine; Pontificia Universidad Javeriana", 
+                "Politic science", 
+                "transitional Justice; gender; policy; land restitution", 
+                "justicia transicional; g\u00e9nero; pol\u00edtica p\u00fablica; restituci\u00f3n de tierras"
+            ], 
+            "score": 1173.622, 
+            "_version_": 1607631833395101696, 
+            "dc.publisher.none.fl_str_mv": [
+                "Pontificia Universidad Javeriana"
+            ], 
+            "dc.type.none.fl_str_mv": [
+                "info:eu-repo/semantics/article", 
+                "info:eu-repo/semantics/publishedVersion"
+            ], 
+            "repository.name.fl_str_mv": [
+                "\n\t\t\t-\n\t\t\t"
+            ], 
+            "description": "The transition towards a \u201cpost-peace agreements\u201d state of affairs in Colombia creates special scenarios in which a universal model of Transitional Justice policy \u2013 in our case that of land restitution \u2013meets with the local. \u00a0We should understand the \u201clocal\u201d not only in a material sense \u2013 as land and territory \u2013 but also as a perspective that brings into circulation different discourses on peasant society, family, gender, justice and development. The following text analyzes the (dis)encounters between different gender discourses and practices, for the purpose of assessing the transformative capacity of the law for gender justice. In this analysis we use the concept of frictions through which we hope to better understand complex interactions, hidden conflicts, ambiguous outcomes, and also new possibilities for agency.\u00a0", 
+            "format": [
+                "article"
+            ], 
+            "network_name_str": "Colombia", 
+            "publishDate": [
+                "2015"
+            ], 
+            "network_acronym_str": "CO", 
+            "dc.format.none.fl_str_mv": [
+                "application/pdf"
+            ], 
+            "eu_rights_str_mv": [
+                "openAccess"
+            ], 
+            "collection": [
+                "Repositorio Pontificia Universidad Javeriana"
+            ], 
+            "oai_identifier_str": "lr::4104::22906235::oai:localhost:10554/26838", 
+            "rights_invalid_str_mv": [
+                "Copyright (c) 2016 Papel Pol\u00edtico"
+            ], 
+            "dc.source.none.fl_str_mv": [
+                "Papel Pol\u00edtico; Vol. 20, N\u00fam. 2 (2015)", 
+                "Papel Pol\u00edtico; Vol. 20, N\u00fam. 2 (2015)", 
+                "2145-0617", 
+                "0122-4409", 
+                "reponame:Repositorio Pontificia Universidad Javeriana", 
+                "instname:Pontificia Universidad Javeriana"
+            ], 
+            "dc.language.none.fl_str_mv": [
+                "spa"
+            ], 
+            "dc.title.none.fl_str_mv": [
+                "Discursive frictions: the transitional justice paradigm, land restitution and gender in Colombia.", 
+                "Discursive frictions: the transitional justice paradigm, land restitution and gender in Colombia."
+            ], 
+            "dc.identifier.none.fl_str_mv": [
+                "http://revistas.javeriana.edu.co/index.php/papelpol/article/view/15292", 
+                "10.11144/Javeriana.papo20-2.dftj", 
+                "http://hdl.handle.net/10554/26838"
+            ], 
+            "title_short": "Discursive frictions: the transitional justice paradigm, land restitution and gender in Colombia.", 
+            "language": [
+                "spa"
+            ], 
+            "dc.subject.none.fl_str_mv": [
+                "Politic science", 
+                "transitional Justice; gender; policy; land restitution", 
+                "justicia transicional; g\u00e9nero; pol\u00edtica p\u00fablica; restituci\u00f3n de tierras"
+            ], 
+            "title": "Discursive frictions: the transitional justice paradigm, land restitution and gender in Colombia.", 
+            "dc.rights.none.fl_str_mv": [
+                "Copyright (c) 2016 Papel Pol\u00edtico", 
+                "info:eu-repo/semantics/openAccess"
+            ], 
+            "title_full": "Discursive frictions: the transitional justice paradigm, land restitution and gender in Colombia.", 
+            "repository.mail.fl_str_mv": [
+                "mail@mail.com"
+            ], 
+            "author_facet": [
+                "Meertens, Donalda Jeanine; Pontificia Universidad Javeriana"
+            ], 
+            "title_fullStr": "Discursive frictions: the transitional justice paradigm, land restitution and gender in Colombia."
+        }, 
+        "urls": [
+            {
+                "url": "http://revistas.javeriana.edu.co/index.php/papelpol/article/view/15292", 
+                "desc": "http://revistas.javeriana.edu.co/index.php/papelpol/article/view/15292"
+            }, 
+            {
+                "url": "http://hdl.handle.net/10554/26838", 
+                "desc": "http://hdl.handle.net/10554/26838"
+            }
+        ], 
+        "formats": [
+            "article"
+        ], 
+        "id": "CO_d2f8a36d4f8790836debf8d2fc0a02aa"
+    }, 
+    {
+        "primaryAuthors": [
+            "Chiriboga Vega, Manuel"
+        ], 
+        "title": "Treinta a\u00f1os despu\u00e9s : una reflexi\u00f3n sobre los estudios rurales y agrarios en Ecuador", 
+        "publicationDates": [
+            "2009"
+        ], 
+        "summary": [
+            "En la primera d\u00e9cada del siglo XXI se est\u00e1 produciendo un nuevo impulso a los estudios rurales y agrarios en el Ecuador. Esta revitalizaci\u00f3n tiene como protagonistas a diversos n\u00facleos acad\u00e9micos situados en universidades y ONGS (sic) con marcos conceptuales y enfoques anal\u00edticos, as\u00ed como especializaciones disciplinarias que los aglutinan. Algunos enfoques son sociol\u00f3gicos, otros provenientes de la econom\u00eda pol\u00edtica y ciencia pol\u00edtica; econom\u00eda agraria y ecolog\u00eda. Los temas abordados incluyen ecosistemas y manejo de recursos naturales, tenencia de la tierra, g\u00e9nero, trabajo rural, comercio internacional. Es evidente un nuevo dinamismo, todav\u00eda d\u00e9bil, pero sin embargo prometedor. Aunque hace falta mayor interdisciplinareidad y construir espacios de debate y discusi\u00f3n."
+        ], 
+        "languages": [
+            "spa"
+        ], 
+        "subjects": [
+            [
+                "ESTUDIOS RURALES"
+            ], 
+            [
+                "ECONOM\u00cdA AGRARIA"
+            ], 
+            [
+                "ECOSISTEMAS"
+            ], 
+            [
+                "RECURSOS NATURALES"
+            ], 
+            [
+                "TENENCIA DE LA TIERRA"
+            ], 
+            [
+                "TRABAJO RURAL"
+            ], 
+            [
+                "RURAL STUDIES"
+            ], 
+            [
+                "AGRICULTURAL ECONOMICS"
+            ], 
+            [
+                "ECOSYSTEMS"
+            ], 
+            [
+                "NATURAL RESOURCE"
+            ], 
+            [
+                "LAND TENURE"
+            ], 
+            [
+                "RURAL LABOUR"
+            ], 
+            [
+                "ECUADOR"
+            ], 
+            [
+                "G\u00c9NERO"
+            ], 
+            [
+                "GENDER"
+            ], 
+            [
+                "ECOLOG\u00cdA"
+            ], 
+            [
+                "ECOLOGY"
+            ]
+        ], 
+        "rawData": {
+            "dc.creator.none.fl_str_mv": [
+                "Chiriboga Vega, Manuel"
+            ], 
+            "dc.date.none.fl_str_mv": [
+                "2009-04", 
+                "2012-09-04T21:20:36Z", 
+                "2012-09-04T21:20:36Z"
+            ], 
+            "title_sort": "Treinta a\u00f1os despu\u00e9s : una reflexi\u00f3n sobre los estudios rurales y agrarios en Ecuador", 
+            "publisher.none.fl_str_mv": [
+                "Quito : CAAP"
+            ], 
+            "topic": [
+                "ESTUDIOS RURALES", 
+                "ECONOM\u00cdA AGRARIA", 
+                "ECOSISTEMAS", 
+                "RECURSOS NATURALES", 
+                "TENENCIA DE LA TIERRA", 
+                "TRABAJO RURAL", 
+                "RURAL STUDIES", 
+                "AGRICULTURAL ECONOMICS", 
+                "ECOSYSTEMS", 
+                "NATURAL RESOURCE", 
+                "LAND TENURE", 
+                "RURAL LABOUR", 
+                "ECUADOR", 
+                "G\u00c9NERO", 
+                "GENDER", 
+                "ECOLOG\u00cdA", 
+                "ECOLOGY"
+            ], 
+            "dc.description.none.fl_txt_mv": [
+                "En la primera d\u00e9cada del siglo XXI se est\u00e1 produciendo un nuevo impulso a los estudios rurales y agrarios en el Ecuador. Esta revitalizaci\u00f3n tiene como protagonistas a diversos n\u00facleos acad\u00e9micos situados en universidades y ONGS (sic) con marcos conceptuales y enfoques anal\u00edticos, as\u00ed como especializaciones disciplinarias que los aglutinan. Algunos enfoques son sociol\u00f3gicos, otros provenientes de la econom\u00eda pol\u00edtica y ciencia pol\u00edtica; econom\u00eda agraria y ecolog\u00eda. Los temas abordados incluyen ecosistemas y manejo de recursos naturales, tenencia de la tierra, g\u00e9nero, trabajo rural, comercio internacional. Es evidente un nuevo dinamismo, todav\u00eda d\u00e9bil, pero sin embargo prometedor. Aunque hace falta mayor interdisciplinareidad y construir espacios de debate y discusi\u00f3n."
+            ], 
+            "url": [
+                "http://hdl.handle.net/10469/4190"
+            ], 
+            "title_full_unstemmed": "Treinta a\u00f1os despu\u00e9s : una reflexi\u00f3n sobre los estudios rurales y agrarios en Ecuador", 
+            "id": "EC_e96cd3135793c5e5d91597a20b914220", 
+            "status_str": "publishedVersion", 
+            "reponame_str": "Repositorio FLACSO", 
+            "author": [
+                "Chiriboga Vega, Manuel"
+            ], 
+            "identifier_str_mv": [
+                "Chiriboga V., Manuel. Treinta a\u00f1os despu\u00e9s : una reflexi\u00f3n sobre los estudios rurales y agrarios en Ecuador (Debate Agrario-Rural). En: Ecuador Debate. La cuesti\u00f3n de la vivienda hoy. Quito: CAAP, (no. 76, abril 2009): pp. 147-173. ISSN: 1012-1498", 
+                "1012-1498"
+            ], 
+            "instname_str": "FLACSO", 
+            "spellingShingle": [
+                "Treinta a\u00f1os despu\u00e9s : una reflexi\u00f3n sobre los estudios rurales y agrarios en Ecuador", 
+                "Chiriboga Vega, Manuel", 
+                "ESTUDIOS RURALES", 
+                "ECONOM\u00cdA AGRARIA", 
+                "ECOSISTEMAS", 
+                "RECURSOS NATURALES", 
+                "TENENCIA DE LA TIERRA", 
+                "TRABAJO RURAL", 
+                "RURAL STUDIES", 
+                "AGRICULTURAL ECONOMICS", 
+                "ECOSYSTEMS", 
+                "NATURAL RESOURCE", 
+                "LAND TENURE", 
+                "RURAL LABOUR", 
+                "ECUADOR", 
+                "G\u00c9NERO", 
+                "GENDER", 
+                "ECOLOG\u00cdA", 
+                "ECOLOGY"
+            ], 
+            "score": 1057.148, 
+            "_version_": 1607632031990153216, 
+            "dc.publisher.none.fl_str_mv": [
+                "Quito : CAAP"
+            ], 
+            "dc.type.none.fl_str_mv": [
+                "info:eu-repo/semantics/article", 
+                "info:eu-repo/semantics/publishedVersion"
+            ], 
+            "repository.name.fl_str_mv": [
+                "\n\t\t\t-\n\t\t\t"
+            ], 
+            "description": "En la primera d\u00e9cada del siglo XXI se est\u00e1 produciendo un nuevo impulso a los estudios rurales y agrarios en el Ecuador. Esta revitalizaci\u00f3n tiene como protagonistas a diversos n\u00facleos acad\u00e9micos situados en universidades y ONGS (sic) con marcos conceptuales y enfoques anal\u00edticos, as\u00ed como especializaciones disciplinarias que los aglutinan. Algunos enfoques son sociol\u00f3gicos, otros provenientes de la econom\u00eda pol\u00edtica y ciencia pol\u00edtica; econom\u00eda agraria y ecolog\u00eda. Los temas abordados incluyen ecosistemas y manejo de recursos naturales, tenencia de la tierra, g\u00e9nero, trabajo rural, comercio internacional. Es evidente un nuevo dinamismo, todav\u00eda d\u00e9bil, pero sin embargo prometedor. Aunque hace falta mayor interdisciplinareidad y construir espacios de debate y discusi\u00f3n.", 
+            "format": [
+                "article"
+            ], 
+            "network_name_str": "Ecuador", 
+            "publishDate": [
+                "2009"
+            ], 
+            "network_acronym_str": "EC", 
+            "dc.format.none.fl_str_mv": [
+                "p. 147-173"
+            ], 
+            "eu_rights_str_mv": [
+                "openAccess"
+            ], 
+            "collection": [
+                "Repositorio FLACSO"
+            ], 
+            "oai_identifier_str": "oai:localhost:10469/4190", 
+            "dc.source.none.fl_str_mv": [
+                "reponame:Repositorio FLACSO", 
+                "instname:FLACSO"
+            ], 
+            "dc.language.none.fl_str_mv": [
+                "spa"
+            ], 
+            "dc.title.none.fl_str_mv": [
+                "Treinta a\u00f1os despu\u00e9s : una reflexi\u00f3n sobre los estudios rurales y agrarios en Ecuador"
+            ], 
+            "dc.identifier.none.fl_str_mv": [
+                "Chiriboga V., Manuel. Treinta a\u00f1os despu\u00e9s : una reflexi\u00f3n sobre los estudios rurales y agrarios en Ecuador (Debate Agrario-Rural). En: Ecuador Debate. La cuesti\u00f3n de la vivienda hoy. Quito: CAAP, (no. 76, abril 2009): pp. 147-173. ISSN: 1012-1498", 
+                "1012-1498", 
+                "http://hdl.handle.net/10469/4190"
+            ], 
+            "title_short": "Treinta a\u00f1os despu\u00e9s : una reflexi\u00f3n sobre los estudios rurales y agrarios en Ecuador", 
+            "language": [
+                "spa"
+            ], 
+            "dc.subject.none.fl_str_mv": [
+                "ESTUDIOS RURALES", 
+                "ECONOM\u00cdA AGRARIA", 
+                "ECOSISTEMAS", 
+                "RECURSOS NATURALES", 
+                "TENENCIA DE LA TIERRA", 
+                "TRABAJO RURAL", 
+                "RURAL STUDIES", 
+                "AGRICULTURAL ECONOMICS", 
+                "ECOSYSTEMS", 
+                "NATURAL RESOURCE", 
+                "LAND TENURE", 
+                "RURAL LABOUR", 
+                "ECUADOR", 
+                "G\u00c9NERO", 
+                "GENDER", 
+                "ECOLOG\u00cdA", 
+                "ECOLOGY"
+            ], 
+            "title": "Treinta a\u00f1os despu\u00e9s : una reflexi\u00f3n sobre los estudios rurales y agrarios en Ecuador", 
+            "dc.rights.none.fl_str_mv": [
+                "info:eu-repo/semantics/openAccess"
+            ], 
+            "title_full": "Treinta a\u00f1os despu\u00e9s : una reflexi\u00f3n sobre los estudios rurales y agrarios en Ecuador", 
+            "repository.mail.fl_str_mv": [
+                "mail@mail.com"
+            ], 
+            "author_facet": [
+                "Chiriboga Vega, Manuel"
+            ], 
+            "title_fullStr": "Treinta a\u00f1os despu\u00e9s : una reflexi\u00f3n sobre los estudios rurales y agrarios en Ecuador"
+        }, 
+        "urls": [
+            {
+                "url": "http://hdl.handle.net/10469/4190", 
+                "desc": "http://hdl.handle.net/10469/4190"
+            }
+        ], 
+        "formats": [
+            "article"
+        ], 
+        "id": "EC_e96cd3135793c5e5d91597a20b914220"
+    }, 
+    {
+        "primaryAuthors": [
+            "Chiriboga Vega, Manuel"
+        ], 
+        "title": "G\u00e9nero, Propiedad y Empoderamiento : Tierra, Estado y Mercado en Am\u00e9rica Latina", 
+        "publicationDates": [
+            "2001"
+        ], 
+        "summary": [
+            "El libro constituye el m\u00e1s importante esfuerzo por analizar los temas de la tierra desde una perspectiva de g\u00e9nero. Su importancia tiene relaci\u00f3n con los cuatro tomos coordinados por las autoras a inicios de los a\u00f1os 80, publicado bajo el t\u00edtulo: Debate sobre la mujer en Am\u00e9rica Latina y el Caribe: discusi\u00f3n acerca de la unidad producci\u00f3n reproducci\u00f3n. Especialmente el tomo II sobre las mujeres trabajadoras del Agro. En este sentido el trabajo no solamente da cuenta de lo acontecido desde entonces, sino que con mayor rigor conceptual aborda las relaciones entre g\u00e9nero y propiedad rural y lo examina desde muy diferentes \u00e1ngulos."
+        ], 
+        "languages": [
+            "spa"
+        ], 
+        "subjects": [
+            [
+                "TIERRA"
+            ], 
+            [
+                "G\u00c9NERO"
+            ], 
+            [
+                "PRODUCCI\u00d3N"
+            ], 
+            [
+                "AGRO"
+            ], 
+            [
+                "PROPIEDAD"
+            ], 
+            [
+                "RURAL"
+            ], 
+            [
+                "ECONOM\u00cdA"
+            ], 
+            [
+                "POBRE"
+            ], 
+            [
+                "SEGURIDAD"
+            ], 
+            [
+                "VULNERABILIDAD"
+            ], 
+            [
+                "BIENESTAR"
+            ], 
+            [
+                "MOVIMIENTO IND\u00cdGENA"
+            ], 
+            [
+                "EARTH"
+            ], 
+            [
+                "GENDER"
+            ], 
+            [
+                "PRODUCTION"
+            ], 
+            [
+                "PROPERTY"
+            ], 
+            [
+                "ECONOMY"
+            ], 
+            [
+                "POOR"
+            ], 
+            [
+                "SAFETY"
+            ], 
+            [
+                "VULNERABILITY"
+            ], 
+            [
+                "WELFARE"
+            ], 
+            [
+                "INDIAN MOVEMENT"
+            ], 
+            [
+                "ECUADOR"
+            ]
+        ], 
+        "rawData": {
+            "dc.creator.none.fl_str_mv": [
+                "Chiriboga Vega, Manuel"
+            ], 
+            "dc.date.none.fl_str_mv": [
+                "2001-08", 
+                "2013-03-07T16:00:52Z", 
+                "2013-03-07T16:00:52Z"
+            ], 
+            "title_sort": "G\u00e9nero, Propiedad y Empoderamiento : Tierra, Estado y Mercado en Am\u00e9rica Latina", 
+            "publisher.none.fl_str_mv": [
+                "Quito : CAAP"
+            ], 
+            "topic": [
+                "TIERRA", 
+                "G\u00c9NERO", 
+                "PRODUCCI\u00d3N", 
+                "AGRO", 
+                "PROPIEDAD", 
+                "RURAL", 
+                "ECONOM\u00cdA", 
+                "POBRE", 
+                "SEGURIDAD", 
+                "VULNERABILIDAD", 
+                "BIENESTAR", 
+                "MOVIMIENTO IND\u00cdGENA", 
+                "EARTH", 
+                "GENDER", 
+                "PRODUCTION", 
+                "AGRO", 
+                "PROPERTY", 
+                "RURAL", 
+                "ECONOMY", 
+                "POOR", 
+                "SAFETY", 
+                "VULNERABILITY", 
+                "WELFARE", 
+                "INDIAN MOVEMENT", 
+                "ECUADOR"
+            ], 
+            "dc.description.none.fl_txt_mv": [
+                "El libro constituye el m\u00e1s importante esfuerzo por analizar los temas de la tierra desde una perspectiva de g\u00e9nero. Su importancia tiene relaci\u00f3n con los cuatro tomos coordinados por las autoras a inicios de los a\u00f1os 80, publicado bajo el t\u00edtulo: Debate sobre la mujer en Am\u00e9rica Latina y el Caribe: discusi\u00f3n acerca de la unidad producci\u00f3n reproducci\u00f3n. Especialmente el tomo II sobre las mujeres trabajadoras del Agro. En este sentido el trabajo no solamente da cuenta de lo acontecido desde entonces, sino que con mayor rigor conceptual aborda las relaciones entre g\u00e9nero y propiedad rural y lo examina desde muy diferentes \u00e1ngulos."
+            ], 
+            "url": [
+                "http://hdl.handle.net/10469/5023"
+            ], 
+            "title_full_unstemmed": "G\u00e9nero, Propiedad y Empoderamiento : Tierra, Estado y Mercado en Am\u00e9rica Latina", 
+            "id": "EC_31fc270eabf22c4f5ebcf86f3dd8ad7b", 
+            "status_str": "publishedVersion", 
+            "reponame_str": "Repositorio FLACSO", 
+            "author": [
+                "Chiriboga Vega, Manuel"
+            ], 
+            "identifier_str_mv": [
+                "Chiriboga, Manuel. G\u00e9nero, Propiedad y Empoderamiento: Tierra, Estado y Mercado en Am\u00e9rica Latina (Cr\u00edtica Bibliogr\u00e1fica). En: Ecuador Debate. Pol\u00edtica y Econom\u00eda, Quito: CAAP, (no. 53, agosto 2001): pp. 227-232. ISSN: 1012-1498", 
+                "1012-1498"
+            ], 
+            "instname_str": "FLACSO", 
+            "spellingShingle": [
+                "G\u00e9nero, Propiedad y Empoderamiento : Tierra, Estado y Mercado en Am\u00e9rica Latina", 
+                "Chiriboga Vega, Manuel", 
+                "TIERRA", 
+                "G\u00c9NERO", 
+                "PRODUCCI\u00d3N", 
+                "AGRO", 
+                "PROPIEDAD", 
+                "RURAL", 
+                "ECONOM\u00cdA", 
+                "POBRE", 
+                "SEGURIDAD", 
+                "VULNERABILIDAD", 
+                "BIENESTAR", 
+                "MOVIMIENTO IND\u00cdGENA", 
+                "EARTH", 
+                "GENDER", 
+                "PRODUCTION", 
+                "AGRO", 
+                "PROPERTY", 
+                "RURAL", 
+                "ECONOMY", 
+                "POOR", 
+                "SAFETY", 
+                "VULNERABILITY", 
+                "WELFARE", 
+                "INDIAN MOVEMENT", 
+                "ECUADOR"
+            ], 
+            "score": 1057.148, 
+            "_version_": 1607632032997834752, 
+            "dc.publisher.none.fl_str_mv": [
+                "Quito : CAAP"
+            ], 
+            "dc.type.none.fl_str_mv": [
+                "info:eu-repo/semantics/article", 
+                "info:eu-repo/semantics/publishedVersion"
+            ], 
+            "repository.name.fl_str_mv": [
+                "\n\t\t\t-\n\t\t\t"
+            ], 
+            "description": "El libro constituye el m\u00e1s importante esfuerzo por analizar los temas de la tierra desde una perspectiva de g\u00e9nero. Su importancia tiene relaci\u00f3n con los cuatro tomos coordinados por las autoras a inicios de los a\u00f1os 80, publicado bajo el t\u00edtulo: Debate sobre la mujer en Am\u00e9rica Latina y el Caribe: discusi\u00f3n acerca de la unidad producci\u00f3n reproducci\u00f3n. Especialmente el tomo II sobre las mujeres trabajadoras del Agro. En este sentido el trabajo no solamente da cuenta de lo acontecido desde entonces, sino que con mayor rigor conceptual aborda las relaciones entre g\u00e9nero y propiedad rural y lo examina desde muy diferentes \u00e1ngulos.", 
+            "format": [
+                "article"
+            ], 
+            "network_name_str": "Ecuador", 
+            "publishDate": [
+                "2001"
+            ], 
+            "network_acronym_str": "EC", 
+            "dc.format.none.fl_str_mv": [
+                "p. 227-232"
+            ], 
+            "eu_rights_str_mv": [
+                "openAccess"
+            ], 
+            "collection": [
+                "Repositorio FLACSO"
+            ], 
+            "oai_identifier_str": "oai:localhost:10469/5023", 
+            "dc.source.none.fl_str_mv": [
+                "reponame:Repositorio FLACSO", 
+                "instname:FLACSO"
+            ], 
+            "dc.language.none.fl_str_mv": [
+                "spa"
+            ], 
+            "dc.title.none.fl_str_mv": [
+                "G\u00e9nero, Propiedad y Empoderamiento : Tierra, Estado y Mercado en Am\u00e9rica Latina"
+            ], 
+            "dc.identifier.none.fl_str_mv": [
+                "Chiriboga, Manuel. G\u00e9nero, Propiedad y Empoderamiento: Tierra, Estado y Mercado en Am\u00e9rica Latina (Cr\u00edtica Bibliogr\u00e1fica). En: Ecuador Debate. Pol\u00edtica y Econom\u00eda, Quito: CAAP, (no. 53, agosto 2001): pp. 227-232. ISSN: 1012-1498", 
+                "1012-1498", 
+                "http://hdl.handle.net/10469/5023"
+            ], 
+            "title_short": "G\u00e9nero, Propiedad y Empoderamiento : Tierra, Estado y Mercado en Am\u00e9rica Latina", 
+            "language": [
+                "spa"
+            ], 
+            "dc.subject.none.fl_str_mv": [
+                "TIERRA", 
+                "G\u00c9NERO", 
+                "PRODUCCI\u00d3N", 
+                "AGRO", 
+                "PROPIEDAD", 
+                "RURAL", 
+                "ECONOM\u00cdA", 
+                "POBRE", 
+                "SEGURIDAD", 
+                "VULNERABILIDAD", 
+                "BIENESTAR", 
+                "MOVIMIENTO IND\u00cdGENA", 
+                "EARTH", 
+                "GENDER", 
+                "PRODUCTION", 
+                "AGRO", 
+                "PROPERTY", 
+                "RURAL", 
+                "ECONOMY", 
+                "POOR", 
+                "SAFETY", 
+                "VULNERABILITY", 
+                "WELFARE", 
+                "INDIAN MOVEMENT", 
+                "ECUADOR"
+            ], 
+            "title": "G\u00e9nero, Propiedad y Empoderamiento : Tierra, Estado y Mercado en Am\u00e9rica Latina", 
+            "dc.rights.none.fl_str_mv": [
+                "info:eu-repo/semantics/openAccess"
+            ], 
+            "title_full": "G\u00e9nero, Propiedad y Empoderamiento : Tierra, Estado y Mercado en Am\u00e9rica Latina", 
+            "repository.mail.fl_str_mv": [
+                "mail@mail.com"
+            ], 
+            "author_facet": [
+                "Chiriboga Vega, Manuel"
+            ], 
+            "title_fullStr": "G\u00e9nero, Propiedad y Empoderamiento : Tierra, Estado y Mercado en Am\u00e9rica Latina"
+        }, 
+        "urls": [
+            {
+                "url": "http://hdl.handle.net/10469/5023", 
+                "desc": "http://hdl.handle.net/10469/5023"
+            }
+        ], 
+        "formats": [
+            "article"
+        ], 
+        "id": "EC_31fc270eabf22c4f5ebcf86f3dd8ad7b"
+    }, 
+    {
+        "primaryAuthors": [
+            "L\u00f3pez P\u00e9rez, Flor Ivania"
+        ], 
+        "title": "Impacto del acceso a la tierra sobre el desarrollo humano sostenible de las familias campesinas beneficiarias del programa tierra de UCOSD, en el municipio San Dionisio, Departamento de Matagalpa, durante el a\u00f1o 2012.", 
+        "publicationDates": [
+            "2014"
+        ], 
+        "summary": [
+            "El presente estudio fue realizado con el objetivo de conocer la problem\u00e1tica del acceso a la tierra que enfrentan los campesinos y el impacto que ha tenido el programa tierra de UCOSD sobre el desarrollo humano sostenible de las familias campesinas beneficiarias. Para ello se defini\u00f3 la macro variable acceso a la tierra y los macro efectos desarrollo humano sostenible. Se consideraron 5 variables: pol\u00edticas de acceso a la tierra en UCOSD, ingresos de las familias beneficiarias, educaci\u00f3n, seguridad alimentaria, igualdad y equidad de g\u00e9nero y finalmente se plantea la estrategia para mejorar el acceso a la tierra en UCOSD. A partir de los resultados encontrados se puede afirmar que el programa tierra de UCOSD ha contribuido al desarrollo humano sostenible de las familias campesinas que se dedican personalmente a la actividad agropecuaria que es de donde obtienen su alimentaci\u00f3n y la mayor parte de los ingresos generados en la familia, manifest\u00e1ndose en una buena aceptaci\u00f3n de sus pol\u00edticas y destac\u00e1ndose que en la educaci\u00f3n formal los jefes de familia no alcanzaron la primaria completa; pero esto ha sido complementado con las capacitaciones recibidas as\u00ed lo manifestaron los/as beneficiarios/as del programa tierra que adquieren conocimientos que luego son aplicadas en las parcelas. En relaci\u00f3n a la igualdad y equidad de g\u00e9nero se encontr\u00f3 m\u00e1s integraci\u00f3n de la mujer en los diferentes labores del campo, mayor capacidad de incidencia y de liderazgo dentro de la organizaci\u00f3n y la incorporaci\u00f3n de la mujer como propietaria. _______________ THE IMPACT OF ACCESS TO LAND ON THE SUSTAINABLE HUMAN DEVELOPMENT OF THE BENEFICIARY PEASANT FAMILIES ON THE UCOSD PROGRAM IN THE MUNICIPALITY OF SAN DIONISIO DEPARTMENT OF MATAGALPA DURING THE YEAR 2012. ABSTRACT: This research was conducted with the objective of knowing the problems of accessing to land that farmers face, and the impact that the land program of UCOSD has had on the sustainable human development of the beneficiary peasant families. For this it was defined the macro variable access to land and the macro effects of the sustainable human development. Five variables were considered or taken into account: Policies to access to land in UCOSD program, beneficiary families income, education levels, food security, gender equity; and equality and finally a strategy is stated in order to improve the access to land in UCOSD. From the results we can say that the land program of UCOSD has helped the sustainable human development of the peasant families who work on farming which is what they do to make a living and where they get their income, showing a good acceptance of the policies and emphasizing that the level of education of the family leaders doesn\u2019t get to elementary school. But this has been supplemented with training to these families who acquire knowledge that later is put into practice in their farms. On the other hand, related to gender equity and equality it was found out that there is a higher woman integration in the different agricultural work as well as the capacity and leadership inside the organization and incorporation of women as owners."
+        ], 
+        "languages": [
+            "spa"
+        ], 
+        "subjects": [
+            [
+                "Acceso a la tierra"
+            ], 
+            [
+                "Desarrollo humano"
+            ], 
+            [
+                "Educaci\u00f3n"
+            ], 
+            [
+                "Equidad e igualdad de g\u00e9nero"
+            ], 
+            [
+                "Ingreso"
+            ], 
+            [
+                "Pol\u00edticas"
+            ], 
+            [
+                "Seguridad alimentaria"
+            ], 
+            [
+                "Land access"
+            ], 
+            [
+                "Human development"
+            ], 
+            [
+                "Education"
+            ], 
+            [
+                "Gender equity and equality"
+            ], 
+            [
+                "Income"
+            ], 
+            [
+                "Policies"
+            ], 
+            [
+                "Food security"
+            ], 
+            [
+                "Desarrollo rural territorial sustentable"
+            ], 
+            [
+                "Maestr\u00eda Tecnol\u00f3gica"
+            ]
+        ], 
+        "rawData": {
+            "dc.creator.none.fl_str_mv": [
+                "L\u00f3pez P\u00e9rez, Flor Ivania"
+            ], 
+            "dc.date.none.fl_str_mv": [
+                "2014-04-25"
+            ], 
+            "title_sort": "Impacto del acceso a la tierra sobre el desarrollo humano sostenible de las familias campesinas beneficiarias del programa tierra de UCOSD, en el municipio San Dionisio, Departamento de Matagalpa, durante el a\u00f1o 2012.", 
+            "publisher.none.fl_str_mv": [
+                "Colegio de Postgraduados (COLPOS)"
+            ], 
+            "topic": [
+                "Acceso a la tierra", 
+                "Desarrollo humano", 
+                "Educaci\u00f3n", 
+                "Equidad e igualdad de g\u00e9nero", 
+                "Ingreso", 
+                "Pol\u00edticas", 
+                "Seguridad alimentaria", 
+                "Land access", 
+                "Human development", 
+                "Education", 
+                "Gender equity and equality", 
+                "Income", 
+                "Policies", 
+                "Food security", 
+                "Desarrollo rural territorial sustentable", 
+                "Maestr\u00eda Tecnol\u00f3gica"
+            ], 
+            "dc.description.none.fl_txt_mv": [
+                "El presente estudio fue realizado con el objetivo de conocer la problem\u00e1tica del acceso a la tierra que enfrentan los campesinos y el impacto que ha tenido el programa tierra de UCOSD sobre el desarrollo humano sostenible de las familias campesinas beneficiarias. Para ello se defini\u00f3 la macro variable acceso a la tierra y los macro efectos desarrollo humano sostenible. Se consideraron 5 variables: pol\u00edticas de acceso a la tierra en UCOSD, ingresos de las familias beneficiarias, educaci\u00f3n, seguridad alimentaria, igualdad y equidad de g\u00e9nero y finalmente se plantea la estrategia para mejorar el acceso a la tierra en UCOSD. A partir de los resultados encontrados se puede afirmar que el programa tierra de UCOSD ha contribuido al desarrollo humano sostenible de las familias campesinas que se dedican personalmente a la actividad agropecuaria que es de donde obtienen su alimentaci\u00f3n y la mayor parte de los ingresos generados en la familia, manifest\u00e1ndose en una buena aceptaci\u00f3n de sus pol\u00edticas y destac\u00e1ndose que en la educaci\u00f3n formal los jefes de familia no alcanzaron la primaria completa; pero esto ha sido complementado con las capacitaciones recibidas as\u00ed lo manifestaron los/as beneficiarios/as del programa tierra que adquieren conocimientos que luego son aplicadas en las parcelas. En relaci\u00f3n a la igualdad y equidad de g\u00e9nero se encontr\u00f3 m\u00e1s integraci\u00f3n de la mujer en los diferentes labores del campo, mayor capacidad de incidencia y de liderazgo dentro de la organizaci\u00f3n y la incorporaci\u00f3n de la mujer como propietaria. _______________ THE IMPACT OF ACCESS TO LAND ON THE SUSTAINABLE HUMAN DEVELOPMENT OF THE BENEFICIARY PEASANT FAMILIES ON THE UCOSD PROGRAM IN THE MUNICIPALITY OF SAN DIONISIO DEPARTMENT OF MATAGALPA DURING THE YEAR 2012. ABSTRACT: This research was conducted with the objective of knowing the problems of accessing to land that farmers face, and the impact that the land program of UCOSD has had on the sustainable human development of the beneficiary peasant families. For this it was defined the macro variable access to land and the macro effects of the sustainable human development. Five variables were considered or taken into account: Policies to access to land in UCOSD program, beneficiary families income, education levels, food security, gender equity; and equality and finally a strategy is stated in order to improve the access to land in UCOSD. From the results we can say that the land program of UCOSD has helped the sustainable human development of the peasant families who work on farming which is what they do to make a living and where they get their income, showing a good acceptance of the policies and emphasizing that the level of education of the family leaders doesn\u2019t get to elementary school. But this has been supplemented with training to these families who acquire knowledge that later is put into practice in their farms. On the other hand, related to gender equity and equality it was found out that there is a higher woman integration in the different agricultural work as well as the capacity and leadership inside the organization and incorporation of women as owners."
+            ], 
+            "url": [
+                "http://www.remeri.org.mx/portal/REMERI.jsp?id=oai:www.biblio.colpos.mx:10521/2270"
+            ], 
+            "title_full_unstemmed": "Impacto del acceso a la tierra sobre el desarrollo humano sostenible de las familias campesinas beneficiarias del programa tierra de UCOSD, en el municipio San Dionisio, Departamento de Matagalpa, durante el a\u00f1o 2012.", 
+            "id": "MX_89d45502efdcbaa9e1054f20f5b4e295", 
+            "status_str": "publishedVersion", 
+            "reponame_str": "Colpos Digital. Documentaci\u00f3n y Biblioteca.", 
+            "author": [
+                "L\u00f3pez P\u00e9rez, Flor Ivania"
+            ], 
+            "identifier_str_mv": [
+                "instname:Colegio de Postgraduados", 
+                "instname:COLPOS", 
+                "reponame:Colpos Digital. Documentaci\u00f3n y Biblioteca.", 
+                "repourl:http://www.biblio.colpos.mx:8080/xmlui"
+            ], 
+            "instname_str": "Colegio de Postgraduados", 
+            "spellingShingle": [
+                "Impacto del acceso a la tierra sobre el desarrollo humano sostenible de las familias campesinas beneficiarias del programa tierra de UCOSD, en el municipio San Dionisio, Departamento de Matagalpa, durante el a\u00f1o 2012.", 
+                "L\u00f3pez P\u00e9rez, Flor Ivania", 
+                "Acceso a la tierra", 
+                "Desarrollo humano", 
+                "Educaci\u00f3n", 
+                "Equidad e igualdad de g\u00e9nero", 
+                "Ingreso", 
+                "Pol\u00edticas", 
+                "Seguridad alimentaria", 
+                "Land access", 
+                "Human development", 
+                "Education", 
+                "Gender equity and equality", 
+                "Income", 
+                "Policies", 
+                "Food security", 
+                "Desarrollo rural territorial sustentable", 
+                "Maestr\u00eda Tecnol\u00f3gica"
+            ], 
+            "score": 828.11206, 
+            "_version_": 1607632251431944192, 
+            "dc.publisher.none.fl_str_mv": [
+                "Colegio de Postgraduados (COLPOS)"
+            ], 
+            "dc.type.none.fl_str_mv": [
+                "info:eu-repo/semantics/masterThesis", 
+                "info:eu-repo/semantics/publishedVersion"
+            ], 
+            "repository.name.fl_str_mv": [
+                "\n\t\t\t-\n\t\t\t"
+            ], 
+            "description": "El presente estudio fue realizado con el objetivo de conocer la problem\u00e1tica del acceso a la tierra que enfrentan los campesinos y el impacto que ha tenido el programa tierra de UCOSD sobre el desarrollo humano sostenible de las familias campesinas beneficiarias. Para ello se defini\u00f3 la macro variable acceso a la tierra y los macro efectos desarrollo humano sostenible. Se consideraron 5 variables: pol\u00edticas de acceso a la tierra en UCOSD, ingresos de las familias beneficiarias, educaci\u00f3n, seguridad alimentaria, igualdad y equidad de g\u00e9nero y finalmente se plantea la estrategia para mejorar el acceso a la tierra en UCOSD. A partir de los resultados encontrados se puede afirmar que el programa tierra de UCOSD ha contribuido al desarrollo humano sostenible de las familias campesinas que se dedican personalmente a la actividad agropecuaria que es de donde obtienen su alimentaci\u00f3n y la mayor parte de los ingresos generados en la familia, manifest\u00e1ndose en una buena aceptaci\u00f3n de sus pol\u00edticas y destac\u00e1ndose que en la educaci\u00f3n formal los jefes de familia no alcanzaron la primaria completa; pero esto ha sido complementado con las capacitaciones recibidas as\u00ed lo manifestaron los/as beneficiarios/as del programa tierra que adquieren conocimientos que luego son aplicadas en las parcelas. En relaci\u00f3n a la igualdad y equidad de g\u00e9nero se encontr\u00f3 m\u00e1s integraci\u00f3n de la mujer en los diferentes labores del campo, mayor capacidad de incidencia y de liderazgo dentro de la organizaci\u00f3n y la incorporaci\u00f3n de la mujer como propietaria. _______________ THE IMPACT OF ACCESS TO LAND ON THE SUSTAINABLE HUMAN DEVELOPMENT OF THE BENEFICIARY PEASANT FAMILIES ON THE UCOSD PROGRAM IN THE MUNICIPALITY OF SAN DIONISIO DEPARTMENT OF MATAGALPA DURING THE YEAR 2012. ABSTRACT: This research was conducted with the objective of knowing the problems of accessing to land that farmers face, and the impact that the land program of UCOSD has had on the sustainable human development of the beneficiary peasant families. For this it was defined the macro variable access to land and the macro effects of the sustainable human development. Five variables were considered or taken into account: Policies to access to land in UCOSD program, beneficiary families income, education levels, food security, gender equity; and equality and finally a strategy is stated in order to improve the access to land in UCOSD. From the results we can say that the land program of UCOSD has helped the sustainable human development of the peasant families who work on farming which is what they do to make a living and where they get their income, showing a good acceptance of the policies and emphasizing that the level of education of the family leaders doesn\u2019t get to elementary school. But this has been supplemented with training to these families who acquire knowledge that later is put into practice in their farms. On the other hand, related to gender equity and equality it was found out that there is a higher woman integration in the different agricultural work as well as the capacity and leadership inside the organization and incorporation of women as owners.", 
+            "format": [
+                "masterThesis"
+            ], 
+            "network_name_str": "M\u00e9xico", 
+            "publishDate": [
+                "2014"
+            ], 
+            "network_acronym_str": "MX", 
+            "dc.format.none.fl_str_mv": [
+                "application/pdf"
+            ], 
+            "eu_rights_str_mv": [
+                "openAccess"
+            ], 
+            "collection": [
+                "Colpos Digital. Documentaci\u00f3n y Biblioteca."
+            ], 
+            "oai_identifier_str": "oai:www.biblio.colpos.mx:10521/2270", 
+            "rights_invalid_str_mv": [
+                "Acceso Abierto"
+            ], 
+            "dc.source.none.fl_str_mv": [
+                "instname:Colegio de Postgraduados", 
+                "reponame:Colpos Digital. Documentaci\u00f3n y Biblioteca."
+            ], 
+            "dc.language.none.fl_str_mv": [
+                "spa"
+            ], 
+            "dc.title.none.fl_str_mv": [
+                "Impacto del acceso a la tierra sobre el desarrollo humano sostenible de las familias campesinas beneficiarias del programa tierra de UCOSD, en el municipio San Dionisio, Departamento de Matagalpa, durante el a\u00f1o 2012."
+            ], 
+            "dc.identifier.none.fl_str_mv": [
+                "instname:Colegio de Postgraduados", 
+                "instname:COLPOS", 
+                "reponame:Colpos Digital. Documentaci\u00f3n y Biblioteca.", 
+                "repourl:http://www.biblio.colpos.mx:8080/xmlui", 
+                "http://www.remeri.org.mx/portal/REMERI.jsp?id=oai:www.biblio.colpos.mx:10521/2270"
+            ], 
+            "title_short": "Impacto del acceso a la tierra sobre el desarrollo humano sostenible de las familias campesinas beneficiarias del programa tierra de UCOSD, en el municipio San Dionisio, Departamento de Matagalpa, durante el a\u00f1o 2012.", 
+            "language": [
+                "spa"
+            ], 
+            "dc.subject.none.fl_str_mv": [
+                "Acceso a la tierra", 
+                "Desarrollo humano", 
+                "Educaci\u00f3n", 
+                "Equidad e igualdad de g\u00e9nero", 
+                "Ingreso", 
+                "Pol\u00edticas", 
+                "Seguridad alimentaria", 
+                "Land access", 
+                "Human development", 
+                "Education", 
+                "Gender equity and equality", 
+                "Income", 
+                "Policies", 
+                "Food security", 
+                "Desarrollo rural territorial sustentable", 
+                "Maestr\u00eda Tecnol\u00f3gica"
+            ], 
+            "title": "Impacto del acceso a la tierra sobre el desarrollo humano sostenible de las familias campesinas beneficiarias del programa tierra de UCOSD, en el municipio San Dionisio, Departamento de Matagalpa, durante el a\u00f1o 2012.", 
+            "dc.rights.none.fl_str_mv": [
+                "Acceso Abierto", 
+                "info:eu-repo/semantics/openAccess"
+            ], 
+            "title_full": "Impacto del acceso a la tierra sobre el desarrollo humano sostenible de las familias campesinas beneficiarias del programa tierra de UCOSD, en el municipio San Dionisio, Departamento de Matagalpa, durante el a\u00f1o 2012.", 
+            "repository.mail.fl_str_mv": [
+                "mail@mail.com"
+            ], 
+            "author_facet": [
+                "L\u00f3pez P\u00e9rez, Flor Ivania"
+            ], 
+            "title_fullStr": "Impacto del acceso a la tierra sobre el desarrollo humano sostenible de las familias campesinas beneficiarias del programa tierra de UCOSD, en el municipio San Dionisio, Departamento de Matagalpa, durante el a\u00f1o 2012."
+        }, 
+        "urls": [
+            {
+                "url": "http://www.remeri.org.mx/portal/REMERI.jsp?id=oai:www.biblio.colpos.mx:10521/2270", 
+                "desc": "http://www.remeri.org.mx/portal/REMERI.jsp?id=oai:www.biblio.colpos.mx:10521/2270"
+            }
+        ], 
+        "formats": [
+            "masterThesis"
+        ], 
+        "id": "MX_89d45502efdcbaa9e1054f20f5b4e295"
+    }, 
+    {
+        "primaryAuthors": [
+            "Real Rojas, Julio Manuel"
+        ], 
+        "secondaryAuthors": [
+            "Bravo Tarira, Iv\u00e1n Santiago", 
+            "Yapur Auad, Miguel"
+        ], 
+        "title": "An\u00e1lisis y elaboraci\u00f3n de una base de datos realizada seg\u00fan el censo de equipos electr\u00f3nicos para el uso m\u00e9dico del hospital Guayaquil \u201cDr. abel gilbert pont\u00f3n", 
+        "publicationDates": [
+            "2009"
+        ], 
+        "summary": [
+            "This topic has two main objectives: The first objective is to realize a poll to the Administrator and the Maintenance Manager of the Hospital Guayaquil \u201cDr. Abel Gilbert Pont\u00f3n\u201d and the second objective is to develop a database of the hospital equipment. This topic consists in two parts. The first one, consist of a poll made to the Administrator and the Chief of the Maintenance Department of the Hospital Guayaquil \u201cDr. Abel Gilbert Pont\u00f3n\u201d. A poll with a great importance because it will provide the necessary information about the level of medical attention given by this institution, which takes as reference standards, codes and policies in the areas of electrical, mechanical, environmental, electromagnetic, biological and radioactive safety. The second part consists in the elaboration of a poll about the medical equipment that the institution have. The information obtained will not only provide the level of equipment of the Hospital but will also be useful to let the community know about the kinds of services that they will be able to obtain. This poll is also used to determine the causes for which, electronic equipment for medical use, are damaged."
+        ], 
+        "languages": [
+            "spa"
+        ], 
+        "subjects": [
+            [
+                "HOSPITAL"
+            ], 
+            [
+                "GENERADORES"
+            ], 
+            [
+                "CLIMATIZACI\u00d3N"
+            ], 
+            [
+                "CALDEROS"
+            ], 
+            [
+                "SERVICIO DE GAS"
+            ], 
+            [
+                "ENCUESTA"
+            ], 
+            [
+                "ADMINISTRADOR"
+            ], 
+            [
+                "SEGURIDAD AMBIENTAL"
+            ], 
+            [
+                "CONTAMINACI\u00d3N"
+            ], 
+            [
+                "JEFE DE MANTENIMIENTO"
+            ], 
+            [
+                "SEGURIDAD EL\u00c9CTRICA"
+            ], 
+            [
+                "SISTEMA DE PUESTA A TIERRA"
+            ], 
+            [
+                "TOMACORRIENTES"
+            ], 
+            [
+                "CORRIENTES DE FUGA"
+            ], 
+            [
+                "VARIACI\u00d3N DE VOLTAJE"
+            ], 
+            [
+                "EQUIPOS ELECTR\u00d3NICOS PARA USO M\u00c9DICO"
+            ], 
+            [
+                "FRECUENCIA DE MANTENIMIENTO"
+            ], 
+            [
+                "MANTENIMIENTO PREVENTIVO"
+            ], 
+            [
+                "MANTENIMIENTO CORRECTIVO"
+            ], 
+            [
+                "INGENIERO CL\u00cdNICO."
+            ]
+        ], 
+        "rawData": {
+            "dc.creator.none.fl_str_mv": [
+                "Real Rojas, Julio Manuel", 
+                "Bravo Tarira, Iv\u00e1n Santiago", 
+                "Yapur Auad, Miguel"
+            ], 
+            "dc.date.none.fl_str_mv": [
+                "2009-09-04", 
+                "2009-09-04", 
+                "2009-09-04"
+            ], 
+            "title_sort": "An\u00e1lisis y elaboraci\u00f3n de una base de datos realizada seg\u00fan el censo de equipos electr\u00f3nicos para el uso m\u00e9dico del hospital Guayaquil \u201cDr. abel gilbert pont\u00f3n", 
+            "topic": [
+                "HOSPITAL", 
+                "GENERADORES", 
+                "CLIMATIZACI\u00d3N", 
+                "CALDEROS", 
+                "SERVICIO DE GAS", 
+                "ENCUESTA", 
+                "ADMINISTRADOR", 
+                "SEGURIDAD AMBIENTAL", 
+                "CONTAMINACI\u00d3N", 
+                "JEFE DE MANTENIMIENTO", 
+                "SEGURIDAD EL\u00c9CTRICA", 
+                "SISTEMA DE PUESTA A TIERRA", 
+                "TOMACORRIENTES", 
+                "CORRIENTES DE FUGA", 
+                "VARIACI\u00d3N DE VOLTAJE", 
+                "EQUIPOS ELECTR\u00d3NICOS PARA USO M\u00c9DICO", 
+                "FRECUENCIA DE MANTENIMIENTO", 
+                "MANTENIMIENTO PREVENTIVO", 
+                "MANTENIMIENTO CORRECTIVO", 
+                "INGENIERO CL\u00cdNICO."
+            ], 
+            "dc.description.none.fl_txt_mv": [
+                "This topic has two main objectives: The first objective is to realize a poll to the Administrator and the Maintenance Manager of the Hospital Guayaquil \u201cDr. Abel Gilbert Pont\u00f3n\u201d and the second objective is to develop a database of the hospital equipment. This topic consists in two parts. The first one, consist of a poll made to the Administrator and the Chief of the Maintenance Department of the Hospital Guayaquil \u201cDr. Abel Gilbert Pont\u00f3n\u201d. A poll with a great importance because it will provide the necessary information about the level of medical attention given by this institution, which takes as reference standards, codes and policies in the areas of electrical, mechanical, environmental, electromagnetic, biological and radioactive safety. The second part consists in the elaboration of a poll about the medical equipment that the institution have. The information obtained will not only provide the level of equipment of the Hospital but will also be useful to let the community know about the kinds of services that they will be able to obtain. This poll is also used to determine the causes for which, electronic equipment for medical use, are damaged."
+            ], 
+            "url": [
+                "http://www.dspace.espol.edu.ec/handle/123456789/7237"
+            ], 
+            "author2": [
+                "Bravo Tarira, Iv\u00e1n Santiago", 
+                "Yapur Auad, Miguel"
+            ], 
+            "title_full_unstemmed": "An\u00e1lisis y elaboraci\u00f3n de una base de datos realizada seg\u00fan el censo de equipos electr\u00f3nicos para el uso m\u00e9dico del hospital Guayaquil \u201cDr. abel gilbert pont\u00f3n", 
+            "id": "EC_5c5a6a35edf7ad65c4cfba94e62ca427", 
+            "status_str": "publishedVersion", 
+            "reponame_str": "Repositorio de la ESPOL", 
+            "author": [
+                "Real Rojas, Julio Manuel"
+            ], 
+            "instname_str": "Escuela Superior Polit\u00e9cnica del Litoral", 
+            "spellingShingle": [
+                "An\u00e1lisis y elaboraci\u00f3n de una base de datos realizada seg\u00fan el censo de equipos electr\u00f3nicos para el uso m\u00e9dico del hospital Guayaquil \u201cDr. abel gilbert pont\u00f3n", 
+                "Real Rojas, Julio Manuel", 
+                "HOSPITAL", 
+                "GENERADORES", 
+                "CLIMATIZACI\u00d3N", 
+                "CALDEROS", 
+                "SERVICIO DE GAS", 
+                "ENCUESTA", 
+                "ADMINISTRADOR", 
+                "SEGURIDAD AMBIENTAL", 
+                "CONTAMINACI\u00d3N", 
+                "JEFE DE MANTENIMIENTO", 
+                "SEGURIDAD EL\u00c9CTRICA", 
+                "SISTEMA DE PUESTA A TIERRA", 
+                "TOMACORRIENTES", 
+                "CORRIENTES DE FUGA", 
+                "VARIACI\u00d3N DE VOLTAJE", 
+                "EQUIPOS ELECTR\u00d3NICOS PARA USO M\u00c9DICO", 
+                "FRECUENCIA DE MANTENIMIENTO", 
+                "MANTENIMIENTO PREVENTIVO", 
+                "MANTENIMIENTO CORRECTIVO", 
+                "INGENIERO CL\u00cdNICO."
+            ], 
+            "score": 699.7558, 
+            "_version_": 1607632011462180864, 
+            "dc.source.none.fl_str_mv": [
+                "reponame:Repositorio de la ESPOL", 
+                "instname:Escuela Superior Polit\u00e9cnica del Litoral"
+            ], 
+            "dc.type.none.fl_str_mv": [
+                "info:eu-repo/semantics/article", 
+                "info:eu-repo/semantics/publishedVersion"
+            ], 
+            "repository.name.fl_str_mv": [
+                "\n\t\t\t-\n\t\t\t"
+            ], 
+            "description": "This topic has two main objectives: The first objective is to realize a poll to the Administrator and the Maintenance Manager of the Hospital Guayaquil \u201cDr. Abel Gilbert Pont\u00f3n\u201d and the second objective is to develop a database of the hospital equipment. This topic consists in two parts. The first one, consist of a poll made to the Administrator and the Chief of the Maintenance Department of the Hospital Guayaquil \u201cDr. Abel Gilbert Pont\u00f3n\u201d. A poll with a great importance because it will provide the necessary information about the level of medical attention given by this institution, which takes as reference standards, codes and policies in the areas of electrical, mechanical, environmental, electromagnetic, biological and radioactive safety. The second part consists in the elaboration of a poll about the medical equipment that the institution have. The information obtained will not only provide the level of equipment of the Hospital but will also be useful to let the community know about the kinds of services that they will be able to obtain. This poll is also used to determine the causes for which, electronic equipment for medical use, are damaged.", 
+            "format": [
+                "article"
+            ], 
+            "network_name_str": "Ecuador", 
+            "publishDate": [
+                "2009"
+            ], 
+            "network_acronym_str": "EC", 
+            "eu_rights_str_mv": [
+                "openAccess"
+            ], 
+            "collection": [
+                "Repositorio de la ESPOL"
+            ], 
+            "oai_identifier_str": "oai:www.dspace.espol.edu.ec:123456789/7237", 
+            "dc.language.none.fl_str_mv": [
+                "spa"
+            ], 
+            "dc.title.none.fl_str_mv": [
+                "An\u00e1lisis y elaboraci\u00f3n de una base de datos realizada seg\u00fan el censo de equipos electr\u00f3nicos para el uso m\u00e9dico del hospital Guayaquil \u201cDr. abel gilbert pont\u00f3n"
+            ], 
+            "dc.identifier.none.fl_str_mv": [
+                "http://www.dspace.espol.edu.ec/handle/123456789/7237"
+            ], 
+            "title_short": "An\u00e1lisis y elaboraci\u00f3n de una base de datos realizada seg\u00fan el censo de equipos electr\u00f3nicos para el uso m\u00e9dico del hospital Guayaquil \u201cDr. abel gilbert pont\u00f3n", 
+            "language": [
+                "spa"
+            ], 
+            "dc.subject.none.fl_str_mv": [
+                "HOSPITAL", 
+                "GENERADORES", 
+                "CLIMATIZACI\u00d3N", 
+                "CALDEROS", 
+                "SERVICIO DE GAS", 
+                "ENCUESTA", 
+                "ADMINISTRADOR", 
+                "SEGURIDAD AMBIENTAL", 
+                "CONTAMINACI\u00d3N", 
+                "JEFE DE MANTENIMIENTO", 
+                "SEGURIDAD EL\u00c9CTRICA", 
+                "SISTEMA DE PUESTA A TIERRA", 
+                "TOMACORRIENTES", 
+                "CORRIENTES DE FUGA", 
+                "VARIACI\u00d3N DE VOLTAJE", 
+                "EQUIPOS ELECTR\u00d3NICOS PARA USO M\u00c9DICO", 
+                "FRECUENCIA DE MANTENIMIENTO", 
+                "MANTENIMIENTO PREVENTIVO", 
+                "MANTENIMIENTO CORRECTIVO", 
+                "INGENIERO CL\u00cdNICO."
+            ], 
+            "title": "An\u00e1lisis y elaboraci\u00f3n de una base de datos realizada seg\u00fan el censo de equipos electr\u00f3nicos para el uso m\u00e9dico del hospital Guayaquil \u201cDr. abel gilbert pont\u00f3n", 
+            "dc.rights.none.fl_str_mv": [
+                "info:eu-repo/semantics/openAccess"
+            ], 
+            "title_full": "An\u00e1lisis y elaboraci\u00f3n de una base de datos realizada seg\u00fan el censo de equipos electr\u00f3nicos para el uso m\u00e9dico del hospital Guayaquil \u201cDr. abel gilbert pont\u00f3n", 
+            "repository.mail.fl_str_mv": [
+                "mail@mail.com"
+            ], 
+            "author_facet": [
+                "Real Rojas, Julio Manuel", 
+                "Bravo Tarira, Iv\u00e1n Santiago", 
+                "Yapur Auad, Miguel"
+            ], 
+            "title_fullStr": "An\u00e1lisis y elaboraci\u00f3n de una base de datos realizada seg\u00fan el censo de equipos electr\u00f3nicos para el uso m\u00e9dico del hospital Guayaquil \u201cDr. abel gilbert pont\u00f3n"
+        }, 
+        "urls": [
+            {
+                "url": "http://www.dspace.espol.edu.ec/handle/123456789/7237", 
+                "desc": "http://www.dspace.espol.edu.ec/handle/123456789/7237"
+            }
+        ], 
+        "formats": [
+            "article"
+        ], 
+        "id": "EC_5c5a6a35edf7ad65c4cfba94e62ca427"
+    }, 
+    {
+        "primaryAuthors": [
+            "Cruz Obando, Diego"
+        ], 
+        "secondaryAuthors": [
+            "Cuenca Apolo, Miguel", 
+            "Vera Villegas, Ricardo", 
+            "Yapur Auad, Miguel Eduardo"
+        ], 
+        "title": "An\u00e1lisis y elaboraci\u00f3n de una base de datos realizada seg\u00fan el censo de equipos electr\u00f3nicos para uso m\u00e9dico del hospital del IESS Dr. Teodoro Maldonado Carbo", 
+        "publicationDates": [
+            "2009"
+        ], 
+        "summary": [
+            "This topic has two main objectives: The first objective is to realize a poll to the Administrator and the Maintenance Manager of the Hospital of IESS \u201cDr. Teodoro Maldonado Carbo\u201d and the second objective is to develop a database of the hospital equipment. This topic consists in two parts. The first one, consist of a poll realized for the directives of the Hospital of IESS \u201cDr. Teodoro Maldonado Carbo\u201d, to know about the level of service offered to the affiliates, which takes as reference standards, codes and policies in the areas of electrical, mechanical, environmental, biological, radioactive and electromagnetic safety. The second part is based in a poll of electronic equipment for medical use in the same hospital, with the aim to recognize the equipment level of different areas and the services it can provide to the community. This poll is also used to determine the causes for which, electronic equipment for medical use, are damaged."
+        ], 
+        "languages": [
+            "spa"
+        ], 
+        "subjects": [
+            [
+                "HOSPITAL"
+            ], 
+            [
+                "GASES MEDICINALES"
+            ], 
+            [
+                "GENERADORES"
+            ], 
+            [
+                "DISTRIBUCION ELECTRICA"
+            ], 
+            [
+                "TRANSFORMADORES"
+            ], 
+            [
+                "CENTRAL DE COMBUSTIBLES"
+            ], 
+            [
+                "CUARTO DE MAQUINAS"
+            ], 
+            [
+                "ACOPIO DE BASURA"
+            ], 
+            [
+                "BODEGA"
+            ], 
+            [
+                "ORGANIGRAMA"
+            ], 
+            [
+                "ENCUESTA"
+            ], 
+            [
+                "ADMINISTRADOR"
+            ], 
+            [
+                "SEGURIDAD AMBIENTAL"
+            ], 
+            [
+                "CONTAMINACION"
+            ], 
+            [
+                "JEFE DE MANTENIMIENTO"
+            ], 
+            [
+                "SEGURIDAD ELECTRICA"
+            ], 
+            [
+                "SISTEMA DE PUESTA A TIERRA"
+            ], 
+            [
+                "TOMACORRIENTES"
+            ], 
+            [
+                "CORRIENTES DE FUGA"
+            ], 
+            [
+                "VARIACION DE VOLTAJE"
+            ], 
+            [
+                "UPS"
+            ], 
+            [
+                "EQUIPOS ELECTRONICOS PARA USO MEDICO"
+            ], 
+            [
+                "FRECUENCIA DE MANTENIMIENTO"
+            ], 
+            [
+                "MANTENIMIENTO PREVENTIVO"
+            ], 
+            [
+                "MANTENIMIENTO CORRECTIVO"
+            ], 
+            [
+                "INGENIERO CLINICO"
+            ]
+        ], 
+        "rawData": {
+            "dc.creator.none.fl_str_mv": [
+                "Cruz Obando, Diego", 
+                "Cuenca Apolo, Miguel", 
+                "Vera Villegas, Ricardo", 
+                "Yapur Auad, Miguel Eduardo"
+            ], 
+            "dc.date.none.fl_str_mv": [
+                "2009-04-30", 
+                "2009-04-30", 
+                "2009-04-30"
+            ], 
+            "title_sort": "An\u00e1lisis y elaboraci\u00f3n de una base de datos realizada seg\u00fan el censo de equipos electr\u00f3nicos para uso m\u00e9dico del hospital del IESS Dr. Teodoro Maldonado Carbo", 
+            "topic": [
+                "HOSPITAL", 
+                "GASES MEDICINALES", 
+                "GENERADORES", 
+                "DISTRIBUCION ELECTRICA", 
+                "TRANSFORMADORES", 
+                "CENTRAL DE COMBUSTIBLES", 
+                "CUARTO DE MAQUINAS", 
+                "ACOPIO DE BASURA", 
+                "BODEGA", 
+                "ORGANIGRAMA", 
+                "ENCUESTA", 
+                "ADMINISTRADOR", 
+                "SEGURIDAD AMBIENTAL", 
+                "CONTAMINACION", 
+                "JEFE DE MANTENIMIENTO", 
+                "SEGURIDAD ELECTRICA", 
+                "SISTEMA DE PUESTA A TIERRA", 
+                "TOMACORRIENTES", 
+                "CORRIENTES DE FUGA", 
+                "VARIACION DE VOLTAJE", 
+                "UPS", 
+                "EQUIPOS ELECTRONICOS PARA USO MEDICO", 
+                "FRECUENCIA DE MANTENIMIENTO", 
+                "MANTENIMIENTO PREVENTIVO", 
+                "MANTENIMIENTO CORRECTIVO", 
+                "INGENIERO CLINICO"
+            ], 
+            "dc.description.none.fl_txt_mv": [
+                "This topic has two main objectives: The first objective is to realize a poll to the Administrator and the Maintenance Manager of the Hospital of IESS \u201cDr. Teodoro Maldonado Carbo\u201d and the second objective is to develop a database of the hospital equipment. This topic consists in two parts. The first one, consist of a poll realized for the directives of the Hospital of IESS \u201cDr. Teodoro Maldonado Carbo\u201d, to know about the level of service offered to the affiliates, which takes as reference standards, codes and policies in the areas of electrical, mechanical, environmental, biological, radioactive and electromagnetic safety. The second part is based in a poll of electronic equipment for medical use in the same hospital, with the aim to recognize the equipment level of different areas and the services it can provide to the community. This poll is also used to determine the causes for which, electronic equipment for medical use, are damaged."
+            ], 
+            "url": [
+                "http://www.dspace.espol.edu.ec/handle/123456789/4911"
+            ], 
+            "author2": [
+                "Cuenca Apolo, Miguel", 
+                "Vera Villegas, Ricardo", 
+                "Yapur Auad, Miguel Eduardo"
+            ], 
+            "title_full_unstemmed": "An\u00e1lisis y elaboraci\u00f3n de una base de datos realizada seg\u00fan el censo de equipos electr\u00f3nicos para uso m\u00e9dico del hospital del IESS Dr. Teodoro Maldonado Carbo", 
+            "id": "EC_08aaccb6379fe4ac7da0dd369dfe326b", 
+            "status_str": "publishedVersion", 
+            "reponame_str": "Repositorio de la ESPOL", 
+            "author": [
+                "Cruz Obando, Diego"
+            ], 
+            "instname_str": "Escuela Superior Polit\u00e9cnica del Litoral", 
+            "spellingShingle": [
+                "An\u00e1lisis y elaboraci\u00f3n de una base de datos realizada seg\u00fan el censo de equipos electr\u00f3nicos para uso m\u00e9dico del hospital del IESS Dr. Teodoro Maldonado Carbo", 
+                "Cruz Obando, Diego", 
+                "HOSPITAL", 
+                "GASES MEDICINALES", 
+                "GENERADORES", 
+                "DISTRIBUCION ELECTRICA", 
+                "TRANSFORMADORES", 
+                "CENTRAL DE COMBUSTIBLES", 
+                "CUARTO DE MAQUINAS", 
+                "ACOPIO DE BASURA", 
+                "BODEGA", 
+                "ORGANIGRAMA", 
+                "ENCUESTA", 
+                "ADMINISTRADOR", 
+                "SEGURIDAD AMBIENTAL", 
+                "CONTAMINACION", 
+                "JEFE DE MANTENIMIENTO", 
+                "SEGURIDAD ELECTRICA", 
+                "SISTEMA DE PUESTA A TIERRA", 
+                "TOMACORRIENTES", 
+                "CORRIENTES DE FUGA", 
+                "VARIACION DE VOLTAJE", 
+                "UPS", 
+                "EQUIPOS ELECTRONICOS PARA USO MEDICO", 
+                "FRECUENCIA DE MANTENIMIENTO", 
+                "MANTENIMIENTO PREVENTIVO", 
+                "MANTENIMIENTO CORRECTIVO", 
+                "INGENIERO CLINICO"
+            ], 
+            "score": 500.25586, 
+            "_version_": 1607632010471276544, 
+            "dc.source.none.fl_str_mv": [
+                "reponame:Repositorio de la ESPOL", 
+                "instname:Escuela Superior Polit\u00e9cnica del Litoral"
+            ], 
+            "dc.type.none.fl_str_mv": [
+                "info:eu-repo/semantics/article", 
+                "info:eu-repo/semantics/publishedVersion"
+            ], 
+            "repository.name.fl_str_mv": [
+                "\n\t\t\t-\n\t\t\t"
+            ], 
+            "description": "This topic has two main objectives: The first objective is to realize a poll to the Administrator and the Maintenance Manager of the Hospital of IESS \u201cDr. Teodoro Maldonado Carbo\u201d and the second objective is to develop a database of the hospital equipment. This topic consists in two parts. The first one, consist of a poll realized for the directives of the Hospital of IESS \u201cDr. Teodoro Maldonado Carbo\u201d, to know about the level of service offered to the affiliates, which takes as reference standards, codes and policies in the areas of electrical, mechanical, environmental, biological, radioactive and electromagnetic safety. The second part is based in a poll of electronic equipment for medical use in the same hospital, with the aim to recognize the equipment level of different areas and the services it can provide to the community. This poll is also used to determine the causes for which, electronic equipment for medical use, are damaged.", 
+            "format": [
+                "article"
+            ], 
+            "network_name_str": "Ecuador", 
+            "publishDate": [
+                "2009"
+            ], 
+            "network_acronym_str": "EC", 
+            "eu_rights_str_mv": [
+                "openAccess"
+            ], 
+            "collection": [
+                "Repositorio de la ESPOL"
+            ], 
+            "oai_identifier_str": "oai:www.dspace.espol.edu.ec:123456789/4911", 
+            "dc.language.none.fl_str_mv": [
+                "spa"
+            ], 
+            "dc.title.none.fl_str_mv": [
+                "An\u00e1lisis y elaboraci\u00f3n de una base de datos realizada seg\u00fan el censo de equipos electr\u00f3nicos para uso m\u00e9dico del hospital del IESS Dr. Teodoro Maldonado Carbo"
+            ], 
+            "dc.identifier.none.fl_str_mv": [
+                "http://www.dspace.espol.edu.ec/handle/123456789/4911"
+            ], 
+            "title_short": "An\u00e1lisis y elaboraci\u00f3n de una base de datos realizada seg\u00fan el censo de equipos electr\u00f3nicos para uso m\u00e9dico del hospital del IESS Dr. Teodoro Maldonado Carbo", 
+            "language": [
+                "spa"
+            ], 
+            "dc.subject.none.fl_str_mv": [
+                "HOSPITAL", 
+                "GASES MEDICINALES", 
+                "GENERADORES", 
+                "DISTRIBUCION ELECTRICA", 
+                "TRANSFORMADORES", 
+                "CENTRAL DE COMBUSTIBLES", 
+                "CUARTO DE MAQUINAS", 
+                "ACOPIO DE BASURA", 
+                "BODEGA", 
+                "ORGANIGRAMA", 
+                "ENCUESTA", 
+                "ADMINISTRADOR", 
+                "SEGURIDAD AMBIENTAL", 
+                "CONTAMINACION", 
+                "JEFE DE MANTENIMIENTO", 
+                "SEGURIDAD ELECTRICA", 
+                "SISTEMA DE PUESTA A TIERRA", 
+                "TOMACORRIENTES", 
+                "CORRIENTES DE FUGA", 
+                "VARIACION DE VOLTAJE", 
+                "UPS", 
+                "EQUIPOS ELECTRONICOS PARA USO MEDICO", 
+                "FRECUENCIA DE MANTENIMIENTO", 
+                "MANTENIMIENTO PREVENTIVO", 
+                "MANTENIMIENTO CORRECTIVO", 
+                "INGENIERO CLINICO"
+            ], 
+            "title": "An\u00e1lisis y elaboraci\u00f3n de una base de datos realizada seg\u00fan el censo de equipos electr\u00f3nicos para uso m\u00e9dico del hospital del IESS Dr. Teodoro Maldonado Carbo", 
+            "dc.rights.none.fl_str_mv": [
+                "info:eu-repo/semantics/openAccess"
+            ], 
+            "title_full": "An\u00e1lisis y elaboraci\u00f3n de una base de datos realizada seg\u00fan el censo de equipos electr\u00f3nicos para uso m\u00e9dico del hospital del IESS Dr. Teodoro Maldonado Carbo", 
+            "repository.mail.fl_str_mv": [
+                "mail@mail.com"
+            ], 
+            "author_facet": [
+                "Cruz Obando, Diego", 
+                "Cuenca Apolo, Miguel", 
+                "Vera Villegas, Ricardo", 
+                "Yapur Auad, Miguel Eduardo"
+            ], 
+            "title_fullStr": "An\u00e1lisis y elaboraci\u00f3n de una base de datos realizada seg\u00fan el censo de equipos electr\u00f3nicos para uso m\u00e9dico del hospital del IESS Dr. Teodoro Maldonado Carbo"
+        }, 
+        "urls": [
+            {
+                "url": "http://www.dspace.espol.edu.ec/handle/123456789/4911", 
+                "desc": "http://www.dspace.espol.edu.ec/handle/123456789/4911"
+            }
+        ], 
+        "formats": [
+            "article"
+        ], 
+        "id": "EC_08aaccb6379fe4ac7da0dd369dfe326b"
+    }
+]

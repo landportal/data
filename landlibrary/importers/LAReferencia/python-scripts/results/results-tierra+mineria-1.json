@@ -1,0 +1,2411 @@
+[
+    {
+        "primaryAuthors": [
+            "Rom\u00e1n Gurrola, Manuel"
+        ], 
+        "title": "Propuesta de plan para la gesti\u00f3n integral del agua en una cuenca con actividad minera en el municipio de Aquiles Serd\u00e1n, Chihuahua", 
+        "publicationDates": [
+            "2015"
+        ], 
+        "summary": [
+            "La actual variabilidad clim\u00e1tica advierte que la escasez del recurso h\u00eddrico puede intensificarse en aquellas zonas donde existe presi\u00f3n ya sea por d\u00e9ficit o por la competencia en el uso del recurso, debido a esto cada vez es m\u00e1s indispensable el desarrollo de proyectos encaminados a la conservaci\u00f3n del agua. M\u00e9xico se encuentra dentro del grupo de los pa\u00edses con mayor inversi\u00f3n en la industria minera y siendo el agua de car\u00e1cter fundamental dentro de la industria extractiva, se requiere que se establezca un manejo adecuado del recurso con base en las caracter\u00edsticas espec\u00edficas de cada sitio. En el presente trabajo se desarrolla una propuesta de plan de gesti\u00f3n integral del agua (PGIA) para el \u00e1rea de influencia de una unidad minera, en la que se considerar\u00e1 la superficie existente entre los l\u00edmites naturales establecidos por la cuenca hidrol\u00f3gica y/o el acu\u00edfero, como unidad principal de gesti\u00f3n. De \u00e9sta manera se lograr\u00eda reconocer la problem\u00e1tica asociada con la distribuci\u00f3n, el consumo, la calidad del agua, las necesidades y probables afectaciones a las comunidades de la zona; as\u00ed como tambi\u00e9n el establecimiento de los estudios necesarios para la recopilaci\u00f3n de informaci\u00f3n acerca de las condiciones originales del sitio (datos de l\u00ednea base); un monitoreo continuo de las variables principales y por \u00faltimo la revisi\u00f3n de la normatividad que sea aplicable en el caso. El objetivo fundamental del PGIA es lograr un consumo eficiente del recurso h\u00eddrico, minimizar los impactos ambientales y mantener una flexibilidad estrat\u00e9gica que permita la adopci\u00f3n de medidas para una continua mejora del plan de gesti\u00f3n. Por otra parte; las actividades mineras deben planearse dentro de un esquema de prevenci\u00f3n de los impactos negativos que pudieran acontecer durante cualquiera de las etapas del periodo de vida de la mina. Con el enfoque de cuenca como unidad principal de gesti\u00f3n, se proporcionar\u00e1 el marco de an\u00e1lisis necesario para poder integrar los estudios especializados relacionados con la minera y los estudios de caracterizaci\u00f3n del sitio, adem\u00e1s de generar el beneficio de la creaci\u00f3n de empresas proactivas que favorezcan al desarrollo sostenible de la regi\u00f3n."
+        ], 
+        "languages": [
+            "spa"
+        ], 
+        "subjects": [
+            [
+                "desarrollo sostenible"
+            ], 
+            [
+                "miner\u00eda"
+            ], 
+            [
+                "1 CIENCIAS FISICO MATEMATICAS Y CIENCIAS DE LA TIERRA"
+            ]
+        ], 
+        "rawData": {
+            "dc.creator.none.fl_str_mv": [
+                "Rom\u00e1n Gurrola, Manuel"
+            ], 
+            "dc.date.none.fl_str_mv": [
+                "2015-08-01"
+            ], 
+            "title_sort": "Propuesta de plan para la gesti\u00f3n integral del agua en una cuenca con actividad minera en el municipio de Aquiles Serd\u00e1n, Chihuahua", 
+            "dc.relation.none.fl_str_mv": [
+                "investigadores"
+            ], 
+            "publisher.none.fl_str_mv": [
+                "Agenda Ambiental", 
+                "Universidad Aut\u00f3noma del Estado de San Luis Potos\u00ed (UASLP)"
+            ], 
+            "topic": [
+                "desarrollo sostenible", 
+                "miner\u00eda", 
+                "1 CIENCIAS FISICO MATEMATICAS Y CIENCIAS DE LA TIERRA"
+            ], 
+            "dc.description.none.fl_txt_mv": [
+                "La actual variabilidad clim\u00e1tica advierte que la escasez del recurso h\u00eddrico puede intensificarse en aquellas zonas donde existe presi\u00f3n ya sea por d\u00e9ficit o por la competencia en el uso del recurso, debido a esto cada vez es m\u00e1s indispensable el desarrollo de proyectos encaminados a la conservaci\u00f3n del agua. M\u00e9xico se encuentra dentro del grupo de los pa\u00edses con mayor inversi\u00f3n en la industria minera y siendo el agua de car\u00e1cter fundamental dentro de la industria extractiva, se requiere que se establezca un manejo adecuado del recurso con base en las caracter\u00edsticas espec\u00edficas de cada sitio. En el presente trabajo se desarrolla una propuesta de plan de gesti\u00f3n integral del agua (PGIA) para el \u00e1rea de influencia de una unidad minera, en la que se considerar\u00e1 la superficie existente entre los l\u00edmites naturales establecidos por la cuenca hidrol\u00f3gica y/o el acu\u00edfero, como unidad principal de gesti\u00f3n. De \u00e9sta manera se lograr\u00eda reconocer la problem\u00e1tica asociada con la distribuci\u00f3n, el consumo, la calidad del agua, las necesidades y probables afectaciones a las comunidades de la zona; as\u00ed como tambi\u00e9n el establecimiento de los estudios necesarios para la recopilaci\u00f3n de informaci\u00f3n acerca de las condiciones originales del sitio (datos de l\u00ednea base); un monitoreo continuo de las variables principales y por \u00faltimo la revisi\u00f3n de la normatividad que sea aplicable en el caso. El objetivo fundamental del PGIA es lograr un consumo eficiente del recurso h\u00eddrico, minimizar los impactos ambientales y mantener una flexibilidad estrat\u00e9gica que permita la adopci\u00f3n de medidas para una continua mejora del plan de gesti\u00f3n. Por otra parte; las actividades mineras deben planearse dentro de un esquema de prevenci\u00f3n de los impactos negativos que pudieran acontecer durante cualquiera de las etapas del periodo de vida de la mina. Con el enfoque de cuenca como unidad principal de gesti\u00f3n, se proporcionar\u00e1 el marco de an\u00e1lisis necesario para poder integrar los estudios especializados relacionados con la minera y los estudios de caracterizaci\u00f3n del sitio, adem\u00e1s de generar el beneficio de la creaci\u00f3n de empresas proactivas que favorezcan al desarrollo sostenible de la regi\u00f3n."
+            ], 
+            "url": [
+                "http://www.remeri.org.mx/portal/REMERI.jsp?id=oai:ninive.uaslp.mx:i/3851"
+            ], 
+            "title_full_unstemmed": "Propuesta de plan para la gesti\u00f3n integral del agua en una cuenca con actividad minera en el municipio de Aquiles Serd\u00e1n, Chihuahua", 
+            "id": "MX_8b5444bb7c33a00e570210cdf19f051a", 
+            "status_str": "publishedVersion", 
+            "reponame_str": "Repositorio Institucional NINIVE.", 
+            "author": [
+                "Rom\u00e1n Gurrola, Manuel"
+            ], 
+            "identifier_str_mv": [
+                "instname:Universidad Aut\u00f3noma del Estado de San Luis Potos\u00ed", 
+                "instname:UASLP", 
+                "reponame:Repositorio Institucional NINIVE.", 
+                "repourl:http://ninive.uaslp.mx/"
+            ], 
+            "instname_str": "Universidad Aut\u00f3noma del Estado de San Luis Potos\u00ed", 
+            "spellingShingle": [
+                "Propuesta de plan para la gesti\u00f3n integral del agua en una cuenca con actividad minera en el municipio de Aquiles Serd\u00e1n, Chihuahua", 
+                "Rom\u00e1n Gurrola, Manuel", 
+                "desarrollo sostenible", 
+                "miner\u00eda", 
+                "1 CIENCIAS FISICO MATEMATICAS Y CIENCIAS DE LA TIERRA"
+            ], 
+            "score": 2098.4622, 
+            "_version_": 1607632436801306624, 
+            "dc.publisher.none.fl_str_mv": [
+                "Agenda Ambiental", 
+                "Universidad Aut\u00f3noma del Estado de San Luis Potos\u00ed (UASLP)"
+            ], 
+            "dc.type.none.fl_str_mv": [
+                "info:eu-repo/semantics/masterThesis", 
+                "info:eu-repo/semantics/publishedVersion", 
+                "Tesis de Maestria"
+            ], 
+            "repository.name.fl_str_mv": [
+                "\n\t\t\t-\n\t\t\t"
+            ], 
+            "description": "La actual variabilidad clim\u00e1tica advierte que la escasez del recurso h\u00eddrico puede intensificarse en aquellas zonas donde existe presi\u00f3n ya sea por d\u00e9ficit o por la competencia en el uso del recurso, debido a esto cada vez es m\u00e1s indispensable el desarrollo de proyectos encaminados a la conservaci\u00f3n del agua. M\u00e9xico se encuentra dentro del grupo de los pa\u00edses con mayor inversi\u00f3n en la industria minera y siendo el agua de car\u00e1cter fundamental dentro de la industria extractiva, se requiere que se establezca un manejo adecuado del recurso con base en las caracter\u00edsticas espec\u00edficas de cada sitio. En el presente trabajo se desarrolla una propuesta de plan de gesti\u00f3n integral del agua (PGIA) para el \u00e1rea de influencia de una unidad minera, en la que se considerar\u00e1 la superficie existente entre los l\u00edmites naturales establecidos por la cuenca hidrol\u00f3gica y/o el acu\u00edfero, como unidad principal de gesti\u00f3n. De \u00e9sta manera se lograr\u00eda reconocer la problem\u00e1tica asociada con la distribuci\u00f3n, el consumo, la calidad del agua, las necesidades y probables afectaciones a las comunidades de la zona; as\u00ed como tambi\u00e9n el establecimiento de los estudios necesarios para la recopilaci\u00f3n de informaci\u00f3n acerca de las condiciones originales del sitio (datos de l\u00ednea base); un monitoreo continuo de las variables principales y por \u00faltimo la revisi\u00f3n de la normatividad que sea aplicable en el caso. El objetivo fundamental del PGIA es lograr un consumo eficiente del recurso h\u00eddrico, minimizar los impactos ambientales y mantener una flexibilidad estrat\u00e9gica que permita la adopci\u00f3n de medidas para una continua mejora del plan de gesti\u00f3n. Por otra parte; las actividades mineras deben planearse dentro de un esquema de prevenci\u00f3n de los impactos negativos que pudieran acontecer durante cualquiera de las etapas del periodo de vida de la mina. Con el enfoque de cuenca como unidad principal de gesti\u00f3n, se proporcionar\u00e1 el marco de an\u00e1lisis necesario para poder integrar los estudios especializados relacionados con la minera y los estudios de caracterizaci\u00f3n del sitio, adem\u00e1s de generar el beneficio de la creaci\u00f3n de empresas proactivas que favorezcan al desarrollo sostenible de la regi\u00f3n.", 
+            "format": [
+                "masterThesis"
+            ], 
+            "network_name_str": "M\u00e9xico", 
+            "publishDate": [
+                "2015"
+            ], 
+            "network_acronym_str": "MX", 
+            "dc.format.none.fl_str_mv": [
+                "application/pdf"
+            ], 
+            "eu_rights_str_mv": [
+                "openAccess"
+            ], 
+            "collection": [
+                "Repositorio Institucional NINIVE."
+            ], 
+            "oai_identifier_str": "oai:ninive.uaslp.mx:i/3851", 
+            "rights_invalid_str_mv": [
+                "Acceso Abierto"
+            ], 
+            "dc.source.none.fl_str_mv": [
+                "instname:Universidad Aut\u00f3noma del Estado de San Luis Potos\u00ed", 
+                "reponame:Repositorio Institucional NINIVE."
+            ], 
+            "dc.language.none.fl_str_mv": [
+                "spa"
+            ], 
+            "dc.title.none.fl_str_mv": [
+                "Propuesta de plan para la gesti\u00f3n integral del agua en una cuenca con actividad minera en el municipio de Aquiles Serd\u00e1n, Chihuahua"
+            ], 
+            "dc.identifier.none.fl_str_mv": [
+                "instname:Universidad Aut\u00f3noma del Estado de San Luis Potos\u00ed", 
+                "instname:UASLP", 
+                "reponame:Repositorio Institucional NINIVE.", 
+                "repourl:http://ninive.uaslp.mx/", 
+                "http://www.remeri.org.mx/portal/REMERI.jsp?id=oai:ninive.uaslp.mx:i/3851"
+            ], 
+            "title_short": "Propuesta de plan para la gesti\u00f3n integral del agua en una cuenca con actividad minera en el municipio de Aquiles Serd\u00e1n, Chihuahua", 
+            "language": [
+                "spa"
+            ], 
+            "dc.subject.none.fl_str_mv": [
+                "desarrollo sostenible", 
+                "miner\u00eda", 
+                "1 CIENCIAS FISICO MATEMATICAS Y CIENCIAS DE LA TIERRA"
+            ], 
+            "title": "Propuesta de plan para la gesti\u00f3n integral del agua en una cuenca con actividad minera en el municipio de Aquiles Serd\u00e1n, Chihuahua", 
+            "dc.rights.none.fl_str_mv": [
+                "Acceso Abierto", 
+                "info:eu-repo/semantics/openAccess"
+            ], 
+            "title_full": "Propuesta de plan para la gesti\u00f3n integral del agua en una cuenca con actividad minera en el municipio de Aquiles Serd\u00e1n, Chihuahua", 
+            "repository.mail.fl_str_mv": [
+                "mail@mail.com"
+            ], 
+            "dc.contributor.none.fl_str_mv": [
+                "Razo Soto, Israel", 
+                "Roehrig, Jackson"
+            ], 
+            "author_facet": [
+                "Rom\u00e1n Gurrola, Manuel"
+            ], 
+            "title_fullStr": "Propuesta de plan para la gesti\u00f3n integral del agua en una cuenca con actividad minera en el municipio de Aquiles Serd\u00e1n, Chihuahua"
+        }, 
+        "urls": [
+            {
+                "url": "http://www.remeri.org.mx/portal/REMERI.jsp?id=oai:ninive.uaslp.mx:i/3851", 
+                "desc": "http://www.remeri.org.mx/portal/REMERI.jsp?id=oai:ninive.uaslp.mx:i/3851"
+            }
+        ], 
+        "formats": [
+            "masterThesis"
+        ], 
+        "id": "MX_8b5444bb7c33a00e570210cdf19f051a"
+    }, 
+    {
+        "primaryAuthors": [
+            "Mart\u00ednez Valdez, Ofelia Anais"
+        ], 
+        "title": "Movilidad de metales y metaloides en sitios mineros: predicci\u00f3n de impacto en los recursos hidricos", 
+        "publicationDates": [
+            "2015"
+        ], 
+        "summary": [
+            "La industria minera produce una gran cantidad de residuos generados en Jos diferentes tipos de extracci\u00f3n pam recuperar metales esenciales para el desarrollo econ\u00f3mico. Los residuos mineros, y en especial Jos asociados a minerales met\u00e1licos, pueden contener elementos, entre ellos metales y metaloides, que pueden ser movilizados por diferentes procesos en las soluciones del suelo e impactar a Jos diferentes medios, en especial a Jos recursos h\u00eddricos, tanto superficiales como subterr\u00e1neos. El distrito minero Cerro de San Pedro localizado en el centro sur del estado de San Lu\u00eds Potos\u00ed, ha tenido importancia econ\u00f3mica pam el sector minero por la presencia de minerales que tienen alto contenido de metales como oro y plata. Este sitio empez\u00f3 a explotarse desde finales del siglo XVI y ha tenido \u00e9pocas de explotaci\u00f3n minera de gran importancia. Los residuos generados durante Jos a\u00f1os de explotaci\u00f3n hist\u00f3rica no tuvieron un manejo y control adecuado, provocando su dispersi\u00f3n en el sitio y representado una posible fuente de metales y metaloides, pudiendo lixiviarse estos de Jos perfiles del suelo al agua subterr\u00e1nea, y de esta manera quedar disponibles para otros medios (ej. Plantas, organismos). El objetivo de este trabajo es identificar entre Jos residuos mineros de Cerro de San Pedro, aquellos que presenten potencial de liberaci\u00f3n de metales y metaloides y as\u00ed un posible impacto en Jos recursos h\u00eddricos, estudiando las caracter\u00edsticas particulares de Jos residuos y determinando Jos factores clave que facilitan Jos procesos de movilizaci\u00f3n/retenci\u00f3n de elementos. Para ello se desarroll\u00f3 primeramente una herramienta de selecci\u00f3n de residuos, para evaluar de manera m\u00e1s eficiente en tiempo y recursos, aquellos residuos que estuvieran presentando peligrosidad ambiental de acuerdo a ciertos datos de campo, a esta herramienta se le dio el nombre de \" Inventario de Residuos Hist\u00f3ricos\". Con las muestras de los residuos seleccionados se realiz\u00f3 un estudio de camcterizaci\u00f3n y movilidad de metales y metaloides utilizando para ello caracterizaci\u00f3n mineral\u00f3gica mediante Difracci\u00f3n de Rayos x (DRX) y Microscopio Electr\u00f3nico de Barrido (MEB), caracterizaci\u00f3n qu\u00edmica mediante digesti\u00f3n \u00e1cida total y un an\u00e1lisis de movilidad a trav\u00e9s de pruebas de movilidad con agua mete\u00f3rica en equilibrio con C02 y extracciones secuenciales. Un mejor conocimiento de las condiciones de movilizaci\u00f3n de los metales y metaloides hacia el agua, contribuye as\u00ed mismo al desarrollo de propuestas pam medidas de prevenci\u00f3n y/o remediaci\u00f3n en los sitios de estudio con el fin de lograr una miner\u00eda responsable."
+        ], 
+        "languages": [
+            "spa"
+        ], 
+        "subjects": [
+            [
+                "miner\u00eda"
+            ], 
+            [
+                "residuos mineros"
+            ], 
+            [
+                "1 CIENCIAS FISICO MATEMATICAS Y CIENCIAS DE LA TIERRA"
+            ]
+        ], 
+        "rawData": {
+            "dc.creator.none.fl_str_mv": [
+                "Mart\u00ednez Valdez, Ofelia Anais"
+            ], 
+            "dc.date.none.fl_str_mv": [
+                "2015-01-01"
+            ], 
+            "title_sort": "Movilidad de metales y metaloides en sitios mineros: predicci\u00f3n de impacto en los recursos hidricos", 
+            "dc.relation.none.fl_str_mv": [
+                "investigadores"
+            ], 
+            "publisher.none.fl_str_mv": [
+                "Agenda Ambiental", 
+                "Universidad Aut\u00f3noma del Estado de San Luis Potos\u00ed (UASLP)"
+            ], 
+            "topic": [
+                "miner\u00eda", 
+                "residuos mineros", 
+                "1 CIENCIAS FISICO MATEMATICAS Y CIENCIAS DE LA TIERRA"
+            ], 
+            "dc.description.none.fl_txt_mv": [
+                "La industria minera produce una gran cantidad de residuos generados en Jos diferentes tipos de extracci\u00f3n pam recuperar metales esenciales para el desarrollo econ\u00f3mico. Los residuos mineros, y en especial Jos asociados a minerales met\u00e1licos, pueden contener elementos, entre ellos metales y metaloides, que pueden ser movilizados por diferentes procesos en las soluciones del suelo e impactar a Jos diferentes medios, en especial a Jos recursos h\u00eddricos, tanto superficiales como subterr\u00e1neos. El distrito minero Cerro de San Pedro localizado en el centro sur del estado de San Lu\u00eds Potos\u00ed, ha tenido importancia econ\u00f3mica pam el sector minero por la presencia de minerales que tienen alto contenido de metales como oro y plata. Este sitio empez\u00f3 a explotarse desde finales del siglo XVI y ha tenido \u00e9pocas de explotaci\u00f3n minera de gran importancia. Los residuos generados durante Jos a\u00f1os de explotaci\u00f3n hist\u00f3rica no tuvieron un manejo y control adecuado, provocando su dispersi\u00f3n en el sitio y representado una posible fuente de metales y metaloides, pudiendo lixiviarse estos de Jos perfiles del suelo al agua subterr\u00e1nea, y de esta manera quedar disponibles para otros medios (ej. Plantas, organismos). El objetivo de este trabajo es identificar entre Jos residuos mineros de Cerro de San Pedro, aquellos que presenten potencial de liberaci\u00f3n de metales y metaloides y as\u00ed un posible impacto en Jos recursos h\u00eddricos, estudiando las caracter\u00edsticas particulares de Jos residuos y determinando Jos factores clave que facilitan Jos procesos de movilizaci\u00f3n/retenci\u00f3n de elementos. Para ello se desarroll\u00f3 primeramente una herramienta de selecci\u00f3n de residuos, para evaluar de manera m\u00e1s eficiente en tiempo y recursos, aquellos residuos que estuvieran presentando peligrosidad ambiental de acuerdo a ciertos datos de campo, a esta herramienta se le dio el nombre de \" Inventario de Residuos Hist\u00f3ricos\". Con las muestras de los residuos seleccionados se realiz\u00f3 un estudio de camcterizaci\u00f3n y movilidad de metales y metaloides utilizando para ello caracterizaci\u00f3n mineral\u00f3gica mediante Difracci\u00f3n de Rayos x (DRX) y Microscopio Electr\u00f3nico de Barrido (MEB), caracterizaci\u00f3n qu\u00edmica mediante digesti\u00f3n \u00e1cida total y un an\u00e1lisis de movilidad a trav\u00e9s de pruebas de movilidad con agua mete\u00f3rica en equilibrio con C02 y extracciones secuenciales. Un mejor conocimiento de las condiciones de movilizaci\u00f3n de los metales y metaloides hacia el agua, contribuye as\u00ed mismo al desarrollo de propuestas pam medidas de prevenci\u00f3n y/o remediaci\u00f3n en los sitios de estudio con el fin de lograr una miner\u00eda responsable."
+            ], 
+            "url": [
+                "http://www.remeri.org.mx/portal/REMERI.jsp?id=oai:ninive.uaslp.mx:i/3977"
+            ], 
+            "title_full_unstemmed": "Movilidad de metales y metaloides en sitios mineros: predicci\u00f3n de impacto en los recursos hidricos", 
+            "id": "MX_00bc721d5d6c69aa84cceecaf879d059", 
+            "status_str": "publishedVersion", 
+            "reponame_str": "Repositorio Institucional NINIVE.", 
+            "author": [
+                "Mart\u00ednez Valdez, Ofelia Anais"
+            ], 
+            "identifier_str_mv": [
+                "instname:Universidad Aut\u00f3noma del Estado de San Luis Potos\u00ed", 
+                "instname:UASLP", 
+                "reponame:Repositorio Institucional NINIVE.", 
+                "repourl:http://ninive.uaslp.mx/"
+            ], 
+            "instname_str": "Universidad Aut\u00f3noma del Estado de San Luis Potos\u00ed", 
+            "spellingShingle": [
+                "Movilidad de metales y metaloides en sitios mineros: predicci\u00f3n de impacto en los recursos hidricos", 
+                "Mart\u00ednez Valdez, Ofelia Anais", 
+                "miner\u00eda", 
+                "residuos mineros", 
+                "1 CIENCIAS FISICO MATEMATICAS Y CIENCIAS DE LA TIERRA"
+            ], 
+            "score": 2098.4622, 
+            "_version_": 1607632437642264576, 
+            "dc.publisher.none.fl_str_mv": [
+                "Agenda Ambiental", 
+                "Universidad Aut\u00f3noma del Estado de San Luis Potos\u00ed (UASLP)"
+            ], 
+            "dc.type.none.fl_str_mv": [
+                "info:eu-repo/semantics/masterThesis", 
+                "info:eu-repo/semantics/publishedVersion", 
+                "Tesis de Maestria"
+            ], 
+            "repository.name.fl_str_mv": [
+                "\n\t\t\t-\n\t\t\t"
+            ], 
+            "description": "La industria minera produce una gran cantidad de residuos generados en Jos diferentes tipos de extracci\u00f3n pam recuperar metales esenciales para el desarrollo econ\u00f3mico. Los residuos mineros, y en especial Jos asociados a minerales met\u00e1licos, pueden contener elementos, entre ellos metales y metaloides, que pueden ser movilizados por diferentes procesos en las soluciones del suelo e impactar a Jos diferentes medios, en especial a Jos recursos h\u00eddricos, tanto superficiales como subterr\u00e1neos. El distrito minero Cerro de San Pedro localizado en el centro sur del estado de San Lu\u00eds Potos\u00ed, ha tenido importancia econ\u00f3mica pam el sector minero por la presencia de minerales que tienen alto contenido de metales como oro y plata. Este sitio empez\u00f3 a explotarse desde finales del siglo XVI y ha tenido \u00e9pocas de explotaci\u00f3n minera de gran importancia. Los residuos generados durante Jos a\u00f1os de explotaci\u00f3n hist\u00f3rica no tuvieron un manejo y control adecuado, provocando su dispersi\u00f3n en el sitio y representado una posible fuente de metales y metaloides, pudiendo lixiviarse estos de Jos perfiles del suelo al agua subterr\u00e1nea, y de esta manera quedar disponibles para otros medios (ej. Plantas, organismos). El objetivo de este trabajo es identificar entre Jos residuos mineros de Cerro de San Pedro, aquellos que presenten potencial de liberaci\u00f3n de metales y metaloides y as\u00ed un posible impacto en Jos recursos h\u00eddricos, estudiando las caracter\u00edsticas particulares de Jos residuos y determinando Jos factores clave que facilitan Jos procesos de movilizaci\u00f3n/retenci\u00f3n de elementos. Para ello se desarroll\u00f3 primeramente una herramienta de selecci\u00f3n de residuos, para evaluar de manera m\u00e1s eficiente en tiempo y recursos, aquellos residuos que estuvieran presentando peligrosidad ambiental de acuerdo a ciertos datos de campo, a esta herramienta se le dio el nombre de \" Inventario de Residuos Hist\u00f3ricos\". Con las muestras de los residuos seleccionados se realiz\u00f3 un estudio de camcterizaci\u00f3n y movilidad de metales y metaloides utilizando para ello caracterizaci\u00f3n mineral\u00f3gica mediante Difracci\u00f3n de Rayos x (DRX) y Microscopio Electr\u00f3nico de Barrido (MEB), caracterizaci\u00f3n qu\u00edmica mediante digesti\u00f3n \u00e1cida total y un an\u00e1lisis de movilidad a trav\u00e9s de pruebas de movilidad con agua mete\u00f3rica en equilibrio con C02 y extracciones secuenciales. Un mejor conocimiento de las condiciones de movilizaci\u00f3n de los metales y metaloides hacia el agua, contribuye as\u00ed mismo al desarrollo de propuestas pam medidas de prevenci\u00f3n y/o remediaci\u00f3n en los sitios de estudio con el fin de lograr una miner\u00eda responsable.", 
+            "format": [
+                "masterThesis"
+            ], 
+            "network_name_str": "M\u00e9xico", 
+            "publishDate": [
+                "2015"
+            ], 
+            "network_acronym_str": "MX", 
+            "dc.format.none.fl_str_mv": [
+                "application/pdf"
+            ], 
+            "eu_rights_str_mv": [
+                "openAccess"
+            ], 
+            "collection": [
+                "Repositorio Institucional NINIVE."
+            ], 
+            "oai_identifier_str": "oai:ninive.uaslp.mx:i/3977", 
+            "rights_invalid_str_mv": [
+                "Acceso Abierto"
+            ], 
+            "dc.source.none.fl_str_mv": [
+                "instname:Universidad Aut\u00f3noma del Estado de San Luis Potos\u00ed", 
+                "reponame:Repositorio Institucional NINIVE."
+            ], 
+            "dc.language.none.fl_str_mv": [
+                "spa"
+            ], 
+            "dc.title.none.fl_str_mv": [
+                "Movilidad de metales y metaloides en sitios mineros: predicci\u00f3n de impacto en los recursos hidricos"
+            ], 
+            "dc.identifier.none.fl_str_mv": [
+                "instname:Universidad Aut\u00f3noma del Estado de San Luis Potos\u00ed", 
+                "instname:UASLP", 
+                "reponame:Repositorio Institucional NINIVE.", 
+                "repourl:http://ninive.uaslp.mx/", 
+                "http://www.remeri.org.mx/portal/REMERI.jsp?id=oai:ninive.uaslp.mx:i/3977"
+            ], 
+            "title_short": "Movilidad de metales y metaloides en sitios mineros: predicci\u00f3n de impacto en los recursos hidricos", 
+            "language": [
+                "spa"
+            ], 
+            "dc.subject.none.fl_str_mv": [
+                "miner\u00eda", 
+                "residuos mineros", 
+                "1 CIENCIAS FISICO MATEMATICAS Y CIENCIAS DE LA TIERRA"
+            ], 
+            "title": "Movilidad de metales y metaloides en sitios mineros: predicci\u00f3n de impacto en los recursos hidricos", 
+            "dc.rights.none.fl_str_mv": [
+                "Acceso Abierto", 
+                "info:eu-repo/semantics/openAccess"
+            ], 
+            "title_full": "Movilidad de metales y metaloides en sitios mineros: predicci\u00f3n de impacto en los recursos hidricos", 
+            "repository.mail.fl_str_mv": [
+                "mail@mail.com"
+            ], 
+            "author_facet": [
+                "Mart\u00ednez Valdez, Ofelia Anais"
+            ], 
+            "title_fullStr": "Movilidad de metales y metaloides en sitios mineros: predicci\u00f3n de impacto en los recursos hidricos"
+        }, 
+        "urls": [
+            {
+                "url": "http://www.remeri.org.mx/portal/REMERI.jsp?id=oai:ninive.uaslp.mx:i/3977", 
+                "desc": "http://www.remeri.org.mx/portal/REMERI.jsp?id=oai:ninive.uaslp.mx:i/3977"
+            }
+        ], 
+        "formats": [
+            "masterThesis"
+        ], 
+        "id": "MX_00bc721d5d6c69aa84cceecaf879d059"
+    }, 
+    {
+        "primaryAuthors": [
+            "Aldunate del S,Carlos"
+        ], 
+        "secondaryAuthors": [
+            "Castro R,Victoria", 
+            "Varela G,Varinia"
+        ], 
+        "title": "San Bartolo y Cobija: Testimonios de un modo de vida minero en las tierras altas y la costa de Atacama", 
+        "publicationDates": [
+            "2008"
+        ], 
+        "summary": [
+            "Las vinculaciones entre costa y tierras altas de Atacama seinvestigan a trav\u00e9s de dos casos de estudio que documentanun modo de vida minero que ha impregnado a la \"cultura deldesierto\" en estas latitudes desde la prehistoria hasta hoy. SanBartolo en las tierras altas de Atacama y Cobija en la costa secaracterizan por ser enclaves asociados a una intensa red detrafico, vinculada durante la prehistoria al acceso de los atacamasa la costa, en \u00e9pocas coloniales al camino de Potos\u00ed, y despu\u00e9s a la explotaci\u00f3n industrial del cobre."
+        ], 
+        "subjects": [
+            [
+                "relaciones tierras altas y costa"
+            ], 
+            [
+                "miner\u00eda"
+            ], 
+            [
+                "Atacama"
+            ]
+        ], 
+        "rawData": {
+            "dc.creator.none.fl_str_mv": [
+                "Aldunate del S,Carlos", 
+                "Castro R,Victoria", 
+                "Varela G,Varinia"
+            ], 
+            "dc.date.none.fl_str_mv": [
+                "2008-01-01"
+            ], 
+            "title_sort": "San Bartolo y Cobija: Testimonios de un modo de vida minero en las tierras altas y la costa de Atacama", 
+            "dc.relation.none.fl_str_mv": [
+                "10.4067/S0718-10432008000100006"
+            ], 
+            "publisher.none.fl_str_mv": [
+                "Universidad Cat\u00f3lica del Norte. Instituto de Investigaciones Arqueol\u00f3gicas y Museo R. P. Gustavo Le Paige"
+            ], 
+            "topic": [
+                "relaciones tierras altas y costa", 
+                "miner\u00eda", 
+                "Atacama"
+            ], 
+            "dc.description.none.fl_txt_mv": [
+                "Las vinculaciones entre costa y tierras altas de Atacama seinvestigan a trav\u00e9s de dos casos de estudio que documentanun modo de vida minero que ha impregnado a la \"cultura deldesierto\" en estas latitudes desde la prehistoria hasta hoy. SanBartolo en las tierras altas de Atacama y Cobija en la costa secaracterizan por ser enclaves asociados a una intensa red detrafico, vinculada durante la prehistoria al acceso de los atacamasa la costa, en \u00e9pocas coloniales al camino de Potos\u00ed, y despu\u00e9s a la explotaci\u00f3n industrial del cobre."
+            ], 
+            "url": [
+                "https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-10432008000100006"
+            ], 
+            "author2": [
+                "Castro R,Victoria", 
+                "Varela G,Varinia"
+            ], 
+            "title_full_unstemmed": "San Bartolo y Cobija: Testimonios de un modo de vida minero en las tierras altas y la costa de Atacama", 
+            "id": "CL_5258cd993ca051a282d27fd3f4010e94", 
+            "status_str": "publishedVersion", 
+            "reponame_str": "SciELO Chile", 
+            "author": [
+                "Aldunate del S,Carlos"
+            ], 
+            "instname_str": "CONICYT Chile", 
+            "spellingShingle": [
+                "San Bartolo y Cobija: Testimonios de un modo de vida minero en las tierras altas y la costa de Atacama", 
+                "Aldunate del S,Carlos", 
+                "relaciones tierras altas y costa", 
+                "miner\u00eda", 
+                "Atacama"
+            ], 
+            "score": 1982.5471, 
+            "_version_": 1611596093540270080, 
+            "dc.publisher.none.fl_str_mv": [
+                "Universidad Cat\u00f3lica del Norte. Instituto de Investigaciones Arqueol\u00f3gicas y Museo R. P. Gustavo Le Paige"
+            ], 
+            "dc.type.none.fl_str_mv": [
+                "info:eu-repo/semantics/article", 
+                "info:eu-repo/semantics/publishedVersion"
+            ], 
+            "repository.name.fl_str_mv": [
+                "\n\t\t\t-\n\t\t\t"
+            ], 
+            "description": "Las vinculaciones entre costa y tierras altas de Atacama seinvestigan a trav\u00e9s de dos casos de estudio que documentanun modo de vida minero que ha impregnado a la \"cultura deldesierto\" en estas latitudes desde la prehistoria hasta hoy. SanBartolo en las tierras altas de Atacama y Cobija en la costa secaracterizan por ser enclaves asociados a una intensa red detrafico, vinculada durante la prehistoria al acceso de los atacamasa la costa, en \u00e9pocas coloniales al camino de Potos\u00ed, y despu\u00e9s a la explotaci\u00f3n industrial del cobre.", 
+            "institution": [
+                "CONICYT"
+            ], 
+            "format": [
+                "article"
+            ], 
+            "network_name_str": "Chile", 
+            "publishDate": [
+                "2008"
+            ], 
+            "network_acronym_str": "CL", 
+            "dc.format.none.fl_str_mv": [
+                "text/html"
+            ], 
+            "eu_rights_str_mv": [
+                "openAccess"
+            ], 
+            "collection": [
+                "SciELO Chile"
+            ], 
+            "language_invalid_str_mv": [
+                "es"
+            ], 
+            "instacron_str": "CONICYT", 
+            "oai_identifier_str": "oai:scielo:S0718-10432008000100006", 
+            "dc.source.none.fl_str_mv": [
+                "Estudios atacame\u00f1os n.35 2008", 
+                "reponame:SciELO Chile", 
+                "instname:CONICYT Chile", 
+                "instacron:CONICYT"
+            ], 
+            "dc.language.none.fl_str_mv": [
+                "es"
+            ], 
+            "dc.title.none.fl_str_mv": [
+                "San Bartolo y Cobija: Testimonios de un modo de vida minero en las tierras altas y la costa de Atacama"
+            ], 
+            "dc.identifier.none.fl_str_mv": [
+                "https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-10432008000100006"
+            ], 
+            "title_short": "San Bartolo y Cobija: Testimonios de un modo de vida minero en las tierras altas y la costa de Atacama", 
+            "dc.subject.none.fl_str_mv": [
+                "relaciones tierras altas y costa", 
+                "miner\u00eda", 
+                "Atacama"
+            ], 
+            "title": "San Bartolo y Cobija: Testimonios de un modo de vida minero en las tierras altas y la costa de Atacama", 
+            "dc.rights.none.fl_str_mv": [
+                "info:eu-repo/semantics/openAccess"
+            ], 
+            "title_full": "San Bartolo y Cobija: Testimonios de un modo de vida minero en las tierras altas y la costa de Atacama", 
+            "repository.mail.fl_str_mv": [
+                "mail@mail.com"
+            ], 
+            "author_facet": [
+                "Aldunate del S,Carlos", 
+                "Castro R,Victoria", 
+                "Varela G,Varinia"
+            ], 
+            "title_fullStr": "San Bartolo y Cobija: Testimonios de un modo de vida minero en las tierras altas y la costa de Atacama"
+        }, 
+        "urls": [
+            {
+                "url": "https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-10432008000100006", 
+                "desc": "https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-10432008000100006"
+            }
+        ], 
+        "formats": [
+            "article"
+        ], 
+        "id": "CL_5258cd993ca051a282d27fd3f4010e94"
+    }, 
+    {
+        "primaryAuthors": [
+            "Due\u00f1as Reyes, Mar\u00eda Ximena"
+        ], 
+        "title": "Miner\u00eda de datos espaciales en b\u00fasqueda de la verdadera informaci\u00f3n", 
+        "publicationDates": [
+            "2010"
+        ], 
+        "summary": [
+            "La informaci\u00f3n se ha convertido en un elemento clave en los procesos organizacionales. En los \u00faltimos a\u00f1os, la tecnolog\u00eda ha tenido un crecimiento acelerado como herramienta \u00fatil y necesaria para facilitar dichos procesos y mejorar la productividad. La inteligencia de negocio se ha definido como la transformaci\u00f3n de datos en conocimiento, a fin de sustentar la toma de decisiones desde el punto de vista estrat\u00e9gico y t\u00e1ctico en el momento y lugar oportuno y de generar una ventaja competitiva y de efectividad. Entre las herramientas utilizadas para la exploraci\u00f3n de datos est\u00e1 el procesamiento anal\u00edtico en l\u00ednea (OLAP), el cual, aunque permite obtener datos relevantes entre cantidades de informaci\u00f3n, es deficiente para analizar datos geogr\u00e1ficos, por lo que ha surgido SOLAP, que brinda m\u00e9todos de tratamiento especial para datos espaciales. La miner\u00eda de datos se ha venido adaptando dentro de las empresas con el fin de realizar exploraci\u00f3n y an\u00e1lisis de datos enfocados en el descubrimiento del conocimiento. Dada la importancia que la informaci\u00f3n espacial est\u00e1 tomando, surge la miner\u00eda de datos espacial. Este proceso permite descubrir patrones \u00fatiles e inesperados dentro de los datos. Las t\u00e9cnicas de miner\u00eda de datos espacial se aplican para extraer conocimiento a partir de grandes vol\u00famenes de datos, los cuales pueden ser de tipo espacial y no espacial. Entre ellas se encuentran generalizaci\u00f3n, agrupaci\u00f3n, asociaci\u00f3n espacial, entre otras."
+        ], 
+        "languages": [
+            "spa"
+        ], 
+        "subjects": [
+            [
+                "Ciencias Exactas y de la Tierra;Ciencia de la Computaci\u00f3n;Metodolog\u00eda y T\u00e9cnicas de la Computaci\u00f3n"
+            ], 
+            [
+                "Miner\u00eda de datos; inteligencia de negocio; tecnolog\u00eda OLAP"
+            ]
+        ], 
+        "rawData": {
+            "dc.creator.none.fl_str_mv": [
+                "Due\u00f1as Reyes, Mar\u00eda Ximena"
+            ], 
+            "dc.date.none.fl_str_mv": [
+                "2010-10-27"
+            ], 
+            "title_sort": "Miner\u00eda de datos espaciales en b\u00fasqueda de la verdadera informaci\u00f3n", 
+            "dc.relation.none.fl_str_mv": [
+                "http://revistas.javeriana.edu.co/index.php/iyu/article/view/953/551"
+            ], 
+            "publisher.none.fl_str_mv": [
+                "Pontificia Universidad Javeriana"
+            ], 
+            "dc.coverage.none.fl_str_mv": [
+                "Colombia; Latinoam\u00e9rica;Suram\u00e9rica"
+            ], 
+            "topic": [
+                "Ciencias Exactas y de la Tierra;Ciencia de la Computaci\u00f3n;Metodolog\u00eda y T\u00e9cnicas de la Computaci\u00f3n", 
+                "Miner\u00eda de datos; inteligencia de negocio; tecnolog\u00eda OLAP"
+            ], 
+            "dc.description.none.fl_txt_mv": [
+                "La informaci\u00f3n se ha convertido en un elemento clave en los procesos organizacionales. En los \u00faltimos a\u00f1os, la tecnolog\u00eda ha tenido un crecimiento acelerado como herramienta \u00fatil y necesaria para facilitar dichos procesos y mejorar la productividad. La inteligencia de negocio se ha definido como la transformaci\u00f3n de datos en conocimiento, a fin de sustentar la toma de decisiones desde el punto de vista estrat\u00e9gico y t\u00e1ctico en el momento y lugar oportuno y de generar una ventaja competitiva y de efectividad. Entre las herramientas utilizadas para la exploraci\u00f3n de datos est\u00e1 el procesamiento anal\u00edtico en l\u00ednea (OLAP), el cual, aunque permite obtener datos relevantes entre cantidades de informaci\u00f3n, es deficiente para analizar datos geogr\u00e1ficos, por lo que ha surgido SOLAP, que brinda m\u00e9todos de tratamiento especial para datos espaciales. La miner\u00eda de datos se ha venido adaptando dentro de las empresas con el fin de realizar exploraci\u00f3n y an\u00e1lisis de datos enfocados en el descubrimiento del conocimiento. Dada la importancia que la informaci\u00f3n espacial est\u00e1 tomando, surge la miner\u00eda de datos espacial. Este proceso permite descubrir patrones \u00fatiles e inesperados dentro de los datos. Las t\u00e9cnicas de miner\u00eda de datos espacial se aplican para extraer conocimiento a partir de grandes vol\u00famenes de datos, los cuales pueden ser de tipo espacial y no espacial. Entre ellas se encuentran generalizaci\u00f3n, agrupaci\u00f3n, asociaci\u00f3n espacial, entre otras."
+            ], 
+            "url": [
+                "http://revistas.javeriana.edu.co/index.php/iyu/article/view/953"
+            ], 
+            "title_full_unstemmed": "Miner\u00eda de datos espaciales en b\u00fasqueda de la verdadera informaci\u00f3n", 
+            "id": "CO_2bf491789ded971ef7eee91b1fa248ca", 
+            "status_str": "publishedVersion", 
+            "reponame_str": "Repositorio Pontificia Universidad Javeriana", 
+            "author": [
+                "Due\u00f1as Reyes, Mar\u00eda Ximena"
+            ], 
+            "instname_str": "Pontificia Universidad Javeriana", 
+            "spellingShingle": [
+                "Miner\u00eda de datos espaciales en b\u00fasqueda de la verdadera informaci\u00f3n", 
+                "Due\u00f1as Reyes, Mar\u00eda Ximena", 
+                "Ciencias Exactas y de la Tierra;Ciencia de la Computaci\u00f3n;Metodolog\u00eda y T\u00e9cnicas de la Computaci\u00f3n", 
+                "Miner\u00eda de datos; inteligencia de negocio; tecnolog\u00eda OLAP"
+            ], 
+            "score": 1730.0342, 
+            "_version_": 1607631794968985600, 
+            "dc.publisher.none.fl_str_mv": [
+                "Pontificia Universidad Javeriana"
+            ], 
+            "dc.type.none.fl_str_mv": [
+                "info:eu-repo/semantics/article", 
+                "info:eu-repo/semantics/publishedVersion"
+            ], 
+            "repository.name.fl_str_mv": [
+                "\n\t\t\t-\n\t\t\t"
+            ], 
+            "description": "La informaci\u00f3n se ha convertido en un elemento clave en los procesos organizacionales. En los \u00faltimos a\u00f1os, la tecnolog\u00eda ha tenido un crecimiento acelerado como herramienta \u00fatil y necesaria para facilitar dichos procesos y mejorar la productividad. La inteligencia de negocio se ha definido como la transformaci\u00f3n de datos en conocimiento, a fin de sustentar la toma de decisiones desde el punto de vista estrat\u00e9gico y t\u00e1ctico en el momento y lugar oportuno y de generar una ventaja competitiva y de efectividad. Entre las herramientas utilizadas para la exploraci\u00f3n de datos est\u00e1 el procesamiento anal\u00edtico en l\u00ednea (OLAP), el cual, aunque permite obtener datos relevantes entre cantidades de informaci\u00f3n, es deficiente para analizar datos geogr\u00e1ficos, por lo que ha surgido SOLAP, que brinda m\u00e9todos de tratamiento especial para datos espaciales. La miner\u00eda de datos se ha venido adaptando dentro de las empresas con el fin de realizar exploraci\u00f3n y an\u00e1lisis de datos enfocados en el descubrimiento del conocimiento. Dada la importancia que la informaci\u00f3n espacial est\u00e1 tomando, surge la miner\u00eda de datos espacial. Este proceso permite descubrir patrones \u00fatiles e inesperados dentro de los datos. Las t\u00e9cnicas de miner\u00eda de datos espacial se aplican para extraer conocimiento a partir de grandes vol\u00famenes de datos, los cuales pueden ser de tipo espacial y no espacial. Entre ellas se encuentran generalizaci\u00f3n, agrupaci\u00f3n, asociaci\u00f3n espacial, entre otras.", 
+            "format": [
+                "article"
+            ], 
+            "network_name_str": "Colombia", 
+            "publishDate": [
+                "2010"
+            ], 
+            "network_acronym_str": "CO", 
+            "dc.format.none.fl_str_mv": [
+                "application/pdf"
+            ], 
+            "eu_rights_str_mv": [
+                "openAccess"
+            ], 
+            "collection": [
+                "Repositorio Pontificia Universidad Javeriana"
+            ], 
+            "oai_identifier_str": "lr::4104::22914903::oai:ojs.10.2.1.246:article/953", 
+            "dc.source.none.fl_str_mv": [
+                "Ingenieria y Universidad: Engineering for Development; Vol. 13, N\u00fam. 1 (2009): Enero \u2013 Junio 2009", 
+                "Ingenieria y Universidad; Vol. 13, N\u00fam. 1 (2009): Enero \u2013 Junio 2009", 
+                "2011-2769", 
+                "0123-2126", 
+                "reponame:Repositorio Pontificia Universidad Javeriana", 
+                "instname:Pontificia Universidad Javeriana"
+            ], 
+            "dc.language.none.fl_str_mv": [
+                "spa"
+            ], 
+            "dc.title.none.fl_str_mv": [
+                "Miner\u00eda de datos espaciales en b\u00fasqueda de la verdadera informaci\u00f3n"
+            ], 
+            "dc.identifier.none.fl_str_mv": [
+                "http://revistas.javeriana.edu.co/index.php/iyu/article/view/953"
+            ], 
+            "title_short": "Miner\u00eda de datos espaciales en b\u00fasqueda de la verdadera informaci\u00f3n", 
+            "language": [
+                "spa"
+            ], 
+            "dc.subject.none.fl_str_mv": [
+                "Ciencias Exactas y de la Tierra;Ciencia de la Computaci\u00f3n;Metodolog\u00eda y T\u00e9cnicas de la Computaci\u00f3n", 
+                "Miner\u00eda de datos; inteligencia de negocio; tecnolog\u00eda OLAP"
+            ], 
+            "title": "Miner\u00eda de datos espaciales en b\u00fasqueda de la verdadera informaci\u00f3n", 
+            "dc.rights.none.fl_str_mv": [
+                "info:eu-repo/semantics/openAccess"
+            ], 
+            "title_full": "Miner\u00eda de datos espaciales en b\u00fasqueda de la verdadera informaci\u00f3n", 
+            "repository.mail.fl_str_mv": [
+                "mail@mail.com"
+            ], 
+            "author_facet": [
+                "Due\u00f1as Reyes, Mar\u00eda Ximena"
+            ], 
+            "title_fullStr": "Miner\u00eda de datos espaciales en b\u00fasqueda de la verdadera informaci\u00f3n"
+        }, 
+        "urls": [
+            {
+                "url": "http://revistas.javeriana.edu.co/index.php/iyu/article/view/953", 
+                "desc": "http://revistas.javeriana.edu.co/index.php/iyu/article/view/953"
+            }
+        ], 
+        "formats": [
+            "article"
+        ], 
+        "id": "CO_2bf491789ded971ef7eee91b1fa248ca"
+    }, 
+    {
+        "primaryAuthors": [
+            "Due\u00f1as Reyes, Mar\u00eda Ximena"
+        ], 
+        "title": "Miner\u00eda de datos espaciales en b\u00fasqueda de la verdadera informaci\u00f3n", 
+        "publicationDates": [
+            "2010"
+        ], 
+        "summary": [
+            "La informaci\u00f3n se ha convertido en un elemento clave en los procesos organizacionales. En los \u00faltimos a\u00f1os, la tecnolog\u00eda ha tenido un crecimiento acelerado como herramienta \u00fatil y necesaria para facilitar dichos procesos y mejorar la productividad. La inteligencia de negocio se ha definido como la transformaci\u00f3n de datos en conocimiento, a fin de sustentar la toma de decisiones desde el punto de vista estrat\u00e9gico y t\u00e1ctico en el momento y lugar oportuno y de generar una ventaja competitiva y de efectividad. Entre las herramientas utilizadas para la exploraci\u00f3n de datos est\u00e1 el procesamiento anal\u00edtico en l\u00ednea (OLAP), el cual, aunque permite obtener datos relevantes entre cantidades de informaci\u00f3n, es deficiente para analizar datos geogr\u00e1ficos, por lo que ha surgido SOLAP, que brinda m\u00e9todos de tratamiento especial para datos espaciales. La miner\u00eda de datos se ha venido adaptando dentro de las empresas con el fin de realizar exploraci\u00f3n y an\u00e1lisis de datos enfocados en el descubrimiento del conocimiento. Dada la importancia que la informaci\u00f3n espacial est\u00e1 tomando, surge la miner\u00eda de datos espacial. Este proceso permite descubrir patrones \u00fatiles e inesperados dentro de los datos. Las t\u00e9cnicas de miner\u00eda de datos espacial se aplican para extraer conocimiento a partir de grandes vol\u00famenes de datos, los cuales pueden ser de tipo espacial y no espacial. Entre ellas se encuentran generalizaci\u00f3n, agrupaci\u00f3n, asociaci\u00f3n espacial, entre otras."
+        ], 
+        "languages": [
+            "spa"
+        ], 
+        "subjects": [
+            [
+                "Ciencias Exactas y de la Tierra;Ciencia de la Computaci\u00f3n;Metodolog\u00eda y T\u00e9cnicas de la Computaci\u00f3n"
+            ], 
+            [
+                "Miner\u00eda de datos; inteligencia de negocio; tecnolog\u00eda OLAP"
+            ]
+        ], 
+        "rawData": {
+            "dc.creator.none.fl_str_mv": [
+                "Due\u00f1as Reyes, Mar\u00eda Ximena"
+            ], 
+            "dc.date.none.fl_str_mv": [
+                "2010-10-27", 
+                "2018-02-24T15:19:47Z", 
+                "2018-02-24T15:19:47Z"
+            ], 
+            "title_sort": "Miner\u00eda de datos espaciales en b\u00fasqueda de la verdadera informaci\u00f3n", 
+            "dc.relation.none.fl_str_mv": [
+                "http://revistas.javeriana.edu.co/index.php/iyu/article/view/953/551"
+            ], 
+            "publisher.none.fl_str_mv": [
+                "Pontificia Universidad Javeriana"
+            ], 
+            "dc.coverage.none.fl_str_mv": [
+                "Colombia; Latinoam\u00e9rica;Suram\u00e9rica"
+            ], 
+            "topic": [
+                "Ciencias Exactas y de la Tierra;Ciencia de la Computaci\u00f3n;Metodolog\u00eda y T\u00e9cnicas de la Computaci\u00f3n", 
+                "Miner\u00eda de datos; inteligencia de negocio; tecnolog\u00eda OLAP"
+            ], 
+            "dc.description.none.fl_txt_mv": [
+                "La informaci\u00f3n se ha convertido en un elemento clave en los procesos organizacionales. En los \u00faltimos a\u00f1os, la tecnolog\u00eda ha tenido un crecimiento acelerado como herramienta \u00fatil y necesaria para facilitar dichos procesos y mejorar la productividad. La inteligencia de negocio se ha definido como la transformaci\u00f3n de datos en conocimiento, a fin de sustentar la toma de decisiones desde el punto de vista estrat\u00e9gico y t\u00e1ctico en el momento y lugar oportuno y de generar una ventaja competitiva y de efectividad. Entre las herramientas utilizadas para la exploraci\u00f3n de datos est\u00e1 el procesamiento anal\u00edtico en l\u00ednea (OLAP), el cual, aunque permite obtener datos relevantes entre cantidades de informaci\u00f3n, es deficiente para analizar datos geogr\u00e1ficos, por lo que ha surgido SOLAP, que brinda m\u00e9todos de tratamiento especial para datos espaciales. La miner\u00eda de datos se ha venido adaptando dentro de las empresas con el fin de realizar exploraci\u00f3n y an\u00e1lisis de datos enfocados en el descubrimiento del conocimiento. Dada la importancia que la informaci\u00f3n espacial est\u00e1 tomando, surge la miner\u00eda de datos espacial. Este proceso permite descubrir patrones \u00fatiles e inesperados dentro de los datos. Las t\u00e9cnicas de miner\u00eda de datos espacial se aplican para extraer conocimiento a partir de grandes vol\u00famenes de datos, los cuales pueden ser de tipo espacial y no espacial. Entre ellas se encuentran generalizaci\u00f3n, agrupaci\u00f3n, asociaci\u00f3n espacial, entre otras."
+            ], 
+            "url": [
+                "http://revistas.javeriana.edu.co/index.php/iyu/article/view/953", 
+                "http://hdl.handle.net/10554/25533"
+            ], 
+            "title_full_unstemmed": "Miner\u00eda de datos espaciales en b\u00fasqueda de la verdadera informaci\u00f3n", 
+            "id": "CO_89f29669e9542c534b614513dd85708c", 
+            "status_str": "publishedVersion", 
+            "reponame_str": "Repositorio Pontificia Universidad Javeriana", 
+            "author": [
+                "Due\u00f1as Reyes, Mar\u00eda Ximena"
+            ], 
+            "instname_str": "Pontificia Universidad Javeriana", 
+            "spellingShingle": [
+                "Miner\u00eda de datos espaciales en b\u00fasqueda de la verdadera informaci\u00f3n", 
+                "Due\u00f1as Reyes, Mar\u00eda Ximena", 
+                "Ciencias Exactas y de la Tierra;Ciencia de la Computaci\u00f3n;Metodolog\u00eda y T\u00e9cnicas de la Computaci\u00f3n", 
+                "Miner\u00eda de datos; inteligencia de negocio; tecnolog\u00eda OLAP"
+            ], 
+            "score": 1730.0342, 
+            "_version_": 1607631837758226432, 
+            "dc.publisher.none.fl_str_mv": [
+                "Pontificia Universidad Javeriana"
+            ], 
+            "dc.type.none.fl_str_mv": [
+                "info:eu-repo/semantics/article", 
+                "info:eu-repo/semantics/publishedVersion"
+            ], 
+            "repository.name.fl_str_mv": [
+                "\n\t\t\t-\n\t\t\t"
+            ], 
+            "description": "La informaci\u00f3n se ha convertido en un elemento clave en los procesos organizacionales. En los \u00faltimos a\u00f1os, la tecnolog\u00eda ha tenido un crecimiento acelerado como herramienta \u00fatil y necesaria para facilitar dichos procesos y mejorar la productividad. La inteligencia de negocio se ha definido como la transformaci\u00f3n de datos en conocimiento, a fin de sustentar la toma de decisiones desde el punto de vista estrat\u00e9gico y t\u00e1ctico en el momento y lugar oportuno y de generar una ventaja competitiva y de efectividad. Entre las herramientas utilizadas para la exploraci\u00f3n de datos est\u00e1 el procesamiento anal\u00edtico en l\u00ednea (OLAP), el cual, aunque permite obtener datos relevantes entre cantidades de informaci\u00f3n, es deficiente para analizar datos geogr\u00e1ficos, por lo que ha surgido SOLAP, que brinda m\u00e9todos de tratamiento especial para datos espaciales. La miner\u00eda de datos se ha venido adaptando dentro de las empresas con el fin de realizar exploraci\u00f3n y an\u00e1lisis de datos enfocados en el descubrimiento del conocimiento. Dada la importancia que la informaci\u00f3n espacial est\u00e1 tomando, surge la miner\u00eda de datos espacial. Este proceso permite descubrir patrones \u00fatiles e inesperados dentro de los datos. Las t\u00e9cnicas de miner\u00eda de datos espacial se aplican para extraer conocimiento a partir de grandes vol\u00famenes de datos, los cuales pueden ser de tipo espacial y no espacial. Entre ellas se encuentran generalizaci\u00f3n, agrupaci\u00f3n, asociaci\u00f3n espacial, entre otras.", 
+            "format": [
+                "article"
+            ], 
+            "network_name_str": "Colombia", 
+            "publishDate": [
+                "2010"
+            ], 
+            "network_acronym_str": "CO", 
+            "dc.format.none.fl_str_mv": [
+                "application/pdf"
+            ], 
+            "eu_rights_str_mv": [
+                "openAccess"
+            ], 
+            "collection": [
+                "Repositorio Pontificia Universidad Javeriana"
+            ], 
+            "oai_identifier_str": "lr::4104::22904922::oai:localhost:10554/25533", 
+            "dc.source.none.fl_str_mv": [
+                "Ingenieria y Universidad; Vol 13, No 1 (2009): Enero \u2013 Junio 2009", 
+                "Ingenieria y Universidad: Engineering for Development; Vol 13, No 1 (2009): Enero \u2013 Junio 2009", 
+                "2011-2769", 
+                "0123-2126", 
+                "reponame:Repositorio Pontificia Universidad Javeriana", 
+                "instname:Pontificia Universidad Javeriana"
+            ], 
+            "dc.language.none.fl_str_mv": [
+                "spa"
+            ], 
+            "dc.title.none.fl_str_mv": [
+                "Miner\u00eda de datos espaciales en b\u00fasqueda de la verdadera informaci\u00f3n"
+            ], 
+            "dc.identifier.none.fl_str_mv": [
+                "http://revistas.javeriana.edu.co/index.php/iyu/article/view/953", 
+                "http://hdl.handle.net/10554/25533"
+            ], 
+            "title_short": "Miner\u00eda de datos espaciales en b\u00fasqueda de la verdadera informaci\u00f3n", 
+            "language": [
+                "spa"
+            ], 
+            "dc.subject.none.fl_str_mv": [
+                "Ciencias Exactas y de la Tierra;Ciencia de la Computaci\u00f3n;Metodolog\u00eda y T\u00e9cnicas de la Computaci\u00f3n", 
+                "Miner\u00eda de datos; inteligencia de negocio; tecnolog\u00eda OLAP"
+            ], 
+            "title": "Miner\u00eda de datos espaciales en b\u00fasqueda de la verdadera informaci\u00f3n", 
+            "dc.rights.none.fl_str_mv": [
+                "info:eu-repo/semantics/openAccess"
+            ], 
+            "title_full": "Miner\u00eda de datos espaciales en b\u00fasqueda de la verdadera informaci\u00f3n", 
+            "repository.mail.fl_str_mv": [
+                "mail@mail.com"
+            ], 
+            "author_facet": [
+                "Due\u00f1as Reyes, Mar\u00eda Ximena"
+            ], 
+            "title_fullStr": "Miner\u00eda de datos espaciales en b\u00fasqueda de la verdadera informaci\u00f3n"
+        }, 
+        "urls": [
+            {
+                "url": "http://revistas.javeriana.edu.co/index.php/iyu/article/view/953", 
+                "desc": "http://revistas.javeriana.edu.co/index.php/iyu/article/view/953"
+            }, 
+            {
+                "url": "http://hdl.handle.net/10554/25533", 
+                "desc": "http://hdl.handle.net/10554/25533"
+            }
+        ], 
+        "formats": [
+            "article"
+        ], 
+        "id": "CO_89f29669e9542c534b614513dd85708c"
+    }, 
+    {
+        "primaryAuthors": [
+            "Carri\u00f3n, Andrea"
+        ], 
+        "title": "Las leyes de miner\u00eda en Ecuador a fines del siglo XIX: la reconfiguraci\u00f3n de la propiedad minera (Debates)", 
+        "publicationDates": [
+            "2017"
+        ], 
+        "summary": [
+            "Reflecting on both the Mining Code of 1886 and the subsequent amendments administered to said code in 1892, this investigation endeavors to evaluate the immense impact that its implementation caused in Ecuador\u2019s geographic space. These laws inaugurated criteria for the demarcation of mining properties; noteworthy acts that strengthened the state\u2019s dominion over subsoil and the obtention of perks concerning concessionaires. The adoption of new mining law principles facilitated the arrival of foreign investors interested in the exploitation of gold-bearing mineral deposits. This investigation\u2019s conclusions reveal that mining legislation was formed by dynamically integrated protagonists from distinct ranks who restructured Ecuador\u2019s geographic space in the areas where these valuable mineral deposits could be found. Furthermore, this piece explores the tension between the needs of economical liberalism, at the national level, and the expansion of the mineral extraction industry, at the regional level, towards the end of the 19th century."
+        ], 
+        "languages": [
+            "spa"
+        ], 
+        "subjects": [
+            [
+                "MINER\u00cdA"
+            ], 
+            [
+                "LEGISLACI\u00d3N MINERA"
+            ], 
+            [
+                "PROPIEDAD DE LA TIERRA"
+            ], 
+            [
+                "HISTORIA ECON\u00d3MICA"
+            ], 
+            [
+                "ECONOMIC HISTORY"
+            ], 
+            [
+                "MINING LAWS"
+            ]
+        ], 
+        "rawData": {
+            "dc.creator.none.fl_str_mv": [
+                "Carri\u00f3n, Andrea"
+            ], 
+            "dc.date.none.fl_str_mv": [
+                "2017-10-27T14:38:08Z", 
+                "2017-10-27T14:38:08Z", 
+                "2017"
+            ], 
+            "title_sort": "Las leyes de miner\u00eda en Ecuador a fines del siglo XIX: la reconfiguraci\u00f3n de la propiedad minera (Debates)", 
+            "dc.relation.none.fl_str_mv": [
+                "Procesos: revista ecuatoriana de historia. No. 45"
+            ], 
+            "publisher.none.fl_str_mv": [
+                "Quito: Universidad Andina Sim\u00f3n Bol\u00edvar, Corporaci\u00f3n Editora Nacional, Taller de Estudios Hist\u00f3ricos"
+            ], 
+            "dc.coverage.none.fl_str_mv": [
+                "ECUADOR", 
+                "SIGLO XIX", 
+                "19TH CENTURY"
+            ], 
+            "topic": [
+                "MINER\u00cdA", 
+                "LEGISLACI\u00d3N MINERA", 
+                "PROPIEDAD DE LA TIERRA", 
+                "HISTORIA ECON\u00d3MICA", 
+                "ECONOMIC HISTORY", 
+                "MINING LAWS"
+            ], 
+            "dc.description.none.fl_txt_mv": [
+                "Reflecting on both the Mining Code of 1886 and the subsequent amendments administered to said code in 1892, this investigation endeavors to evaluate the immense impact that its implementation caused in Ecuador\u2019s geographic space. These laws inaugurated criteria for the demarcation of mining properties; noteworthy acts that strengthened the state\u2019s dominion over subsoil and the obtention of perks concerning concessionaires. The adoption of new mining law principles facilitated the arrival of foreign investors interested in the exploitation of gold-bearing mineral deposits. This investigation\u2019s conclusions reveal that mining legislation was formed by dynamically integrated protagonists from distinct ranks who restructured Ecuador\u2019s geographic space in the areas where these valuable mineral deposits could be found. Furthermore, this piece explores the tension between the needs of economical liberalism, at the national level, and the expansion of the mineral extraction industry, at the regional level, towards the end of the 19th century.", 
+                "Este art\u00edculo analiza el C\u00f3digo de Miner\u00eda de 1886 y sus reformas de 1892, considerando de manera particular los impactos que su aplicaci\u00f3n ocasion\u00f3 en el espacio geogr\u00e1fico. Las leyes introdujeron criterios para la demarcaci\u00f3n de las propiedades mineras, asegurando el dominio estatal sobre el subsuelo y la obtenci\u00f3n de beneficios para el concesionario. La adopci\u00f3n de nuevos principios de Derecho minero result\u00f3 funcional a la llegada de los inversionistas extranjeros interesados en la exploraci\u00f3n de yacimientos aur\u00edferos. El estudio encuentra que la legislaci\u00f3n minera se configur\u00f3 en una interacci\u00f3n din\u00e1mica entre actores de diferentes escalas y reestructur\u00f3 el espacio geogr\u00e1fico de las \u00e1reas que conten\u00edan yacimientos. Se explora la tensi\u00f3n entre los imperativos del liberalismo econ\u00f3mico, a escala nacional, y la expansi\u00f3n del extractivismo industrial, a escala regional, a fines del siglo XIX."
+            ], 
+            "url": [
+                "http://hdl.handle.net/10644/5795"
+            ], 
+            "title_full_unstemmed": "Las leyes de miner\u00eda en Ecuador a fines del siglo XIX: la reconfiguraci\u00f3n de la propiedad minera (Debates)", 
+            "id": "EC_835bde4f7088ca52d35a8eaa60e40e1c", 
+            "status_str": "publishedVersion", 
+            "reponame_str": "Repositorio UASB", 
+            "author": [
+                "Carri\u00f3n, Andrea"
+            ], 
+            "identifier_str_mv": [
+                "Carri\u00f3n, Andrea. \"Las leyes de miner\u00eda en Ecuador a fines del siglo XIX: la reconfiguraci\u00f3n de la propiedad minera\". Procesos: revista ecuatoriana de historia. 45 (I Semestre, 2017): 95-120.", 
+                "1390-0099", 
+                "2588-0780"
+            ], 
+            "instname_str": "Universidad Andina Sim\u00f3n Bolivar", 
+            "spellingShingle": [
+                "Las leyes de miner\u00eda en Ecuador a fines del siglo XIX: la reconfiguraci\u00f3n de la propiedad minera (Debates)", 
+                "Carri\u00f3n, Andrea", 
+                "MINER\u00cdA", 
+                "LEGISLACI\u00d3N MINERA", 
+                "PROPIEDAD DE LA TIERRA", 
+                "HISTORIA ECON\u00d3MICA", 
+                "ECONOMIC HISTORY", 
+                "MINING LAWS"
+            ], 
+            "score": 1730.0342, 
+            "_version_": 1607632144548495360, 
+            "dc.publisher.none.fl_str_mv": [
+                "Quito: Universidad Andina Sim\u00f3n Bol\u00edvar, Corporaci\u00f3n Editora Nacional, Taller de Estudios Hist\u00f3ricos"
+            ], 
+            "dc.type.none.fl_str_mv": [
+                "info:eu-repo/semantics/article", 
+                "info:eu-repo/semantics/publishedVersion"
+            ], 
+            "repository.name.fl_str_mv": [
+                "\n\t\t\t-\n\t\t\t"
+            ], 
+            "description": "Reflecting on both the Mining Code of 1886 and the subsequent amendments administered to said code in 1892, this investigation endeavors to evaluate the immense impact that its implementation caused in Ecuador\u2019s geographic space. These laws inaugurated criteria for the demarcation of mining properties; noteworthy acts that strengthened the state\u2019s dominion over subsoil and the obtention of perks concerning concessionaires. The adoption of new mining law principles facilitated the arrival of foreign investors interested in the exploitation of gold-bearing mineral deposits. This investigation\u2019s conclusions reveal that mining legislation was formed by dynamically integrated protagonists from distinct ranks who restructured Ecuador\u2019s geographic space in the areas where these valuable mineral deposits could be found. Furthermore, this piece explores the tension between the needs of economical liberalism, at the national level, and the expansion of the mineral extraction industry, at the regional level, towards the end of the 19th century.", 
+            "format": [
+                "article"
+            ], 
+            "network_name_str": "Ecuador", 
+            "publishDate": [
+                "2017"
+            ], 
+            "network_acronym_str": "EC", 
+            "dc.format.none.fl_str_mv": [
+                "pp. 95-120"
+            ], 
+            "eu_rights_str_mv": [
+                "openAccess"
+            ], 
+            "collection": [
+                "Repositorio UASB"
+            ], 
+            "oai_identifier_str": "oai:oai:repositorio.uasb.edu.ec:10644:10644/5795", 
+            "rights_invalid_str_mv": [
+                "http://creativecommons.org/licenses/by-nc-sa/3.0/ec/"
+            ], 
+            "dc.source.none.fl_str_mv": [
+                "reponame:Repositorio UASB", 
+                "instname:Universidad Andina Sim\u00f3n Bolivar"
+            ], 
+            "dc.language.none.fl_str_mv": [
+                "spa"
+            ], 
+            "dc.title.none.fl_str_mv": [
+                "Las leyes de miner\u00eda en Ecuador a fines del siglo XIX: la reconfiguraci\u00f3n de la propiedad minera (Debates)"
+            ], 
+            "dc.identifier.none.fl_str_mv": [
+                "Carri\u00f3n, Andrea. \"Las leyes de miner\u00eda en Ecuador a fines del siglo XIX: la reconfiguraci\u00f3n de la propiedad minera\". Procesos: revista ecuatoriana de historia. 45 (I Semestre, 2017): 95-120.", 
+                "1390-0099", 
+                "2588-0780", 
+                "http://hdl.handle.net/10644/5795"
+            ], 
+            "title_short": "Las leyes de miner\u00eda en Ecuador a fines del siglo XIX: la reconfiguraci\u00f3n de la propiedad minera (Debates)", 
+            "language": [
+                "spa"
+            ], 
+            "dc.subject.none.fl_str_mv": [
+                "MINER\u00cdA", 
+                "LEGISLACI\u00d3N MINERA", 
+                "PROPIEDAD DE LA TIERRA", 
+                "HISTORIA ECON\u00d3MICA", 
+                "ECONOMIC HISTORY", 
+                "MINING LAWS"
+            ], 
+            "title": "Las leyes de miner\u00eda en Ecuador a fines del siglo XIX: la reconfiguraci\u00f3n de la propiedad minera (Debates)", 
+            "dc.rights.none.fl_str_mv": [
+                "info:eu-repo/semantics/openAccess", 
+                "http://creativecommons.org/licenses/by-nc-sa/3.0/ec/"
+            ], 
+            "title_full": "Las leyes de miner\u00eda en Ecuador a fines del siglo XIX: la reconfiguraci\u00f3n de la propiedad minera (Debates)", 
+            "repository.mail.fl_str_mv": [
+                "mail@mail.com"
+            ], 
+            "author_facet": [
+                "Carri\u00f3n, Andrea"
+            ], 
+            "title_fullStr": "Las leyes de miner\u00eda en Ecuador a fines del siglo XIX: la reconfiguraci\u00f3n de la propiedad minera (Debates)"
+        }, 
+        "urls": [
+            {
+                "url": "http://hdl.handle.net/10644/5795", 
+                "desc": "http://hdl.handle.net/10644/5795"
+            }
+        ], 
+        "formats": [
+            "article"
+        ], 
+        "id": "EC_835bde4f7088ca52d35a8eaa60e40e1c"
+    }, 
+    {
+        "primaryAuthors": [
+            "Jim\u00e9nez Lira, Marisela"
+        ], 
+        "title": "Acciones y estrategias para un plan de manejo de la microcuenca de Monte Caldera, San Luis Potos\u00ed", 
+        "publicationDates": [
+            "2012"
+        ], 
+        "summary": [
+            "El objetivo principal de este trabajo fue identificar las condiciones socioecono\u0301micas y aprovechamiento de los recursos naturales de la microcuenca de Monte Caldera, para diagnosticar sus problemas y proponer acciones y estrategias que contribuyen a elaborar un futuro plan de manejo, procurando la conservacio\u0301n de las funciones sustantivas de la microcuenca. El a\u0301rea de estudio se localiza aproximadamente a 20 km al este de la ciudad de San Luis Potosi\u0301, abarca las localidades de Monte Caldera y de Jesu\u0301s Mari\u0301a pertenecientes al Municipio de Cerro de San Pedro y a la comunidad San Antonio de Egui\u0301a que pertenece al Municipio Armadillo de los Infantes. La actividad metalu\u0301rgica histo\u0301rica que se desarrollo\u0301 en este sitio provoco\u0301 la contaminacio\u0301n del suelo por plomo y otros metales los que provocaron a su vez la contaminacio\u0301n de aguas superficiales y de sedimentos de escorrenti\u0301a. Adema\u0301s, debido a que se utilizaba carbo\u0301n en grandes cantidades por la elevada demanda energe\u0301tica del proceso, existe una severa deforestacio\u0301n del sitio, lo que ocasiono los actuales procesos de erosio\u0301n hi\u0301drica de suelos a lo largo de la microcuenca. Los problemas de pe\u0301rdida de suelos y de los impactos ocasionados por la mineri\u0301a histo\u0301rica son considerados en la caracterizacio\u0301n. Los resultados del ana\u0301lisis estadi\u0301stico y FODA basados en la informacio\u0301n recopilada referente a los aspectos ambientales, sociales y econo\u0301micos, junto con la actualizacio\u0301n de la carta de uso de suelo y vegetacio\u0301n se utilizaron para la construccio\u0301n de escenarios con los cuales se elaboraron las estrategias y acciones para un futuro plan de manejo de la microcuenca."
+        ], 
+        "languages": [
+            "spa"
+        ], 
+        "subjects": [
+            [
+                "impactos ambientales"
+            ], 
+            [
+                "mineri\u0301a histo\u0301rica"
+            ], 
+            [
+                "microcuenca de Monte Caldera"
+            ], 
+            [
+                "aprovechamiento de recursos"
+            ], 
+            [
+                "1 CIENCIAS FISICO MATEMATICAS Y CIENCIAS DE LA TIERRA"
+            ]
+        ], 
+        "rawData": {
+            "dc.creator.none.fl_str_mv": [
+                "Jim\u00e9nez Lira, Marisela"
+            ], 
+            "dc.date.none.fl_str_mv": [
+                "2012-08-01"
+            ], 
+            "title_sort": "Acciones y estrategias para un plan de manejo de la microcuenca de Monte Caldera, San Luis Potos\u00ed", 
+            "dc.relation.none.fl_str_mv": [
+                "investigadores"
+            ], 
+            "publisher.none.fl_str_mv": [
+                "Agenda Ambiental", 
+                "Universidad Aut\u00f3noma del Estado de San Luis Potos\u00ed (UASLP)"
+            ], 
+            "topic": [
+                "impactos ambientales", 
+                "mineri\u0301a histo\u0301rica", 
+                "microcuenca de Monte Caldera", 
+                "aprovechamiento de recursos", 
+                "1 CIENCIAS FISICO MATEMATICAS Y CIENCIAS DE LA TIERRA"
+            ], 
+            "dc.description.none.fl_txt_mv": [
+                "El objetivo principal de este trabajo fue identificar las condiciones socioecono\u0301micas y aprovechamiento de los recursos naturales de la microcuenca de Monte Caldera, para diagnosticar sus problemas y proponer acciones y estrategias que contribuyen a elaborar un futuro plan de manejo, procurando la conservacio\u0301n de las funciones sustantivas de la microcuenca. El a\u0301rea de estudio se localiza aproximadamente a 20 km al este de la ciudad de San Luis Potosi\u0301, abarca las localidades de Monte Caldera y de Jesu\u0301s Mari\u0301a pertenecientes al Municipio de Cerro de San Pedro y a la comunidad San Antonio de Egui\u0301a que pertenece al Municipio Armadillo de los Infantes. La actividad metalu\u0301rgica histo\u0301rica que se desarrollo\u0301 en este sitio provoco\u0301 la contaminacio\u0301n del suelo por plomo y otros metales los que provocaron a su vez la contaminacio\u0301n de aguas superficiales y de sedimentos de escorrenti\u0301a. Adema\u0301s, debido a que se utilizaba carbo\u0301n en grandes cantidades por la elevada demanda energe\u0301tica del proceso, existe una severa deforestacio\u0301n del sitio, lo que ocasiono los actuales procesos de erosio\u0301n hi\u0301drica de suelos a lo largo de la microcuenca. Los problemas de pe\u0301rdida de suelos y de los impactos ocasionados por la mineri\u0301a histo\u0301rica son considerados en la caracterizacio\u0301n. Los resultados del ana\u0301lisis estadi\u0301stico y FODA basados en la informacio\u0301n recopilada referente a los aspectos ambientales, sociales y econo\u0301micos, junto con la actualizacio\u0301n de la carta de uso de suelo y vegetacio\u0301n se utilizaron para la construccio\u0301n de escenarios con los cuales se elaboraron las estrategias y acciones para un futuro plan de manejo de la microcuenca."
+            ], 
+            "url": [
+                "http://www.remeri.org.mx/portal/REMERI.jsp?id=oai:ninive.uaslp.mx:i/3686"
+            ], 
+            "title_full_unstemmed": "Acciones y estrategias para un plan de manejo de la microcuenca de Monte Caldera, San Luis Potos\u00ed", 
+            "id": "MX_6a91cf7e7da4eca487e21e8e9ae0f36a", 
+            "status_str": "publishedVersion", 
+            "reponame_str": "Repositorio Institucional NINIVE.", 
+            "author": [
+                "Jim\u00e9nez Lira, Marisela"
+            ], 
+            "identifier_str_mv": [
+                "instname:Universidad Aut\u00f3noma del Estado de San Luis Potos\u00ed", 
+                "instname:UASLP", 
+                "reponame:Repositorio Institucional NINIVE.", 
+                "repourl:http://ninive.uaslp.mx/"
+            ], 
+            "instname_str": "Universidad Aut\u00f3noma del Estado de San Luis Potos\u00ed", 
+            "spellingShingle": [
+                "Acciones y estrategias para un plan de manejo de la microcuenca de Monte Caldera, San Luis Potos\u00ed", 
+                "Jim\u00e9nez Lira, Marisela", 
+                "impactos ambientales", 
+                "mineri\u0301a histo\u0301rica", 
+                "microcuenca de Monte Caldera", 
+                "aprovechamiento de recursos", 
+                "1 CIENCIAS FISICO MATEMATICAS Y CIENCIAS DE LA TIERRA"
+            ], 
+            "score": 1730.0342, 
+            "_version_": 1607632435299745792, 
+            "dc.publisher.none.fl_str_mv": [
+                "Agenda Ambiental", 
+                "Universidad Aut\u00f3noma del Estado de San Luis Potos\u00ed (UASLP)"
+            ], 
+            "dc.type.none.fl_str_mv": [
+                "info:eu-repo/semantics/masterThesis", 
+                "info:eu-repo/semantics/publishedVersion", 
+                "Tesis de Maestria"
+            ], 
+            "repository.name.fl_str_mv": [
+                "\n\t\t\t-\n\t\t\t"
+            ], 
+            "description": "El objetivo principal de este trabajo fue identificar las condiciones socioecono\u0301micas y aprovechamiento de los recursos naturales de la microcuenca de Monte Caldera, para diagnosticar sus problemas y proponer acciones y estrategias que contribuyen a elaborar un futuro plan de manejo, procurando la conservacio\u0301n de las funciones sustantivas de la microcuenca. El a\u0301rea de estudio se localiza aproximadamente a 20 km al este de la ciudad de San Luis Potosi\u0301, abarca las localidades de Monte Caldera y de Jesu\u0301s Mari\u0301a pertenecientes al Municipio de Cerro de San Pedro y a la comunidad San Antonio de Egui\u0301a que pertenece al Municipio Armadillo de los Infantes. La actividad metalu\u0301rgica histo\u0301rica que se desarrollo\u0301 en este sitio provoco\u0301 la contaminacio\u0301n del suelo por plomo y otros metales los que provocaron a su vez la contaminacio\u0301n de aguas superficiales y de sedimentos de escorrenti\u0301a. Adema\u0301s, debido a que se utilizaba carbo\u0301n en grandes cantidades por la elevada demanda energe\u0301tica del proceso, existe una severa deforestacio\u0301n del sitio, lo que ocasiono los actuales procesos de erosio\u0301n hi\u0301drica de suelos a lo largo de la microcuenca. Los problemas de pe\u0301rdida de suelos y de los impactos ocasionados por la mineri\u0301a histo\u0301rica son considerados en la caracterizacio\u0301n. Los resultados del ana\u0301lisis estadi\u0301stico y FODA basados en la informacio\u0301n recopilada referente a los aspectos ambientales, sociales y econo\u0301micos, junto con la actualizacio\u0301n de la carta de uso de suelo y vegetacio\u0301n se utilizaron para la construccio\u0301n de escenarios con los cuales se elaboraron las estrategias y acciones para un futuro plan de manejo de la microcuenca.", 
+            "format": [
+                "masterThesis"
+            ], 
+            "network_name_str": "M\u00e9xico", 
+            "publishDate": [
+                "2012"
+            ], 
+            "network_acronym_str": "MX", 
+            "dc.format.none.fl_str_mv": [
+                "application/pdf"
+            ], 
+            "eu_rights_str_mv": [
+                "openAccess"
+            ], 
+            "collection": [
+                "Repositorio Institucional NINIVE."
+            ], 
+            "oai_identifier_str": "oai:ninive.uaslp.mx:i/3686", 
+            "rights_invalid_str_mv": [
+                "Acceso Abierto"
+            ], 
+            "dc.source.none.fl_str_mv": [
+                "instname:Universidad Aut\u00f3noma del Estado de San Luis Potos\u00ed", 
+                "reponame:Repositorio Institucional NINIVE."
+            ], 
+            "dc.language.none.fl_str_mv": [
+                "spa"
+            ], 
+            "dc.title.none.fl_str_mv": [
+                "Acciones y estrategias para un plan de manejo de la microcuenca de Monte Caldera, San Luis Potos\u00ed"
+            ], 
+            "dc.identifier.none.fl_str_mv": [
+                "instname:Universidad Aut\u00f3noma del Estado de San Luis Potos\u00ed", 
+                "instname:UASLP", 
+                "reponame:Repositorio Institucional NINIVE.", 
+                "repourl:http://ninive.uaslp.mx/", 
+                "http://www.remeri.org.mx/portal/REMERI.jsp?id=oai:ninive.uaslp.mx:i/3686"
+            ], 
+            "title_short": "Acciones y estrategias para un plan de manejo de la microcuenca de Monte Caldera, San Luis Potos\u00ed", 
+            "language": [
+                "spa"
+            ], 
+            "dc.subject.none.fl_str_mv": [
+                "impactos ambientales", 
+                "mineri\u0301a histo\u0301rica", 
+                "microcuenca de Monte Caldera", 
+                "aprovechamiento de recursos", 
+                "1 CIENCIAS FISICO MATEMATICAS Y CIENCIAS DE LA TIERRA"
+            ], 
+            "title": "Acciones y estrategias para un plan de manejo de la microcuenca de Monte Caldera, San Luis Potos\u00ed", 
+            "dc.rights.none.fl_str_mv": [
+                "Acceso Abierto", 
+                "info:eu-repo/semantics/openAccess"
+            ], 
+            "title_full": "Acciones y estrategias para un plan de manejo de la microcuenca de Monte Caldera, San Luis Potos\u00ed", 
+            "repository.mail.fl_str_mv": [
+                "mail@mail.com"
+            ], 
+            "author_facet": [
+                "Jim\u00e9nez Lira, Marisela"
+            ], 
+            "title_fullStr": "Acciones y estrategias para un plan de manejo de la microcuenca de Monte Caldera, San Luis Potos\u00ed"
+        }, 
+        "urls": [
+            {
+                "url": "http://www.remeri.org.mx/portal/REMERI.jsp?id=oai:ninive.uaslp.mx:i/3686", 
+                "desc": "http://www.remeri.org.mx/portal/REMERI.jsp?id=oai:ninive.uaslp.mx:i/3686"
+            }
+        ], 
+        "formats": [
+            "masterThesis"
+        ], 
+        "id": "MX_6a91cf7e7da4eca487e21e8e9ae0f36a"
+    }, 
+    {
+        "primaryAuthors": [
+            "G\u00f3mez Lende, Sebasti\u00e1n"
+        ], 
+        "title": "Miner\u00eda metal\u00edfera en la provincia de Jujuy, Argentina : una historia de acumulaci\u00f3n por desposesi\u00f3n (1933-2016)", 
+        "publicationDates": [
+            "2016"
+        ], 
+        "summary": [
+            "Obedeciendo a la divisi\u00f3n internacional del trabajo, los usos hegem\u00f3nicos del territorio a menudo funcionan como modalidades de acumulaci\u00f3n por desposesi\u00f3n. Tal es el caso del actual boom de la miner\u00eda met\u00e1lica en la Argentina. El objetivo de este trabajo consiste en demostrar que la miner\u00eda metal\u00edfera de la Provincia de Jujuy se ha desarrollado, desde sus or\u00edgenes hasta la actualidad, como un uso del territorio asociado a diversas formas de acumulaci\u00f3n por desposesi\u00f3n. El art\u00edculo analiza en ese sentido los casos de Minera El Aguilar y Mina Pirquitas, vali\u00e9ndose para ello de fuentes secundarias -bibliograf\u00eda acad\u00e9mica erudita, datos oficiales, informaci\u00f3n period\u00edstica-. Los hallazgos obtenidos corroboran la hip\u00f3tesis inicial y permiten concluir que en la miner\u00eda met\u00e1lica provincial se desarrollan din\u00e1micas expropiatorias pret\u00e9ritas y contempor\u00e1neas que van desde los cercamientos territoriales, la extranjerizaci\u00f3n de tierras, empresas y recursos naturales, la expulsi\u00f3n de campesinos y abor\u00edgenes y la sobreexplotaci\u00f3n laboral, hasta la cooptaci\u00f3n del Estado, el despojo econ\u00f3mico, la degradaci\u00f3n del patrimonio ambiental, la transferencia al exterior de servicios ecol\u00f3gicos y bienes ambientales, la desposesi\u00f3n del derecho a la salud de la poblaci\u00f3n y el avasallamiento de otros derechos civiles y pol\u00edticos."
+        ], 
+        "languages": [
+            "spa"
+        ], 
+        "subjects": [
+            [
+                "Miner\u00eda"
+            ], 
+            [
+                "Jujuy (Argentina : provincia)"
+            ], 
+            [
+                "Divisi\u00f3n del trabajo"
+            ], 
+            [
+                "Recursos naturales"
+            ], 
+            [
+                "Uso de la tierra"
+            ], 
+            [
+                "Contaminaci\u00f3n"
+            ], 
+            [
+                "Minera El Aguilar (Jujuy, Argentina)"
+            ], 
+            [
+                "Mina Pirquitas (Jujuy, Argentina)"
+            ], 
+            [
+                "Miner\u00eda metal\u00edfera"
+            ], 
+            [
+                "Miner\u00eda met\u00e1lica"
+            ], 
+            [
+                "Extranjerizaci\u00f3n de tierras"
+            ], 
+            [
+                "Acumulaci\u00f3n por desposesi\u00f3n"
+            ], 
+            [
+                "Usos del territorio"
+            ], 
+            [
+                "Din\u00e1micas expropiatorias"
+            ]
+        ], 
+        "rawData": {
+            "dc.creator.none.fl_str_mv": [
+                "G\u00f3mez Lende, Sebasti\u00e1n"
+            ], 
+            "dc.date.none.fl_str_mv": [
+                "2016-12-01"
+            ], 
+            "title_sort": "Miner\u00eda metal\u00edfera en la provincia de Jujuy, Argentina : una historia de acumulaci\u00f3n por desposesi\u00f3n (1933-2016)", 
+            "publisher.none.fl_str_mv": [
+                "Universidad Nacional de Cuyo. Facultad de Filosof\u00eda y Letras. Instituto Multidisciplinario de Estudios Sociales Contempor\u00e1neos"
+            ], 
+            "topic": [
+                "Miner\u00eda", 
+                "Jujuy (Argentina : provincia)", 
+                "Divisi\u00f3n del trabajo", 
+                "Recursos naturales", 
+                "Uso de la tierra", 
+                "Contaminaci\u00f3n", 
+                "Minera El Aguilar (Jujuy, Argentina)", 
+                "Mina Pirquitas (Jujuy, Argentina)", 
+                "Miner\u00eda metal\u00edfera", 
+                "Miner\u00eda met\u00e1lica", 
+                "Extranjerizaci\u00f3n de tierras", 
+                "Acumulaci\u00f3n por desposesi\u00f3n", 
+                "Usos del territorio", 
+                "Din\u00e1micas expropiatorias"
+            ], 
+            "dc.description.none.fl_txt_mv": [
+                "Obedeciendo a la divisi\u00f3n internacional del trabajo, los usos hegem\u00f3nicos del territorio a menudo funcionan como modalidades de acumulaci\u00f3n por desposesi\u00f3n. Tal es el caso del actual boom de la miner\u00eda met\u00e1lica en la Argentina. El objetivo de este trabajo consiste en demostrar que la miner\u00eda metal\u00edfera de la Provincia de Jujuy se ha desarrollado, desde sus or\u00edgenes hasta la actualidad, como un uso del territorio asociado a diversas formas de acumulaci\u00f3n por desposesi\u00f3n. El art\u00edculo analiza en ese sentido los casos de Minera El Aguilar y Mina Pirquitas, vali\u00e9ndose para ello de fuentes secundarias -bibliograf\u00eda acad\u00e9mica erudita, datos oficiales, informaci\u00f3n period\u00edstica-. Los hallazgos obtenidos corroboran la hip\u00f3tesis inicial y permiten concluir que en la miner\u00eda met\u00e1lica provincial se desarrollan din\u00e1micas expropiatorias pret\u00e9ritas y contempor\u00e1neas que van desde los cercamientos territoriales, la extranjerizaci\u00f3n de tierras, empresas y recursos naturales, la expulsi\u00f3n de campesinos y abor\u00edgenes y la sobreexplotaci\u00f3n laboral, hasta la cooptaci\u00f3n del Estado, el despojo econ\u00f3mico, la degradaci\u00f3n del patrimonio ambiental, la transferencia al exterior de servicios ecol\u00f3gicos y bienes ambientales, la desposesi\u00f3n del derecho a la salud de la poblaci\u00f3n y el avasallamiento de otros derechos civiles y pol\u00edticos.", 
+                "Originated in the international division of labour, the hegemonic uses of territory often operate as mechanisms of accumulation by dispossession. The current boom of metal mining in Argentina is an appropriated example of this process. The aim of this paper is to demonstrate that, since its origins to the present, metal mining has developed in the province of Jujuy as a use of territory which is linked to diverse forms of accumulation by dispossession. In order to meet this purpose, we analyze the cases of Minera El Aguilar and Mina Pirquitas by using data that has been extracted from secondary sources (i.e. academic bibliography, official data, and journalist reports). Our findings have confirmed our initial hypothesis, thus allowing us to conclude that in this province the metal mining has developed both old and contemporary expropriation dynamics (e.g. territorial closures; foreignization of lands, companies, and natural resources; peasants and aborigines expulsion; workforce super-exploitation; State cooptation; economic looting; environmental heritage\u2019s pollution; transfer of ecological services and environmental goods to the international markets; and dispossession of the right to health and other civil and political rights).", 
+                "Fil: G\u00f3mez Lende, Sebasti\u00e1n. Universidad Nacional del Centro de la Provincia de Buenos Aires"
+            ], 
+            "url": [
+                "http://bdigital.uncu.edu.ar/8952"
+            ], 
+            "title_full_unstemmed": "Miner\u00eda metal\u00edfera en la provincia de Jujuy, Argentina : una historia de acumulaci\u00f3n por desposesi\u00f3n (1933-2016)", 
+            "id": "AR_48aeff5fe951fb93fc8a660f815ae3a0", 
+            "status_str": "publishedVersion", 
+            "author": [
+                "G\u00f3mez Lende, Sebasti\u00e1n"
+            ], 
+            "spellingShingle": [
+                "Miner\u00eda metal\u00edfera en la provincia de Jujuy, Argentina : una historia de acumulaci\u00f3n por desposesi\u00f3n (1933-2016)", 
+                "G\u00f3mez Lende, Sebasti\u00e1n", 
+                "Miner\u00eda", 
+                "Jujuy (Argentina : provincia)", 
+                "Divisi\u00f3n del trabajo", 
+                "Recursos naturales", 
+                "Uso de la tierra", 
+                "Contaminaci\u00f3n", 
+                "Minera El Aguilar (Jujuy, Argentina)", 
+                "Mina Pirquitas (Jujuy, Argentina)", 
+                "Miner\u00eda metal\u00edfera", 
+                "Miner\u00eda met\u00e1lica", 
+                "Extranjerizaci\u00f3n de tierras", 
+                "Acumulaci\u00f3n por desposesi\u00f3n", 
+                "Usos del territorio", 
+                "Din\u00e1micas expropiatorias"
+            ], 
+            "score": 1567.4824, 
+            "_version_": 1607631474320736256, 
+            "dc.publisher.none.fl_str_mv": [
+                "Universidad Nacional de Cuyo. Facultad de Filosof\u00eda y Letras. Instituto Multidisciplinario de Estudios Sociales Contempor\u00e1neos"
+            ], 
+            "dc.type.none.fl_str_mv": [
+                "info:ar-repo/semantics/art\u00edculo", 
+                "info:eu-repo/semantics/article", 
+                "info:eu-repo/semantics/publishedVersion"
+            ], 
+            "repository.name.fl_str_mv": [
+                "\n\t\t\t-\n\t\t\t"
+            ], 
+            "description": "Obedeciendo a la divisi\u00f3n internacional del trabajo, los usos hegem\u00f3nicos del territorio a menudo funcionan como modalidades de acumulaci\u00f3n por desposesi\u00f3n. Tal es el caso del actual boom de la miner\u00eda met\u00e1lica en la Argentina. El objetivo de este trabajo consiste en demostrar que la miner\u00eda metal\u00edfera de la Provincia de Jujuy se ha desarrollado, desde sus or\u00edgenes hasta la actualidad, como un uso del territorio asociado a diversas formas de acumulaci\u00f3n por desposesi\u00f3n. El art\u00edculo analiza en ese sentido los casos de Minera El Aguilar y Mina Pirquitas, vali\u00e9ndose para ello de fuentes secundarias -bibliograf\u00eda acad\u00e9mica erudita, datos oficiales, informaci\u00f3n period\u00edstica-. Los hallazgos obtenidos corroboran la hip\u00f3tesis inicial y permiten concluir que en la miner\u00eda met\u00e1lica provincial se desarrollan din\u00e1micas expropiatorias pret\u00e9ritas y contempor\u00e1neas que van desde los cercamientos territoriales, la extranjerizaci\u00f3n de tierras, empresas y recursos naturales, la expulsi\u00f3n de campesinos y abor\u00edgenes y la sobreexplotaci\u00f3n laboral, hasta la cooptaci\u00f3n del Estado, el despojo econ\u00f3mico, la degradaci\u00f3n del patrimonio ambiental, la transferencia al exterior de servicios ecol\u00f3gicos y bienes ambientales, la desposesi\u00f3n del derecho a la salud de la poblaci\u00f3n y el avasallamiento de otros derechos civiles y pol\u00edticos.", 
+            "format": [
+                "article"
+            ], 
+            "network_name_str": "Argentina", 
+            "publishDate": [
+                "2016"
+            ], 
+            "network_acronym_str": "AR", 
+            "dc.format.none.fl_str_mv": [
+                "application/pdf"
+            ], 
+            "eu_rights_str_mv": [
+                "openAccess"
+            ], 
+            "oai_identifier_str": "8eeca7de-3b33-4cda-90de-8f17a014121c/oai:bdigital.uncu.edu.ar:8952", 
+            "rights_invalid_str_mv": [
+                "http://creativecommons.org/licenses/by/2.5/ar/"
+            ], 
+            "dc.source.none.fl_str_mv": [
+                "Estudios sociales contempor\u00e1neos, No. 15", 
+                "http://bdigital.uncu.edu.ar/8849"
+            ], 
+            "dc.language.none.fl_str_mv": [
+                "spa"
+            ], 
+            "dc.title.none.fl_str_mv": [
+                "Miner\u00eda metal\u00edfera en la provincia de Jujuy, Argentina : una historia de acumulaci\u00f3n por desposesi\u00f3n (1933-2016)", 
+                "Metal mining in the province of Jujuy, Argentina : a story of accumulation by dispossession (1933-2016)"
+            ], 
+            "dc.identifier.none.fl_str_mv": [
+                "http://bdigital.uncu.edu.ar/8952"
+            ], 
+            "title_short": "Miner\u00eda metal\u00edfera en la provincia de Jujuy, Argentina : una historia de acumulaci\u00f3n por desposesi\u00f3n (1933-2016)", 
+            "language": [
+                "spa"
+            ], 
+            "dc.subject.none.fl_str_mv": [
+                "Miner\u00eda", 
+                "Jujuy (Argentina : provincia)", 
+                "Divisi\u00f3n del trabajo", 
+                "Recursos naturales", 
+                "Uso de la tierra", 
+                "Contaminaci\u00f3n", 
+                "Minera El Aguilar (Jujuy, Argentina)", 
+                "Mina Pirquitas (Jujuy, Argentina)", 
+                "Miner\u00eda metal\u00edfera", 
+                "Miner\u00eda met\u00e1lica", 
+                "Extranjerizaci\u00f3n de tierras", 
+                "Acumulaci\u00f3n por desposesi\u00f3n", 
+                "Usos del territorio", 
+                "Din\u00e1micas expropiatorias"
+            ], 
+            "title": "Miner\u00eda metal\u00edfera en la provincia de Jujuy, Argentina : una historia de acumulaci\u00f3n por desposesi\u00f3n (1933-2016)", 
+            "dc.rights.none.fl_str_mv": [
+                "info:eu-repo/semantics/openAccess", 
+                "http://creativecommons.org/licenses/by/2.5/ar/"
+            ], 
+            "title_full": "Miner\u00eda metal\u00edfera en la provincia de Jujuy, Argentina : una historia de acumulaci\u00f3n por desposesi\u00f3n (1933-2016)", 
+            "repository.mail.fl_str_mv": [
+                "mail@mail.com"
+            ], 
+            "author_facet": [
+                "G\u00f3mez Lende, Sebasti\u00e1n"
+            ], 
+            "title_fullStr": "Miner\u00eda metal\u00edfera en la provincia de Jujuy, Argentina : una historia de acumulaci\u00f3n por desposesi\u00f3n (1933-2016)"
+        }, 
+        "urls": [
+            {
+                "url": "http://bdigital.uncu.edu.ar/8952", 
+                "desc": "http://bdigital.uncu.edu.ar/8952"
+            }
+        ], 
+        "formats": [
+            "article"
+        ], 
+        "id": "AR_48aeff5fe951fb93fc8a660f815ae3a0"
+    }, 
+    {
+        "primaryAuthors": [
+            "Santos, Sanmarie Rigaud dos"
+        ], 
+        "title": "Conflitos agr\u00e1rios decorrentes da minera\u00e7\u00e3o: um estudo do Projeto Ferro Caraj\u00e1s S11D em Cana\u00e3 dos Caraj\u00e1s/Par\u00e1", 
+        "publicationDates": [
+            "2017"
+        ], 
+        "summary": [
+            "La cuesti\u00f3n agraria en Brasil, por ser bastante compleja, contiene varias caras y esta disertaci\u00f3n aborda una de esas posibilidades de an\u00e1lisis: los conflictos agrarios generados por el Proyecto de miner\u00eda Ferro Caraj\u00e1s S11D en el municipio de Cana\u00e1n dos Caraj\u00e1s, estado de Par\u00e1. entre los trabajadores rurales de la comunidad Vila Racha Placa y la empresa minera Vale SA; por lo tanto, el objetivo de la investigaci\u00f3n es analizar las caracterizaciones jur\u00eddica, econ\u00f3mica, social, cultural, ambiental de ese conflicto agrario que ejemplifican el contexto de la realidad brasile\u00f1a de violencias sociales, econ\u00f3micas, culturales, simb\u00f3licas, con sus impactos socioambientales y expropiaci\u00f3n de territorio campesino la actividad minera, que se realiza en el grupo denominado afectados por la miner\u00eda. La investigaci\u00f3n de campo en la regi\u00f3n estudiada fue basada en un abordaje cualitativo, realizado por el Estudio de Caso, con t\u00e9cnicas de la observaci\u00f3n participante, se busc\u00f3 constatar la forma en que las comunidades involucradas en el conflicto agrario accede a la justicia, sus percepciones de los impactos socioambientales causados por miner\u00eda en el municipio y junto a esto analizar la aplicaci\u00f3n del derecho agrario en este contexto."
+        ], 
+        "languages": [
+            "por"
+        ], 
+        "subjects": [
+            [
+                "Amaz\u00f4nia"
+            ], 
+            [
+                "Conflito agr\u00e1rio"
+            ], 
+            [
+                "Direito agr\u00e1rio"
+            ], 
+            [
+                "Minera\u00e7\u00e3o"
+            ], 
+            [
+                "Amazonia"
+            ], 
+            [
+                "Ley agraria"
+            ], 
+            [
+                "Conflicto de tierras"
+            ], 
+            [
+                "Miner\u00eda"
+            ], 
+            [
+                "CIENCIAS SOCIAIS APLICADAS"
+            ]
+        ], 
+        "rawData": {
+            "_version_": 1608244678195412992, 
+            "title_sort": "Conflitos agr\u00e1rios decorrentes da minera\u00e7\u00e3o: um estudo do Projeto Ferro Caraj\u00e1s S11D em Cana\u00e3 dos Caraj\u00e1s/Par\u00e1", 
+            "publisher.none.fl_str_mv": [
+                "Universidade Federal de Goi\u00e1s"
+            ], 
+            "dc.subject.spa.fl_str_mv": [
+                "Amazonia", 
+                "Ley agraria", 
+                "Conflicto de tierras", 
+                "Miner\u00eda"
+            ], 
+            "dc.title.alternative.spa.fl_str_mv": [
+                "Conflictos agrarios derivados de la miner\u00eda: un estudio del Proyecto Hierro Caraj\u00e1s S11D en Cana de los Caraj\u00e1s / Par\u00e1"
+            ], 
+            "contributor_str_mv": [
+                "Solazzi, Jos\u00e9 Lu\u00eds", 
+                "Rocha, Eduardo Gon\u00e7alves", 
+                "Melo, C\u00e1ssio Santos"
+            ], 
+            "dc.title.eng.fl_str_mv": [
+                "Conflitos agr\u00e1rios decorrentes da minera\u00e7\u00e3o: um estudo do Projeto Ferro Caraj\u00e1s S11D em Cana\u00e3 dos Caraj\u00e1s/Par\u00e1"
+            ], 
+            "topic": [
+                "Amaz\u00f4nia", 
+                "Conflito agr\u00e1rio", 
+                "Direito agr\u00e1rio", 
+                "Minera\u00e7\u00e3o", 
+                "Amazonia", 
+                "Ley agraria", 
+                "Conflicto de tierras", 
+                "Miner\u00eda", 
+                "CIENCIAS SOCIAIS APLICADAS"
+            ], 
+            "dc.contributor.advisor1.fl_str_mv": [
+                "Solazzi, Jos\u00e9 Lu\u00eds"
+            ], 
+            "dc.date.accessioned.fl_str_mv": [
+                "2018-03-07T12:11:05Z"
+            ], 
+            "title_full_unstemmed": "Conflitos agr\u00e1rios decorrentes da minera\u00e7\u00e3o: um estudo do Projeto Ferro Caraj\u00e1s S11D em Cana\u00e3 dos Caraj\u00e1s/Par\u00e1", 
+            "dc.identifier.uri.fl_str_mv": [
+                "http://repositorio.bc.ufg.br/tede/handle/tede/8203"
+            ], 
+            "bitstream.checksumAlgorithm.fl_str_mv": [
+                "MD5", 
+                "MD5", 
+                "MD5", 
+                "MD5", 
+                "MD5"
+            ], 
+            "id": "BR_e6e5d9689179889dbae3bbf454267adb", 
+            "bitstream.url.fl_str_mv": [
+                "http://repositorio.bc.ufg.br/tede/bitstream/tede/8203/5/Disserta%C3%A7%C3%A3o+-+Sanmarie+Rigaud+dos+Santos++-+2017.pdf", 
+                "http://repositorio.bc.ufg.br/tede/bitstream/tede/8203/2/license_url", 
+                "http://repositorio.bc.ufg.br/tede/bitstream/tede/8203/3/license_text", 
+                "http://repositorio.bc.ufg.br/tede/bitstream/tede/8203/4/license_rdf", 
+                "http://repositorio.bc.ufg.br/tede/bitstream/tede/8203/1/license.txt"
+            ], 
+            "status_str": "publishedVersion", 
+            "reponame_str": "Biblioteca Digital de Teses e Disserta\u00e7\u00f5es da UFG", 
+            "dc.contributor.authorLattes.fl_str_mv": [
+                "http://lattes.cnpq.br/7984190223088793"
+            ], 
+            "score": 1445.5122, 
+            "author": [
+                "Santos, Sanmarie Rigaud dos"
+            ], 
+            "dc.subject.cnpq.fl_str_mv": [
+                "CIENCIAS SOCIAIS APLICADAS"
+            ], 
+            "rights_invalid_str_mv": [
+                "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+            ], 
+            "format": [
+                "masterThesis"
+            ], 
+            "identifier_str_mv": [
+                "SANTOS, Sanmarie Rigaud dos. Conflitos agr\u00e1rios decorrentes da minera\u00e7\u00e3o: um estudo do Projeto Ferro Caraj\u00e1s S11D em Cana\u00e3 dos Caraj\u00e1s/Par\u00e1. 2017. 144 f. Disserta\u00e7\u00e3o (Mestrado em Direito Agr\u00e1rio) - Universidade Federal de Goi\u00e1s, Goi\u00e2nia, 2017."
+            ], 
+            "instname_str": "Universidade Federal de Goi\u00e1s", 
+            "dc.contributor.referee1.fl_str_mv": [
+                "Rocha, Eduardo Gon\u00e7alves"
+            ], 
+            "spellingShingle": [
+                "Conflitos agr\u00e1rios decorrentes da minera\u00e7\u00e3o: um estudo do Projeto Ferro Caraj\u00e1s S11D em Cana\u00e3 dos Caraj\u00e1s/Par\u00e1", 
+                "Santos, Sanmarie Rigaud dos", 
+                "Amaz\u00f4nia", 
+                "Conflito agr\u00e1rio", 
+                "Direito agr\u00e1rio", 
+                "Minera\u00e7\u00e3o", 
+                "Amazonia", 
+                "Ley agraria", 
+                "Conflicto de tierras", 
+                "Miner\u00eda", 
+                "CIENCIAS SOCIAIS APLICADAS"
+            ], 
+            "repository.mail.fl_str_mv": [
+                "claudiamoura18@gmail.com"
+            ], 
+            "dc.publisher.country.fl_str_mv": [
+                "Brasil"
+            ], 
+            "dc.publisher.none.fl_str_mv": [
+                "Universidade Federal de Goi\u00e1s"
+            ], 
+            "dc.description.abstract.spa.fl_txt_mv": [
+                "La cuesti\u00f3n agraria en Brasil, por ser bastante compleja, contiene varias caras y esta disertaci\u00f3n aborda una de esas posibilidades de an\u00e1lisis: los conflictos agrarios generados por el Proyecto de miner\u00eda Ferro Caraj\u00e1s S11D en el municipio de Cana\u00e1n dos Caraj\u00e1s, estado de Par\u00e1. entre los trabajadores rurales de la comunidad Vila Racha Placa y la empresa minera Vale SA; por lo tanto, el objetivo de la investigaci\u00f3n es analizar las caracterizaciones jur\u00eddica, econ\u00f3mica, social, cultural, ambiental de ese conflicto agrario que ejemplifican el contexto de la realidad brasile\u00f1a de violencias sociales, econ\u00f3micas, culturales, simb\u00f3licas, con sus impactos socioambientales y expropiaci\u00f3n de territorio campesino la actividad minera, que se realiza en el grupo denominado afectados por la miner\u00eda. La investigaci\u00f3n de campo en la regi\u00f3n estudiada fue basada en un abordaje cualitativo, realizado por el Estudio de Caso, con t\u00e9cnicas de la observaci\u00f3n participante, se busc\u00f3 constatar la forma en que las comunidades involucradas en el conflicto agrario accede a la justicia, sus percepciones de los impactos socioambientales causados por miner\u00eda en el municipio y junto a esto analizar la aplicaci\u00f3n del derecho agrario en este contexto."
+            ], 
+            "dc.type.status.fl_str_mv": [
+                "info:eu-repo/semantics/publishedVersion"
+            ], 
+            "dc.description.sponsorship.fl_txt_mv": [
+                "Conselho Nacional de Pesquisa e Desenvolvimento Cient\u00edfico e Tecnol\u00f3gico - CNPq"
+            ], 
+            "dc.relation.cnpq.fl_str_mv": [
+                "-1988061944270133392"
+            ], 
+            "dc.relation.confidence.fl_str_mv": [
+                "600", 
+                "600", 
+                "600", 
+                "600"
+            ], 
+            "repository.name.fl_str_mv": [
+                "TEDE"
+            ], 
+            "description": "La cuesti\u00f3n agraria en Brasil, por ser bastante compleja, contiene varias caras y esta disertaci\u00f3n aborda una de esas posibilidades de an\u00e1lisis: los conflictos agrarios generados por el Proyecto de miner\u00eda Ferro Caraj\u00e1s S11D en el municipio de Cana\u00e1n dos Caraj\u00e1s, estado de Par\u00e1. entre los trabajadores rurales de la comunidad Vila Racha Placa y la empresa minera Vale SA; por lo tanto, el objetivo de la investigaci\u00f3n es analizar las caracterizaciones jur\u00eddica, econ\u00f3mica, social, cultural, ambiental de ese conflicto agrario que ejemplifican el contexto de la realidad brasile\u00f1a de violencias sociales, econ\u00f3micas, culturales, simb\u00f3licas, con sus impactos socioambientales y expropiaci\u00f3n de territorio campesino la actividad minera, que se realiza en el grupo denominado afectados por la miner\u00eda. La investigaci\u00f3n de campo en la regi\u00f3n estudiada fue basada en un abordaje cualitativo, realizado por el Estudio de Caso, con t\u00e9cnicas de la observaci\u00f3n participante, se busc\u00f3 constatar la forma en que las comunidades involucradas en el conflicto agrario accede a la justicia, sus percepciones de los impactos socioambientales causados por miner\u00eda en el municipio y junto a esto analizar la aplicaci\u00f3n del derecho agrario en este contexto.", 
+            "institution": [
+                "UFG"
+            ], 
+            "dc.contributor.referee2.fl_str_mv": [
+                "Melo, C\u00e1ssio Santos"
+            ], 
+            "network_name_str": "Brasil", 
+            "dc.relation.program.fl_str_mv": [
+                "7252612246769169447"
+            ], 
+            "publishDate": [
+                "2017"
+            ], 
+            "network_acronym_str": "BR", 
+            "dc.format.none.fl_str_mv": [
+                "application/pdf"
+            ], 
+            "eu_rights_str_mv": [
+                "openAccess"
+            ], 
+            "collection": [
+                "Biblioteca Digital de Teses e Disserta\u00e7\u00f5es da UFG"
+            ], 
+            "dc.rights.driver.fl_str_mv": [
+                "http://creativecommons.org/licenses/by-nc-nd/4.0/", 
+                "info:eu-repo/semantics/openAccess"
+            ], 
+            "dc.relation.department.fl_str_mv": [
+                "8091881372433266341"
+            ], 
+            "instacron_str": "UFG", 
+            "dc.publisher.initials.fl_str_mv": [
+                "UFG"
+            ], 
+            "oai_identifier_str": "oai:repositorio.bc.ufg.br:tede/8203", 
+            "dc.description.abstract.por.fl_txt_mv": [
+                "A Quest\u00e3o agr\u00e1ria no Brasil, por ser bastante complexa, cont\u00e9m diversas faces e esta disserta\u00e7\u00e3o aborda uma dessas possibilidades de an\u00e1lise: os conflitos agr\u00e1rios gerados pelo Projeto de minera\u00e7\u00e3o Ferro Caraj\u00e1s S11D no munic\u00edpio de Cana\u00e3 dos Caraj\u00e1s, estado do Par\u00e1. A referida disputa d\u00e1-se entre trabalhadores rurais da comunidade Vila Racha Placa e a empresa mineradora Vale S.A; por conseguinte, o objetivo da pesquisa \u00e9 analisar as caracteriza\u00e7\u00f5es jur\u00eddica, econ\u00f4mica, social, cultural, ambiental desse conflito agr\u00e1rio que exemplificam o contexto da realidade brasileira de viol\u00eancias sociais, econ\u00f4micas, culturais, simb\u00f3licas, com seus impactos socioambientais e expropria\u00e7\u00e3o de territ\u00f3rio campon\u00eas para a atividade de minera\u00e7\u00e3o, ensejando no grupo denominado atingidos pela minera\u00e7\u00e3o. A pesquisa de campo na regi\u00e3o estudada foi baseada em uma abordagem qualitativa, realizada pelo Estudo de Caso, com t\u00e9cnicas da observa\u00e7\u00e3o participante, buscou-se constatar a forma que as comunidades envolvidas no conflito agr\u00e1rio acessam \u00e0 justi\u00e7a, suas percep\u00e7\u00f5es dos impactos socioambientais causados pela minera\u00e7\u00e3o no munic\u00edpio e junto a isto analisar a aplica\u00e7\u00e3o do direito agr\u00e1rio neste contexto."
+            ], 
+            "dc.source.none.fl_str_mv": [
+                "reponame:Biblioteca Digital de Teses e Disserta\u00e7\u00f5es da UFG", 
+                "instname:Universidade Federal de Goi\u00e1s", 
+                "instacron:UFG"
+            ], 
+            "dc.publisher.program.fl_str_mv": [
+                "Programa de P\u00f3s-gradua\u00e7\u00e3o em Direito Agr\u00e1rio (FD)"
+            ], 
+            "dc.contributor.advisor1Lattes.fl_str_mv": [
+                "http://lattes.cnpq.br/8633725753223725"
+            ], 
+            "title_short": "Conflitos agr\u00e1rios decorrentes da minera\u00e7\u00e3o: um estudo do Projeto Ferro Caraj\u00e1s S11D em Cana\u00e3 dos Caraj\u00e1s/Par\u00e1", 
+            "dc.relation.sponsorship.fl_str_mv": [
+                "-2555911436985713659"
+            ], 
+            "language": [
+                "por"
+            ], 
+            "title_full": "Conflitos agr\u00e1rios decorrentes da minera\u00e7\u00e3o: um estudo do Projeto Ferro Caraj\u00e1s S11D em Cana\u00e3 dos Caraj\u00e1s/Par\u00e1", 
+            "dc.subject.por.fl_str_mv": [
+                "Amaz\u00f4nia", 
+                "Conflito agr\u00e1rio", 
+                "Direito agr\u00e1rio", 
+                "Minera\u00e7\u00e3o"
+            ], 
+            "title": "Conflitos agr\u00e1rios decorrentes da minera\u00e7\u00e3o: um estudo do Projeto Ferro Caraj\u00e1s S11D em Cana\u00e3 dos Caraj\u00e1s/Par\u00e1", 
+            "dc.creator.author.fl_str_mv": [
+                "Santos, Sanmarie Rigaud dos"
+            ], 
+            "bitstream.checksum.fl_str_mv": [
+                "3f77fe4703a59e1eab38481a9f1c289e", 
+                "4afdbb8c545fd630ea7db775da747b2f", 
+                "d41d8cd98f00b204e9800998ecf8427e", 
+                "d41d8cd98f00b204e9800998ecf8427e", 
+                "bd3efa91386c1718a7f26a329fdcb468"
+            ], 
+            "dc.type.driver.fl_str_mv": [
+                "info:eu-repo/semantics/masterThesis"
+            ], 
+            "url": [
+                "http://repositorio.bc.ufg.br/tede/handle/tede/8203"
+            ], 
+            "dc.language.*.fl_str_mv": [
+                "por"
+            ], 
+            "dc.date.issued.fl_str_mv": [
+                "2017-09-26"
+            ], 
+            "dc.identifier.citation.fl_str_mv": [
+                "SANTOS, Sanmarie Rigaud dos. Conflitos agr\u00e1rios decorrentes da minera\u00e7\u00e3o: um estudo do Projeto Ferro Caraj\u00e1s S11D em Cana\u00e3 dos Caraj\u00e1s/Par\u00e1. 2017. 144 f. Disserta\u00e7\u00e3o (Mestrado em Direito Agr\u00e1rio) - Universidade Federal de Goi\u00e1s, Goi\u00e2nia, 2017."
+            ], 
+            "dc.publisher.department.fl_str_mv": [
+                "Faculdade de Direito - FD (RG)"
+            ], 
+            "author_facet": [
+                "Santos, Sanmarie Rigaud dos"
+            ], 
+            "title_fullStr": "Conflitos agr\u00e1rios decorrentes da minera\u00e7\u00e3o: um estudo do Projeto Ferro Caraj\u00e1s S11D em Cana\u00e3 dos Caraj\u00e1s/Par\u00e1"
+        }, 
+        "urls": [
+            {
+                "url": "http://repositorio.bc.ufg.br/tede/handle/tede/8203", 
+                "desc": "http://repositorio.bc.ufg.br/tede/handle/tede/8203"
+            }
+        ], 
+        "formats": [
+            "masterThesis"
+        ], 
+        "id": "BR_e6e5d9689179889dbae3bbf454267adb"
+    }, 
+    {
+        "primaryAuthors": [
+            "Massa Manzanillas, Diana Cristina"
+        ], 
+        "title": "La centralidad rural de la microregi\u00f3n del noroccidente del Distrito Metropolitano de Quito: modelos de desarrollo, procesos e influencias en las din\u00e1micas sociales y econ\u00f3micas territoriales. Caso parroquia de Gualea.", 
+        "publicationDates": [
+            "2014"
+        ], 
+        "summary": [
+            "Es evidente que a nivel de la historia, ha estado presente la dificultad de comprender el mundo rural; ligado esto, siempre a miradas de desarrollo que se plantean a nivel de regi\u00f3n, asociadas a las estrategias de las grandes ciudades y a su crecimiento poblacional. Lo rural, dentro de la planificaci\u00f3n territorial, ha cobrado sentido seg\u00fan la funcionalidad hacia la urbe y siempre relacionada con actividades espec\u00edficamente agrarias. Es as\u00ed que este estudio aporta e invita a hacer una lectura de los territorios con din\u00e1micas locales y rurales, a partir del entendimiento de realidades micro-regionales, que llevan impl\u00edcitas relaciones, coincidencias, contradicciones y problemas a nivel de su dimensi\u00f3n espacial (interna y externa). Aportes y problemas, \u00e9stos, que generan importantes transformaciones en el territorio y contextos que promueven mecanismos de inclusi\u00f3n y rechazo."
+        ], 
+        "languages": [
+            "spa"
+        ], 
+        "subjects": [
+            [
+                "ZONA RURAL"
+            ], 
+            [
+                "MODELO DE DESARROLLO"
+            ], 
+            [
+                "GUALEA (PARROQUIA : ECUADOR)"
+            ], 
+            [
+                "TENENCIA DE LA TIERRA"
+            ], 
+            [
+                "TURISMO"
+            ], 
+            [
+                "MINER\u00cdA"
+            ], 
+            [
+                "ABASTECIMIENTO DE AGUA"
+            ], 
+            [
+                "AGRICULTURA DE SUBSISTENCIA"
+            ], 
+            [
+                "AGROINDUSTRIA"
+            ], 
+            [
+                "GANADER\u00cdA"
+            ], 
+            [
+                "PISCICULTURA"
+            ], 
+            [
+                "COMERCIALIZACI\u00d3N"
+            ], 
+            [
+                "DISTRITO METROPOLITANO DE QUITO (ECUADOR)"
+            ], 
+            [
+                "DESARROLLO RURAL"
+            ]
+        ], 
+        "rawData": {
+            "dc.creator.none.fl_str_mv": [
+                "Massa Manzanillas, Diana Cristina"
+            ], 
+            "dc.date.none.fl_str_mv": [
+                "2014-12", 
+                "2015-08-21T15:06:00Z", 
+                "2015-08-21T15:06:00Z"
+            ], 
+            "title_sort": "La centralidad rural de la microregi\u00f3n del noroccidente del Distrito Metropolitano de Quito: modelos de desarrollo, procesos e influencias en las din\u00e1micas sociales y econ\u00f3micas territoriales. Caso parroquia de Gualea.", 
+            "publisher.none.fl_str_mv": [
+                "Quito, Ecuador : Flacso Ecuador"
+            ], 
+            "topic": [
+                "ZONA RURAL", 
+                "MODELO DE DESARROLLO", 
+                "GUALEA (PARROQUIA : ECUADOR)", 
+                "TENENCIA DE LA TIERRA", 
+                "TURISMO", 
+                "MINER\u00cdA", 
+                "ABASTECIMIENTO DE AGUA", 
+                "AGRICULTURA DE SUBSISTENCIA", 
+                "AGROINDUSTRIA", 
+                "GANADER\u00cdA", 
+                "PISCICULTURA", 
+                "COMERCIALIZACI\u00d3N", 
+                "DISTRITO METROPOLITANO DE QUITO (ECUADOR)", 
+                "DESARROLLO RURAL"
+            ], 
+            "dc.description.none.fl_txt_mv": [
+                "Es evidente que a nivel de la historia, ha estado presente la dificultad de comprender el mundo rural; ligado esto, siempre a miradas de desarrollo que se plantean a nivel de regi\u00f3n, asociadas a las estrategias de las grandes ciudades y a su crecimiento poblacional. Lo rural, dentro de la planificaci\u00f3n territorial, ha cobrado sentido seg\u00fan la funcionalidad hacia la urbe y siempre relacionada con actividades espec\u00edficamente agrarias. Es as\u00ed que este estudio aporta e invita a hacer una lectura de los territorios con din\u00e1micas locales y rurales, a partir del entendimiento de realidades micro-regionales, que llevan impl\u00edcitas relaciones, coincidencias, contradicciones y problemas a nivel de su dimensi\u00f3n espacial (interna y externa). Aportes y problemas, \u00e9stos, que generan importantes transformaciones en el territorio y contextos que promueven mecanismos de inclusi\u00f3n y rechazo."
+            ], 
+            "url": [
+                "http://hdl.handle.net/10469/7591"
+            ], 
+            "title_full_unstemmed": "La centralidad rural de la microregi\u00f3n del noroccidente del Distrito Metropolitano de Quito: modelos de desarrollo, procesos e influencias en las din\u00e1micas sociales y econ\u00f3micas territoriales. Caso parroquia de Gualea.", 
+            "id": "EC_831bb78d3f1fc0c446446e7ab905f99b", 
+            "status_str": "publishedVersion", 
+            "reponame_str": "Repositorio FLACSO", 
+            "author": [
+                "Massa Manzanillas, Diana Cristina"
+            ], 
+            "identifier_str_mv": [
+                "Massa Manzanillas, Diana Cristina. 2014. La centralidad rural de la microregi\u00f3n del noroccidente del Distrito Metropolitano de Quito: modelos de desarrollo, procesos e influencias en las din\u00e1micas sociales y econ\u00f3micas territoriales. Caso parroquia de Gualea. Tesis de maestr\u00eda, Flacso Ecuador."
+            ], 
+            "instname_str": "FLACSO", 
+            "spellingShingle": [
+                "La centralidad rural de la microregi\u00f3n del noroccidente del Distrito Metropolitano de Quito: modelos de desarrollo, procesos e influencias en las din\u00e1micas sociales y econ\u00f3micas territoriales. Caso parroquia de Gualea.", 
+                "Massa Manzanillas, Diana Cristina", 
+                "ZONA RURAL", 
+                "MODELO DE DESARROLLO", 
+                "GUALEA (PARROQUIA : ECUADOR)", 
+                "TENENCIA DE LA TIERRA", 
+                "TURISMO", 
+                "MINER\u00cdA", 
+                "ABASTECIMIENTO DE AGUA", 
+                "AGRICULTURA DE SUBSISTENCIA", 
+                "AGROINDUSTRIA", 
+                "GANADER\u00cdA", 
+                "PISCICULTURA", 
+                "COMERCIALIZACI\u00d3N", 
+                "DISTRITO METROPOLITANO DE QUITO (ECUADOR)", 
+                "DESARROLLO RURAL"
+            ], 
+            "score": 1254.2672, 
+            "_version_": 1607632037560188928, 
+            "dc.publisher.none.fl_str_mv": [
+                "Quito, Ecuador : Flacso Ecuador"
+            ], 
+            "dc.type.none.fl_str_mv": [
+                "info:eu-repo/semantics/masterThesis", 
+                "info:eu-repo/semantics/publishedVersion"
+            ], 
+            "repository.name.fl_str_mv": [
+                "\n\t\t\t-\n\t\t\t"
+            ], 
+            "description": "Es evidente que a nivel de la historia, ha estado presente la dificultad de comprender el mundo rural; ligado esto, siempre a miradas de desarrollo que se plantean a nivel de regi\u00f3n, asociadas a las estrategias de las grandes ciudades y a su crecimiento poblacional. Lo rural, dentro de la planificaci\u00f3n territorial, ha cobrado sentido seg\u00fan la funcionalidad hacia la urbe y siempre relacionada con actividades espec\u00edficamente agrarias. Es as\u00ed que este estudio aporta e invita a hacer una lectura de los territorios con din\u00e1micas locales y rurales, a partir del entendimiento de realidades micro-regionales, que llevan impl\u00edcitas relaciones, coincidencias, contradicciones y problemas a nivel de su dimensi\u00f3n espacial (interna y externa). Aportes y problemas, \u00e9stos, que generan importantes transformaciones en el territorio y contextos que promueven mecanismos de inclusi\u00f3n y rechazo.", 
+            "format": [
+                "masterThesis"
+            ], 
+            "network_name_str": "Ecuador", 
+            "publishDate": [
+                "2014"
+            ], 
+            "network_acronym_str": "EC", 
+            "dc.format.none.fl_str_mv": [
+                "157 p."
+            ], 
+            "eu_rights_str_mv": [
+                "openAccess"
+            ], 
+            "collection": [
+                "Repositorio FLACSO"
+            ], 
+            "oai_identifier_str": "oai:localhost:10469/7591", 
+            "dc.source.none.fl_str_mv": [
+                "reponame:Repositorio FLACSO", 
+                "instname:FLACSO"
+            ], 
+            "dc.language.none.fl_str_mv": [
+                "spa"
+            ], 
+            "dc.title.none.fl_str_mv": [
+                "La centralidad rural de la microregi\u00f3n del noroccidente del Distrito Metropolitano de Quito: modelos de desarrollo, procesos e influencias en las din\u00e1micas sociales y econ\u00f3micas territoriales. Caso parroquia de Gualea."
+            ], 
+            "dc.identifier.none.fl_str_mv": [
+                "Massa Manzanillas, Diana Cristina. 2014. La centralidad rural de la microregi\u00f3n del noroccidente del Distrito Metropolitano de Quito: modelos de desarrollo, procesos e influencias en las din\u00e1micas sociales y econ\u00f3micas territoriales. Caso parroquia de Gualea. Tesis de maestr\u00eda, Flacso Ecuador.", 
+                "http://hdl.handle.net/10469/7591"
+            ], 
+            "title_short": "La centralidad rural de la microregi\u00f3n del noroccidente del Distrito Metropolitano de Quito: modelos de desarrollo, procesos e influencias en las din\u00e1micas sociales y econ\u00f3micas territoriales. Caso parroquia de Gualea.", 
+            "language": [
+                "spa"
+            ], 
+            "dc.subject.none.fl_str_mv": [
+                "ZONA RURAL", 
+                "MODELO DE DESARROLLO", 
+                "GUALEA (PARROQUIA : ECUADOR)", 
+                "TENENCIA DE LA TIERRA", 
+                "TURISMO", 
+                "MINER\u00cdA", 
+                "ABASTECIMIENTO DE AGUA", 
+                "AGRICULTURA DE SUBSISTENCIA", 
+                "AGROINDUSTRIA", 
+                "GANADER\u00cdA", 
+                "PISCICULTURA", 
+                "COMERCIALIZACI\u00d3N", 
+                "DISTRITO METROPOLITANO DE QUITO (ECUADOR)", 
+                "DESARROLLO RURAL"
+            ], 
+            "title": "La centralidad rural de la microregi\u00f3n del noroccidente del Distrito Metropolitano de Quito: modelos de desarrollo, procesos e influencias en las din\u00e1micas sociales y econ\u00f3micas territoriales. Caso parroquia de Gualea.", 
+            "dc.rights.none.fl_str_mv": [
+                "info:eu-repo/semantics/openAccess"
+            ], 
+            "title_full": "La centralidad rural de la microregi\u00f3n del noroccidente del Distrito Metropolitano de Quito: modelos de desarrollo, procesos e influencias en las din\u00e1micas sociales y econ\u00f3micas territoriales. Caso parroquia de Gualea.", 
+            "repository.mail.fl_str_mv": [
+                "mail@mail.com"
+            ], 
+            "dc.contributor.none.fl_str_mv": [
+                "L\u00f3pez Oropeza, Mauricio (Dir.)"
+            ], 
+            "author_facet": [
+                "Massa Manzanillas, Diana Cristina"
+            ], 
+            "title_fullStr": "La centralidad rural de la microregi\u00f3n del noroccidente del Distrito Metropolitano de Quito: modelos de desarrollo, procesos e influencias en las din\u00e1micas sociales y econ\u00f3micas territoriales. Caso parroquia de Gualea."
+        }, 
+        "urls": [
+            {
+                "url": "http://hdl.handle.net/10469/7591", 
+                "desc": "http://hdl.handle.net/10469/7591"
+            }
+        ], 
+        "formats": [
+            "masterThesis"
+        ], 
+        "id": "EC_831bb78d3f1fc0c446446e7ab905f99b"
+    }, 
+    {
+        "primaryAuthors": [
+            "Ordo\u00f1ez Cobos, Diana Paola"
+        ], 
+        "title": "Social representation of mining activity in the high mountain ecosystem \"P\u00e1ramo de Santurb\u00e1n\" (Santader, Colombia)", 
+        "publicationDates": [
+            "2013"
+        ], 
+        "summary": [
+            "El Pa\u0301ramo de Santurba\u0301n (PS) es un ecosistema de alta montan\u0303a localizado en el departamento de Santander, Colombia. Cuenta con dos caracteri\u0301sticas fundamentales: regula el ciclo hidrolo\u0301gico, suministrando agua a una poblacio\u0301n estimada de 1.7 millones de habitantes de 21 municipios incluyendo dos grandes ciudades; y posee vastos depo\u0301sitos de minerales y metales preciosos como el oro y la plata, lo cual explica la presencia de mineri\u0301a tradicional a pequen\u0303a escala y multinacionales mineras. Esto genera una situacio\u0301n de tensio\u0301n y conflicto entre varios actores sociales. Asi\u0301, el objetivo de la presente investigacio\u0301n cualitativa es el ana\u0301lisis de las representaciones sociales (RS), es decir de los elementos cognitivos y las posturas asumidas por los actores involucrados en la mineri\u0301a en el PS (li\u0301deres de opinio\u0301n, compan\u0303i\u0301as mineras, mineros tradicionales y comunidad californiana y las autoridades ambientales) y contribuir asi\u0301 a un mejor entendimiento entre ellos sobre su situacio\u0301n. La seleccio\u0301n de la muestra se hizo a trave\u0301s de revisio\u0301n documental y de las herramientas denominadas de juicio y bola de nieve. Se realizaron 21 entrevistas a profundidad, cuya informacio\u0301n se sistematizo\u0301 con ayuda de una adaptacio\u0301n de la Teori\u0301a Fundamentada y el software de ana\u0301lisis cualitativo Atlas Ti. El correspondiente ana\u0301lisis tuvo dos etapas, complementadas todo el tiempo con la Teori\u0301a de las Representaciones Sociales y la Construccio\u0301n Social de la Realidad; la primera de ellas explica el contenido y la estructura de las RS y la segunda las define en te\u0301rminos de sus tres dimensiones: la informacio\u0301n, el campo de la representacio\u0301n y la actitud. El estudio concluye con una comparacio\u0301n entre los elementos del nu\u0301cleo central de las RS de los actores involucrados, en donde se pudo observar un alto grado de conocimiento cienti\u0301fico re- significado. Asi\u0301 mismo, la organizacio\u0301n jera\u0301rquica de las RS demostro\u0301 el lugar privilegiado que ocupa el elemento agua y la variedad de sus significados dependiendo del contexto de cada grupo. Algunos sentimientos y emociones que pudieron influir en la actitud de los grupos hacia la mineri\u0301a en el PS son: temor, incertidumbre, desconfianza y resignacio\u0301n."
+        ], 
+        "languages": [
+            "spa"
+        ], 
+        "subjects": [
+            [
+                "teori\u0301a de las representaciones sociales"
+            ], 
+            [
+                "Colombia"
+            ], 
+            [
+                "mineri\u0301a del oro"
+            ], 
+            [
+                "ecosistemas de alta montan\u0303a"
+            ], 
+            [
+                "Pa\u0301ramo de Santurba\u0301n"
+            ], 
+            [
+                "agua"
+            ], 
+            [
+                "partes involucradas"
+            ], 
+            [
+                "Santander"
+            ], 
+            [
+                "1 CIENCIAS FISICO MATEMATICAS Y CIENCIAS DE LA TIERRA"
+            ]
+        ], 
+        "rawData": {
+            "dc.creator.none.fl_str_mv": [
+                "Ordo\u00f1ez Cobos, Diana Paola"
+            ], 
+            "dc.date.none.fl_str_mv": [
+                "2013-08-01"
+            ], 
+            "title_sort": "Social representation of mining activity in the high mountain ecosystem \"P\u00e1ramo de Santurb\u00e1n\" (Santader, Colombia)", 
+            "dc.relation.none.fl_str_mv": [
+                "investigadores"
+            ], 
+            "publisher.none.fl_str_mv": [
+                "Agenda Ambiental", 
+                "Universidad Aut\u00f3noma del Estado de San Luis Potos\u00ed (UASLP)"
+            ], 
+            "topic": [
+                "teori\u0301a de las representaciones sociales", 
+                "Colombia", 
+                "mineri\u0301a del oro", 
+                "ecosistemas de alta montan\u0303a", 
+                "Pa\u0301ramo de Santurba\u0301n", 
+                "agua", 
+                "partes involucradas", 
+                "Santander", 
+                "1 CIENCIAS FISICO MATEMATICAS Y CIENCIAS DE LA TIERRA"
+            ], 
+            "dc.description.none.fl_txt_mv": [
+                "El Pa\u0301ramo de Santurba\u0301n (PS) es un ecosistema de alta montan\u0303a localizado en el departamento de Santander, Colombia. Cuenta con dos caracteri\u0301sticas fundamentales: regula el ciclo hidrolo\u0301gico, suministrando agua a una poblacio\u0301n estimada de 1.7 millones de habitantes de 21 municipios incluyendo dos grandes ciudades; y posee vastos depo\u0301sitos de minerales y metales preciosos como el oro y la plata, lo cual explica la presencia de mineri\u0301a tradicional a pequen\u0303a escala y multinacionales mineras. Esto genera una situacio\u0301n de tensio\u0301n y conflicto entre varios actores sociales. Asi\u0301, el objetivo de la presente investigacio\u0301n cualitativa es el ana\u0301lisis de las representaciones sociales (RS), es decir de los elementos cognitivos y las posturas asumidas por los actores involucrados en la mineri\u0301a en el PS (li\u0301deres de opinio\u0301n, compan\u0303i\u0301as mineras, mineros tradicionales y comunidad californiana y las autoridades ambientales) y contribuir asi\u0301 a un mejor entendimiento entre ellos sobre su situacio\u0301n. La seleccio\u0301n de la muestra se hizo a trave\u0301s de revisio\u0301n documental y de las herramientas denominadas de juicio y bola de nieve. Se realizaron 21 entrevistas a profundidad, cuya informacio\u0301n se sistematizo\u0301 con ayuda de una adaptacio\u0301n de la Teori\u0301a Fundamentada y el software de ana\u0301lisis cualitativo Atlas Ti. El correspondiente ana\u0301lisis tuvo dos etapas, complementadas todo el tiempo con la Teori\u0301a de las Representaciones Sociales y la Construccio\u0301n Social de la Realidad; la primera de ellas explica el contenido y la estructura de las RS y la segunda las define en te\u0301rminos de sus tres dimensiones: la informacio\u0301n, el campo de la representacio\u0301n y la actitud. El estudio concluye con una comparacio\u0301n entre los elementos del nu\u0301cleo central de las RS de los actores involucrados, en donde se pudo observar un alto grado de conocimiento cienti\u0301fico re- significado. Asi\u0301 mismo, la organizacio\u0301n jera\u0301rquica de las RS demostro\u0301 el lugar privilegiado que ocupa el elemento agua y la variedad de sus significados dependiendo del contexto de cada grupo. Algunos sentimientos y emociones que pudieron influir en la actitud de los grupos hacia la mineri\u0301a en el PS son: temor, incertidumbre, desconfianza y resignacio\u0301n."
+            ], 
+            "url": [
+                "http://www.remeri.org.mx/portal/REMERI.jsp?id=oai:ninive.uaslp.mx:i/3601"
+            ], 
+            "title_full_unstemmed": "Social representation of mining activity in the high mountain ecosystem \"P\u00e1ramo de Santurb\u00e1n\" (Santader, Colombia)", 
+            "id": "MX_e12662a03e495d91ac9a9aeaee55c053", 
+            "status_str": "publishedVersion", 
+            "reponame_str": "Repositorio Institucional NINIVE.", 
+            "author": [
+                "Ordo\u00f1ez Cobos, Diana Paola"
+            ], 
+            "identifier_str_mv": [
+                "instname:Universidad Aut\u00f3noma del Estado de San Luis Potos\u00ed", 
+                "instname:UASLP", 
+                "reponame:Repositorio Institucional NINIVE.", 
+                "repourl:http://ninive.uaslp.mx/"
+            ], 
+            "instname_str": "Universidad Aut\u00f3noma del Estado de San Luis Potos\u00ed", 
+            "spellingShingle": [
+                "Social representation of mining activity in the high mountain ecosystem \"P\u00e1ramo de Santurb\u00e1n\" (Santader, Colombia)", 
+                "Ordo\u00f1ez Cobos, Diana Paola", 
+                "teori\u0301a de las representaciones sociales", 
+                "Colombia", 
+                "mineri\u0301a del oro", 
+                "ecosistemas de alta montan\u0303a", 
+                "Pa\u0301ramo de Santurba\u0301n", 
+                "agua", 
+                "partes involucradas", 
+                "Santander", 
+                "1 CIENCIAS FISICO MATEMATICAS Y CIENCIAS DE LA TIERRA"
+            ], 
+            "score": 1254.2672, 
+            "_version_": 1607632434601394176, 
+            "dc.publisher.none.fl_str_mv": [
+                "Agenda Ambiental", 
+                "Universidad Aut\u00f3noma del Estado de San Luis Potos\u00ed (UASLP)"
+            ], 
+            "dc.type.none.fl_str_mv": [
+                "info:eu-repo/semantics/masterThesis", 
+                "info:eu-repo/semantics/publishedVersion", 
+                "Tesis de Maestria"
+            ], 
+            "repository.name.fl_str_mv": [
+                "\n\t\t\t-\n\t\t\t"
+            ], 
+            "description": "El Pa\u0301ramo de Santurba\u0301n (PS) es un ecosistema de alta montan\u0303a localizado en el departamento de Santander, Colombia. Cuenta con dos caracteri\u0301sticas fundamentales: regula el ciclo hidrolo\u0301gico, suministrando agua a una poblacio\u0301n estimada de 1.7 millones de habitantes de 21 municipios incluyendo dos grandes ciudades; y posee vastos depo\u0301sitos de minerales y metales preciosos como el oro y la plata, lo cual explica la presencia de mineri\u0301a tradicional a pequen\u0303a escala y multinacionales mineras. Esto genera una situacio\u0301n de tensio\u0301n y conflicto entre varios actores sociales. Asi\u0301, el objetivo de la presente investigacio\u0301n cualitativa es el ana\u0301lisis de las representaciones sociales (RS), es decir de los elementos cognitivos y las posturas asumidas por los actores involucrados en la mineri\u0301a en el PS (li\u0301deres de opinio\u0301n, compan\u0303i\u0301as mineras, mineros tradicionales y comunidad californiana y las autoridades ambientales) y contribuir asi\u0301 a un mejor entendimiento entre ellos sobre su situacio\u0301n. La seleccio\u0301n de la muestra se hizo a trave\u0301s de revisio\u0301n documental y de las herramientas denominadas de juicio y bola de nieve. Se realizaron 21 entrevistas a profundidad, cuya informacio\u0301n se sistematizo\u0301 con ayuda de una adaptacio\u0301n de la Teori\u0301a Fundamentada y el software de ana\u0301lisis cualitativo Atlas Ti. El correspondiente ana\u0301lisis tuvo dos etapas, complementadas todo el tiempo con la Teori\u0301a de las Representaciones Sociales y la Construccio\u0301n Social de la Realidad; la primera de ellas explica el contenido y la estructura de las RS y la segunda las define en te\u0301rminos de sus tres dimensiones: la informacio\u0301n, el campo de la representacio\u0301n y la actitud. El estudio concluye con una comparacio\u0301n entre los elementos del nu\u0301cleo central de las RS de los actores involucrados, en donde se pudo observar un alto grado de conocimiento cienti\u0301fico re- significado. Asi\u0301 mismo, la organizacio\u0301n jera\u0301rquica de las RS demostro\u0301 el lugar privilegiado que ocupa el elemento agua y la variedad de sus significados dependiendo del contexto de cada grupo. Algunos sentimientos y emociones que pudieron influir en la actitud de los grupos hacia la mineri\u0301a en el PS son: temor, incertidumbre, desconfianza y resignacio\u0301n.", 
+            "format": [
+                "masterThesis"
+            ], 
+            "network_name_str": "M\u00e9xico", 
+            "publishDate": [
+                "2013"
+            ], 
+            "network_acronym_str": "MX", 
+            "dc.format.none.fl_str_mv": [
+                "application/pdf"
+            ], 
+            "eu_rights_str_mv": [
+                "openAccess"
+            ], 
+            "collection": [
+                "Repositorio Institucional NINIVE."
+            ], 
+            "language_invalid_str_mv": [
+                "en"
+            ], 
+            "oai_identifier_str": "oai:ninive.uaslp.mx:i/3601", 
+            "rights_invalid_str_mv": [
+                "Acceso Abierto"
+            ], 
+            "dc.source.none.fl_str_mv": [
+                "instname:Universidad Aut\u00f3noma del Estado de San Luis Potos\u00ed", 
+                "reponame:Repositorio Institucional NINIVE."
+            ], 
+            "dc.language.none.fl_str_mv": [
+                "en", 
+                "spa"
+            ], 
+            "dc.title.none.fl_str_mv": [
+                "Social representation of mining activity in the high mountain ecosystem \"P\u00e1ramo de Santurb\u00e1n\" (Santader, Colombia)"
+            ], 
+            "dc.identifier.none.fl_str_mv": [
+                "instname:Universidad Aut\u00f3noma del Estado de San Luis Potos\u00ed", 
+                "instname:UASLP", 
+                "reponame:Repositorio Institucional NINIVE.", 
+                "repourl:http://ninive.uaslp.mx/", 
+                "http://www.remeri.org.mx/portal/REMERI.jsp?id=oai:ninive.uaslp.mx:i/3601"
+            ], 
+            "title_short": "Social representation of mining activity in the high mountain ecosystem \"P\u00e1ramo de Santurb\u00e1n\" (Santader, Colombia)", 
+            "language": [
+                "spa"
+            ], 
+            "dc.subject.none.fl_str_mv": [
+                "teori\u0301a de las representaciones sociales", 
+                "Colombia", 
+                "mineri\u0301a del oro", 
+                "ecosistemas de alta montan\u0303a", 
+                "Pa\u0301ramo de Santurba\u0301n", 
+                "agua", 
+                "partes involucradas", 
+                "Santander", 
+                "1 CIENCIAS FISICO MATEMATICAS Y CIENCIAS DE LA TIERRA"
+            ], 
+            "title": "Social representation of mining activity in the high mountain ecosystem \"P\u00e1ramo de Santurb\u00e1n\" (Santader, Colombia)", 
+            "dc.rights.none.fl_str_mv": [
+                "Acceso Abierto", 
+                "info:eu-repo/semantics/openAccess"
+            ], 
+            "title_full": "Social representation of mining activity in the high mountain ecosystem \"P\u00e1ramo de Santurb\u00e1n\" (Santader, Colombia)", 
+            "repository.mail.fl_str_mv": [
+                "mail@mail.com"
+            ], 
+            "author_facet": [
+                "Ordo\u00f1ez Cobos, Diana Paola"
+            ], 
+            "title_fullStr": "Social representation of mining activity in the high mountain ecosystem \"P\u00e1ramo de Santurb\u00e1n\" (Santader, Colombia)"
+        }, 
+        "urls": [
+            {
+                "url": "http://www.remeri.org.mx/portal/REMERI.jsp?id=oai:ninive.uaslp.mx:i/3601", 
+                "desc": "http://www.remeri.org.mx/portal/REMERI.jsp?id=oai:ninive.uaslp.mx:i/3601"
+            }
+        ], 
+        "formats": [
+            "masterThesis"
+        ], 
+        "id": "MX_e12662a03e495d91ac9a9aeaee55c053"
+    }, 
+    {
+        "primaryAuthors": [
+            "Burneo, Mar\u00eda Luisa"
+        ], 
+        "secondaryAuthors": [
+            "Chaparro Ortiz de Zevallos, Anah\u00ed"
+        ], 
+        "title": "Power, peasant communities and mining industry: community government and access to resources in Michiquillay\u2019s case", 
+        "publicationDates": [
+            "2012"
+        ], 
+        "summary": [
+            "This paper analyzes changes in community governance in the contextof negotiations with a mining company. We focus on three issues:the role played by the community government on the regulation ofcommunity resources and territory, the diverse and complex intereststhat emerge in the presence of mining activity; and, the communityas a political institution confronting external pressures over its land.We develop a study case focusing on the negotiation process betweenthe Michiquillay peasant community and Anglo American MiningCompany in Cajamarca, Peru. This information was obtained doingfieldwork in the community in 2009. In our analysis we observe thatchanges on community resources regulation, its uses and valorization,as well as changes on the balance of power between economicand political actors, have created a greater level of complexity in thecommunity, creating new levels of community decision and spaces fordisputing resources\u2019 control. At the same time, new inter communalconflicts emerge and fragmentation of community lands increases.In this context the community as an institution plays a central rolein the negotiation process over access productive resource and thedistribution of financial capital."
+        ], 
+        "languages": [
+            "spa"
+        ], 
+        "subjects": [
+            [
+                "Antropolog\u00eda"
+            ], 
+            [
+                "Peasant communities; Community governance; Land; Mining; Social conflicts; Consultation; Negotiation."
+            ], 
+            [
+                "Comunidades campesinas; Gobierno comunal; Tierras; Miner\u00eda; Conflictos sociales; Consulta; Negociaci\u00f3n."
+            ]
+        ], 
+        "rawData": {
+            "dc.creator.none.fl_str_mv": [
+                "Burneo, Mar\u00eda Luisa", 
+                "Chaparro Ortiz de Zevallos, Anah\u00ed"
+            ], 
+            "dc.date.none.fl_str_mv": [
+                "2012-03-26"
+            ], 
+            "title_sort": "Power, peasant communities and mining industry: community government and access to resources in Michiquillay\u2019s case", 
+            "dc.relation.none.fl_str_mv": [
+                "http://revistas.pucp.edu.pe/index.php/anthropologica/article/view/1373/1326"
+            ], 
+            "publisher.none.fl_str_mv": [
+                "Pontificia Universidad Cat\u00f3lica del Per\u00fa"
+            ], 
+            "topic": [
+                "Antropolog\u00eda", 
+                "Peasant communities; Community governance; Land; Mining; Social conflicts; Consultation; Negotiation.", 
+                "Comunidades campesinas; Gobierno comunal; Tierras; Miner\u00eda; Conflictos sociales; Consulta; Negociaci\u00f3n."
+            ], 
+            "dc.description.none.fl_txt_mv": [
+                "This paper analyzes changes in community governance in the contextof negotiations with a mining company. We focus on three issues:the role played by the community government on the regulation ofcommunity resources and territory, the diverse and complex intereststhat emerge in the presence of mining activity; and, the communityas a political institution confronting external pressures over its land.We develop a study case focusing on the negotiation process betweenthe Michiquillay peasant community and Anglo American MiningCompany in Cajamarca, Peru. This information was obtained doingfieldwork in the community in 2009. In our analysis we observe thatchanges on community resources regulation, its uses and valorization,as well as changes on the balance of power between economicand political actors, have created a greater level of complexity in thecommunity, creating new levels of community decision and spaces fordisputing resources\u2019 control. At the same time, new inter communalconflicts emerge and fragmentation of community lands increases.In this context the community as an institution plays a central rolein the negotiation process over access productive resource and thedistribution of financial capital.", 
+                "Este art\u00edculo analiza los cambios en el gobierno comunal en contextosde negociaci\u00f3n minera. Nos centramos en tres temas: el roldel gobierno comunal en la regulaci\u00f3n de los recursos comunalesy del territorio; la diversidad de intereses que surgen ante la presenciaminera, y la comunidad como instituci\u00f3n pol\u00edtica frente a lapresi\u00f3n externa sobre la tierra. Para ello, partimos de un estudiode caso: el proceso de negociaci\u00f3n entre la comunidad campesinade Michiquillay y la empresa Anglo American, en Cajamarca, querealizamos a partir de un trabajo de campo en la comunidad. Delan\u00e1lisis se desprende que las transformaciones en la regulaci\u00f3n delos recursos comunales, sus usos y su valoraci\u00f3n, as\u00ed como el cambioen el peso de los actores econ\u00f3micos y pol\u00edticos, han complejizadolas relaciones al interior de la comunidad y han creado nuevosniveles de toma de decisi\u00f3n y espacios de disputa por el controlde recursos. Al mismo tiempo que surgen nuevos conflictos intracomunalesy aumenta la fragmentaci\u00f3n territorial, la comunidad\u00a0como instituci\u00f3n est\u00e1 jugando un rol central en la negociaci\u00f3n yasumiendo nuevas funciones: ahora, el gobierno comunal no regulasolo el acceso a recursos productivos, sino tambi\u00e9n la distribuci\u00f3ndel capital financiero."
+            ], 
+            "url": [
+                "http://revistas.pucp.edu.pe/index.php/anthropologica/article/view/1373"
+            ], 
+            "author2": [
+                "Chaparro Ortiz de Zevallos, Anah\u00ed"
+            ], 
+            "title_full_unstemmed": "Power, peasant communities and mining industry: community government and access to resources in Michiquillay\u2019s case", 
+            "id": "PE_ad672795e08838388a640a776db6c69b", 
+            "status_str": "publishedVersion", 
+            "reponame_str": "PUCP-Revistas", 
+            "author": [
+                "Burneo, Mar\u00eda Luisa"
+            ], 
+            "instname_str": "Pontificia Universidad Cat\u00f3lica del Per\u00fa", 
+            "spellingShingle": [
+                "Power, peasant communities and mining industry: community government and access to resources in Michiquillay\u2019s case", 
+                "Burneo, Mar\u00eda Luisa", 
+                "Antropolog\u00eda", 
+                "Peasant communities; Community governance; Land; Mining; Social conflicts; Consultation; Negotiation.", 
+                "Comunidades campesinas; Gobierno comunal; Tierras; Miner\u00eda; Conflictos sociales; Consulta; Negociaci\u00f3n."
+            ], 
+            "score": 1048.0546, 
+            "_version_": 1612509762099871744, 
+            "dc.publisher.none.fl_str_mv": [
+                "Pontificia Universidad Cat\u00f3lica del Per\u00fa"
+            ], 
+            "dc.type.none.fl_str_mv": [
+                "info:eu-repo/semantics/article", 
+                "info:eu-repo/semantics/publishedVersion"
+            ], 
+            "repository.name.fl_str_mv": [
+                "\n\t\t\t-\n\t\t\t"
+            ], 
+            "description": "This paper analyzes changes in community governance in the contextof negotiations with a mining company. We focus on three issues:the role played by the community government on the regulation ofcommunity resources and territory, the diverse and complex intereststhat emerge in the presence of mining activity; and, the communityas a political institution confronting external pressures over its land.We develop a study case focusing on the negotiation process betweenthe Michiquillay peasant community and Anglo American MiningCompany in Cajamarca, Peru. This information was obtained doingfieldwork in the community in 2009. In our analysis we observe thatchanges on community resources regulation, its uses and valorization,as well as changes on the balance of power between economicand political actors, have created a greater level of complexity in thecommunity, creating new levels of community decision and spaces fordisputing resources\u2019 control. At the same time, new inter communalconflicts emerge and fragmentation of community lands increases.In this context the community as an institution plays a central rolein the negotiation process over access productive resource and thedistribution of financial capital.", 
+            "institution": [
+                "PUCP"
+            ], 
+            "format": [
+                "article"
+            ], 
+            "network_name_str": "Per\u00fa", 
+            "publishDate": [
+                "2012"
+            ], 
+            "network_acronym_str": "PE", 
+            "dc.format.none.fl_str_mv": [
+                "application/pdf"
+            ], 
+            "eu_rights_str_mv": [
+                "openAccess"
+            ], 
+            "collection": [
+                "PUCP-Revistas"
+            ], 
+            "instacron_str": "PUCP", 
+            "oai_identifier_str": "oai:revistaspuc:article/1373", 
+            "rights_invalid_str_mv": [
+                "Copyright (c) 2016 Anthropologica", 
+                "http://creativecommons.org/licenses/by/4.0"
+            ], 
+            "dc.source.none.fl_str_mv": [
+                "Anthropologica del Departamento de Ciencias Sociales; Vol. 28, N\u00fam. 28 (2010): Suplemento 1; 85-110", 
+                "0254-9212", 
+                "reponame:PUCP-Revistas", 
+                "instname:Pontificia Universidad Cat\u00f3lica del Per\u00fa", 
+                "instacron:PUCP"
+            ], 
+            "dc.language.none.fl_str_mv": [
+                "spa"
+            ], 
+            "dc.title.none.fl_str_mv": [
+                "Power, peasant communities and mining industry: community government and access to resources in Michiquillay\u2019s case", 
+                "Poder, comunidades campesinas e industria minera: el gobierno comunal y el acceso a los recursos en el caso de Michiquillay*"
+            ], 
+            "dc.identifier.none.fl_str_mv": [
+                "http://revistas.pucp.edu.pe/index.php/anthropologica/article/view/1373"
+            ], 
+            "title_short": "Power, peasant communities and mining industry: community government and access to resources in Michiquillay\u2019s case", 
+            "language": [
+                "spa"
+            ], 
+            "dc.subject.none.fl_str_mv": [
+                "Antropolog\u00eda", 
+                "Peasant communities; Community governance; Land; Mining; Social conflicts; Consultation; Negotiation.", 
+                "Comunidades campesinas; Gobierno comunal; Tierras; Miner\u00eda; Conflictos sociales; Consulta; Negociaci\u00f3n."
+            ], 
+            "title": "Power, peasant communities and mining industry: community government and access to resources in Michiquillay\u2019s case", 
+            "dc.rights.none.fl_str_mv": [
+                "Copyright (c) 2016 Anthropologica", 
+                "http://creativecommons.org/licenses/by/4.0", 
+                "info:eu-repo/semantics/openAccess"
+            ], 
+            "title_full": "Power, peasant communities and mining industry: community government and access to resources in Michiquillay\u2019s case", 
+            "repository.mail.fl_str_mv": [
+                "mail@mail.com"
+            ], 
+            "author_facet": [
+                "Burneo, Mar\u00eda Luisa", 
+                "Chaparro Ortiz de Zevallos, Anah\u00ed"
+            ], 
+            "title_fullStr": "Power, peasant communities and mining industry: community government and access to resources in Michiquillay\u2019s case"
+        }, 
+        "urls": [
+            {
+                "url": "http://revistas.pucp.edu.pe/index.php/anthropologica/article/view/1373", 
+                "desc": "http://revistas.pucp.edu.pe/index.php/anthropologica/article/view/1373"
+            }
+        ], 
+        "formats": [
+            "article"
+        ], 
+        "id": "PE_ad672795e08838388a640a776db6c69b"
+    }, 
+    {
+        "primaryAuthors": [
+            "L\u00f3pez Fabra, Lina Marcela"
+        ], 
+        "title": "Los albores de la miner\u00eda a gran escala en Ecuador: los primeros impactos sociales en el territorio de comunidades campesinas y Shuar en Tundayme, Zamora Chinchipe.", 
+        "publicationDates": [
+            "2014"
+        ], 
+        "summary": [
+            "El presente estudio es una reflexi\u00f3n en torno a los primeros impactos sociales de la instauraci\u00f3n del proyecto mega minero en su fase de exploraci\u00f3n en la parroquia amaz\u00f3nica de Tundayme, en el que sus pobladores vivencian distintos conflictos locales a ra\u00edz de la presi\u00f3n extractiva. Se analizan los v\u00ednculos territoriales de comunidades campesinas que a ra\u00edz de las leyes de reforma agraria se trasladan a los territorios amaz\u00f3nicos y que en la actualidad se enfrentan al incumplimiento de la normativa ambiental por parte de la compa\u00f1\u00eda ECUACORRIENTE S.A. y del Estado ecuatoriano, en un proceso ilegal de venta de tierras. Las distintas presiones sobre el territorio y sus habitantes ha generado escenarios de disputas entre vecinos y familiares, en los que se atenta contra la dignidad, los derechos y el bienestar de la comunidad. De la misma manera, se ha creado una geograf\u00eda desigual de beneficios y desechos, que con el tiempo pueden configurar complejas formas de violencia simb\u00f3lica y directa."
+        ], 
+        "languages": [
+            "spa"
+        ], 
+        "subjects": [
+            [
+                "MINER\u00cdA"
+            ], 
+            [
+                "ECUADOR"
+            ], 
+            [
+                "EFECTOS DE LAS ACTIVIDADES HUMANAS"
+            ], 
+            [
+                "EVALUACI\u00d3N DEL IMPACTO AMBIENTAL"
+            ], 
+            [
+                "COMUNIDADES CAMPESINAS"
+            ], 
+            [
+                "SHUAR (NACIONALIDAD)"
+            ], 
+            [
+                "ECOLOG\u00cdA"
+            ], 
+            [
+                "VIOLENCIA"
+            ], 
+            [
+                "TUNDAYME (PARROQUIA : ECUADOR)"
+            ], 
+            [
+                "ZAMORA CHINCHIPE (PROVINCIA : ECUADOR)"
+            ], 
+            [
+                "PROYECTOS MIRADOR"
+            ], 
+            [
+                "CORDILLERA EL C\u00d3NDOR (ECUADOR)"
+            ], 
+            [
+                "USO DE LA TIERRA"
+            ], 
+            [
+                "DETERIORO AMBIENTAL"
+            ], 
+            [
+                "POL\u00cdTICA AMBIENTAL"
+            ]
+        ], 
+        "rawData": {
+            "dc.creator.none.fl_str_mv": [
+                "L\u00f3pez Fabra, Lina Marcela"
+            ], 
+            "dc.date.none.fl_str_mv": [
+                "2014-12", 
+                "2015-08-18T19:18:04Z", 
+                "2015-08-18T19:18:04Z"
+            ], 
+            "title_sort": "Los albores de la miner\u00eda a gran escala en Ecuador: los primeros impactos sociales en el territorio de comunidades campesinas y Shuar en Tundayme, Zamora Chinchipe.", 
+            "publisher.none.fl_str_mv": [
+                "Quito, Ecuador : Flacso Ecuador"
+            ], 
+            "topic": [
+                "MINER\u00cdA", 
+                "ECUADOR", 
+                "EFECTOS DE LAS ACTIVIDADES HUMANAS", 
+                "EVALUACI\u00d3N DEL IMPACTO AMBIENTAL", 
+                "COMUNIDADES CAMPESINAS", 
+                "SHUAR (NACIONALIDAD)", 
+                "ECOLOG\u00cdA", 
+                "VIOLENCIA", 
+                "TUNDAYME (PARROQUIA : ECUADOR)", 
+                "ZAMORA CHINCHIPE (PROVINCIA : ECUADOR)", 
+                "PROYECTOS MIRADOR", 
+                "CORDILLERA EL C\u00d3NDOR (ECUADOR)", 
+                "USO DE LA TIERRA", 
+                "DETERIORO AMBIENTAL", 
+                "POL\u00cdTICA AMBIENTAL"
+            ], 
+            "dc.description.none.fl_txt_mv": [
+                "El presente estudio es una reflexi\u00f3n en torno a los primeros impactos sociales de la instauraci\u00f3n del proyecto mega minero en su fase de exploraci\u00f3n en la parroquia amaz\u00f3nica de Tundayme, en el que sus pobladores vivencian distintos conflictos locales a ra\u00edz de la presi\u00f3n extractiva. Se analizan los v\u00ednculos territoriales de comunidades campesinas que a ra\u00edz de las leyes de reforma agraria se trasladan a los territorios amaz\u00f3nicos y que en la actualidad se enfrentan al incumplimiento de la normativa ambiental por parte de la compa\u00f1\u00eda ECUACORRIENTE S.A. y del Estado ecuatoriano, en un proceso ilegal de venta de tierras. Las distintas presiones sobre el territorio y sus habitantes ha generado escenarios de disputas entre vecinos y familiares, en los que se atenta contra la dignidad, los derechos y el bienestar de la comunidad. De la misma manera, se ha creado una geograf\u00eda desigual de beneficios y desechos, que con el tiempo pueden configurar complejas formas de violencia simb\u00f3lica y directa."
+            ], 
+            "url": [
+                "http://hdl.handle.net/10469/7556"
+            ], 
+            "title_full_unstemmed": "Los albores de la miner\u00eda a gran escala en Ecuador: los primeros impactos sociales en el territorio de comunidades campesinas y Shuar en Tundayme, Zamora Chinchipe.", 
+            "id": "EC_f1c7e003727aaacb4d637e568f8711ee", 
+            "status_str": "publishedVersion", 
+            "reponame_str": "Repositorio FLACSO", 
+            "author": [
+                "L\u00f3pez Fabra, Lina Marcela"
+            ], 
+            "identifier_str_mv": [
+                "L\u00f3pez Fabara, Lina Marcela. 2014. Los albores de la miner\u00eda a gran escala en Ecuador: los primeros impactos sociales en el territorio de comunidades campesinas y Shuar en Tundayme, Zamora Chinchipe. Tesis de maestr\u00eda, Flacso Ecuador."
+            ], 
+            "instname_str": "FLACSO", 
+            "spellingShingle": [
+                "Los albores de la miner\u00eda a gran escala en Ecuador: los primeros impactos sociales en el territorio de comunidades campesinas y Shuar en Tundayme, Zamora Chinchipe.", 
+                "L\u00f3pez Fabra, Lina Marcela", 
+                "MINER\u00cdA", 
+                "ECUADOR", 
+                "EFECTOS DE LAS ACTIVIDADES HUMANAS", 
+                "EVALUACI\u00d3N DEL IMPACTO AMBIENTAL", 
+                "COMUNIDADES CAMPESINAS", 
+                "SHUAR (NACIONALIDAD)", 
+                "ECOLOG\u00cdA", 
+                "VIOLENCIA", 
+                "TUNDAYME (PARROQUIA : ECUADOR)", 
+                "ZAMORA CHINCHIPE (PROVINCIA : ECUADOR)", 
+                "PROYECTOS MIRADOR", 
+                "CORDILLERA EL C\u00d3NDOR (ECUADOR)", 
+                "USO DE LA TIERRA", 
+                "DETERIORO AMBIENTAL", 
+                "POL\u00cdTICA AMBIENTAL"
+            ], 
+            "score": 982.52454, 
+            "_version_": 1607632037549703168, 
+            "dc.publisher.none.fl_str_mv": [
+                "Quito, Ecuador : Flacso Ecuador"
+            ], 
+            "dc.type.none.fl_str_mv": [
+                "info:eu-repo/semantics/masterThesis", 
+                "info:eu-repo/semantics/publishedVersion"
+            ], 
+            "repository.name.fl_str_mv": [
+                "\n\t\t\t-\n\t\t\t"
+            ], 
+            "description": "El presente estudio es una reflexi\u00f3n en torno a los primeros impactos sociales de la instauraci\u00f3n del proyecto mega minero en su fase de exploraci\u00f3n en la parroquia amaz\u00f3nica de Tundayme, en el que sus pobladores vivencian distintos conflictos locales a ra\u00edz de la presi\u00f3n extractiva. Se analizan los v\u00ednculos territoriales de comunidades campesinas que a ra\u00edz de las leyes de reforma agraria se trasladan a los territorios amaz\u00f3nicos y que en la actualidad se enfrentan al incumplimiento de la normativa ambiental por parte de la compa\u00f1\u00eda ECUACORRIENTE S.A. y del Estado ecuatoriano, en un proceso ilegal de venta de tierras. Las distintas presiones sobre el territorio y sus habitantes ha generado escenarios de disputas entre vecinos y familiares, en los que se atenta contra la dignidad, los derechos y el bienestar de la comunidad. De la misma manera, se ha creado una geograf\u00eda desigual de beneficios y desechos, que con el tiempo pueden configurar complejas formas de violencia simb\u00f3lica y directa.", 
+            "format": [
+                "masterThesis"
+            ], 
+            "network_name_str": "Ecuador", 
+            "publishDate": [
+                "2014"
+            ], 
+            "network_acronym_str": "EC", 
+            "dc.format.none.fl_str_mv": [
+                "13 p."
+            ], 
+            "eu_rights_str_mv": [
+                "openAccess"
+            ], 
+            "collection": [
+                "Repositorio FLACSO"
+            ], 
+            "oai_identifier_str": "oai:localhost:10469/7556", 
+            "dc.source.none.fl_str_mv": [
+                "reponame:Repositorio FLACSO", 
+                "instname:FLACSO"
+            ], 
+            "dc.language.none.fl_str_mv": [
+                "spa"
+            ], 
+            "dc.title.none.fl_str_mv": [
+                "Los albores de la miner\u00eda a gran escala en Ecuador: los primeros impactos sociales en el territorio de comunidades campesinas y Shuar en Tundayme, Zamora Chinchipe."
+            ], 
+            "dc.identifier.none.fl_str_mv": [
+                "L\u00f3pez Fabara, Lina Marcela. 2014. Los albores de la miner\u00eda a gran escala en Ecuador: los primeros impactos sociales en el territorio de comunidades campesinas y Shuar en Tundayme, Zamora Chinchipe. Tesis de maestr\u00eda, Flacso Ecuador.", 
+                "http://hdl.handle.net/10469/7556"
+            ], 
+            "title_short": "Los albores de la miner\u00eda a gran escala en Ecuador: los primeros impactos sociales en el territorio de comunidades campesinas y Shuar en Tundayme, Zamora Chinchipe.", 
+            "language": [
+                "spa"
+            ], 
+            "dc.subject.none.fl_str_mv": [
+                "MINER\u00cdA", 
+                "ECUADOR", 
+                "EFECTOS DE LAS ACTIVIDADES HUMANAS", 
+                "EVALUACI\u00d3N DEL IMPACTO AMBIENTAL", 
+                "COMUNIDADES CAMPESINAS", 
+                "SHUAR (NACIONALIDAD)", 
+                "ECOLOG\u00cdA", 
+                "VIOLENCIA", 
+                "TUNDAYME (PARROQUIA : ECUADOR)", 
+                "ZAMORA CHINCHIPE (PROVINCIA : ECUADOR)", 
+                "PROYECTOS MIRADOR", 
+                "CORDILLERA EL C\u00d3NDOR (ECUADOR)", 
+                "USO DE LA TIERRA", 
+                "DETERIORO AMBIENTAL", 
+                "POL\u00cdTICA AMBIENTAL"
+            ], 
+            "title": "Los albores de la miner\u00eda a gran escala en Ecuador: los primeros impactos sociales en el territorio de comunidades campesinas y Shuar en Tundayme, Zamora Chinchipe.", 
+            "dc.rights.none.fl_str_mv": [
+                "info:eu-repo/semantics/openAccess"
+            ], 
+            "title_full": "Los albores de la miner\u00eda a gran escala en Ecuador: los primeros impactos sociales en el territorio de comunidades campesinas y Shuar en Tundayme, Zamora Chinchipe.", 
+            "repository.mail.fl_str_mv": [
+                "mail@mail.com"
+            ], 
+            "dc.contributor.none.fl_str_mv": [
+                "Vallejo Real, Ivette (Dir.)"
+            ], 
+            "author_facet": [
+                "L\u00f3pez Fabra, Lina Marcela"
+            ], 
+            "title_fullStr": "Los albores de la miner\u00eda a gran escala en Ecuador: los primeros impactos sociales en el territorio de comunidades campesinas y Shuar en Tundayme, Zamora Chinchipe."
+        }, 
+        "urls": [
+            {
+                "url": "http://hdl.handle.net/10469/7556", 
+                "desc": "http://hdl.handle.net/10469/7556"
+            }
+        ], 
+        "formats": [
+            "masterThesis"
+        ], 
+        "id": "EC_f1c7e003727aaacb4d637e568f8711ee"
+    }
+]

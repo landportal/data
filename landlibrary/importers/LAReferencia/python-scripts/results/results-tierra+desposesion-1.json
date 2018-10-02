@@ -1,0 +1,533 @@
+[
+    {
+        "primaryAuthors": [
+            "Hendriks, Jan"
+        ], 
+        "secondaryAuthors": [
+            "Boelens, Rutgerd"
+        ], 
+        "title": "Accumulation of water rights in Peru", 
+        "publicationDates": [
+            "2016"
+        ], 
+        "summary": [
+            "In Latin America, water governance is facing the problem of rising demand for water resources, increased hydrological variability in a context of climate change, proliferating contamination and thus \u2014in general\u2014 increasing scarcity of water in terms of quantity, quality, and opportunity. This creates competition and conflicts among stakeholders. The issue coincides with the urgent international problem of concentration of land, which is heavily intertwined with the concentration of water in the hands of the few. Globalization and a neoliberal political climate facilitate that powerful actors accumulate water rights and volumes at the expense of less powerful water users. This paper examines some exemplary situations in Peru. It is based on literature review, reports and archival research. The paper concludes that the unfair distribution of land and water, at the expense of rural families, communities and indigenous territories, constitutes a serious threat to environmental sustainability, water security and food security."
+        ], 
+        "languages": [
+            "spa"
+        ], 
+        "subjects": [
+            [
+                "Acumulaci\u00f3n de derechos de tierra y agua; pol\u00edticas neo-liberales; desposesi\u00f3n; seguridad h\u00eddrica, Per\u00fa"
+            ], 
+            [
+                "accumulation of land and water rights; neoliberal policies; dispossession; water security; Peru"
+            ]
+        ], 
+        "rawData": {
+            "dc.creator.none.fl_str_mv": [
+                "Hendriks, Jan", 
+                "Boelens, Rutgerd"
+            ], 
+            "dc.date.none.fl_str_mv": [
+                "2016-12-15"
+            ], 
+            "title_sort": "Accumulation of water rights in Peru", 
+            "dc.relation.none.fl_str_mv": [
+                "http://revistas.pucp.edu.pe/index.php/anthropologica/article/view/15159/16543"
+            ], 
+            "publisher.none.fl_str_mv": [
+                "Pontificia Universidad Cat\u00f3lica del Per\u00fa"
+            ], 
+            "topic": [
+                "Acumulaci\u00f3n de derechos de tierra y agua; pol\u00edticas neo-liberales; desposesi\u00f3n; seguridad h\u00eddrica, Per\u00fa", 
+                "accumulation of land and water rights; neoliberal policies; dispossession; water security; Peru"
+            ], 
+            "dc.description.none.fl_txt_mv": [
+                "In Latin America, water governance is facing the problem of rising demand for water resources, increased hydrological variability in a context of climate change, proliferating contamination and thus \u2014in general\u2014 increasing scarcity of water in terms of quantity, quality, and opportunity. This creates competition and conflicts among stakeholders. The issue coincides with the urgent international problem of concentration of land, which is heavily intertwined with the concentration of water in the hands of the few. Globalization and a neoliberal political climate facilitate that powerful actors accumulate water rights and volumes at the expense of less powerful water users. This paper examines some exemplary situations in Peru. It is based on literature review, reports and archival research. The paper concludes that the unfair distribution of land and water, at the expense of rural families, communities and indigenous territories, constitutes a serious threat to environmental sustainability, water security and food security.", 
+                "En Latinoam\u00e9rica, la gobernanza del agua se enfrenta con el problema del aumento de la demanda de recursos h\u00eddricos, la creciente variabilidad hidrol\u00f3gica en un contexto de cambio clim\u00e1tico, y la contaminaci\u00f3n que sigue prolifer\u00e1ndose. Por lo tanto, se observa una creciente escasez de agua, en cantidad y calidad, generando competencia y conflictos entre los actores involucrados. El problema coincide con el urgente temario internacional de la concentraci\u00f3n de tierra, que est\u00e1 muy entrelazado con la concentraci\u00f3n del agua en pocas manos. La globalizaci\u00f3n y un clima pol\u00edtico neoliberal facilitan que actores poderosos acumulen derechos y vol\u00famenes de agua a expensas de usuarios de menor poder. Este documento tiene por objetivo examinar el contexto nacional poniendo atenci\u00f3n especial en la acumulaci\u00f3n en casos ejemplares de la costa peruana. Se basa en revisi\u00f3n de literatura, informes y archivos pertinentes. Concluye que la distribuci\u00f3n injusta de tierra y agua, a expensas de familias rurales y de territorios comunales e ind\u00edgenas, constituye una grave amenaza para la sostenibilidad ambiental, la seguridad h\u00eddrica y la seguridad alimentaria.\u00a0"
+            ], 
+            "url": [
+                "http://revistas.pucp.edu.pe/index.php/anthropologica/article/view/15159"
+            ], 
+            "author2": [
+                "Boelens, Rutgerd"
+            ], 
+            "title_full_unstemmed": "Accumulation of water rights in Peru", 
+            "id": "PE_864b019541d1745d4738a62b46d2550d", 
+            "status_str": "publishedVersion", 
+            "reponame_str": "PUCP-Revistas", 
+            "author": [
+                "Hendriks, Jan"
+            ], 
+            "identifier_str_mv": [
+                "10.18800/anthropologica.201602.001"
+            ], 
+            "instname_str": "Pontificia Universidad Cat\u00f3lica del Per\u00fa", 
+            "spellingShingle": [
+                "Accumulation of water rights in Peru", 
+                "Hendriks, Jan", 
+                "Acumulaci\u00f3n de derechos de tierra y agua; pol\u00edticas neo-liberales; desposesi\u00f3n; seguridad h\u00eddrica, Per\u00fa", 
+                "accumulation of land and water rights; neoliberal policies; dispossession; water security; Peru"
+            ], 
+            "score": 1620.6389, 
+            "_version_": 1612509762779348992, 
+            "dc.publisher.none.fl_str_mv": [
+                "Pontificia Universidad Cat\u00f3lica del Per\u00fa"
+            ], 
+            "dc.type.none.fl_str_mv": [
+                "info:eu-repo/semantics/article", 
+                "info:eu-repo/semantics/publishedVersion", 
+                "art\u00edculos evaluados por pares"
+            ], 
+            "repository.name.fl_str_mv": [
+                "\n\t\t\t-\n\t\t\t"
+            ], 
+            "description": "In Latin America, water governance is facing the problem of rising demand for water resources, increased hydrological variability in a context of climate change, proliferating contamination and thus \u2014in general\u2014 increasing scarcity of water in terms of quantity, quality, and opportunity. This creates competition and conflicts among stakeholders. The issue coincides with the urgent international problem of concentration of land, which is heavily intertwined with the concentration of water in the hands of the few. Globalization and a neoliberal political climate facilitate that powerful actors accumulate water rights and volumes at the expense of less powerful water users. This paper examines some exemplary situations in Peru. It is based on literature review, reports and archival research. The paper concludes that the unfair distribution of land and water, at the expense of rural families, communities and indigenous territories, constitutes a serious threat to environmental sustainability, water security and food security.", 
+            "institution": [
+                "PUCP"
+            ], 
+            "format": [
+                "article"
+            ], 
+            "network_name_str": "Per\u00fa", 
+            "publishDate": [
+                "2016"
+            ], 
+            "network_acronym_str": "PE", 
+            "dc.format.none.fl_str_mv": [
+                "application/pdf"
+            ], 
+            "eu_rights_str_mv": [
+                "openAccess"
+            ], 
+            "collection": [
+                "PUCP-Revistas"
+            ], 
+            "instacron_str": "PUCP", 
+            "oai_identifier_str": "oai:revistaspuc:article/15159", 
+            "rights_invalid_str_mv": [
+                "Copyright (c) 2016 Anthropologica", 
+                "http://creativecommons.org/licenses/by/4.0"
+            ], 
+            "dc.source.none.fl_str_mv": [
+                "Anthropologica del Departamento de Ciencias Sociales; Vol. 34, N\u00fam. 37 (2016); 13-32", 
+                "0254-9212", 
+                "reponame:PUCP-Revistas", 
+                "instname:Pontificia Universidad Cat\u00f3lica del Per\u00fa", 
+                "instacron:PUCP"
+            ], 
+            "dc.language.none.fl_str_mv": [
+                "spa"
+            ], 
+            "dc.title.none.fl_str_mv": [
+                "Accumulation of water rights in Peru", 
+                "Acumulaci\u00f3n de Derechos de Agua en el Per\u00fa"
+            ], 
+            "dc.identifier.none.fl_str_mv": [
+                "http://revistas.pucp.edu.pe/index.php/anthropologica/article/view/15159", 
+                "10.18800/anthropologica.201602.001"
+            ], 
+            "title_short": "Accumulation of water rights in Peru", 
+            "language": [
+                "spa"
+            ], 
+            "dc.subject.none.fl_str_mv": [
+                "Acumulaci\u00f3n de derechos de tierra y agua; pol\u00edticas neo-liberales; desposesi\u00f3n; seguridad h\u00eddrica, Per\u00fa", 
+                "accumulation of land and water rights; neoliberal policies; dispossession; water security; Peru"
+            ], 
+            "title": "Accumulation of water rights in Peru", 
+            "dc.rights.none.fl_str_mv": [
+                "Copyright (c) 2016 Anthropologica", 
+                "http://creativecommons.org/licenses/by/4.0", 
+                "info:eu-repo/semantics/openAccess"
+            ], 
+            "title_full": "Accumulation of water rights in Peru", 
+            "repository.mail.fl_str_mv": [
+                "mail@mail.com"
+            ], 
+            "author_facet": [
+                "Hendriks, Jan", 
+                "Boelens, Rutgerd"
+            ], 
+            "title_fullStr": "Accumulation of water rights in Peru"
+        }, 
+        "urls": [
+            {
+                "url": "http://revistas.pucp.edu.pe/index.php/anthropologica/article/view/15159", 
+                "desc": "http://revistas.pucp.edu.pe/index.php/anthropologica/article/view/15159"
+            }
+        ], 
+        "formats": [
+            "article"
+        ], 
+        "id": "PE_864b019541d1745d4738a62b46d2550d"
+    }, 
+    {
+        "primaryAuthors": [
+            "G\u00f3mez Lende, Sebasti\u00e1n"
+        ], 
+        "title": "Miner\u00eda metal\u00edfera en la provincia de Jujuy, Argentina : una historia de acumulaci\u00f3n por desposesi\u00f3n (1933-2016)", 
+        "publicationDates": [
+            "2016"
+        ], 
+        "summary": [
+            "Obedeciendo a la divisi\u00f3n internacional del trabajo, los usos hegem\u00f3nicos del territorio a menudo funcionan como modalidades de acumulaci\u00f3n por desposesi\u00f3n. Tal es el caso del actual boom de la miner\u00eda met\u00e1lica en la Argentina. El objetivo de este trabajo consiste en demostrar que la miner\u00eda metal\u00edfera de la Provincia de Jujuy se ha desarrollado, desde sus or\u00edgenes hasta la actualidad, como un uso del territorio asociado a diversas formas de acumulaci\u00f3n por desposesi\u00f3n. El art\u00edculo analiza en ese sentido los casos de Minera El Aguilar y Mina Pirquitas, vali\u00e9ndose para ello de fuentes secundarias -bibliograf\u00eda acad\u00e9mica erudita, datos oficiales, informaci\u00f3n period\u00edstica-. Los hallazgos obtenidos corroboran la hip\u00f3tesis inicial y permiten concluir que en la miner\u00eda met\u00e1lica provincial se desarrollan din\u00e1micas expropiatorias pret\u00e9ritas y contempor\u00e1neas que van desde los cercamientos territoriales, la extranjerizaci\u00f3n de tierras, empresas y recursos naturales, la expulsi\u00f3n de campesinos y abor\u00edgenes y la sobreexplotaci\u00f3n laboral, hasta la cooptaci\u00f3n del Estado, el despojo econ\u00f3mico, la degradaci\u00f3n del patrimonio ambiental, la transferencia al exterior de servicios ecol\u00f3gicos y bienes ambientales, la desposesi\u00f3n del derecho a la salud de la poblaci\u00f3n y el avasallamiento de otros derechos civiles y pol\u00edticos."
+        ], 
+        "languages": [
+            "spa"
+        ], 
+        "subjects": [
+            [
+                "Miner\u00eda"
+            ], 
+            [
+                "Jujuy (Argentina : provincia)"
+            ], 
+            [
+                "Divisi\u00f3n del trabajo"
+            ], 
+            [
+                "Recursos naturales"
+            ], 
+            [
+                "Uso de la tierra"
+            ], 
+            [
+                "Contaminaci\u00f3n"
+            ], 
+            [
+                "Minera El Aguilar (Jujuy, Argentina)"
+            ], 
+            [
+                "Mina Pirquitas (Jujuy, Argentina)"
+            ], 
+            [
+                "Miner\u00eda metal\u00edfera"
+            ], 
+            [
+                "Miner\u00eda met\u00e1lica"
+            ], 
+            [
+                "Extranjerizaci\u00f3n de tierras"
+            ], 
+            [
+                "Acumulaci\u00f3n por desposesi\u00f3n"
+            ], 
+            [
+                "Usos del territorio"
+            ], 
+            [
+                "Din\u00e1micas expropiatorias"
+            ]
+        ], 
+        "rawData": {
+            "dc.creator.none.fl_str_mv": [
+                "G\u00f3mez Lende, Sebasti\u00e1n"
+            ], 
+            "dc.date.none.fl_str_mv": [
+                "2016-12-01"
+            ], 
+            "title_sort": "Miner\u00eda metal\u00edfera en la provincia de Jujuy, Argentina : una historia de acumulaci\u00f3n por desposesi\u00f3n (1933-2016)", 
+            "publisher.none.fl_str_mv": [
+                "Universidad Nacional de Cuyo. Facultad de Filosof\u00eda y Letras. Instituto Multidisciplinario de Estudios Sociales Contempor\u00e1neos"
+            ], 
+            "topic": [
+                "Miner\u00eda", 
+                "Jujuy (Argentina : provincia)", 
+                "Divisi\u00f3n del trabajo", 
+                "Recursos naturales", 
+                "Uso de la tierra", 
+                "Contaminaci\u00f3n", 
+                "Minera El Aguilar (Jujuy, Argentina)", 
+                "Mina Pirquitas (Jujuy, Argentina)", 
+                "Miner\u00eda metal\u00edfera", 
+                "Miner\u00eda met\u00e1lica", 
+                "Extranjerizaci\u00f3n de tierras", 
+                "Acumulaci\u00f3n por desposesi\u00f3n", 
+                "Usos del territorio", 
+                "Din\u00e1micas expropiatorias"
+            ], 
+            "dc.description.none.fl_txt_mv": [
+                "Obedeciendo a la divisi\u00f3n internacional del trabajo, los usos hegem\u00f3nicos del territorio a menudo funcionan como modalidades de acumulaci\u00f3n por desposesi\u00f3n. Tal es el caso del actual boom de la miner\u00eda met\u00e1lica en la Argentina. El objetivo de este trabajo consiste en demostrar que la miner\u00eda metal\u00edfera de la Provincia de Jujuy se ha desarrollado, desde sus or\u00edgenes hasta la actualidad, como un uso del territorio asociado a diversas formas de acumulaci\u00f3n por desposesi\u00f3n. El art\u00edculo analiza en ese sentido los casos de Minera El Aguilar y Mina Pirquitas, vali\u00e9ndose para ello de fuentes secundarias -bibliograf\u00eda acad\u00e9mica erudita, datos oficiales, informaci\u00f3n period\u00edstica-. Los hallazgos obtenidos corroboran la hip\u00f3tesis inicial y permiten concluir que en la miner\u00eda met\u00e1lica provincial se desarrollan din\u00e1micas expropiatorias pret\u00e9ritas y contempor\u00e1neas que van desde los cercamientos territoriales, la extranjerizaci\u00f3n de tierras, empresas y recursos naturales, la expulsi\u00f3n de campesinos y abor\u00edgenes y la sobreexplotaci\u00f3n laboral, hasta la cooptaci\u00f3n del Estado, el despojo econ\u00f3mico, la degradaci\u00f3n del patrimonio ambiental, la transferencia al exterior de servicios ecol\u00f3gicos y bienes ambientales, la desposesi\u00f3n del derecho a la salud de la poblaci\u00f3n y el avasallamiento de otros derechos civiles y pol\u00edticos.", 
+                "Originated in the international division of labour, the hegemonic uses of territory often operate as mechanisms of accumulation by dispossession. The current boom of metal mining in Argentina is an appropriated example of this process. The aim of this paper is to demonstrate that, since its origins to the present, metal mining has developed in the province of Jujuy as a use of territory which is linked to diverse forms of accumulation by dispossession. In order to meet this purpose, we analyze the cases of Minera El Aguilar and Mina Pirquitas by using data that has been extracted from secondary sources (i.e. academic bibliography, official data, and journalist reports). Our findings have confirmed our initial hypothesis, thus allowing us to conclude that in this province the metal mining has developed both old and contemporary expropriation dynamics (e.g. territorial closures; foreignization of lands, companies, and natural resources; peasants and aborigines expulsion; workforce super-exploitation; State cooptation; economic looting; environmental heritage\u2019s pollution; transfer of ecological services and environmental goods to the international markets; and dispossession of the right to health and other civil and political rights).", 
+                "Fil: G\u00f3mez Lende, Sebasti\u00e1n. Universidad Nacional del Centro de la Provincia de Buenos Aires"
+            ], 
+            "url": [
+                "http://bdigital.uncu.edu.ar/8952"
+            ], 
+            "title_full_unstemmed": "Miner\u00eda metal\u00edfera en la provincia de Jujuy, Argentina : una historia de acumulaci\u00f3n por desposesi\u00f3n (1933-2016)", 
+            "id": "AR_48aeff5fe951fb93fc8a660f815ae3a0", 
+            "status_str": "publishedVersion", 
+            "author": [
+                "G\u00f3mez Lende, Sebasti\u00e1n"
+            ], 
+            "spellingShingle": [
+                "Miner\u00eda metal\u00edfera en la provincia de Jujuy, Argentina : una historia de acumulaci\u00f3n por desposesi\u00f3n (1933-2016)", 
+                "G\u00f3mez Lende, Sebasti\u00e1n", 
+                "Miner\u00eda", 
+                "Jujuy (Argentina : provincia)", 
+                "Divisi\u00f3n del trabajo", 
+                "Recursos naturales", 
+                "Uso de la tierra", 
+                "Contaminaci\u00f3n", 
+                "Minera El Aguilar (Jujuy, Argentina)", 
+                "Mina Pirquitas (Jujuy, Argentina)", 
+                "Miner\u00eda metal\u00edfera", 
+                "Miner\u00eda met\u00e1lica", 
+                "Extranjerizaci\u00f3n de tierras", 
+                "Acumulaci\u00f3n por desposesi\u00f3n", 
+                "Usos del territorio", 
+                "Din\u00e1micas expropiatorias"
+            ], 
+            "score": 1301.7712, 
+            "_version_": 1607631474320736256, 
+            "dc.publisher.none.fl_str_mv": [
+                "Universidad Nacional de Cuyo. Facultad de Filosof\u00eda y Letras. Instituto Multidisciplinario de Estudios Sociales Contempor\u00e1neos"
+            ], 
+            "dc.type.none.fl_str_mv": [
+                "info:ar-repo/semantics/art\u00edculo", 
+                "info:eu-repo/semantics/article", 
+                "info:eu-repo/semantics/publishedVersion"
+            ], 
+            "repository.name.fl_str_mv": [
+                "\n\t\t\t-\n\t\t\t"
+            ], 
+            "description": "Obedeciendo a la divisi\u00f3n internacional del trabajo, los usos hegem\u00f3nicos del territorio a menudo funcionan como modalidades de acumulaci\u00f3n por desposesi\u00f3n. Tal es el caso del actual boom de la miner\u00eda met\u00e1lica en la Argentina. El objetivo de este trabajo consiste en demostrar que la miner\u00eda metal\u00edfera de la Provincia de Jujuy se ha desarrollado, desde sus or\u00edgenes hasta la actualidad, como un uso del territorio asociado a diversas formas de acumulaci\u00f3n por desposesi\u00f3n. El art\u00edculo analiza en ese sentido los casos de Minera El Aguilar y Mina Pirquitas, vali\u00e9ndose para ello de fuentes secundarias -bibliograf\u00eda acad\u00e9mica erudita, datos oficiales, informaci\u00f3n period\u00edstica-. Los hallazgos obtenidos corroboran la hip\u00f3tesis inicial y permiten concluir que en la miner\u00eda met\u00e1lica provincial se desarrollan din\u00e1micas expropiatorias pret\u00e9ritas y contempor\u00e1neas que van desde los cercamientos territoriales, la extranjerizaci\u00f3n de tierras, empresas y recursos naturales, la expulsi\u00f3n de campesinos y abor\u00edgenes y la sobreexplotaci\u00f3n laboral, hasta la cooptaci\u00f3n del Estado, el despojo econ\u00f3mico, la degradaci\u00f3n del patrimonio ambiental, la transferencia al exterior de servicios ecol\u00f3gicos y bienes ambientales, la desposesi\u00f3n del derecho a la salud de la poblaci\u00f3n y el avasallamiento de otros derechos civiles y pol\u00edticos.", 
+            "format": [
+                "article"
+            ], 
+            "network_name_str": "Argentina", 
+            "publishDate": [
+                "2016"
+            ], 
+            "network_acronym_str": "AR", 
+            "dc.format.none.fl_str_mv": [
+                "application/pdf"
+            ], 
+            "eu_rights_str_mv": [
+                "openAccess"
+            ], 
+            "oai_identifier_str": "8eeca7de-3b33-4cda-90de-8f17a014121c/oai:bdigital.uncu.edu.ar:8952", 
+            "rights_invalid_str_mv": [
+                "http://creativecommons.org/licenses/by/2.5/ar/"
+            ], 
+            "dc.source.none.fl_str_mv": [
+                "Estudios sociales contempor\u00e1neos, No. 15", 
+                "http://bdigital.uncu.edu.ar/8849"
+            ], 
+            "dc.language.none.fl_str_mv": [
+                "spa"
+            ], 
+            "dc.title.none.fl_str_mv": [
+                "Miner\u00eda metal\u00edfera en la provincia de Jujuy, Argentina : una historia de acumulaci\u00f3n por desposesi\u00f3n (1933-2016)", 
+                "Metal mining in the province of Jujuy, Argentina : a story of accumulation by dispossession (1933-2016)"
+            ], 
+            "dc.identifier.none.fl_str_mv": [
+                "http://bdigital.uncu.edu.ar/8952"
+            ], 
+            "title_short": "Miner\u00eda metal\u00edfera en la provincia de Jujuy, Argentina : una historia de acumulaci\u00f3n por desposesi\u00f3n (1933-2016)", 
+            "language": [
+                "spa"
+            ], 
+            "dc.subject.none.fl_str_mv": [
+                "Miner\u00eda", 
+                "Jujuy (Argentina : provincia)", 
+                "Divisi\u00f3n del trabajo", 
+                "Recursos naturales", 
+                "Uso de la tierra", 
+                "Contaminaci\u00f3n", 
+                "Minera El Aguilar (Jujuy, Argentina)", 
+                "Mina Pirquitas (Jujuy, Argentina)", 
+                "Miner\u00eda metal\u00edfera", 
+                "Miner\u00eda met\u00e1lica", 
+                "Extranjerizaci\u00f3n de tierras", 
+                "Acumulaci\u00f3n por desposesi\u00f3n", 
+                "Usos del territorio", 
+                "Din\u00e1micas expropiatorias"
+            ], 
+            "title": "Miner\u00eda metal\u00edfera en la provincia de Jujuy, Argentina : una historia de acumulaci\u00f3n por desposesi\u00f3n (1933-2016)", 
+            "dc.rights.none.fl_str_mv": [
+                "info:eu-repo/semantics/openAccess", 
+                "http://creativecommons.org/licenses/by/2.5/ar/"
+            ], 
+            "title_full": "Miner\u00eda metal\u00edfera en la provincia de Jujuy, Argentina : una historia de acumulaci\u00f3n por desposesi\u00f3n (1933-2016)", 
+            "repository.mail.fl_str_mv": [
+                "mail@mail.com"
+            ], 
+            "author_facet": [
+                "G\u00f3mez Lende, Sebasti\u00e1n"
+            ], 
+            "title_fullStr": "Miner\u00eda metal\u00edfera en la provincia de Jujuy, Argentina : una historia de acumulaci\u00f3n por desposesi\u00f3n (1933-2016)"
+        }, 
+        "urls": [
+            {
+                "url": "http://bdigital.uncu.edu.ar/8952", 
+                "desc": "http://bdigital.uncu.edu.ar/8952"
+            }
+        ], 
+        "formats": [
+            "article"
+        ], 
+        "id": "AR_48aeff5fe951fb93fc8a660f815ae3a0"
+    }, 
+    {
+        "primaryAuthors": [
+            "Giaretto, Mariana; Universidad Nacional del Comahue"
+        ], 
+        "title": "Urban land takeup and the potential for a crisis in the real estate regime Abstract", 
+        "publicationDates": [
+            "2010"
+        ], 
+        "summary": [
+            "Urban land takeups have become one of the main problems in Latin American cities within the last twenty years. From a social and critical perspective, the task at hand is double: to discredit common sense views considering take ups are crime offences and fostering poverty criminalization and, at the same time, to critically analyze the relations between the State and the individuals involved in land take ups, so that we may understand the complexity of this problem. By analysing some interviews to individuals involved in social conflicts in the framework of urban land take ups \u2014both by grassroots sectors and municipal officers, and by secondary sources\u2014, to review varied concrete experiences in the city of Cipolletti (Argentina) is proposed, focusing in State intervention forms and discussing whether they are or they are not the sign of a structural crisis within the capitalist property regime under new accumulation conditions."
+        ], 
+        "languages": [
+            "spa"
+        ], 
+        "subjects": [
+            [
+                "accumulation by dispossession; urban land takeups; State in a broad sense; property regime crisis"
+            ], 
+            [
+                "acumulaci\u00f3n por desposesi\u00f3n; tomas de tierras urbanas; Estado en sentido ampliado; crisis de r\u00e9gimen de propiedad."
+            ], 
+            [
+                "Invas\u00f5es de terras urbanas; Estado em sentido ampliado; crise do regime de propriedade"
+            ]
+        ], 
+        "rawData": {
+            "dc.creator.none.fl_str_mv": [
+                "Giaretto, Mariana; Universidad Nacional del Comahue"
+            ], 
+            "dc.date.none.fl_str_mv": [
+                "2010-07-11", 
+                "2018-02-24T15:50:31Z", 
+                "2018-02-24T15:50:31Z"
+            ], 
+            "title_sort": "Urban land takeup and the potential for a crisis in the real estate regime Abstract", 
+            "dc.relation.none.fl_str_mv": [
+                "http://revistas.javeriana.edu.co/index.php/univhumanistica/article/view/2118/1361"
+            ], 
+            "publisher.none.fl_str_mv": [
+                "Editorial Pontificia Universidad Javeriana"
+            ], 
+            "topic": [
+                "accumulation by dispossession; urban land takeups; State in a broad sense; property regime crisis", 
+                "acumulaci\u00f3n por desposesi\u00f3n; tomas de tierras urbanas; Estado en sentido ampliado; crisis de r\u00e9gimen de propiedad.", 
+                "Invas\u00f5es de terras urbanas; Estado em sentido ampliado; crise do regime de propriedade"
+            ], 
+            "dc.description.none.fl_txt_mv": [
+                "Urban land takeups have become one of the main problems in Latin American cities within the last twenty years. From a social and critical perspective, the task at hand is double: to discredit common sense views considering take ups are crime offences and fostering poverty criminalization and, at the same time, to critically analyze the relations between the State and the individuals involved in land take ups, so that we may understand the complexity of this problem. By analysing some interviews to individuals involved in social conflicts in the framework of urban land take ups \u2014both by grassroots sectors and municipal officers, and by secondary sources\u2014, to review varied concrete experiences in the city of Cipolletti (Argentina) is proposed, focusing in State intervention forms and discussing whether they are or they are not the sign of a structural crisis within the capitalist property regime under new accumulation conditions.", 
+                "Las tomas de tierras urbanas se han convertido en uno de los principales problemas de las ciudades latinoamericanas en los \u00faltimos 20 a\u00f1os. Desde una perspectiva social y cr\u00edtica, la tarea es doble: desautorizar las visiones de sentido com\u00fan que convierten las tomas en actos delictivos y potencian la criminalizaci\u00f3n de la pobreza y, al mismo tiempo, analizar cr\u00edticamente las relaciones entre el Estado y los sujetos que protagonizan las tomas de tierras, para comprender la complejidad de la problem\u00e1tica. A partir del an\u00e1lisis de entrevistas a sujetos protagonistas de conflictos sociales en el marco de tomas de tierras urbanas -tanto de los sectores populares como funcionarios municipales-, y de fuentes secundarias, la propuesta es revisar diferentes experiencias concretas en la ciudad de Cipolletti (Argentina), focalizando en las formas de intervenci\u00f3n del Estado y discutiendo si son o no manifestaciones de una crisis estructuraldel r\u00e9gimen de propiedad capitalista bajo nuevas condiciones de acumulaci\u00f3n", 
+                "As invas\u00f5es de terras urbanas se transformaram em um dos principais problemas das cidades latinoamericanas nos \u00faltimos 20 anos. Desde uma perspectiva social e cr\u00edtica, a tarefa \u00e9 dupla: desautorizar as vis\u00f5es de sentido comum que convertem as invas\u00f5es em atos delitivos e potenciam a criminaliza\u00e7\u00e3o da pobreza e, ao mesmo tempo, analisar criticamente as rela\u00e7\u00f5es entre o Estado e os sujeitos que protagonizam as invas\u00f5es de terras, para compreender a complexidade da problem\u00e1tica. A partir da an\u00e1lise de entrevistas a sujeitos protagonistas de conflitos sociais no contexto das invas\u00f5es de terras urbanas - tanto dos setores populares como funcion\u00e1rios municipais, e de fontes secund\u00e1rias, a proposta \u00e9 estudar diferentes experi\u00eancias concretas na cidade de Cipolletti (Argentina), focalizando nas formas de interven\u00e7\u00e3o do Estado e discutindo se elas s\u00e3o ou n\u00e3o manifesta\u00e7\u00f5es de uma crise estrutural do regime de propriedade capitalista sob novas condi\u00e7\u00f5es de acumula\u00e7\u00e3o."
+            ], 
+            "url": [
+                "http://revistas.javeriana.edu.co/index.php/univhumanistica/article/view/2118", 
+                "http://hdl.handle.net/10554/29522"
+            ], 
+            "title_full_unstemmed": "Urban land takeup and the potential for a crisis in the real estate regime Abstract", 
+            "id": "CO_e30023fb539294a4b0a773f7f2ff7d40", 
+            "status_str": "publishedVersion", 
+            "reponame_str": "Repositorio Pontificia Universidad Javeriana", 
+            "author": [
+                "Giaretto, Mariana; Universidad Nacional del Comahue"
+            ], 
+            "instname_str": "Pontificia Universidad Javeriana", 
+            "spellingShingle": [
+                "Urban land takeup and the potential for a crisis in the real estate regime Abstract", 
+                "Giaretto, Mariana; Universidad Nacional del Comahue", 
+                "accumulation by dispossession; urban land takeups; State in a broad sense; property regime crisis", 
+                "acumulaci\u00f3n por desposesi\u00f3n; tomas de tierras urbanas; Estado en sentido ampliado; crisis de r\u00e9gimen de propiedad.", 
+                "Invas\u00f5es de terras urbanas; Estado em sentido ampliado; crise do regime de propriedade"
+            ], 
+            "score": 1108.0134, 
+            "_version_": 1607631821912145920, 
+            "dc.publisher.none.fl_str_mv": [
+                "Editorial Pontificia Universidad Javeriana"
+            ], 
+            "dc.type.none.fl_str_mv": [
+                "info:eu-repo/semantics/article", 
+                "info:eu-repo/semantics/publishedVersion"
+            ], 
+            "repository.name.fl_str_mv": [
+                "\n\t\t\t-\n\t\t\t"
+            ], 
+            "description": "Urban land takeups have become one of the main problems in Latin American cities within the last twenty years. From a social and critical perspective, the task at hand is double: to discredit common sense views considering take ups are crime offences and fostering poverty criminalization and, at the same time, to critically analyze the relations between the State and the individuals involved in land take ups, so that we may understand the complexity of this problem. By analysing some interviews to individuals involved in social conflicts in the framework of urban land take ups \u2014both by grassroots sectors and municipal officers, and by secondary sources\u2014, to review varied concrete experiences in the city of Cipolletti (Argentina) is proposed, focusing in State intervention forms and discussing whether they are or they are not the sign of a structural crisis within the capitalist property regime under new accumulation conditions.", 
+            "format": [
+                "article"
+            ], 
+            "network_name_str": "Colombia", 
+            "publishDate": [
+                "2010"
+            ], 
+            "network_acronym_str": "CO", 
+            "dc.format.none.fl_str_mv": [
+                "application/pdf"
+            ], 
+            "eu_rights_str_mv": [
+                "openAccess"
+            ], 
+            "collection": [
+                "Repositorio Pontificia Universidad Javeriana"
+            ], 
+            "oai_identifier_str": "lr::4104::22908895::oai:localhost:10554/29522", 
+            "dc.source.none.fl_str_mv": [
+                "Universitas Human\u00edstica; Vol. 70, N\u00fam. 70 (2010)", 
+                "Universitas Human\u00edstica; Vol. 70, N\u00fam. 70 (2010)", 
+                "Universitas Human\u00edstica; Vol. 70, N\u00fam. 70 (2010)", 
+                "2011-2734", 
+                "0120-4807", 
+                "reponame:Repositorio Pontificia Universidad Javeriana", 
+                "instname:Pontificia Universidad Javeriana"
+            ], 
+            "dc.language.none.fl_str_mv": [
+                "spa"
+            ], 
+            "dc.title.none.fl_str_mv": [
+                "Urban land takeup and the potential for a crisis in the real estate regime Abstract", 
+                "Las tomas de tierras urbanas y las posibilidades de una crisis del r\u00e9gimen de propiedad", 
+                "As invas\u00f5es de terras urbanas e as possibilidades de uma crise do regime de propiedade"
+            ], 
+            "dc.identifier.none.fl_str_mv": [
+                "http://revistas.javeriana.edu.co/index.php/univhumanistica/article/view/2118", 
+                "http://hdl.handle.net/10554/29522"
+            ], 
+            "title_short": "Urban land takeup and the potential for a crisis in the real estate regime Abstract", 
+            "language": [
+                "spa"
+            ], 
+            "dc.subject.none.fl_str_mv": [
+                "accumulation by dispossession; urban land takeups; State in a broad sense; property regime crisis", 
+                "acumulaci\u00f3n por desposesi\u00f3n; tomas de tierras urbanas; Estado en sentido ampliado; crisis de r\u00e9gimen de propiedad.", 
+                "Invas\u00f5es de terras urbanas; Estado em sentido ampliado; crise do regime de propriedade"
+            ], 
+            "title": "Urban land takeup and the potential for a crisis in the real estate regime Abstract", 
+            "dc.rights.none.fl_str_mv": [
+                "info:eu-repo/semantics/openAccess"
+            ], 
+            "title_full": "Urban land takeup and the potential for a crisis in the real estate regime Abstract", 
+            "repository.mail.fl_str_mv": [
+                "mail@mail.com"
+            ], 
+            "author_facet": [
+                "Giaretto, Mariana; Universidad Nacional del Comahue"
+            ], 
+            "title_fullStr": "Urban land takeup and the potential for a crisis in the real estate regime Abstract"
+        }, 
+        "urls": [
+            {
+                "url": "http://revistas.javeriana.edu.co/index.php/univhumanistica/article/view/2118", 
+                "desc": "http://revistas.javeriana.edu.co/index.php/univhumanistica/article/view/2118"
+            }, 
+            {
+                "url": "http://hdl.handle.net/10554/29522", 
+                "desc": "http://hdl.handle.net/10554/29522"
+            }
+        ], 
+        "formats": [
+            "article"
+        ], 
+        "id": "CO_e30023fb539294a4b0a773f7f2ff7d40"
+    }
+]

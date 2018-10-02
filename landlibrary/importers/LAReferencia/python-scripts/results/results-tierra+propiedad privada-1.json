@@ -1,0 +1,956 @@
+[
+    {
+        "primaryAuthors": [
+            "Roura, Carlos Gustavo"
+        ], 
+        "title": "La propiedad de la tierra", 
+        "publicationDates": [
+            "1932"
+        ], 
+        "summary": [
+            "Fil: Roura, Carlos Gustavo."
+        ], 
+        "languages": [
+            "spa"
+        ], 
+        "subjects": [
+            [
+                "Derecho a la Propiedad"
+            ], 
+            [
+                "Propiedad Privada"
+            ], 
+            [
+                "Valor de la Tierra"
+            ]
+        ], 
+        "rawData": {
+            "dc.creator.none.fl_str_mv": [
+                "Roura, Carlos Gustavo"
+            ], 
+            "dc.date.none.fl_str_mv": [
+                "1932-01-01"
+            ], 
+            "title_sort": "La propiedad de la tierra", 
+            "publisher.none.fl_str_mv": [
+                "Facultad de Ciencias Econ\u00f3micas, UBA"
+            ], 
+            "topic": [
+                "Derecho a la Propiedad", 
+                "Propiedad Privada", 
+                "Valor de la Tierra"
+            ], 
+            "dc.description.none.fl_txt_mv": [
+                "Fil: Roura, Carlos Gustavo."
+            ], 
+            "url": [
+                "http://bibliotecadigital.econ.uba.ar/?a=d&c=tesis&d=1501-0131_RouraCG"
+            ], 
+            "title_full_unstemmed": "La propiedad de la tierra", 
+            "id": "AR_9e4824f52c67aa629b2a1fdfe038aed0", 
+            "status_str": "publishedVersion", 
+            "author": [
+                "Roura, Carlos Gustavo"
+            ], 
+            "spellingShingle": [
+                "La propiedad de la tierra", 
+                "Roura, Carlos Gustavo", 
+                "Derecho a la Propiedad", 
+                "Propiedad Privada", 
+                "Valor de la Tierra"
+            ], 
+            "score": 3630.1028, 
+            "_version_": 1607631304020459520, 
+            "dc.publisher.none.fl_str_mv": [
+                "Facultad de Ciencias Econ\u00f3micas, UBA"
+            ], 
+            "dc.type.none.fl_str_mv": [
+                "info:eu-repo/semantics/doctoralThesis", 
+                "info:ar-repo/semantics/tesis doctoral", 
+                "info:eu-repo/semantics/publishedVersion"
+            ], 
+            "repository.name.fl_str_mv": [
+                "\n\t\t\t-\n\t\t\t"
+            ], 
+            "description": "Fil: Roura, Carlos Gustavo.", 
+            "format": [
+                "doctoralThesis"
+            ], 
+            "network_name_str": "Argentina", 
+            "publishDate": [
+                "1932"
+            ], 
+            "network_acronym_str": "AR", 
+            "dc.format.none.fl_str_mv": [
+                "application/pdf"
+            ], 
+            "eu_rights_str_mv": [
+                "openAccess"
+            ], 
+            "oai_identifier_str": "71802dd2-cf5a-4f06-b80c-d3df17dbd813/oai::snrd:1501-0131_RouraCG", 
+            "rights_invalid_str_mv": [
+                "http://creativecommons.org/licenses/by/2.5/ar/"
+            ], 
+            "dc.language.none.fl_str_mv": [
+                "spa"
+            ], 
+            "dc.title.none.fl_str_mv": [
+                "La propiedad de la tierra"
+            ], 
+            "dc.identifier.none.fl_str_mv": [
+                "http://bibliotecadigital.econ.uba.ar/?a=d&c=tesis&d=1501-0131_RouraCG"
+            ], 
+            "title_short": "La propiedad de la tierra", 
+            "language": [
+                "spa"
+            ], 
+            "dc.subject.none.fl_str_mv": [
+                "Derecho a la Propiedad", 
+                "Propiedad Privada", 
+                "Valor de la Tierra"
+            ], 
+            "title": "La propiedad de la tierra", 
+            "dc.rights.none.fl_str_mv": [
+                "info:eu-repo/semantics/openAccess", 
+                "http://creativecommons.org/licenses/by/2.5/ar/"
+            ], 
+            "title_full": "La propiedad de la tierra", 
+            "repository.mail.fl_str_mv": [
+                "mail@mail.com"
+            ], 
+            "author_facet": [
+                "Roura, Carlos Gustavo"
+            ], 
+            "title_fullStr": "La propiedad de la tierra"
+        }, 
+        "urls": [
+            {
+                "url": "http://bibliotecadigital.econ.uba.ar/?a=d&c=tesis&d=1501-0131_RouraCG", 
+                "desc": "http://bibliotecadigital.econ.uba.ar/?a=d&c=tesis&d=1501-0131_RouraCG"
+            }
+        ], 
+        "formats": [
+            "doctoralThesis"
+        ], 
+        "id": "AR_9e4824f52c67aa629b2a1fdfe038aed0"
+    }, 
+    {
+        "primaryAuthors": [
+            "Artaza, Sebasti\u00e1n Ignacio"
+        ], 
+        "title": "Banzato, Guillermo (ed.) (2013), Tierras rurales. Pol\u00edticas, transacciones y mercados en Argentina, 1780-1914, Rosario, Prohistoria ediciones, 242 p. ISBN 978-987-1855-38-4", 
+        "publicationDates": [
+            "2014"
+        ], 
+        "summary": [
+            "Fil: Artaza, Sebasti\u00e1n Ignacio. Universidad Nacional Tres de Febrero"
+        ], 
+        "languages": [
+            "spa"
+        ], 
+        "subjects": [
+            [
+                "Argentina"
+            ], 
+            [
+                "Siglo XVIII-XX"
+            ], 
+            [
+                "Regiones argentinas"
+            ], 
+            [
+                "Tenencia de la tierra"
+            ], 
+            [
+                "Pol\u00edtica territorial"
+            ], 
+            [
+                "Zonas rurales"
+            ], 
+            [
+                "Propiedad privada"
+            ], 
+            [
+                "Mercado de la tierra"
+            ], 
+            [
+                "Gesti\u00f3n territorial"
+            ]
+        ], 
+        "rawData": {
+            "dc.creator.none.fl_str_mv": [
+                "Artaza, Sebasti\u00e1n Ignacio"
+            ], 
+            "dc.date.none.fl_str_mv": [
+                "2014-08-01"
+            ], 
+            "title_sort": "Banzato, Guillermo (ed.) (2013), Tierras rurales. Pol\u00edticas, transacciones y mercados en Argentina, 1780-1914, Rosario, Prohistoria ediciones, 242 p. ISBN 978-987-1855-38-4", 
+            "publisher.none.fl_str_mv": [
+                "Universidad Nacional de Cuyo. Facultad de Filosof\u00eda y Letras. Instituto de Geograf\u00eda"
+            ], 
+            "topic": [
+                "Argentina", 
+                "Siglo XVIII-XX", 
+                "Regiones argentinas", 
+                "Tenencia de la tierra", 
+                "Pol\u00edtica territorial", 
+                "Zonas rurales", 
+                "Propiedad privada", 
+                "Mercado de la tierra", 
+                "Gesti\u00f3n territorial"
+            ], 
+            "dc.description.none.fl_txt_mv": [
+                "Fil: Artaza, Sebasti\u00e1n Ignacio. Universidad Nacional Tres de Febrero"
+            ], 
+            "url": [
+                "http://bdigital.uncu.edu.ar/1351"
+            ], 
+            "title_full_unstemmed": "Banzato, Guillermo (ed.) (2013), Tierras rurales. Pol\u00edticas, transacciones y mercados en Argentina, 1780-1914, Rosario, Prohistoria ediciones, 242 p. ISBN 978-987-1855-38-4", 
+            "id": "AR_3e7b9a468e4fbde649904740e7482986", 
+            "status_str": "publishedVersion", 
+            "author": [
+                "Artaza, Sebasti\u00e1n Ignacio"
+            ], 
+            "spellingShingle": [
+                "Banzato, Guillermo (ed.) (2013), Tierras rurales. Pol\u00edticas, transacciones y mercados en Argentina, 1780-1914, Rosario, Prohistoria ediciones, 242 p. ISBN 978-987-1855-38-4", 
+                "Artaza, Sebasti\u00e1n Ignacio", 
+                "Argentina", 
+                "Siglo XVIII-XX", 
+                "Regiones argentinas", 
+                "Tenencia de la tierra", 
+                "Pol\u00edtica territorial", 
+                "Zonas rurales", 
+                "Propiedad privada", 
+                "Mercado de la tierra", 
+                "Gesti\u00f3n territorial"
+            ], 
+            "score": 2652.9583, 
+            "_version_": 1607631331257221120, 
+            "dc.publisher.none.fl_str_mv": [
+                "Universidad Nacional de Cuyo. Facultad de Filosof\u00eda y Letras. Instituto de Geograf\u00eda"
+            ], 
+            "dc.type.none.fl_str_mv": [
+                "info:ar-repo/semantics/art\u00edculo", 
+                "info:eu-repo/semantics/article", 
+                "info:eu-repo/semantics/publishedVersion"
+            ], 
+            "repository.name.fl_str_mv": [
+                "\n\t\t\t-\n\t\t\t"
+            ], 
+            "description": "Fil: Artaza, Sebasti\u00e1n Ignacio. Universidad Nacional Tres de Febrero", 
+            "format": [
+                "article"
+            ], 
+            "network_name_str": "Argentina", 
+            "publishDate": [
+                "2014"
+            ], 
+            "network_acronym_str": "AR", 
+            "dc.format.none.fl_str_mv": [
+                "application/pdf"
+            ], 
+            "eu_rights_str_mv": [
+                "openAccess"
+            ], 
+            "oai_identifier_str": "8eeca7de-3b33-4cda-90de-8f17a014121c/oai:bdigital.uncu.edu.ar:1351", 
+            "rights_invalid_str_mv": [
+                "http://creativecommons.org/licenses/by/2.5/ar/"
+            ], 
+            "dc.source.none.fl_str_mv": [
+                "Bolet\u00edn de Estudios Geogr\u00e1ficos, No. 103", 
+                "http://bdigital.uncu.edu.ar/6874"
+            ], 
+            "dc.language.none.fl_str_mv": [
+                "spa"
+            ], 
+            "dc.title.none.fl_str_mv": [
+                "Banzato, Guillermo (ed.) (2013), Tierras rurales. Pol\u00edticas, transacciones y mercados en Argentina, 1780-1914, Rosario, Prohistoria ediciones, 242 p. ISBN 978-987-1855-38-4"
+            ], 
+            "dc.identifier.none.fl_str_mv": [
+                "http://bdigital.uncu.edu.ar/1351"
+            ], 
+            "title_short": "Banzato, Guillermo (ed.) (2013), Tierras rurales. Pol\u00edticas, transacciones y mercados en Argentina, 1780-1914, Rosario, Prohistoria ediciones, 242 p. ISBN 978-987-1855-38-4", 
+            "language": [
+                "spa"
+            ], 
+            "dc.subject.none.fl_str_mv": [
+                "Argentina", 
+                "Siglo XVIII-XX", 
+                "Regiones argentinas", 
+                "Tenencia de la tierra", 
+                "Pol\u00edtica territorial", 
+                "Zonas rurales", 
+                "Propiedad privada", 
+                "Mercado de la tierra", 
+                "Gesti\u00f3n territorial"
+            ], 
+            "title": "Banzato, Guillermo (ed.) (2013), Tierras rurales. Pol\u00edticas, transacciones y mercados en Argentina, 1780-1914, Rosario, Prohistoria ediciones, 242 p. ISBN 978-987-1855-38-4", 
+            "dc.rights.none.fl_str_mv": [
+                "info:eu-repo/semantics/openAccess", 
+                "http://creativecommons.org/licenses/by/2.5/ar/"
+            ], 
+            "title_full": "Banzato, Guillermo (ed.) (2013), Tierras rurales. Pol\u00edticas, transacciones y mercados en Argentina, 1780-1914, Rosario, Prohistoria ediciones, 242 p. ISBN 978-987-1855-38-4", 
+            "repository.mail.fl_str_mv": [
+                "mail@mail.com"
+            ], 
+            "author_facet": [
+                "Artaza, Sebasti\u00e1n Ignacio"
+            ], 
+            "title_fullStr": "Banzato, Guillermo (ed.) (2013), Tierras rurales. Pol\u00edticas, transacciones y mercados en Argentina, 1780-1914, Rosario, Prohistoria ediciones, 242 p. ISBN 978-987-1855-38-4"
+        }, 
+        "urls": [
+            {
+                "url": "http://bdigital.uncu.edu.ar/1351", 
+                "desc": "http://bdigital.uncu.edu.ar/1351"
+            }
+        ], 
+        "formats": [
+            "article"
+        ], 
+        "id": "AR_3e7b9a468e4fbde649904740e7482986"
+    }, 
+    {
+        "primaryAuthors": [
+            "Settel, Humberto"
+        ], 
+        "title": "Condiciones econ\u00f3micas de la tierra apropiada", 
+        "publicationDates": [
+            "1916"
+        ], 
+        "summary": [
+            "Fil: Settel, Humberto."
+        ], 
+        "languages": [
+            "spa"
+        ], 
+        "subjects": [
+            [
+                "Propiedad de la Tierra"
+            ], 
+            [
+                "Industria Agropecuaria"
+            ], 
+            [
+                "Agricultura"
+            ], 
+            [
+                "Cr\u00e9dito Agr\u00edcola"
+            ], 
+            [
+                "Pr\u00e9stamo Hipotecario"
+            ], 
+            [
+                "Propiedad Privada"
+            ]
+        ], 
+        "rawData": {
+            "dc.creator.none.fl_str_mv": [
+                "Settel, Humberto"
+            ], 
+            "dc.date.none.fl_str_mv": [
+                "1916-01-01"
+            ], 
+            "title_sort": "Condiciones econ\u00f3micas de la tierra apropiada", 
+            "publisher.none.fl_str_mv": [
+                "Facultad de Ciencias Econ\u00f3micas, UBA"
+            ], 
+            "topic": [
+                "Propiedad de la Tierra", 
+                "Industria Agropecuaria", 
+                "Agricultura", 
+                "Cr\u00e9dito Agr\u00edcola", 
+                "Pr\u00e9stamo Hipotecario", 
+                "Propiedad Privada"
+            ], 
+            "dc.description.none.fl_txt_mv": [
+                "Fil: Settel, Humberto."
+            ], 
+            "url": [
+                "http://bibliotecadigital.econ.uba.ar/?a=d&c=tesis&d=1501-0011_SettelH"
+            ], 
+            "title_full_unstemmed": "Condiciones econ\u00f3micas de la tierra apropiada", 
+            "id": "AR_4087c90bda1ce36949f96d2784e3fe94", 
+            "status_str": "publishedVersion", 
+            "author": [
+                "Settel, Humberto"
+            ], 
+            "spellingShingle": [
+                "Condiciones econ\u00f3micas de la tierra apropiada", 
+                "Settel, Humberto", 
+                "Propiedad de la Tierra", 
+                "Industria Agropecuaria", 
+                "Agricultura", 
+                "Cr\u00e9dito Agr\u00edcola", 
+                "Pr\u00e9stamo Hipotecario", 
+                "Propiedad Privada"
+            ], 
+            "score": 2646.5554, 
+            "_version_": 1607631303796064257, 
+            "dc.publisher.none.fl_str_mv": [
+                "Facultad de Ciencias Econ\u00f3micas, UBA"
+            ], 
+            "dc.type.none.fl_str_mv": [
+                "info:eu-repo/semantics/doctoralThesis", 
+                "info:ar-repo/semantics/tesis doctoral", 
+                "info:eu-repo/semantics/publishedVersion"
+            ], 
+            "repository.name.fl_str_mv": [
+                "\n\t\t\t-\n\t\t\t"
+            ], 
+            "description": "Fil: Settel, Humberto.", 
+            "format": [
+                "doctoralThesis"
+            ], 
+            "network_name_str": "Argentina", 
+            "publishDate": [
+                "1916"
+            ], 
+            "network_acronym_str": "AR", 
+            "dc.format.none.fl_str_mv": [
+                "application/pdf"
+            ], 
+            "eu_rights_str_mv": [
+                "openAccess"
+            ], 
+            "oai_identifier_str": "71802dd2-cf5a-4f06-b80c-d3df17dbd813/oai::snrd:1501-0011_SettelH", 
+            "rights_invalid_str_mv": [
+                "http://creativecommons.org/licenses/by/2.5/ar/"
+            ], 
+            "dc.language.none.fl_str_mv": [
+                "spa"
+            ], 
+            "dc.title.none.fl_str_mv": [
+                "Condiciones econ\u00f3micas de la tierra apropiada"
+            ], 
+            "dc.identifier.none.fl_str_mv": [
+                "http://bibliotecadigital.econ.uba.ar/?a=d&c=tesis&d=1501-0011_SettelH"
+            ], 
+            "title_short": "Condiciones econ\u00f3micas de la tierra apropiada", 
+            "language": [
+                "spa"
+            ], 
+            "dc.subject.none.fl_str_mv": [
+                "Propiedad de la Tierra", 
+                "Industria Agropecuaria", 
+                "Agricultura", 
+                "Cr\u00e9dito Agr\u00edcola", 
+                "Pr\u00e9stamo Hipotecario", 
+                "Propiedad Privada"
+            ], 
+            "title": "Condiciones econ\u00f3micas de la tierra apropiada", 
+            "dc.rights.none.fl_str_mv": [
+                "info:eu-repo/semantics/openAccess", 
+                "http://creativecommons.org/licenses/by/2.5/ar/"
+            ], 
+            "title_full": "Condiciones econ\u00f3micas de la tierra apropiada", 
+            "repository.mail.fl_str_mv": [
+                "mail@mail.com"
+            ], 
+            "author_facet": [
+                "Settel, Humberto"
+            ], 
+            "title_fullStr": "Condiciones econ\u00f3micas de la tierra apropiada"
+        }, 
+        "urls": [
+            {
+                "url": "http://bibliotecadigital.econ.uba.ar/?a=d&c=tesis&d=1501-0011_SettelH", 
+                "desc": "http://bibliotecadigital.econ.uba.ar/?a=d&c=tesis&d=1501-0011_SettelH"
+            }
+        ], 
+        "formats": [
+            "doctoralThesis"
+        ], 
+        "id": "AR_4087c90bda1ce36949f96d2784e3fe94"
+    }, 
+    {
+        "primaryAuthors": [
+            "Delgado Casta\u00f1o, Paula Sigrid"
+        ], 
+        "title": "Estado cr\u00edtico de la propiedad rural colectiva en Colombia", 
+        "publicationDates": [
+            "2017"
+        ], 
+        "summary": [
+            "La Constituci\u00f3n Pol\u00edtica de Colombia, consagra en su art\u00edculo 58 la garant\u00eda a la propiedad privada, y le endosa a esta una funci\u00f3n social y al Estado el deber de propender por la protecci\u00f3n y promoci\u00f3n de posesiones de tierra bajo formas asociativas y solidarias. En este contexto constitucional y en el de la globalizaci\u00f3n de la econom\u00eda y de las teor\u00edas del desarrollo, se propone este trabajo determinar si el Estado colombiano, mediante las normas actuales y las pol\u00edticas p\u00fablicas vigentes, puede garantizar la peque\u00f1a propiedad rural y la supervivencia de las comunidades \u00e9tnicas. Para ello se partir\u00e1 de algunas teor\u00edas acerca de la formalizaci\u00f3n de la propiedad, como la de Daniel Fitzpatrick, a fin de analizar si dichas teor\u00edas son de recibo en materia de propiedad comunitaria de la tierra. Como resultado del anterior an\u00e1lisis se obtiene la interpretaci\u00f3n de la normatividad, doctrina y jurisprudencia sobre la propiedad colectiva de la tierra, donde se demuestra la inexistencia de garant\u00edas jur\u00eddicas suficientes para estos grupos, para quienes la propiedad est\u00e1 asociada con sus condiciones b\u00e1sicas de existencia, cosmogon\u00eda y cosmovisi\u00f3n y por tanto, es derecho fundamental para una vida digna de sus individuos. Igualmente se pudo concluir que las pol\u00edticas p\u00fablicas y la normatividad, m\u00e1s que ser una respuesta a las necesidades de los peque\u00f1os propietarios de la tierra en el pa\u00eds, obedece a pol\u00edticas supranacionales con fines netamente extractivistas y mercantilistas, las cuales han migrado de las teor\u00edas cl\u00e1sicas del derecho de propiedad, hacia las que podr\u00edamos denominar como de \u201cnuda propiedad\u201d ."
+        ], 
+        "languages": [
+            "spa"
+        ], 
+        "subjects": [
+            [
+                "Propiedad de la tierra"
+            ], 
+            [
+                "Propiedad colectiva"
+            ], 
+            [
+                "Resguardos ind\u00edgenas"
+            ], 
+            [
+                "342.06"
+            ], 
+            [
+                "Derecho"
+            ], 
+            [
+                "Derecho administrativo"
+            ], 
+            [
+                "Propiedad conjunta de propiedad privada"
+            ], 
+            [
+                "Land ownership"
+            ], 
+            [
+                "Collective ownership"
+            ], 
+            [
+                "Indigenous reserves"
+            ]
+        ], 
+        "rawData": {
+            "dc.creator.none.fl_str_mv": [
+                "Delgado Casta\u00f1o, Paula Sigrid"
+            ], 
+            "dc.date.none.fl_str_mv": [
+                "2017-03-17T12:22:33Z", 
+                "2017-03-17T12:22:33Z", 
+                "2017-02-13"
+            ], 
+            "title_sort": "Estado cr\u00edtico de la propiedad rural colectiva en Colombia", 
+            "publisher.none.fl_str_mv": [
+                "Universidad del Rosario", 
+                "Maestr\u00eda en Derecho Administrativo", 
+                "Facultad de Jurisprudencia"
+            ], 
+            "topic": [
+                "Propiedad de la tierra", 
+                "Propiedad colectiva", 
+                "Resguardos ind\u00edgenas", 
+                "342.06", 
+                "Derecho", 
+                "Derecho administrativo", 
+                "Propiedad de la tierra", 
+                "Propiedad conjunta de propiedad privada", 
+                "Resguardos ind\u00edgenas", 
+                "Land ownership", 
+                "Collective ownership", 
+                "Indigenous reserves"
+            ], 
+            "dc.description.none.fl_txt_mv": [
+                "La Constituci\u00f3n Pol\u00edtica de Colombia, consagra en su art\u00edculo 58 la garant\u00eda a la propiedad privada, y le endosa a esta una funci\u00f3n social y al Estado el deber de propender por la protecci\u00f3n y promoci\u00f3n de posesiones de tierra bajo formas asociativas y solidarias. En este contexto constitucional y en el de la globalizaci\u00f3n de la econom\u00eda y de las teor\u00edas del desarrollo, se propone este trabajo determinar si el Estado colombiano, mediante las normas actuales y las pol\u00edticas p\u00fablicas vigentes, puede garantizar la peque\u00f1a propiedad rural y la supervivencia de las comunidades \u00e9tnicas. Para ello se partir\u00e1 de algunas teor\u00edas acerca de la formalizaci\u00f3n de la propiedad, como la de Daniel Fitzpatrick, a fin de analizar si dichas teor\u00edas son de recibo en materia de propiedad comunitaria de la tierra. Como resultado del anterior an\u00e1lisis se obtiene la interpretaci\u00f3n de la normatividad, doctrina y jurisprudencia sobre la propiedad colectiva de la tierra, donde se demuestra la inexistencia de garant\u00edas jur\u00eddicas suficientes para estos grupos, para quienes la propiedad est\u00e1 asociada con sus condiciones b\u00e1sicas de existencia, cosmogon\u00eda y cosmovisi\u00f3n y por tanto, es derecho fundamental para una vida digna de sus individuos. Igualmente se pudo concluir que las pol\u00edticas p\u00fablicas y la normatividad, m\u00e1s que ser una respuesta a las necesidades de los peque\u00f1os propietarios de la tierra en el pa\u00eds, obedece a pol\u00edticas supranacionales con fines netamente extractivistas y mercantilistas, las cuales han migrado de las teor\u00edas cl\u00e1sicas del derecho de propiedad, hacia las que podr\u00edamos denominar como de \u201cnuda propiedad\u201d .", 
+                "The Colombian Constitution, 58 article, guarantee private property and gives a social function and have duty to foster protection of landholdings under associational and collective forms. In this constitutional context and around the globalization theories and development politics, the objective of this work is to determine whether the Colombian state by the current rules and public politics, can guarantee, the small collective rural property and the survival of ethnic communities. For this objective, will be discussed about property theories as the theories of Daniel Fitzpatrick, to analyze whether these theories are applicable for community land ownership. As a result it obtains the interpretation of law, doctrine and jurisprudential on collective ownership of lands. The absence of legal guarantees is demonstrated in these groups where the property is associated with basic living conditions, cosmogony and cosmology regulations and therefore is a fundamental right to a dignified life of individuals. It could be conclued that public policies and regulations do not respond to the needs of smallholders, but it could respond to supranational policies that migrated from the classical theories of property rights to the \u201cbare ownership\u201d.", 
+                "Universidad del Rosario"
+            ], 
+            "url": [
+                "http://repository.urosario.edu.co/handle/10336/13139"
+            ], 
+            "title_full_unstemmed": "Estado cr\u00edtico de la propiedad rural colectiva en Colombia", 
+            "id": "CO_76d2d998c755362001f2c558dd8f7046", 
+            "status_str": "acceptedVersion", 
+            "reponame_str": "Repositorio Institucional EdocUR", 
+            "author": [
+                "Delgado Casta\u00f1o, Paula Sigrid"
+            ], 
+            "instname_str": "Colegio Mayor de Nuestra Se\u00f1ora del Rosario", 
+            "spellingShingle": [
+                "Estado cr\u00edtico de la propiedad rural colectiva en Colombia", 
+                "Delgado Casta\u00f1o, Paula Sigrid", 
+                "Propiedad de la tierra", 
+                "Propiedad colectiva", 
+                "Resguardos ind\u00edgenas", 
+                "342.06", 
+                "Derecho", 
+                "Derecho administrativo", 
+                "Propiedad de la tierra", 
+                "Propiedad conjunta de propiedad privada", 
+                "Resguardos ind\u00edgenas", 
+                "Land ownership", 
+                "Collective ownership", 
+                "Indigenous reserves"
+            ], 
+            "score": 2250.0327, 
+            "_version_": 1607631701525135360, 
+            "dc.publisher.none.fl_str_mv": [
+                "Universidad del Rosario", 
+                "Maestr\u00eda en Derecho Administrativo", 
+                "Facultad de Jurisprudencia"
+            ], 
+            "dc.type.none.fl_str_mv": [
+                "info:eu-repo/semantics/masterThesis", 
+                "info:eu-repo/semantics/acceptedVersion"
+            ], 
+            "repository.name.fl_str_mv": [
+                "\n\t\t\t-\n\t\t\t"
+            ], 
+            "description": "La Constituci\u00f3n Pol\u00edtica de Colombia, consagra en su art\u00edculo 58 la garant\u00eda a la propiedad privada, y le endosa a esta una funci\u00f3n social y al Estado el deber de propender por la protecci\u00f3n y promoci\u00f3n de posesiones de tierra bajo formas asociativas y solidarias. En este contexto constitucional y en el de la globalizaci\u00f3n de la econom\u00eda y de las teor\u00edas del desarrollo, se propone este trabajo determinar si el Estado colombiano, mediante las normas actuales y las pol\u00edticas p\u00fablicas vigentes, puede garantizar la peque\u00f1a propiedad rural y la supervivencia de las comunidades \u00e9tnicas. Para ello se partir\u00e1 de algunas teor\u00edas acerca de la formalizaci\u00f3n de la propiedad, como la de Daniel Fitzpatrick, a fin de analizar si dichas teor\u00edas son de recibo en materia de propiedad comunitaria de la tierra. Como resultado del anterior an\u00e1lisis se obtiene la interpretaci\u00f3n de la normatividad, doctrina y jurisprudencia sobre la propiedad colectiva de la tierra, donde se demuestra la inexistencia de garant\u00edas jur\u00eddicas suficientes para estos grupos, para quienes la propiedad est\u00e1 asociada con sus condiciones b\u00e1sicas de existencia, cosmogon\u00eda y cosmovisi\u00f3n y por tanto, es derecho fundamental para una vida digna de sus individuos. Igualmente se pudo concluir que las pol\u00edticas p\u00fablicas y la normatividad, m\u00e1s que ser una respuesta a las necesidades de los peque\u00f1os propietarios de la tierra en el pa\u00eds, obedece a pol\u00edticas supranacionales con fines netamente extractivistas y mercantilistas, las cuales han migrado de las teor\u00edas cl\u00e1sicas del derecho de propiedad, hacia las que podr\u00edamos denominar como de \u201cnuda propiedad\u201d .", 
+            "format": [
+                "masterThesis"
+            ], 
+            "network_name_str": "Colombia", 
+            "publishDate": [
+                "2017"
+            ], 
+            "network_acronym_str": "CO", 
+            "dc.format.none.fl_str_mv": [
+                "application/pdf"
+            ], 
+            "eu_rights_str_mv": [
+                "openAccess"
+            ], 
+            "collection": [
+                "Repositorio Institucional EdocUR"
+            ], 
+            "oai_identifier_str": "lr::4093::22866847::oai:repository.urosario.edu.co:10336/13139", 
+            "rights_invalid_str_mv": [
+                "http://creativecommons.org/licenses/by-nc-nd/2.5/co/"
+            ], 
+            "dc.source.none.fl_str_mv": [
+                "Alfonso, T., Grueso, L., Prada M., Salinas Abdala, Y. (2011). Derechos Enterrados, Comunidades \u00c9tnicas y Campesinas en Colombia, Nueve Casos de Estudio. Bogot\u00e1: Ediciones Uniandes.", 
+                "Alviar Garc\u00eda, H., y VILLEGAS del Castillo, C. (2012). La Funci\u00f3n Social de la Propiedad en las Constituciones Colombianas. Bogot\u00e1: Editorial Kimpres Ltda.", 
+                "Arias Castillo, W (2013). Documento enviado a la Contralor\u00eda General de la Rep\u00fablica. Bogot\u00e1.", 
+                "Berry Albert. (2002). \u00bfColombia encontr\u00f3 por fin una reforma agraria que funcione?. Revista de Econom\u00eda Institucional, Vol. 4, No. 6, 24-70.", 
+                "Bola\u00f1os, G., Bonilla, V., Caballero J., Espinoza, M., Garc\u00eda, J., Hern\u00e1ndez, J, Pe\u00f1aranda, D., Tattay, P., Tattay, L. (2012). Nuestra vida ha sido nuestra lucha. Resistencia y memoria en el Cauca ind\u00edgena. Bogot\u00e1: Imprenta Nacional.", 
+                "Comisi\u00f3n de Seguimiento y Monitoreo al cumplimiento de la Ley 1448 de 2011. (2015). Segundo Informe al Congreso de la Rep\u00fablica \u2013 2014-2015. Bogot\u00e1: Imprenta Nacional de Colombia.", 
+                "Colombia, Agencia Presidencial para la Acci\u00f3n Social y la Cooperaci\u00f3n Internacional \u2013 Acci\u00f3n Social (2010). Unidades Agr\u00edcolas Familiares, tenencia y abandono forzado de tierras en Colombia. Proyecto Protecci\u00f3n de Tierras y Patrimonio de la Poblaci\u00f3n Desplazada.", 
+                "Colombia, Congreso de la Rep\u00fablica, \u201cLey 89 de 1890, por la cual se determina la manera como deben ser gobernados los salvajes que vayan reduci\u00e9ndose a la vida civilizada\u201d.", 
+                "Colombia, Congreso de la Rep\u00fablica, \u201cLey 110 de 1912, por la cual se sustituyen el C\u00f3digo Fiscal y las Leyes que lo adicionan y reforman\u201d.", 
+                "Colombia, Congreso de la Rep\u00fablica, \u201cLey 200 de 1936, sobre r\u00e9gimen de Tierras\u201d.", 
+                "Colombia, Congreso de la Rep\u00fablica, \u201cLey 135 de 1961, sobre reforma social agraria\u201d.", 
+                "Colombia, Congreso de la Rep\u00fablica, \u201cLey 6 de 1975, por la cual se dictan normas sobre contratos de aparcer\u00eda y otras formas de explotaci\u00f3n de tierra\u201d.", 
+                "Colombia, Congreso de la Rep\u00fablica, \u201cLey 21 de 1991, por medio de la cual se aprueba el convenio n\u00famero 169 sobre pueblos ind\u00edgenas y tribales en pa\u00edses independientes, adoptado por la 76\u00aa reuni\u00f3n de la Conferencia General de la OIT, Ginebra 1989\u201d.", 
+                "Colombia, Congreso de la Rep\u00fablica, \u201cLey 70 de 1993, por la cual se desarrolla el art\u00edculo transitorio 55 de la Constituci\u00f3n Pol\u00edtica\u201d.", 
+                "Colombia, Congreso de la Rep\u00fablica, \u201cLey 99 de 1993, por la cual se crea el Ministerio del Medio Ambiente, se reordena el sector p\u00fablico encargado de la gesti\u00f3n y conservaci\u00f3n del medio ambiente y los recursos naturales renovables se organiza el Sistema Nacional Ambiental, SINA y se dictan otras disposiciones\u201d.", 
+                "Colombia, Congreso de la Rep\u00fablica, \u201cLey 160 de 1994, por la cual se crea el Sistema Nacional de Reforma Agraria y Desarrollo Rural Campesino, se establece un subsidio para la adquisici\u00f3n de tierras, se reforma el Instituto Colombiano de la Reforma Agraria y se dictan otras disposiciones\u201d.", 
+                "Colombia, Congreso de la Rep\u00fablica, \u201cLey 188 de 1995, por la cual se expide el Plan Nacional de Desarrollo 1995-1998\u201d.", 
+                "Colombia, Presidencia de la Rep\u00fablica, \u201cDecreto 2164 de 1995 por el cual se reglamenta parcialmente el cap\u00edtulo XIV de la ley 160 de 1994\u201d.", 
+                "Colombia, Presidencia de la Rep\u00fablica, \u201cDecreto 1320 de 1998 por el cual se reglamenta la consulta previa con las comunidades ind\u00edgenas y negras para la explotaci\u00f3n de los recursos naturales dentro de su territorio\u201d.", 
+                "Colombia, Congreso de la Rep\u00fablica, \u201cLey 508 de 1999, por la cual se expide el Plan Nacional de Desarrollo 1999-2002\u201d.", 
+                "Colombia, Congreso de la Rep\u00fablica, \u201cLey 791 de 2002, por medio de la cual se reducen los t\u00e9rminos de prescripci\u00f3n en materia civil\u201d.", 
+                "Colombia, Congreso de la Rep\u00fablica, \u201cLey 812 de 2003, por la cual se expide el Plan Nacional de Desarrollo 2003-2006\u201d.", 
+                "Colombia, Congreso de la Rep\u00fablica, \u201cLey 1151 de 2007, por la cual se expide el Plan Nacional de Desarrollo 2006-2010\u201d.", 
+                "Colombia, Congreso de la Rep\u00fablica, \u201cLey 1448 de 2011, por la cual se dictan medidas de atenci\u00f3n, asistencia y reparaci\u00f3n integral a las v\u00edctimas del conflicto armado interno y se dictan otras disposiciones\u201d.", 
+                "Colombia, Congreso de la Rep\u00fablica, \u201cLey 1450 de 2011, por la cual se expide el Plan Nacional de Desarrollo 2010-2014\u201d.", 
+                "Colombia, Congreso de la Rep\u00fablica, \u201cLey 1753 de 2015, por la cual se expide el Plan Nacional de Desarrollo 2014-2018\u201d", 
+                "Colombia, Presidencia de la Rep\u00fablica, \u201cDecreto 1071 de 2015 por medio del cual se expide el Decreto \u00danico Reglamentario del Sector Administrativo Agropecuario, Pesquero y de Desarrollo Rural\u201d.", 
+                "Colombia, Congreso de la Rep\u00fablica, \u201cLey 1776 de 2016, por la cual se crean y se desarrollan las zonas de inter\u00e9s de desarrollo rural, econ\u00f3mico y social, ZIDRES\u201d.", 
+                "Comisi\u00f3n de Seguimiento y Monitoreo a los Decretos Ley de comunidades \u00e9tnicas. (2015). Seguimiento y Monitoreo a los Decretos Ley de comunidades \u00e9tnicas v\u00edctimas del conflicto. Bogot\u00e1.", 
+                "Corte Constitucional, T-188/1993, E. Cifuentes.", 
+                "Corte Constitucional, SU-039/1997, A. Barrera.", 
+                "Corte Constitucional, T-769/ 2009, M.P. N. Pinilla.", 
+                "Corte Constitucional, C-644/ 2012, M.P. J. Pretelt.", 
+                "Corte Constitucional, T-465A/2014, M.P. J. Pretelt.", 
+                "Corte Constitucional, T-488/2014, M.P. J. Palacio.", 
+                "Corte Suprema de Justicia, Sala de Casaci\u00f3n Civil, 16 Feb. 2016, M.P. L. Tolosa.", 
+                "De Soto, H. (2001). El Misterio del Capital. En Finanzas & Desarrollo. Recuperado de https://www.imf.org/external/pubs/ft/fandd/spa/2001/03/pdf/desoto.pdf.", 
+                "Departamento de Planeaci\u00f3n Nacional. Desarrollo Econ\u00f3mico y Social (1961-1970) \u2013Alberto Lleras Camargo. Recuperado de https://www.dnp.gov.co/Plan-Nacional-de-Desarrollo/Paginas/Planes-de-Desarrollo-anteriores.aspx.", 
+                "Departamento de Planeaci\u00f3n Nacional. Planes y Programas de Desarrollo (1969-1972) \u2013Carlos Lleras Restrepo. Recuperado de https://www.dnp.gov.co/Plan-Nacional-de-Desarrollo/Paginas/Planes-de-Desarrollo-anteriores.aspx.", 
+                "Departamento de Planeaci\u00f3n Nacional. Para Cerrar la brecha (1974-1978) \u2013Alfonso L\u00f3pez. Recuperado de https://www.dnp.gov.co/Plan-Nacional-de-Desarrollo/Paginas/Planes-de-Desarrollo-anteriores.aspx.", 
+                "Departamento de Planeaci\u00f3n Nacional. Plan de Integraci\u00f3n Social (1978-1982) \u2013Julio C\u00e9sar Turbay.. Recuperado de https://www.dnp.gov.co/Plan-Nacional-de-Desarrollo/Paginas/Planes-de-Desarrollo-anteriores.aspx.", 
+                "Departamento de Planeaci\u00f3n Nacional. Cambio con equidad (1982-1986) \u2013Belisario Betancur. Recuperado de https://www.dnp.gov.co/Plan-Nacional-de-Desarrollo/Paginas/Planes-de-Desarrollo-anteriores.aspx.", 
+                "Departamento de Planeaci\u00f3n Nacional. Plan de Econom\u00eda Social (1986-1990) \u2013Virgilio Barco. Recuperado de https://www.dnp.gov.co/Plan-Nacional-de-Desarrollo/Paginas/Planes-de-Desarrollo-anteriores.aspx.", 
+                "Departamento de Planeaci\u00f3n Nacional. La revoluci\u00f3n pac\u00edfica (1990-1994) \u2013C\u00e9sar Gaviria. Recuperado de https://www.dnp.gov.co/Plan-Nacional-de-Desarrollo/Paginas/Planes-de-Desarrollo-anteriores.aspx.", 
+                "Departamento de Planeaci\u00f3n Nacional. El salto social (1994-1998) \u2013Ernesto Samper. Recuperado de https://www.dnp.gov.co/Plan-Nacional-de-Desarrollo/Paginas/Planes-de-Desarrollo-anteriores.aspx.", 
+                "Departamento de Planeaci\u00f3n Nacional. Cambio para construir la paz (1998-2002) \u2013Andr\u00e9s Pastrana. Recuperado de https://www.dnp.gov.co/Plan-Nacional-de-Desarrollo/Paginas/Planes-de-Desarrollo-anteriores.aspx.", 
+                "Departamento de Planeaci\u00f3n Nacional. Hacia un Estado comunitario (2002-2006) \u2013\u00c1lvaro Uribe V\u00e9lez. Recuperado de https://www.dnp.gov.co/Plan-Nacional-de-Desarrollo/Paginas/Planes-de-Desarrollo-anteriores.aspx.", 
+                "Departamento de Planeaci\u00f3n Nacional. Estado Comunitario: Desarrollo para todos (2006-2010) \u2013\u00c1lvaro Uribe V\u00e9lez. Recuperado https://www.dnp.gov.co/Plan-Nacional-de-Desarrollo/PND%202006-2010/Paginas/PND-2006-2010.aspx.", 
+                "El Nuevo Siglo. (10 de junio de 2014). 327.621 familias cobijadas con formalizaci\u00f3n rural. 19\u00aa", 
+                "El Nuevo Siglo. (20 de abril de 2015). Vuelve y juega proyecto de las Zidres. 2\u00aa.", 
+                "El Nuevo Siglo. (22 de mayo de 2015). Zonas mineras no violan derechos de las comunidades \u00e9tnicas: MinMinas. 9B.", 
+                "El Nuevo Siglo. (12 de agosto de 2015). \u201cReforma Rural Integral es m\u00e1s necesaria que nunca\u201d. 27\u00aa.", 
+                "El Nuevo Siglo. (5 de octubre de 2015). Revolc\u00f3n agropecuario estar\u00eda listo antes del 8 de diciembre. 2\u00aa.", 
+                "El Nuevo Siglo. (28 de octubre de 2015). Solo 7.1 millones de hect\u00e1reas se usan para cultivos permanentes.", 
+                "El Nuevo Siglo. (11 de diciembre de 2015). Gobierno le mete el acelerador al proyecto de ley Zidres. 8\u00aa.", 
+                "Fals, O. (1975). Historia de la cuesti\u00f3n agraria en Colombia. Bogot\u00e1: Publicaciones de la Rosca.", 
+                "Fitzpatrick, D. (2006). Evolution and Chaos in the Property Right Systems: The Third World Tragedy of Contested Access. The Yale Law Journal.", 
+                "Garay, L., Bailey, R., Forero, J., Barberi, F., Ram\u00edrez, C., Su\u00e1rez, D., G\u00f3mez, R., Castro, Y., \u00c1lvarez, J., Rold\u00e1n, R., S\u00e1nchez, E., Machado, A., Salgado, C., Naranjo, S., Perry, S. (2013). Reflexiones sobre la ruralidad y el territorio en Colombia: Problem\u00e1ticas y Retos Actuales. Bogot\u00e1: Torre Gr\u00e1fica Ltda.", 
+                "Gonz\u00e1lez, M. (1970). El Resguardo en el Nuevo Reino de Granada. Bogot\u00e1: Imprenta Nacional.", 
+                "Hinestroza L. (2008). Declaraci\u00f3n de areas protegidas en territorios colectivos de comunidades negras en Colombia. Bogot\u00e1: Departamento de Publicaciones de la Universidad Externado de Colombia.", 
+                "Kaustsky F. (1899). La cuesti\u00f3n agraria. Mil\u00e1n: Siglo Veintiuno Editores S.A.", 
+                "Legrand, C. (1988). Colonizaci\u00f3n y Protesta Campesina en Colombia (1850-1950). Bogot\u00e1: Centro Editorial Universidad Nacional de Colombia.", 
+                "Lipton M. (2009). Land reform in developing countries: property rights and property wrongs. New York: Routledge 2 Park Square.", 
+                "Lopera, G. (2010). Territorios, Identidades y Jurisdicciones en disputa: la regulaci\u00f3n de los derechos sobre la tierra en el resguardo Ca\u00f1amomo-Lomaprieta. Medell\u00edn: Universidad Eafit.", 
+                "L\u00f3pez, J., y Maldonado G. (2009). La protecci\u00f3n de la propiedad de la tierra en la jurisprudencia de la Corte Interamericana de Derechos Humanos y su aplicaci\u00f3n al caso de las comunidades campesinas en Colombia. 14 International Law, Revista Colombiana de Derecho Internacional, 71-105.", 
+                "Mart\u00ednez A. (1986). Planes de Desarrollo y pol\u00edtica agraria en Colombia 1940-1978. Bogot\u00e1. Universidad Nacional de Colombia.", 
+                "McMichael F, N\u00fa\u00f1ez R y Carton de Grammont H. (1998). Reconsiderar la globalizaci\u00f3n: otra vez la cuesti\u00f3n agraria. Revista Mexicana de Sociolog\u00eda, Vol. 60, No. 4, 3-37.", 
+                "Moncayo H, Novoa E, Mondrag\u00f3n H, Fl\u00f3rez M, \u00c1lvarez P, Su\u00e1rez A. (2008). La cuesti\u00f3n agraria hoy. Colombia: Tierra sin campesinos. Bogot\u00e1: Ediciones \u00c1ntropos.", 
+                "Moreno, C. (02 de marzo de 2016). El Impuesto sobre la propiedad de la tierra. Obst\u00e1culo y oportunidad para la transformaci\u00f3n de la estructura agraria. El Espectador.", 
+                "Murgueitio, C. (2014). El proceso de desamortizaci\u00f3n de las tierras ind\u00edgenas durante las rep\u00fablicas liberales de M\u00e9xico y Colombia, 1853-1876. Anuario de Historia Regional y de las Fronteras, Vol\u00famen 20-1, p. 74-95.", 
+                "Naciones Unidas. (2012). Tierras y derechos humanos. Compilaci\u00f3n de jurisprudencia y doctrina nacional e internacional.Bogot\u00e1: Oficina en Colombia del Alto Comisionado de las Naciones Unidas para los Derechos Humanos.", 
+                "Oxfam. (2015). El campo en el Plan Nacional de Desarrollo/2014-2018. Bogot\u00e1: Torre Gr\u00e1fica Limitada.", 
+                "Parra Lleras, E. (2009). Una propuesta de catastro nacional para el siglo XXI. Bogot\u00e1: Digiprint Editores EU.", 
+                "Pe\u00f1a Huerta, R. P., Parada Hern\u00e1ndez, M. M., Zuleta R\u00edos, S. (2014). La regulaci\u00f3n agraria en Colombia o el eterno d\u00e9j\u00e1 vu hacia la concentraci\u00f3n y el despojo: un an\u00e1lisis de las normas jur\u00eddicas colombianas sobre el agro (1991 \u2013 2010). Estudios Sociojur\u00eddicos, 16(1), pp. 123-16. Doi: dx.doi.org/10.12804/esj6.1.2014.03", 
+                "Pinilla, J., Rengifo, M. (2012). La Ciudad y el Derecho: Una Introducci\u00f3n al Derecho Urbano Contempor\u00e1neo. Bogot\u00e1: Universidad de los Andes.", 
+                "Quinche, M., et al. (2015). El amparo de tierras: La acci\u00f3n, el proceso y el juez de restituci\u00f3n. Bogot\u00e1: Editorial Universidad del Rosario.", 
+                "Restrepo J. El desarrollo en Colombia: historia de una hegemon\u00eda discursiva. Revista Lasallista de Investigaci\u00f3n, Vol\u00famen I, No. 1, p 27-37.", 
+                "Restrepo J. (2011). Pol\u00edtica Integral de tierras: Un viraje trascendental en la restituci\u00f3n y formalizaci\u00f3n de la propiedad agraria. Bogot\u00e1: Villegas Editores.", 
+                "Reyes Posada, A. (2008). Guerreros y Campesinos, El despojo de la tierra n Colombia. Bogot\u00e1: Grupo Editorial Norma.", 
+                "Rodr\u00edguez, G. (2014). De la consulta previa al consentimiento libre, previo e informado a pueblos ind\u00edgenas en Colombia. Bogot\u00e1: Grupo Editorial Ib\u00e1\u00f1ez S.A.S.", 
+                "Salazar, M. (1948). Proceso hist\u00f3rico de la propiedad en Colombia. Bogot\u00e1: Editorial ABC.", 
+                "Ulloa, A. (2012). Los territorios ind\u00edgenas en Colombia: de escenarios de apropiaci\u00f3n transnacional a territorialidades alternativas. Revista Electr\u00f3nica de Geograf\u00eda y Ciencias Sociales. Volumen XVI No. 418. Barcelona: Universidad de Barcelona.", 
+                "Ulloa, A. (2013). Controlando la naturaleza: ambientalismo transnacional y negociaciones locales en torno al cambio clim\u00e1tico en territorios ind\u00edgenas en Colombia. Revista Iberoamericana. Volumen XIII No. 49, p 117-133.", 
+                "Uprimny R y S\u00e1nchez N. (2010). Los dilemas de la restituci\u00f3n de tierras en Colombia. Revista Estudios Socio-Jur\u00eddicos. Vol\u00famen 12 No. 2, p 305-342.", 
+                "Valencia, A. y Ort\u00edz, \u00c1. (1996). Derecho Civil Tomo II, Derechos Reales. Bogot\u00e1 Editorial Temis S.A.", 
+                "Villaveces, J, S\u00e1nchez F. (2015). Tendencias hist\u00f3ricas y regionales de la adjudicaci\u00f3n de bald\u00edos en Colombia. Serie Documentos de Trabajo No. 179. Recuperado de: http://ez.urosario.edu.co/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=edsrep&AN=edsrep.012538&lang=es&site=eds-live", 
+                "Yrigoyen Fajardo, R. (2000). Reconocimiento Constitucional del Derecho Ind\u00edgena y la Jurisdicci\u00f3n Especial en los Pa\u00edses Andinos. Buenos Aires: Revista Pena y Estado No. 4. Editorial El Puerto.", 
+                "Zapata Torres, J. (2010). Espacio y Territorio Sagrado. L\u00f3gica del \u201cordenamiento\u201d territorial ind\u00edgena. Bogot\u00e1: Universidad Nacional de Colombia.", 
+                "reponame:Repositorio Institucional EdocUR", 
+                "instname:Colegio Mayor de Nuestra Se\u00f1ora del Rosario"
+            ], 
+            "dc.language.none.fl_str_mv": [
+                "spa"
+            ], 
+            "dc.title.none.fl_str_mv": [
+                "Estado cr\u00edtico de la propiedad rural colectiva en Colombia"
+            ], 
+            "dc.identifier.none.fl_str_mv": [
+                "http://repository.urosario.edu.co/handle/10336/13139"
+            ], 
+            "title_short": "Estado cr\u00edtico de la propiedad rural colectiva en Colombia", 
+            "language": [
+                "spa"
+            ], 
+            "dc.subject.none.fl_str_mv": [
+                "Propiedad de la tierra", 
+                "Propiedad colectiva", 
+                "Resguardos ind\u00edgenas", 
+                "342.06", 
+                "Derecho", 
+                "Derecho administrativo", 
+                "Propiedad de la tierra", 
+                "Propiedad conjunta de propiedad privada", 
+                "Resguardos ind\u00edgenas", 
+                "Land ownership", 
+                "Collective ownership", 
+                "Indigenous reserves"
+            ], 
+            "title": "Estado cr\u00edtico de la propiedad rural colectiva en Colombia", 
+            "dc.rights.none.fl_str_mv": [
+                "http://creativecommons.org/licenses/by-nc-nd/2.5/co/", 
+                "info:eu-repo/semantics/openAccess"
+            ], 
+            "title_full": "Estado cr\u00edtico de la propiedad rural colectiva en Colombia", 
+            "repository.mail.fl_str_mv": [
+                "mail@mail.com"
+            ], 
+            "dc.contributor.none.fl_str_mv": [
+                "Pe\u00f1a-Huertas, Rocio Del Pilar"
+            ], 
+            "author_facet": [
+                "Delgado Casta\u00f1o, Paula Sigrid"
+            ], 
+            "title_fullStr": "Estado cr\u00edtico de la propiedad rural colectiva en Colombia"
+        }, 
+        "urls": [
+            {
+                "url": "http://repository.urosario.edu.co/handle/10336/13139", 
+                "desc": "http://repository.urosario.edu.co/handle/10336/13139"
+            }
+        ], 
+        "formats": [
+            "masterThesis"
+        ], 
+        "id": "CO_76d2d998c755362001f2c558dd8f7046"
+    }, 
+    {
+        "primaryAuthors": [
+            "\u00c1vila Quijas, Aquiles Omar"
+        ], 
+        "title": "Interpretaciones sobre la redenci\u00f3n de censos enfit\u00e9uticos en Guatemala a finales del siglo XIX : Los casos de Antigua Guatemala, San Felipe y San Mateo Milpas Altas", 
+        "publicationDates": [
+            "2012"
+        ], 
+        "summary": [
+            "En este art\u00edculo se analiza la manera en la que tres ayuntamientos del Departamento de Sacatep\u00e9quez, Guatemala (Antigua Guatemala, San Felipe y San Mateo Milpas Altas) interpretaron el decreto de redenci\u00f3n de censos enfit\u00e9uticos de 1877. El objetivo es demostrar que la significaci\u00f3n de la propiedad privada estaba vinculada a la relaci\u00f3n comunidad-autoridad y a la cohesi\u00f3n social que se gener\u00f3 a partir de la misma, con lo cual se cuestiona la hip\u00f3tesis historiogr\u00e1fica de que los ayuntamientos ind\u00edgenas fueron pauperizados y despojados de sus tierras en el R\u00e9gimen Liberal. Se hace a trav\u00e9s de dos v\u00edas de an\u00e1lisis: la primera en t\u00e9rminos de lo comunitario y la segunda a trav\u00e9s de la acci\u00f3n colectiva y el institucionalismo. Finalmente, se logra ver que fue el ayuntamiento no ind\u00edgena, Antigua Guatemala, el que m\u00e1s r\u00e1pidamente se pauperiz\u00f3, mientras los otros dos lograron mantener la din\u00e1mica social y el flujo de ingresos aun cuando privatizaron sus tierras"
+        ], 
+        "languages": [
+            "spa"
+        ], 
+        "subjects": [
+            [
+                "Ciencias Agrarias"
+            ], 
+            [
+                "Historia"
+            ], 
+            [
+                "Poblaci\u00f3n Ind\u00edgena"
+            ], 
+            [
+                "propiedad privada"
+            ], 
+            [
+                "explotaci\u00f3n agr\u00edcola de la tierra"
+            ], 
+            [
+                "censo enfit\u00e9utico"
+            ], 
+            [
+                "redenci\u00f3n de censos enfit\u00e9uticos"
+            ], 
+            [
+                "acci\u00f3n colectiva"
+            ], 
+            [
+                "emphyteutic census"
+            ], 
+            [
+                "emphyteutic census redemption"
+            ], 
+            [
+                "collective action"
+            ]
+        ], 
+        "rawData": {
+            "dc.creator.none.fl_str_mv": [
+                "\u00c1vila Quijas, Aquiles Omar"
+            ], 
+            "dc.date.none.fl_str_mv": [
+                "2012-01-01"
+            ], 
+            "title_sort": "Interpretaciones sobre la redenci\u00f3n de censos enfit\u00e9uticos en Guatemala a finales del siglo XIX : Los casos de Antigua Guatemala, San Felipe y San Mateo Milpas Altas", 
+            "dc.relation.none.fl_str_mv": [
+                "Lo agrario en los siglos XVIII y XIX en la Am\u00e9rica Latina: pueblos indios", 
+                "Mundo Agrario", 
+                "vol. 13, no. 25"
+            ], 
+            "topic": [
+                "Ciencias Agrarias", 
+                "Historia", 
+                "Poblaci\u00f3n Ind\u00edgena", 
+                "propiedad privada", 
+                "explotaci\u00f3n agr\u00edcola de la tierra", 
+                "censo enfit\u00e9utico", 
+                "redenci\u00f3n de censos enfit\u00e9uticos", 
+                "acci\u00f3n colectiva", 
+                "emphyteutic census", 
+                "emphyteutic census redemption", 
+                "collective action"
+            ], 
+            "dc.description.none.fl_txt_mv": [
+                "En este art\u00edculo se analiza la manera en la que tres ayuntamientos del Departamento de Sacatep\u00e9quez, Guatemala (Antigua Guatemala, San Felipe y San Mateo Milpas Altas) interpretaron el decreto de redenci\u00f3n de censos enfit\u00e9uticos de 1877. El objetivo es demostrar que la significaci\u00f3n de la propiedad privada estaba vinculada a la relaci\u00f3n comunidad-autoridad y a la cohesi\u00f3n social que se gener\u00f3 a partir de la misma, con lo cual se cuestiona la hip\u00f3tesis historiogr\u00e1fica de que los ayuntamientos ind\u00edgenas fueron pauperizados y despojados de sus tierras en el R\u00e9gimen Liberal. Se hace a trav\u00e9s de dos v\u00edas de an\u00e1lisis: la primera en t\u00e9rminos de lo comunitario y la segunda a trav\u00e9s de la acci\u00f3n colectiva y el institucionalismo. Finalmente, se logra ver que fue el ayuntamiento no ind\u00edgena, Antigua Guatemala, el que m\u00e1s r\u00e1pidamente se pauperiz\u00f3, mientras los otros dos lograron mantener la din\u00e1mica social y el flujo de ingresos aun cuando privatizaron sus tierras", 
+                "This article analyses the interpretation that three city councils from the Department of Sacatep\u00e9quez, Guatemala (Antigua Guatemala, San Felipe and San Mateo Milpas Altas) made of the emphyteutic census redemption decree from 1877. The objective is to demonstrate that the signification of private property was related to the community-authority relationship and the social cohesion derived from it, which gives the opportunity to question the historiographical hypothesis that underline that indigenous city councils were impoverished and their land stripped during the Liberal Regime. To accomplish this there are traced to analysis ways, the first one is about community and the second one is drawn through collective action and institutionalism. Finally, it can be seen that the non-indigenous city council, Antigua Guatemala, was impoverished sooner, while the other two maintained their social dynamic and the money flow even when their lands were privatize", 
+                "Centro de Historia Argentina y Americana"
+            ], 
+            "url": [
+                "http://sedici.unlp.edu.ar/handle/10915/26275", 
+                "http://hdl.handle.net/10915/26275", 
+                "http://mundoagrario.unlp.edu.ar/article/view/MAv13n25a13/pdf"
+            ], 
+            "title_full_unstemmed": "Interpretaciones sobre la redenci\u00f3n de censos enfit\u00e9uticos en Guatemala a finales del siglo XIX : Los casos de Antigua Guatemala, San Felipe y San Mateo Milpas Altas", 
+            "id": "AR_9cfb641e9e941738f02060627ef3694d", 
+            "status_str": "publishedVersion", 
+            "author": [
+                "\u00c1vila Quijas, Aquiles Omar"
+            ], 
+            "spellingShingle": [
+                "Interpretaciones sobre la redenci\u00f3n de censos enfit\u00e9uticos en Guatemala a finales del siglo XIX : Los casos de Antigua Guatemala, San Felipe y San Mateo Milpas Altas", 
+                "\u00c1vila Quijas, Aquiles Omar", 
+                "Ciencias Agrarias", 
+                "Historia", 
+                "Poblaci\u00f3n Ind\u00edgena", 
+                "propiedad privada", 
+                "explotaci\u00f3n agr\u00edcola de la tierra", 
+                "censo enfit\u00e9utico", 
+                "redenci\u00f3n de censos enfit\u00e9uticos", 
+                "acci\u00f3n colectiva", 
+                "emphyteutic census", 
+                "emphyteutic census redemption", 
+                "collective action"
+            ], 
+            "score": 1918.741, 
+            "_version_": 1607631529633120256, 
+            "dc.type.none.fl_str_mv": [
+                "info:eu-repo/semantics/article", 
+                "info:ar-repo/semantics/art\u00edculo", 
+                "info:eu-repo/semantics/publishedVersion", 
+                "Articulo"
+            ], 
+            "repository.name.fl_str_mv": [
+                "\n\t\t\t-\n\t\t\t"
+            ], 
+            "description": "En este art\u00edculo se analiza la manera en la que tres ayuntamientos del Departamento de Sacatep\u00e9quez, Guatemala (Antigua Guatemala, San Felipe y San Mateo Milpas Altas) interpretaron el decreto de redenci\u00f3n de censos enfit\u00e9uticos de 1877. El objetivo es demostrar que la significaci\u00f3n de la propiedad privada estaba vinculada a la relaci\u00f3n comunidad-autoridad y a la cohesi\u00f3n social que se gener\u00f3 a partir de la misma, con lo cual se cuestiona la hip\u00f3tesis historiogr\u00e1fica de que los ayuntamientos ind\u00edgenas fueron pauperizados y despojados de sus tierras en el R\u00e9gimen Liberal. Se hace a trav\u00e9s de dos v\u00edas de an\u00e1lisis: la primera en t\u00e9rminos de lo comunitario y la segunda a trav\u00e9s de la acci\u00f3n colectiva y el institucionalismo. Finalmente, se logra ver que fue el ayuntamiento no ind\u00edgena, Antigua Guatemala, el que m\u00e1s r\u00e1pidamente se pauperiz\u00f3, mientras los otros dos lograron mantener la din\u00e1mica social y el flujo de ingresos aun cuando privatizaron sus tierras", 
+            "format": [
+                "article"
+            ], 
+            "network_name_str": "Argentina", 
+            "publishDate": [
+                "2012"
+            ], 
+            "network_acronym_str": "AR", 
+            "dc.format.none.fl_str_mv": [
+                "application/pdf", 
+                "32 p."
+            ], 
+            "eu_rights_str_mv": [
+                "openAccess"
+            ], 
+            "oai_identifier_str": "0aa9bcb7-1092-4d4f-87df-e2c19fceb5e3/oai:sedici.unlp.edu.ar:10915/26275", 
+            "rights_invalid_str_mv": [
+                "http://creativecommons.org/licenses/by-nc-nd/2.5/ar/", 
+                "Creative Commons Attribution-NonCommercial-NoDerivs 2.5 Argentina (CC BY-NC-ND 2.5)"
+            ], 
+            "dc.language.none.fl_str_mv": [
+                "spa"
+            ], 
+            "dc.title.none.fl_str_mv": [
+                "Interpretaciones sobre la redenci\u00f3n de censos enfit\u00e9uticos en Guatemala a finales del siglo XIX : Los casos de Antigua Guatemala, San Felipe y San Mateo Milpas Altas", 
+                "Interpretations about emphyteutic census redemption in Guatemala in late Nineteenth Century. The cases of Antigua Guatemala, San Felipe and San Mateo Milpas Altas"
+            ], 
+            "dc.identifier.none.fl_str_mv": [
+                "http://sedici.unlp.edu.ar/handle/10915/26275", 
+                "http://hdl.handle.net/10915/26275", 
+                "http://mundoagrario.unlp.edu.ar/article/view/MAv13n25a13/pdf"
+            ], 
+            "title_short": "Interpretaciones sobre la redenci\u00f3n de censos enfit\u00e9uticos en Guatemala a finales del siglo XIX : Los casos de Antigua Guatemala, San Felipe y San Mateo Milpas Altas", 
+            "language": [
+                "spa"
+            ], 
+            "dc.subject.none.fl_str_mv": [
+                "Ciencias Agrarias", 
+                "Historia", 
+                "Poblaci\u00f3n Ind\u00edgena", 
+                "propiedad privada", 
+                "explotaci\u00f3n agr\u00edcola de la tierra", 
+                "censo enfit\u00e9utico", 
+                "redenci\u00f3n de censos enfit\u00e9uticos", 
+                "acci\u00f3n colectiva", 
+                "emphyteutic census", 
+                "emphyteutic census redemption", 
+                "collective action"
+            ], 
+            "title": "Interpretaciones sobre la redenci\u00f3n de censos enfit\u00e9uticos en Guatemala a finales del siglo XIX : Los casos de Antigua Guatemala, San Felipe y San Mateo Milpas Altas", 
+            "dc.rights.none.fl_str_mv": [
+                "info:eu-repo/semantics/openAccess", 
+                "http://creativecommons.org/licenses/by-nc-nd/2.5/ar/", 
+                "Creative Commons Attribution-NonCommercial-NoDerivs 2.5 Argentina (CC BY-NC-ND 2.5)"
+            ], 
+            "title_full": "Interpretaciones sobre la redenci\u00f3n de censos enfit\u00e9uticos en Guatemala a finales del siglo XIX : Los casos de Antigua Guatemala, San Felipe y San Mateo Milpas Altas", 
+            "repository.mail.fl_str_mv": [
+                "mail@mail.com"
+            ], 
+            "author_facet": [
+                "\u00c1vila Quijas, Aquiles Omar"
+            ], 
+            "title_fullStr": "Interpretaciones sobre la redenci\u00f3n de censos enfit\u00e9uticos en Guatemala a finales del siglo XIX : Los casos de Antigua Guatemala, San Felipe y San Mateo Milpas Altas"
+        }, 
+        "urls": [
+            {
+                "url": "http://sedici.unlp.edu.ar/handle/10915/26275", 
+                "desc": "http://sedici.unlp.edu.ar/handle/10915/26275"
+            }, 
+            {
+                "url": "http://hdl.handle.net/10915/26275", 
+                "desc": "http://hdl.handle.net/10915/26275"
+            }, 
+            {
+                "url": "http://mundoagrario.unlp.edu.ar/article/view/MAv13n25a13/pdf", 
+                "desc": "http://mundoagrario.unlp.edu.ar/article/view/MAv13n25a13/pdf"
+            }
+        ], 
+        "formats": [
+            "article"
+        ], 
+        "id": "AR_9cfb641e9e941738f02060627ef3694d"
+    }
+]
