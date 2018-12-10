@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:schema="http://schema.org/"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
+  <rdf:Description rdf:about="http://data.landportal.info/voc/landvoc/theme/T-GENDER">
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_64d8574a"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_70a14ab3"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_85dfd05c"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_a0982198"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_8420"/>
+    <skos:prefLabel>Land &amp; Gender</skos:prefLabel>
+    <skos:notation>T-GENDER</skos:notation>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_958edb9d"/>
+    <skos:definition>To achieve the Sustainable Development Goals and promote gender equity in access to land, laws, institutions, and customary practices that are gender discriminatory need to be addressed.</skos:definition>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_1dfe5bfe"/>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/26"/>
+    <rdfs:label>Land &amp; Gender</rdfs:label>
+    <schema:image rdf:resource="https://landportal.org/sites/landportal.org/files/icons-landportal-04-transparent.png"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/categories/land-gender"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_b3372020"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/voc/landvoc/theme/T-INDIG">
+    <skos:notation>T-INDIG</skos:notation>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_a291ae58"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_45cd8441"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_28e0dafa"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_9904d265"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_16532"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/voc/themes/indigenous-community-land-rights"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_1782"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_331524"/>
+    <schema:image rdf:resource="https://landportal.org/sites/landportal.org/files/icons-landportal-02-transparent.png"/>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/26"/>
+    <skos:prefLabel>Indigenous &amp; Community Land Rights</skos:prefLabel>
+    <skos:definition>Secure community land rights are an essential condition for Indigenous Peoples and local communities to enjoy human rights, socio-economic development, and cultural protection.</skos:definition>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000022"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_ff890f6b"/>
+    <rdfs:label>Indigenous &amp; Community Land Rights</rdfs:label>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_86524ff8"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_d42b49e7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/voc/landvoc/theme/T-SOCEC">
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/26"/>
+    <schema:image rdf:resource="https://landportal.org/sites/landportal.org/files/icons-landportal-11-transparent.png"/>
+    <rdfs:label>Socio-Economic &amp; Institutional Context</rdfs:label>
+    <skos:notation>T-SOCEC</skos:notation>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_6705"/>
+    <skos:prefLabel>Socio-Economic &amp; Institutional Context</skos:prefLabel>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_25195"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/voc/landvoc/theme/socio-economic-institutional-context"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:definition>This theme include all information which are not directly related to land issues, but are important to understand the general context in which land dynamics occur. For instance, this theme includes socio-economic, demographic and institutional information.</skos:definition>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/voc/landvoc/theme/T-URBAN">
+    <rdfs:label>Urban Tenure</rdfs:label>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_ba3b2ea7"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/voc/themes/urbanisation"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_34ea1b1e"/>
+    <skos:definition>With the expansion of cities and urban infrastructure comes a growing need to better understand the relationship between people and land in urban and peri-urban areas.</skos:definition>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_8085"/>
+    <skos:prefLabel>Urban Tenure</skos:prefLabel>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_32620"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_4174"/>
+    <schema:image rdf:resource="https://landportal.org/sites/landportal.org/files/icons-landportal-10-transparent.png"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_9f542492"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_9001019"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_8088"/>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/26"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_37948"/>
+    <skos:notation>T-URBAN</skos:notation>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_8086"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_18389"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/voc/landvoc/theme/T-ENVIR">
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_7ffc9d69"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_1666"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_a6fdfb0e"/>
+    <rdfs:label>Land, Climate Change &amp; Environment</rdfs:label>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_37952"/>
+    <skos:prefLabel>Land, Climate Change &amp; Environment</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_36580"/>
+    <skos:notation>T-ENVIR</skos:notation>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/26"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_bdedf48c"/>
+    <skos:definition>Climate change can destabilize existing land and resource governance institutions and associated property rights across the spectrum of landscape types. Transformed climatic conditions, manifested in either rapid-onset or slow-onset ways, can change how land and natural resources are accessed and used as geographical shifts in resource productivity, resource scarcity, and therefore land use patterns occur.</skos:definition>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_1374158672853"/>
+    <schema:image rdf:resource="https://landportal.org/sites/landportal.org/files/icons-landportal-07-transparent.png"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/voc/themes/land-climate-change-and-environment"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_34823"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_6887"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_35332"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_15590"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_62487b4a"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_37720"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_2593"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/voc/landvoc/theme/T-INVEST">
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_89d3dcbb"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_15d85712"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_8b6d895f"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/voc/themes/large-scale-land-acquisitions"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_666dbc26"/>
+    <schema:image rdf:resource="https://landportal.org/sites/landportal.org/files/icons-landportal-08-transparent.png"/>
+    <skos:notation>T-INVEST</skos:notation>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_4181"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_4175"/>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/26"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_45ce1b52"/>
+    <rdfs:label>Land &amp; Investments</rdfs:label>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_9a4f48b4"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_357653f9"/>
+    <skos:prefLabel>Land &amp; Investments</skos:prefLabel>
+    <skos:definition>Investments in agricultural land may be essential for achieving food security and promoting economic growth, but what are the potential costs and benefits for local landholders and the environment?</skos:definition>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_a4f67d48"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_cc39a497"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_0d7ef890"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/voc/landvoc/theme/T-PASTOR">
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_16112"/>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/26"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_25243"/>
+    <skos:prefLabel>Rangelands, Drylands &amp; Pastoralism</skos:prefLabel>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_6b8a1f45"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/voc/themes/rangelands-drylands-pastoralism"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_4d6b6100"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_8e487587"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_3369"/>
+    <schema:image rdf:resource="https://landportal.org/sites/landportal.org/files/icons-landportal-09-transparent.png"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_bac66d94"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_653f04fe"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_97241aeb"/>
+    <skos:definition>Rangelands are grasslands, shrublands, woodlands, wetlands, and deserts that are grazed by domestic livestock or wild animals. Types of rangelands include tallgrass and shortgrass prairies, desert grasslands and shrublands, woodlands, savannas, chaparrals, steppes, and tundras. Pastoralism is the branch of agriculture concerned with the raising of livestock. "Pastoralism" generally has a mobile aspect, moving the herds in search of fresh pasture and water (in contrast to pastoral farming, in which non-nomadic farmers grow crops and improve pastures for their livestock).    Drylands conventionally are defined in terms of water stress: as terrestrial areas where the mean annual rainfall (including snow, fog, hail, etc) is lower than the total amount of water evaporated to the atmosphere. Sources: GlobalRangelands.org &amp;amp; Wikipedia &amp;amp; IUCN  </skos:definition>
+    <skos:notation>T-PASTOR</skos:notation>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_6448"/>
+    <rdfs:label>Rangelands, Drylands &amp; Pastoralism</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/voc/landvoc/theme/T-FOREST">
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_330982"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_1374158672853"/>
+    <skos:definition>Responsible forest governance and secure forest rights are needed to reduce deforestation, combat climate change, and sustain the planet.</skos:definition>
+    <rdfs:label>Forest Tenure</rdfs:label>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/26"/>
+    <skos:prefLabel>Forest Tenure</skos:prefLabel>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_24843"/>
+    <schema:image rdf:resource="https://landportal.org/sites/landportal.org/files/icons-landportal-01-transparent.png"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_28079"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_1374070277659"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_8c59c597"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_32620"/>
+    <skos:notation>T-FOREST</skos:notation>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_16532"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_14569"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_c0a7f4fb"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_3055"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_3060"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_1374155312641"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/voc/themes/forestry"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_15590"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_1882e93f"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_3046"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/voc/landvoc/theme/T-CONFLICT">
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_6f79699c"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:notation>T-CONFLICT</skos:notation>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_ee93bbbe"/>
+    <schema:image rdf:resource="https://landportal.org/sites/landportal.org/files/icons-landportal-05-transparent.png"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/voc/themes/land-conflicts"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_1ada969a"/>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/26"/>
+    <skos:definition>A “land conflict” involves competing claims to large areas of land by groups, of a breadth and depth not easily resolved within existing law. There is often no consensus on the rules to be applied, and the parties may have quite different understandings of the nature of the conflict. As used in this paper, “conflict” implies tension and the danger of violence, but not violence unless this is specified. Longstanding potentials for conflict based in structural or other fundamental problems may be the result of “trigger” events turned violent.  Source: USAID</skos:definition>
+    <rdfs:label>Land Conflicts</rdfs:label>
+    <skos:prefLabel>Land Conflicts</skos:prefLabel>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_95fedfc9"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_e236b2b1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/voc/landvoc/theme/CORRUPT">
+    <skos:notation>CORRUPT</skos:notation>
+    <rdfs:label>Land &amp; Corruption</rdfs:label>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/voc/landvoc/theme/land-corruption"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/26"/>
+    <skos:prefLabel>Land &amp; Corruption</skos:prefLabel>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_28663"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/voc/landvoc/theme/T-FOOD">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/26"/>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_10967"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/food-security"/>
+    <schema:image rdf:resource="https://landportal.org/sites/landportal.org/files/icons-landportal-03-transparent.png"/>
+    <skos:definition>Food security exists when all people, at all times, have physical and economic access to sufficient, safe and nutritious food to meet their dietary needs and foodpreferences for an active and healthy life. Source: FAO</skos:definition>
+    <skos:prefLabel>Land &amp; Food Security</skos:prefLabel>
+    <skos:notation>T-FOOD</skos:notation>
+    <rdfs:label>Land &amp; Food Security</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/voc/landvoc/theme/T-INST">
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/26"/>
+    <skos:definition>A stakeholder is anyone or any institution who has interests in, or is affected by, an issue or activity or transaction, and therefore has a natural right to participate in decisions relating to it.  There may be more than one stakeholder, or stakeholder group, claiming an interest in the land use on a particular area of land. As examples, a farmer is a stakeholder in relation to the distribution or management of irrigation water from a common source, or as regards decisions on grazing rights on communal land. The term can also be applied to groups, as when several groups have an interest in, or are affected by, the exploitation of the water from a reservoir or products extracted from a forest. Stakeholders include those individuals or groups, such as women or indigenous communities, who have genuine and legitimate claims on use, but whose opinion may not be valued in current negotiations for cultural or religious reasons. Groups resident outside the area, such as non-governmental organizations (NGOs) and research institutions, can also be stakeholders. Also the government of a country may have ministries with the position of stakeholders. The concept can be extended to include unborn generations who have a future interest in the resource. Source: FAO</skos:definition>
+    <skos:notation>T-INST</skos:notation>
+    <skos:related rdf:resource="http://aims.fao.org/aos/agrovoc/c_2224"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel>Land Stakeholders &amp; Institutions</skos:prefLabel>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/voc/themes/land-stakeholders-institutions"/>
+    <schema:image rdf:resource="https://landportal.org/sites/landportal.org/files/icons-landportal-06-transparent.png"/>
+    <rdfs:label>Land Stakeholders &amp; Institutions</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>
