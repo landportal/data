@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/PRINDEX-PRINDEX2018.PR.BWP">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-ACCESS"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INST"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-ACCESS"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INST"/>
+    <dct:identifier>PRINDEX-PRINDEX2018.PR.BWP</dct:identifier>
+    <skos:notation>PRINDEX-PRINDEX2018.PR.BWP</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/PRINDEX-PRINDEX2018"/>
+    <sdmx-attribute:unitMeasure>Percentage</sdmx-attribute:unitMeasure>
+    <rdfs:label>Prindex - Believe are well protected</rdfs:label>
+    <skos:prefLabel>Prindex - Believe are well protected</skos:prefLabel>
+    <dct:title>Prindex - Believe are well protected</dct:title>
+    <skos:definition>Percentage of people who think that property rights are somewhat or very well-protected in their country</skos:definition>
+    <dct:description>Percentage of people who think that property rights are somewhat or very well-protected in their country</dct:description>
+    <rdfs:comment>Percentage of people who think that property rights are somewhat or very well-protected in their country</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/prindex-prindex2018prbwp"/>
+  </rdf:Description>
+
+</rdf:RDF>

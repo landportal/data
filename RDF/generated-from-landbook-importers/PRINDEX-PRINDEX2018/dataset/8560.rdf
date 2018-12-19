@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:schema="http://schema.org/"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/PRINDEX-PRINDEX2018">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#DataSet"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+    <schema:image rdf:resource="https://landportal.org/sites/landportal.org/files/Prindex_CMYK_logo_horizontal_orange-black_strapline_1.png"/>
+    <schema:logo rdf:resource="https://landportal.org/sites/landportal.org/files/Prindex_CMYK_logo_horizontal_orange-black_strapline_1.png"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_a1b5abd0"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_37898"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_12069"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_37942"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-ACCESS"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-LAW"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-URBAN"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_a1b5abd0"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_37898"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_12069"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_37942"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-ACCESS"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-LAW"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-URBAN"/>
+    <dct:publisher rdf:resource="http://data.landportal.info/organization/ebb0ada4-d3ab-426e-b0a6-488f7e8bb965"/>
+    <dct:license rdf:resource="http://purl.org/NET/rdflicense/cc-by-nc4.0"/>
+    <dct:identifier>PRINDEX-PRINDEX2018</dct:identifier>
+    <skos:notation>PRINDEX-PRINDEX2018</skos:notation>
+    <skos:prefLabel>PrIndex - Global Property Rights Index (2018)</skos:prefLabel>
+    <rdfs:label>PrIndex - Global Property Rights Index (2018)</rdfs:label>
+    <dct:title>PrIndex - Global Property Rights Index (2018)</dct:title>
+    <skos:definition>PRIndex stands for the Global Property Rights Index, an indicator of citizens' perception of the security of property rights.</skos:definition>
+    <dct:description>PRIndex stands for the Global Property Rights Index, an indicator of citizens' perception of the security of property rights.</dct:description>
+    <rdfs:comment>PRIndex stands for the Global Property Rights Index, an indicator of citizens' perception of the security of property rights.</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/24"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/dataset/prindex-prindex2018"/>
+  </rdf:Description>
+
+</rdf:RDF>
