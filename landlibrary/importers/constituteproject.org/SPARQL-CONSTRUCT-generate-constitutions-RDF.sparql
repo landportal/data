@@ -30,7 +30,7 @@ WHERE {
 OPTIONAL {?const cp:PromulgProc ?description . }
 OPTIONAL {?const cp:CopyrightNoticeEN ?copyright . }
 OPTIONAL {?countryURI cp:codeISO3 ?codeISO3 . }
-OPTIONAL {?countryURI cp:nameShortEN ?countryName . }
+OPTIONAL {?countryURI cp:nameListEN ?countryName . }
 
 
 BIND (CONCAT("Government of ", ?countryName) as ?publisher)
