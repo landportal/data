@@ -5,20 +5,21 @@ PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 CONSTRUCT   {
    ?const dct:title ?title ;
           dct:description ?description ;
-		  dct:date ?year ;
-		  dct:identifier ?id ;
-		  dc:coverage ?ISO3 ;
-		  bibo:uri ?pdf ;
-		  dc:rights ?copyright ;
-		  dc:subject "land law" ;
-		  dct:subject <http://aims.fao.org/aos/agrovoc/c_573abb9f> ;
-		  dc:subject "land governance" ;
-		  dct:subject <http://aims.fao.org/aos/agrovoc/c_aca7ac6d> ;
-		  dc:language "en";
-		  dc:type "Constitution" ;
-		  dc:license "All rights reserved" .
+          dc:publisher ?publisher ;
+          dct:date ?year ;
+          dct:identifier ?id ;
+          dc:coverage ?ISO3 ;
+          bibo:uri ?pdf ;
+          dc:rights ?copyright ;
+          dc:subject "land law" ;
+          dct:subject <http://aims.fao.org/aos/agrovoc/c_573abb9f> ;
+          dc:subject "land governance" ;
+          dct:subject <http://aims.fao.org/aos/agrovoc/c_aca7ac6d> ;
+          dc:language "en";
+          dc:type "Constitution" ;
+          dc:license "All rights reserved" .
 }
-#SELECT ?const (STR(?codeISO3) as ?ISO3) ?title ?description ?year ?SystID ?copyright 
+#SELECT ?const (STR(?codeISO3) as ?ISO3) ?title ?description ?publisher ?year ?SystID ?copyright
 FROM <http://constitutions.landportal.info>
 WHERE {
 ?const cp:InForceEN "True" ;
@@ -29,7 +30,10 @@ WHERE {
 OPTIONAL {?const cp:PromulgProc ?description . }
 OPTIONAL {?const cp:CopyrightNoticeEN ?copyright . }
 OPTIONAL {?countryURI cp:codeISO3 ?codeISO3 . }
+OPTIONAL {?countryURI cp:nameShortEN ?countryName . }
 
+
+BIND (CONCAT("Government of ", ?countryName) as ?publisher)
 BIND (STR(?codeISO3) as ?ISO3)
 BIND (IRI(CONCAT(?const,".pdf")) AS ?pdf)
 BIND (CONCAT("constituteproject:",?SystID) AS ?id)

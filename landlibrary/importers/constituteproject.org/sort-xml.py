@@ -1,6 +1,6 @@
 import xml.etree.ElementTree as ET
 
-filename = "20170306 - RDF generated from constituteproject.org.rdf"
+filename = "FIXME.rdf"
 tree = ET.parse(filename)
 ET.register_namespace('dct',"http://purl.org/dc/terms/")
 ET.register_namespace('bibo',"http://purl.org/ontology/bibo/")
@@ -17,4 +17,4 @@ data.sort()
 # insert the last item from each tuple
 container[:] = [item[-1] for item in data]
 
-tree.write("ordered-"+filaname)
+tree.write("ordered-"+filename)
