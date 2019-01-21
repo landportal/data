@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:schema="http://schema.org/"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/OECD-SIGI2019">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#DataSet"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+    <schema:image rdf:resource="https://landportal.org/sites/landportal.org/files/logo_53.png"/>
+    <schema:logo rdf:resource="https://landportal.org/sites/landportal.org/files/logo_53.png"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_8420"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-ACCESS"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-LAW"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-GENDER"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_8420"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-ACCESS"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-LAW"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-GENDER"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
+    <dct:publisher rdf:resource="http://data.landportal.info/organization/411dadc0-7205-416d-8b9b-560460163f94"/>
+    <dct:identifier>OECD-SIGI2019</dct:identifier>
+    <skos:notation>OECD-SIGI2019</skos:notation>
+    <skos:prefLabel>OECD - Social Institutions and Gender Index (SIGI) Database 2019</skos:prefLabel>
+    <rdfs:label>OECD - Social Institutions and Gender Index (SIGI) Database 2019</rdfs:label>
+    <dct:title>OECD - Social Institutions and Gender Index (SIGI) Database 2019</dct:title>
+    <skos:definition>Discriminatory social institutions are defined as the formal and informal laws, attitudes and practices that restrict women’s and girls’ access to rights, justice and empowerment opportunities. These are captured in a multi-faceted approach by SIGI’s variables that combine qualitative and quantitative data, taking into account both the de iure and de facto discrimination of social institutions, through information on laws, attitudes and practices. The variables span all stages of a woman’s life in order to show how discriminatory social institutions can interlock and bind them into cycles of poverty and disempowerment. The SIGI was first launched in 2009, and then updated in 2012 and 2014. The fourth edition of the SIGI was launched between December 2018 and January 2019. The latest release of the SIGI dataset (2019) includes: A new cross-country ranking classifying countries according to their level of discrimination in social institutions; 180 individual country notes containing comprehensive qualitative information on legal frameworks and action plans to protect women’s rights and promote gender equality; a new database summarising all discriminatory laws, social norms and practices worldwide; a policy simulator allowing policy makers to scope out reform options and assess their likely effects on gender equality in social institutions.   Source: OECD Development Centre’s Social Institutions and Gender Index (SIGI) and OECD.Stat</skos:definition>
+    <dct:description>Discriminatory social institutions are defined as the formal and informal laws, attitudes and practices that restrict women’s and girls’ access to rights, justice and empowerment opportunities. These are captured in a multi-faceted approach by SIGI’s variables that combine qualitative and quantitative data, taking into account both the de iure and de facto discrimination of social institutions, through information on laws, attitudes and practices. The variables span all stages of a woman’s life in order to show how discriminatory social institutions can interlock and bind them into cycles of poverty and disempowerment. The SIGI was first launched in 2009, and then updated in 2012 and 2014. The fourth edition of the SIGI was launched between December 2018 and January 2019. The latest release of the SIGI dataset (2019) includes: A new cross-country ranking classifying countries according to their level of discrimination in social institutions; 180 individual country notes containing comprehensive qualitative information on legal frameworks and action plans to protect women’s rights and promote gender equality; a new database summarising all discriminatory laws, social norms and practices worldwide; a policy simulator allowing policy makers to scope out reform options and assess their likely effects on gender equality in social institutions.   Source: OECD Development Centre’s Social Institutions and Gender Index (SIGI) and OECD.Stat</dct:description>
+    <rdfs:comment>Discriminatory social institutions are defined as the formal and informal laws, attitudes and practices that restrict women’s and girls’ access to rights, justice and empowerment opportunities. These are captured in a multi-faceted approach by SIGI’s variables that combine qualitative and quantitative data, taking into account both the de iure and de facto discrimination of social institutions, through information on laws, attitudes and practices. The variables span all stages of a woman’s life in order to show how discriminatory social institutions can interlock and bind them into cycles of poverty and disempowerment. The SIGI was first launched in 2009, and then updated in 2012 and 2014. The fourth edition of the SIGI was launched between December 2018 and January 2019. The latest release of the SIGI dataset (2019) includes: A new cross-country ranking classifying countries according to their level of discrimination in social institutions; 180 individual country notes containing comprehensive qualitative information on legal frameworks and action plans to protect women’s rights and promote gender equality; a new database summarising all discriminatory laws, social norms and practices worldwide; a policy simulator allowing policy makers to scope out reform options and assess their likely effects on gender equality in social institutions.   Source: OECD Development Centre’s Social Institutions and Gender Index (SIGI) and OECD.Stat</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/24"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/dataset/oecd-sigi2019"/>
+  </rdf:Description>
+
+</rdf:RDF>

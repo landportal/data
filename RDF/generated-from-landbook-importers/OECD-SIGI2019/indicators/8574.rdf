@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/OECD-SIGI2019.SIGI.RAPFR">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_8420"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-ACCESS"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-LAW"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-GENDER"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INST"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_8420"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-ACCESS"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-LAW"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-GENDER"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INST"/>
+    <dct:identifier>OECD-SIGI2019.SIGI.RAPFR</dct:identifier>
+    <skos:notation>OECD-SIGI2019.SIGI.RAPFR</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/OECD-SIGI2019"/>
+    <sdmx-attribute:unitMeasure>Index (0; 100)</sdmx-attribute:unitMeasure>
+    <rdfs:label>Restricted access to productive and financial resources (SIGI2019)</rdfs:label>
+    <skos:prefLabel>Restricted access to productive and financial resources (SIGI2019)</skos:prefLabel>
+    <dct:title>Restricted access to productive and financial resources (SIGI2019)</dct:title>
+    <skos:definition>This sub-index captures women’s restricted access to and control over critical productive and economic resources and assets. This includes discriminatory laws, which deny women’s rights to own, control or use land and non-land assets, to decent work and financial services; discriminatory customary practices in ownership or decision-making over land, household property and other assets; discriminatory practices or attitudes towards women’s formal work; and social norms dictating that women’s property ownership or access to credit should be mediated by men. Insecure or weak rights to land, non-land assets and financial services reduce income-generating opportunities for women, lower decision-making power for women within the household, increase food insecurity for women and their families, and make women and families more vulnerable to poverty. Source: OECD Development Centre’s Social Institutions and Gender Index (SIGI) website</skos:definition>
+    <dct:description>This sub-index captures women’s restricted access to and control over critical productive and economic resources and assets. This includes discriminatory laws, which deny women’s rights to own, control or use land and non-land assets, to decent work and financial services; discriminatory customary practices in ownership or decision-making over land, household property and other assets; discriminatory practices or attitudes towards women’s formal work; and social norms dictating that women’s property ownership or access to credit should be mediated by men. Insecure or weak rights to land, non-land assets and financial services reduce income-generating opportunities for women, lower decision-making power for women within the household, increase food insecurity for women and their families, and make women and families more vulnerable to poverty. Source: OECD Development Centre’s Social Institutions and Gender Index (SIGI) website</dct:description>
+    <rdfs:comment>This sub-index captures women’s restricted access to and control over critical productive and economic resources and assets. This includes discriminatory laws, which deny women’s rights to own, control or use land and non-land assets, to decent work and financial services; discriminatory customary practices in ownership or decision-making over land, household property and other assets; discriminatory practices or attitudes towards women’s formal work; and social norms dictating that women’s property ownership or access to credit should be mediated by men. Insecure or weak rights to land, non-land assets and financial services reduce income-generating opportunities for women, lower decision-making power for women within the household, increase food insecurity for women and their families, and make women and families more vulnerable to poverty. Source: OECD Development Centre’s Social Institutions and Gender Index (SIGI) website</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/oecd-sigi2019sigirapfr"/>
+  </rdf:Description>
+
+</rdf:RDF>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/OECD-SIGI2019.SIGI">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_8420"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-ACCESS"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-LAW"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-GENDER"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INST"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_8420"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-ACCESS"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-LAW"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-GENDER"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INST"/>
+    <dct:identifier>OECD-SIGI2019.SIGI</dct:identifier>
+    <skos:notation>OECD-SIGI2019.SIGI</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/OECD-SIGI2019"/>
+    <sdmx-attribute:unitMeasure>Index (0; 100)</sdmx-attribute:unitMeasure>
+    <rdfs:label>Social Institutions and Gender Index 2019</rdfs:label>
+    <skos:prefLabel>Social Institutions and Gender Index 2019</skos:prefLabel>
+    <dct:title>Social Institutions and Gender Index 2019</dct:title>
+    <skos:definition>The SIGI is built on 27 innovative variables measuring discriminatory social institutions, which are grouped into 4 dimensions: discrimination in the family, restricted physical integrity, restricted access to productive and financial resources, and restricted civil liberties. Lower values indicate lower levels of discrimination in social institutions: the SIGI ranges from 0% for no discrimination to 100% for very high discrimination. Source: OECD Development Centre’s Social Institutions and Gender Index (SIGI), methodology</skos:definition>
+    <dct:description>The SIGI is built on 27 innovative variables measuring discriminatory social institutions, which are grouped into 4 dimensions: discrimination in the family, restricted physical integrity, restricted access to productive and financial resources, and restricted civil liberties. Lower values indicate lower levels of discrimination in social institutions: the SIGI ranges from 0% for no discrimination to 100% for very high discrimination. Source: OECD Development Centre’s Social Institutions and Gender Index (SIGI), methodology</dct:description>
+    <rdfs:comment>The SIGI is built on 27 innovative variables measuring discriminatory social institutions, which are grouped into 4 dimensions: discrimination in the family, restricted physical integrity, restricted access to productive and financial resources, and restricted civil liberties. Lower values indicate lower levels of discrimination in social institutions: the SIGI ranges from 0% for no discrimination to 100% for very high discrimination. Source: OECD Development Centre’s Social Institutions and Gender Index (SIGI), methodology</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/oecd-sigi2019sigi"/>
+  </rdf:Description>
+
+</rdf:RDF>
