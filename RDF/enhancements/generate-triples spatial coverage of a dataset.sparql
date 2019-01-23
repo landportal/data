@@ -1,0 +1,15 @@
+# Generate triples to express the spatial coverage of the dataset.
+# Following the Best Practice 2: Provide descriptive metadata (https://www.w3.org/TR/dwbp/#DescriptiveMetadata)
+
+PREFIX dct: <http://purl.org/dc/terms/>
+PREFIX cex: <http://purl.org/weso/ontology/computex#>
+PREFIX qb: <http://purl.org/linked-data/cube#>
+
+CONSTRUCT   {
+   ?dataset dct:spatial ?country.
+}
+FROM <http://data.landportal.info>
+WHERE {
+   ?obs qb:dataSet ?dataset ;
+        cex:ref-area ?country .
+}
