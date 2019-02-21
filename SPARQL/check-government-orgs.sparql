@@ -1,0 +1,14 @@
+SELECT ?country ?orgLabel
+FROM <http://countries.landportal.info>
+FROM <http://organizations.landportal.info>
+WHERE {
+   ?countryURI a <http://purl.org/weso/landbook/ontology#Country> ;
+      rdfs:label ?country .
+
+   OPTIONAL {?org a schema:Organization ;
+      rdfs:label ?orgLabel ;
+      schema:spatialCoverage ?countryURI .
+   FILTER(contains(?orgLabel, "Government"))
+   }
+
+}
