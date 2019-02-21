@@ -17,9 +17,9 @@
     <skos:notation>PRINDEX-PRINDEX2018.PR.KHD</skos:notation>
     <dct:source rdf:resource="http://data.landportal.info/dataset/PRINDEX-PRINDEX2018"/>
     <sdmx-attribute:unitMeasure>Percentage</sdmx-attribute:unitMeasure>
-    <rdfs:label>Prindex - Know how to defend</rdfs:label>
-    <skos:prefLabel>Prindex - Know how to defend</skos:prefLabel>
-    <dct:title>Prindex - Know how to defend</dct:title>
+    <rdfs:label>Prindex - Property rights - Know how to defend their property rights (%)</rdfs:label>
+    <skos:prefLabel>Prindex - Property rights - Know how to defend their property rights (%)</skos:prefLabel>
+    <dct:title>Prindex - Property rights - Know how to defend their property rights (%)</dct:title>
     <skos:definition>Percentage of people who, if challenged, know how to defend their rights to live in or otherwise use their properties</skos:definition>
     <dct:description>Percentage of people who, if challenged, know how to defend their rights to live in or otherwise use their properties</dct:description>
     <rdfs:comment>Percentage of people who, if challenged, know how to defend their rights to live in or otherwise use their properties</rdfs:comment>

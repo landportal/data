@@ -17,9 +17,9 @@
     <skos:notation>PRINDEX-PRINDEX2018.PR.ERL</skos:notation>
     <dct:source rdf:resource="http://data.landportal.info/dataset/PRINDEX-PRINDEX2018"/>
     <sdmx-attribute:unitMeasure>Percentage</sdmx-attribute:unitMeasure>
-    <rdfs:label>Prindex - Experienced loss</rdfs:label>
-    <skos:prefLabel>Prindex - Experienced loss</skos:prefLabel>
-    <dct:title>Prindex - Experienced loss</dct:title>
+    <rdfs:label>Prindex - Property rights - Experienced loss of property rights (%)</rdfs:label>
+    <skos:prefLabel>Prindex - Property rights - Experienced loss of property rights (%)</skos:prefLabel>
+    <dct:title>Prindex - Property rights - Experienced loss of property rights (%)</dct:title>
     <skos:definition>Percentage of people who have lost the right to live in a property against their will</skos:definition>
     <dct:description>Percentage of people who have lost the right to live in a property against their will</dct:description>
     <rdfs:comment>Percentage of people who have lost the right to live in a property against their will</rdfs:comment>

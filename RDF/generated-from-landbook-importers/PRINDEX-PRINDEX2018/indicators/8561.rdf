@@ -17,9 +17,9 @@
     <skos:notation>PRINDEX-PRINDEX2018.O.TI</skos:notation>
     <dct:source rdf:resource="http://data.landportal.info/dataset/PRINDEX-PRINDEX2018"/>
     <sdmx-attribute:unitMeasure>Percentage</sdmx-attribute:unitMeasure>
-    <rdfs:label>Prindex - Tenure insecurity</rdfs:label>
-    <skos:prefLabel>Prindex - Tenure insecurity</skos:prefLabel>
-    <dct:title>Prindex - Tenure insecurity</dct:title>
+    <rdfs:label>Prindex - Overview - Tenure insecurity (%)</rdfs:label>
+    <skos:prefLabel>Prindex - Overview - Tenure insecurity (%)</skos:prefLabel>
+    <dct:title>Prindex - Overview - Tenure insecurity (%)</dct:title>
     <skos:definition>Percentage of people who believe it is somewhat or very likely that they could lose the right to use their property or part of it against their will in the next 5 years</skos:definition>
     <dct:description>Percentage of people who believe it is somewhat or very likely that they could lose the right to use their property or part of it against their will in the next 5 years</dct:description>
     <rdfs:comment>Percentage of people who believe it is somewhat or very likely that they could lose the right to use their property or part of it against their will in the next 5 years</rdfs:comment>

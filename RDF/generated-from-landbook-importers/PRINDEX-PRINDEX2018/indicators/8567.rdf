@@ -17,9 +17,9 @@
     <skos:notation>PRINDEX-PRINDEX2018.D.ND</skos:notation>
     <dct:source rdf:resource="http://data.landportal.info/dataset/PRINDEX-PRINDEX2018"/>
     <sdmx-attribute:unitMeasure>Percentage</sdmx-attribute:unitMeasure>
-    <rdfs:label>Prindex - No Documents</rdfs:label>
-    <skos:prefLabel>Prindex - No Documents</skos:prefLabel>
-    <dct:title>Prindex - No Documents</dct:title>
+    <rdfs:label>Prindex - Ownership documentation - No Documents (%)</rdfs:label>
+    <skos:prefLabel>Prindex - Ownership documentation - No Documents (%)</skos:prefLabel>
+    <dct:title>Prindex - Ownership documentation - No Documents (%)</dct:title>
     <skos:definition>Percentage of people who say they have no formal or informal documents that demonstrate their right to live in or use any of their properties</skos:definition>
     <dct:description>Percentage of people who say they have no formal or informal documents that demonstrate their right to live in or use any of their properties</dct:description>
     <rdfs:comment>Percentage of people who say they have no formal or informal documents that demonstrate their right to live in or use any of their properties</rdfs:comment>

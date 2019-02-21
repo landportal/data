@@ -17,9 +17,9 @@
     <skos:notation>PRINDEX-PRINDEX2018.D.ID</skos:notation>
     <dct:source rdf:resource="http://data.landportal.info/dataset/PRINDEX-PRINDEX2018"/>
     <sdmx-attribute:unitMeasure>Percentage</sdmx-attribute:unitMeasure>
-    <rdfs:label>Prindex - Informal document only</rdfs:label>
-    <skos:prefLabel>Prindex - Informal document only</skos:prefLabel>
-    <dct:title>Prindex - Informal document only</dct:title>
+    <rdfs:label>Prindex - Ownership documentation - Informal document only (%)</rdfs:label>
+    <skos:prefLabel>Prindex - Ownership documentation - Informal document only (%)</skos:prefLabel>
+    <dct:title>Prindex - Ownership documentation - Informal document only (%)</dct:title>
     <skos:definition>Percentage of people who say they have informal formal documents that demonstrate their right to live in or use any of their properties</skos:definition>
     <dct:description>Percentage of people who say they have informal formal documents that demonstrate their right to live in or use any of their properties</dct:description>
     <rdfs:comment>Percentage of people who say they have informal formal documents that demonstrate their right to live in or use any of their properties</rdfs:comment>

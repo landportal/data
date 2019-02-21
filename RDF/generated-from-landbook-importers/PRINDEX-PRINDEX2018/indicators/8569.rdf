@@ -17,9 +17,9 @@
     <skos:notation>PRINDEX-PRINDEX2018.PR.BWP</skos:notation>
     <dct:source rdf:resource="http://data.landportal.info/dataset/PRINDEX-PRINDEX2018"/>
     <sdmx-attribute:unitMeasure>Percentage</sdmx-attribute:unitMeasure>
-    <rdfs:label>Prindex - Believe are well protected</rdfs:label>
-    <skos:prefLabel>Prindex - Believe are well protected</skos:prefLabel>
-    <dct:title>Prindex - Believe are well protected</dct:title>
+    <rdfs:label>Prindex - Property rights - Believe property rights are well protected (%)</rdfs:label>
+    <skos:prefLabel>Prindex - Property rights - Believe property rights are well protected (%)</skos:prefLabel>
+    <dct:title>Prindex - Property rights - Believe property rights are well protected (%)</dct:title>
     <skos:definition>Percentage of people who think that property rights are somewhat or very well-protected in their country</skos:definition>
     <dct:description>Percentage of people who think that property rights are somewhat or very well-protected in their country</dct:description>
     <rdfs:comment>Percentage of people who think that property rights are somewhat or very well-protected in their country</rdfs:comment>
