@@ -1,0 +1,5 @@
+DESCRIBE ?indicator
+FROM <http://indicators-drupal.landportal.info>
+WHERE { 
+  ?indicator dct:source <http://data.landportal.info/dataset/FAO-LAT> 
+}
