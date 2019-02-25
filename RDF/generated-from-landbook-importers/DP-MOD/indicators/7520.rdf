@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/DP-MOD-C-N">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-LAW"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INST"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-LAW"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INST"/>
+    <dct:identifier>DP-MOD-C-N</dct:identifier>
+    <skos:notation>DP-MOD-C-N</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/DP-MOD"/>
+    <rdfs:label>Concluded Projects - Number</rdfs:label>
+    <skos:prefLabel>Concluded Projects - Number</skos:prefLabel>
+    <dct:title>Concluded Projects - Number</dct:title>
+    <skos:definition>Total number of programmes concluded in a given country. Last updated on the 31st of January, 2019.</skos:definition>
+    <dct:description>Total number of programmes concluded in a given country. Last updated on the 31st of January, 2019.</dct:description>
+    <rdfs:comment>Total number of programmes concluded in a given country. Last updated on the 31st of January, 2019.</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/dp-mod-c-n"/>
+  </rdf:Description>
+
+</rdf:RDF>

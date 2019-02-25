@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/DP-MOD">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#DataSet"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+    <dct:license rdf:resource="http://purl.org/NET/rdflicense/cc-by-sa4.0"/>
+    <schema:license rdf:resource="http://purl.org/NET/rdflicense/cc-by-sa4.0"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_331049"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_2224"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9a4f48b4"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-LAW"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-USE"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INVEST"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INST"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_331049"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_2224"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_9a4f48b4"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-LAW"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-USE"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INVEST"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INST"/>
+    <dct:publisher rdf:resource="http://data.landportal.info/organization/df1af356-9243-4cc0-a3ca-5ae583bd6ecf"/>
+    <schema:image rdf:resource="https://landportal.org/sites/landportal.org/files/Map%20of%20Donors%20%28Land%20governance%20Programme%20Map%29.png"/>
+    <schema:logo rdf:resource="https://landportal.org/sites/landportal.org/files/Map%20of%20Donors%20%28Land%20governance%20Programme%20Map%29.png"/>
+    <dct:identifier>DP-MOD</dct:identifier>
+    <skos:notation>DP-MOD</skos:notation>
+    <skos:prefLabel>DP - Map of Donors (Land governance Programme Map)</skos:prefLabel>
+    <rdfs:label>DP - Map of Donors (Land governance Programme Map)</rdfs:label>
+    <dct:title>DP - Map of Donors (Land governance Programme Map)</dct:title>
+    <skos:definition>The overall aim of the initiative is to improve donor coordination and to support implementation of the Voluntary Guidelines for the Responsible Governance of Tenure of Land, Fisheries, and Forests in the Context of National Food Security. The original dataset (Land governance Programme Map &amp;amp; Database by Global Donor Platform For Rural Development) retains 821 projects in 144 countries with a total value of 2.6 billion dollars for active programmes and contains information the location, duration, funding and scope of each programme, as well as on the specific aspects of the Voluntary Guidelines it supports.   This database and map is the result of collaborative efforts by members of the Global Donor Working Group on Land, a network of 24 bilateral and multilateral donors aiming to improve land governance and enhance transparency and coordination. It is hosted by the Global Donor Platform for Rural Development, which acts as Secretariat of the working group. Each donor is responsible for managing and updating the information contained in the database on a regular basis – the data is updated at least twice a year, around February and August.   The dataset ingested on the Land Portal aggregates information at the country level (and by VGGT chapter), showing total funding and total number of both concluded and ongoing (till December 2018) programmes in each destination country.</skos:definition>
+    <dct:description>The overall aim of the initiative is to improve donor coordination and to support implementation of the Voluntary Guidelines for the Responsible Governance of Tenure of Land, Fisheries, and Forests in the Context of National Food Security. The original dataset (Land governance Programme Map &amp;amp; Database by Global Donor Platform For Rural Development) retains 821 projects in 144 countries with a total value of 2.6 billion dollars for active programmes and contains information the location, duration, funding and scope of each programme, as well as on the specific aspects of the Voluntary Guidelines it supports.   This database and map is the result of collaborative efforts by members of the Global Donor Working Group on Land, a network of 24 bilateral and multilateral donors aiming to improve land governance and enhance transparency and coordination. It is hosted by the Global Donor Platform for Rural Development, which acts as Secretariat of the working group. Each donor is responsible for managing and updating the information contained in the database on a regular basis – the data is updated at least twice a year, around February and August.   The dataset ingested on the Land Portal aggregates information at the country level (and by VGGT chapter), showing total funding and total number of both concluded and ongoing (till December 2018) programmes in each destination country.</dct:description>
+    <rdfs:comment>The overall aim of the initiative is to improve donor coordination and to support implementation of the Voluntary Guidelines for the Responsible Governance of Tenure of Land, Fisheries, and Forests in the Context of National Food Security. The original dataset (Land governance Programme Map &amp;amp; Database by Global Donor Platform For Rural Development) retains 821 projects in 144 countries with a total value of 2.6 billion dollars for active programmes and contains information the location, duration, funding and scope of each programme, as well as on the specific aspects of the Voluntary Guidelines it supports.   This database and map is the result of collaborative efforts by members of the Global Donor Working Group on Land, a network of 24 bilateral and multilateral donors aiming to improve land governance and enhance transparency and coordination. It is hosted by the Global Donor Platform for Rural Development, which acts as Secretariat of the working group. Each donor is responsible for managing and updating the information contained in the database on a regular basis – the data is updated at least twice a year, around February and August.   The dataset ingested on the Land Portal aggregates information at the country level (and by VGGT chapter), showing total funding and total number of both concluded and ongoing (till December 2018) programmes in each destination country.</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/24"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/dataset/dp-mod"/>
+  </rdf:Description>
+
+</rdf:RDF>
