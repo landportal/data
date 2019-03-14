@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dct="http://purl.org/dc/terms/"
+          xmlns:schema="http://schema.org/"
+          xmlns:bibo="http://purl.org/ontology/bibo/">          
+   <rdf:Description rdf:about="https://www.sudamericarural.org/nuestra-produccion/multimedia/multimedia/17">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
+    <dct:title xml:lang="es" >El camino es el río (English subtitles included)</dct:title> 
+    <dc:author>IPDRS</dc:author>
+    <dct:identifier>IPDRS-Videos-17</dct:identifier>     
+    <dct:extent>1018</dct:extent>
+    <schema:image rdf:resource="https://i.ytimg.com/vi/Mco5-n0Tl64/default.jpg" /> 
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-16</dct:date>
+    <bibo:uri rdf:resource="https://www.youtube.com/watch?v=Mco5-n0Tl64"/>
+    <dct:description xml:lang="es" >Una producción realizada por Marco Arnez de Producciones Cinematográficas Huayrurito para la presentación del Caso 90 de acceso a la tierra del de Movimiento Regional por la Tierra y Territorio.
+The film production was made by Marco Arnez- Producciones cinematográficas Huayrurito for the presentation of the "Case # 90" of access to land within the Regional Movement for Land and Territory. </dct:description>
+         
+    <dc:language>es</dc:language>            
+    <dc:type>Multimedia</dc:type>    
+    <dct:type rdf:resource="http://landportal.info/library/resource-type/multimedia"/>            
+    <dc:coverage>BOL</dc:coverage>            
+    <dc:subject>acceso a la tierra </dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000090"/>      
+    <dc:subject>Derechos colectivos</dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_de048871"/>      
+    <dc:subject>Ganadería</dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_8532"/>      
+    <dc:subject>Plan de ordenamiento territorial</dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9f542492"/>      
+    <dc:subject>pueblos indígenas </dc:subject>    
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_331524"/>      
+    <dc:subject>Territorio indígena</dc:subject>            
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>         
+    <dc:rights>IPDRS</dc:rights>    <dc:publisher>IPDRS</dc:publisher>
+
+</rdf:Description>
+   <rdf:Description rdf:about="https://www.sudamericarural.org/nuestra-produccion/multimedia/multimedia/10">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
+    <dct:title xml:lang="es" >Yembiguasu, territorio guarani de frontera</dct:title> 
+    <dc:author>IPDRS</dc:author>
+    <dct:identifier>IPDRS-Videos-10</dct:identifier>     
+    <dct:extent>897</dct:extent>
+    <schema:image rdf:resource="https://i.ytimg.com/vi/YjigYLXZWr0/default.jpg" /> 
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-15</dct:date>
+    <bibo:uri rdf:resource="https://www.youtube.com/watch?v=YjigYLXZWr0"/>
+    <dct:description xml:lang="es" >El pueblo Guaraní del municipio de Macharetí en el departamento de Chuquisaca -Bolivia, durante muchos luchó por la titulación de tierras. Actualmente y después de cinco procesos de titulación, la Asociación Comunitaria Macharetí posee el título de propiedad de 184.757 hectáreas las que incluyen el territorio de Yembiguasu predio alejado de la comunidad que circunda la frontera con Paraguay y que ahora forma parte de la comunidad. A pesar de la lejanía de estas tierras el pueblo guaraní trabaja incansablemente promoviendo la ganadería y la producción de quesos pero sobre todo para ejercer su derecho.</dct:description>
+         
+    <dc:language>es</dc:language>            
+    <dc:type>Multimedia</dc:type>    
+    <dct:type rdf:resource="http://landportal.info/library/resource-type/multimedia"/>            
+    <dc:coverage>BOL</dc:coverage>            
+    <dc:subject>acceso a la tierra </dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000090"/>      
+    <dc:subject>Adjudicación</dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_ee93bbbe"/>      
+    <dc:subject>Derechos colectivos</dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_de048871"/>      
+    <dc:subject>Ganadería</dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_8532"/>      
+    <dc:subject>Plan de ordenamiento territorial</dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9f542492"/>      
+    <dc:subject>pueblos indígenas </dc:subject>    
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_331524"/>      
+    <dc:subject>Territorio indígena</dc:subject>            
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>         
+    <dc:rights>IPDRS</dc:rights>    <dc:publisher>IPDRS</dc:publisher>
+
+</rdf:Description>
+   <rdf:Description rdf:about="https://www.sudamericarural.org/nuestra-produccion/multimedia/multimedia/21">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
+    <dct:title xml:lang="en" >Yembiguasu: guaraní territory of the border (english subtitles)</dct:title> 
+    <dc:author>IPDRS</dc:author>
+    <dct:identifier>IPDRS-Videos-21</dct:identifier>     
+    <dct:extent>897</dct:extent>
+    <schema:image rdf:resource="https://i.ytimg.com/vi/qqfMPjTHt2M/default.jpg" /> 
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-14</dct:date>
+    <bibo:uri rdf:resource="https://www.youtube.com/watch?v=qqfMPjTHt2M"/>
+    <dct:description xml:lang="en" >The Guarani people of the municipality of Macharetí in the department of Chuquisaca Bolivia, for many fought for land titling. Currently and after five titling processes, Macharetí Community Association holds title to 184,757 hectares which include the territory of Yembiguasu land away from the community surrounding the border with Paraguay and now part of the community.</dct:description>
+         
+    <dc:language>en</dc:language>            
+    <dc:type>Multimedia</dc:type>    
+    <dct:type rdf:resource="http://landportal.info/library/resource-type/multimedia"/>            
+    <dc:coverage>BOL</dc:coverage>            
+    <dc:subject>acceso a la tierra </dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000090"/>      
+    <dc:subject>Adjudicación</dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_ee93bbbe"/>      
+    <dc:subject>Derechos colectivos</dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_de048871"/>      
+    <dc:subject>Ganadería</dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_8532"/>      
+    <dc:subject>Gestión de recursos naturales</dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000115"/>      
+    <dc:subject>pueblos indígenas </dc:subject>    
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_331524"/>      
+    <dc:subject>Territorio indígena</dc:subject>            
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>         
+    <dc:rights>IPDRS</dc:rights>    <dc:publisher>IPDRS</dc:publisher>
+
+</rdf:Description>
+   <rdf:Description rdf:about="https://www.sudamericarural.org/nuestra-produccion/multimedia/multimedia/19">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
+    <dct:title xml:lang="pt" >Yembiguasu: territorio guaraní de frontera (Subt. portugués)</dct:title> 
+    <dc:author>IPDRS</dc:author>
+    <dct:identifier>IPDRS-Videos-19</dct:identifier>     
+    <dct:extent>897</dct:extent>
+    <schema:image rdf:resource="https://i.ytimg.com/vi/mCGIJtH0vzI/default.jpg" /> 
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-14</dct:date>
+    <bibo:uri rdf:resource="https://www.youtube.com/watch?v=mCGIJtH0vzI"/>
+    <dct:description xml:lang="pt" >O povo Guarani do município de Macharetí, no departamento de Chuquisaca Bolívia, durante muitos anos lutaram pela titulação da terra. Actualmente e depois de cinco processos de titulação, Macharetí Associação Comunitária tem 184,757 hectares que incluem o local de Yembiguasu. Esta propriedade está longe da comunidade e está localizado na fronteira com o Paraguai. Apesar do afastamento destas terras Guarani trabalhar incansavelmente promover o gado e produção de queijo e do exercício dos seus direitos.</dct:description>
+         
+    <dc:language>pt</dc:language>            
+    <dc:type>Multimedia</dc:type>    
+    <dct:type rdf:resource="http://landportal.info/library/resource-type/multimedia"/>            
+    <dc:coverage>BOL</dc:coverage>            
+    <dc:subject>acceso a la tierra </dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000090"/>      
+    <dc:subject>Derechos colectivos</dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_de048871"/>      
+    <dc:subject>Derechos sobre tierras indígenas</dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_d42b49e7"/>      
+    <dc:subject>Ganadería</dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_8532"/>      
+    <dc:subject>Gestión del agua</dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_8320"/>      
+    <dc:subject>Plan de ordenamiento territorial</dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9f542492"/>      
+    <dc:subject>Propiedad colectiva </dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_29157"/>      
+    <dc:subject>Territorio indígena</dc:subject>            
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>         
+    <dc:rights>IPDRS</dc:rights>    <dc:publisher>IPDRS</dc:publisher>
+
+</rdf:Description>
+   <rdf:Description rdf:about="https://www.sudamericarural.org/nuestra-produccion/multimedia/multimedia/16">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
+    <dct:title xml:lang="es" >La finca es mi proyecto de vida Finca San Luis, Familia Murillo Barajas </dct:title> 
+    <dc:author>IPDRS</dc:author>
+    <dct:identifier>IPDRS-Videos-16</dct:identifier>     
+    <dct:extent>906</dct:extent>
+    <schema:image rdf:resource="https://i.ytimg.com/vi/X59VchRWIvo/default.jpg" /> 
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-13</dct:date>
+    <bibo:uri rdf:resource="https://www.youtube.com/watch?v=X59VchRWIvo"/>
+    <dct:description xml:lang="es" >En el marco de la sistematización de experiencias inspiradoras de acceso, retorno y apego a la tierra y a los territorios en toda Sudamérica y el Segundo Encuentro de Jóvenes por la Tierra Guasca, Colombia 2015</dct:description>
+         
+    <dc:language>es</dc:language>            
+    <dc:type>Multimedia</dc:type>    
+    <dct:type rdf:resource="http://landportal.info/library/resource-type/multimedia"/>            
+    <dc:coverage>COL</dc:coverage>            
+    <dc:subject>acceso a la tierra </dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000090"/>      
+    <dc:subject>adquisiciones de tierras </dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_89d3dcbb"/>      
+    <dc:subject>Agricultura familiar</dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1422957329186"/>      
+    <dc:subject>Agroecología</dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_92381"/>      
+    <dc:subject>derechos de herencia sobre la tierra</dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_70a14ab3"/>      
+    <dc:subject>Uso sostenible de la tierra</dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_bdedf48c"/>            
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>         
+    <dc:rights>IPDRS</dc:rights>    <dc:publisher>IPDRS</dc:publisher>
+
+</rdf:Description>
+   <rdf:Description rdf:about="https://www.sudamericarural.org/nuestra-produccion/multimedia/multimedia/18">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
+    <dct:title xml:lang="en" >The farm is my project</dct:title> 
+    <dc:author>IPDRS</dc:author>
+    <dct:identifier>IPDRS-Videos-18</dct:identifier>     
+    <dct:extent>899</dct:extent>
+    <schema:image rdf:resource="https://i.ytimg.com/vi/Xpx2i0A6fKE/default.jpg" /> 
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-12</dct:date>
+    <bibo:uri rdf:resource="https://www.youtube.com/watch?v=Xpx2i0A6fKE"/>
+    <dct:description xml:lang="en" >Whoever is thinking of returning to the field but still does not decide, has in this documentary a very inspiring story. The Murillo Barajas family, which has formed the small iniciative ECOMUBA, Ecológico Murillo Barajas, in Gusca, Colombia, tells in this documentary how it makes possible agro-ecological production and how the countryside is an economic and living option. </dct:description>
+         
+    <dc:language>en</dc:language>            
+    <dc:type>Multimedia</dc:type>    
+    <dct:type rdf:resource="http://landportal.info/library/resource-type/multimedia"/>            
+    <dc:coverage>COL</dc:coverage>            
+    <dc:subject>acceso a la tierra </dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000090"/>      
+    <dc:subject>adquisiciones de tierras </dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_89d3dcbb"/>      
+    <dc:subject>Agricultura familiar</dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1422957329186"/>      
+    <dc:subject>Agroecología</dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_92381"/>      
+    <dc:subject>derechos de herencia sobre la tierra</dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_70a14ab3"/>      
+    <dc:subject>Uso sostenible de la tierra</dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_bdedf48c"/>            
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>         
+    <dc:rights>IPDRS</dc:rights>    <dc:publisher>IPDRS</dc:publisher>
+
+</rdf:Description>
+   <rdf:Description rdf:about="https://www.sudamericarural.org/nuestra-produccion/multimedia/multimedia/20">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
+    <dct:title xml:lang="es" >Territorio de Lomerío: Del refugio a la autonomia indígena</dct:title> 
+    <dc:author>IPDRS</dc:author>
+    <dct:identifier>IPDRS-Videos-20</dct:identifier>     
+    <dct:extent>467</dct:extent>
+    <schema:image rdf:resource="https://i.ytimg.com/vi/PaSkimJNqw8/default.jpg" /> 
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-11</dct:date>
+    <bibo:uri rdf:resource="https://www.youtube.com/watch?v=PaSkimJNqw8"/>
+    <dct:description xml:lang="es" >Protagonizado por pobladores, autoridades originarias, representantes del Consejo de Ancianos y niños de la comunidad, el documental Territorio de Lomerío: del refugio a la autonomía indígena, refleja todo el proceso de un exitoso y emblemático caso de acceso colectivo a tierras por parte del pueblo Chiquitano de la comunidad indígena campesina de Lomerío en Santa Cruz de la Sierra Bolivia.</dct:description>
+         
+    <dc:language>es</dc:language>            
+    <dc:type>Multimedia</dc:type>    
+    <dct:type rdf:resource="http://landportal.info/library/resource-type/multimedia"/>            
+    <dc:coverage>BOL</dc:coverage>            
+    <dc:subject>acceso a la tierra </dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000090"/>      
+    <dc:subject>Derechos colectivos</dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_de048871"/>      
+    <dc:subject>Gestión de recursos naturales</dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000115"/>      
+    <dc:subject>pueblos indígenas </dc:subject>    
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_331524"/>      
+    <dc:subject>Territorio indígena</dc:subject>            
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>         
+    <dc:rights>IPDRS</dc:rights>    <dc:publisher>IPDRS</dc:publisher>
+
+</rdf:Description>
+   <rdf:Description rdf:about="https://www.sudamericarural.org/nuestra-produccion/multimedia/multimedia/5">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
+    <dct:title xml:lang="en" >Documentary : Indigenous Territory of Lomerío: from shelter to indigenous autonomy (english subtitles)</dct:title> 
+    <dc:author>IPDRS</dc:author>
+    <dct:identifier>IPDRS-Videos-5</dct:identifier>     
+    <dct:extent>472</dct:extent>
+    <schema:image rdf:resource="https://i.ytimg.com/vi/tRhxhEyRS6Y/default.jpg" /> 
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-10</dct:date>
+    <bibo:uri rdf:resource="https://www.youtube.com/watch?v=tRhxhEyRS6Y"/>
+    <dct:description xml:lang="en" >Indigenous authorities, representatives of the Council of older people and children are the main protagonists of the documentary “Indigenous territory of Lomerío: from shelter to indigenous autonomy”, that reflects the whole process of a successful and emblematic collective access to land by the Chiquitano people in Santa Cruz, Bolivia.</dct:description>
+         
+    <dc:language>en</dc:language>            
+    <dc:type>Multimedia</dc:type>    
+    <dct:type rdf:resource="http://landportal.info/library/resource-type/multimedia"/>            
+    <dc:coverage>BOL</dc:coverage>            
+    <dc:subject>acceso a la tierra </dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000090"/>      
+    <dc:subject>Derechos colectivos</dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_de048871"/>      
+    <dc:subject>Derechos sobre tierras comunales</dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_ff890f6b"/>      
+    <dc:subject>Derechos sobre tierras indígenas</dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_d42b49e7"/>      
+    <dc:subject>Gestión de recursos naturales</dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000115"/>      
+    <dc:subject>Planes de manejo forestal</dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1374070277659"/>      
+    <dc:subject>pueblos indígenas </dc:subject>    
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_331524"/>      
+    <dc:subject>Territorio indígena</dc:subject>            
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>         
+    <dc:rights>IPDRS</dc:rights>    <dc:publisher>IPDRS</dc:publisher>
+
+</rdf:Description>
+   <rdf:Description rdf:about="https://www.sudamericarural.org/nuestra-produccion/multimedia/multimedia/22">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
+    <dct:title xml:lang="es" >Território Lomerío: o refúgio para a autonomia indígena (Subt. portugués)</dct:title> 
+    <dc:author>IPDRS</dc:author>
+    <dct:identifier>IPDRS-Videos-22</dct:identifier>     
+    <dct:extent>472</dct:extent>
+    <schema:image rdf:resource="https://i.ytimg.com/vi/hsbGnMJGAck/default.jpg" /> 
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-09</dct:date>
+    <bibo:uri rdf:resource="https://www.youtube.com/watch?v=hsbGnMJGAck"/>
+    <dct:description xml:lang="es" >O Território documentário Lomerío: abrigo para a autonomia indígena, reflete todo o processo de um caso de sucesso e emblemático de acesso coletivo à terra pelo povo Chiquitano de comunidade indígena rural de Lomerío em Santa Cruz de la Sierra Bolívia. Colonos, as autoridades nativas, representantes do Conselho de Anciãos e crianças da comunidade contar esta história inspiradora.</dct:description>
+         
+    <dc:language>es</dc:language>            
+    <dc:type>Multimedia</dc:type>    
+    <dct:type rdf:resource="http://landportal.info/library/resource-type/multimedia"/>            
+    <dc:coverage>BOL</dc:coverage>            
+    <dc:subject>acceso a la tierra </dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000090"/>      
+    <dc:subject>Adjudicación</dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_ee93bbbe"/>      
+    <dc:subject>Derechos colectivos</dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_de048871"/>      
+    <dc:subject>Gestión de recursos naturales</dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000115"/>      
+    <dc:subject>Plan de ordenamiento territorial</dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9f542492"/>      
+    <dc:subject>pueblos indígenas </dc:subject>    
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_331524"/>      
+    <dc:subject>Territorio indígena</dc:subject>            
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>         
+    <dc:rights>IPDRS</dc:rights>    <dc:publisher>IPDRS</dc:publisher>
+
+</rdf:Description>
+   <rdf:Description rdf:about="https://www.sudamericarural.org/nuestra-produccion/multimedia/multimedia/4">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
+    <dct:title xml:lang="es" >Movimiento regional por la tierra: entrevista a Clementina Barajas</dct:title> 
+    <dc:author>IPDRS</dc:author>
+    <dct:identifier>IPDRS-Videos-4</dct:identifier>     
+    <dct:extent>343</dct:extent>
+    <schema:image rdf:resource="https://i.ytimg.com/vi/jCDhFvrizLg/default.jpg" /> 
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-08</dct:date>
+    <bibo:uri rdf:resource="https://www.youtube.com/watch?v=jCDhFvrizLg"/>
+    <dct:description xml:lang="es" >Clementina Barajas, agricultora colombiana se constituye en un ejemplo a seguir dentro del Municipio de Guasca en el Departamento Cundinamarca, comunidad agrícola que hace algún tiempo estuvo a punto de vender sus tierras. El ejemplo de doña Clementina muestra la lucha y las nuevas alternativas de vida a la población basadas en la innovación y el conocimiento con la gestión integral dentro de la finca como principio de sostenibilidad. Se constituye en una caso que muestra una experiencia inspiradora de retorno al ámbito rural.</dct:description>
+         
+    <dc:language>es</dc:language>            
+    <dc:type>Multimedia</dc:type>    
+    <dct:type rdf:resource="http://landportal.info/library/resource-type/multimedia"/>            
+    <dc:coverage>COL</dc:coverage>            
+    <dc:subject>acceso a la tierra </dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000090"/>      
+    <dc:subject>adquisiciones de tierras </dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_89d3dcbb"/>      
+    <dc:subject>Agricultura familiar</dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1422957329186"/>      
+    <dc:subject>Agroecología</dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_92381"/>      
+    <dc:subject>Uso sostenible de la tierra</dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_bdedf48c"/>            
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>         
+    <dc:rights>IPDRS</dc:rights>    <dc:publisher>IPDRS</dc:publisher>
+
+</rdf:Description>
+   <rdf:Description rdf:about="https://www.sudamericarural.org/nuestra-produccion/multimedia/multimedia/11">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
+    <dct:title xml:lang="es" >Seguro agrario en Bolivia</dct:title> 
+    <dc:author>IPDRS</dc:author>
+    <dct:identifier>IPDRS-Videos-11</dct:identifier>     
+    <dct:extent>709</dct:extent>
+    <schema:image rdf:resource="https://i.ytimg.com/vi/LdIxPTy6nGM/default.jpg" /> 
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-07</dct:date>
+    <bibo:uri rdf:resource="https://www.youtube.com/watch?v=LdIxPTy6nGM"/>
+    <dct:description xml:lang="es" >La cobertura del seguro agrario en Bolivia alcanza solo el 10 % del área productiva en el país. Los efectos del cambio climático atentan contra la seguridad y la soberanía alimentaria. Este tópico fue debatido en el curso virtual Bolivia: Riesgo climático, adaptación y mitigación pabolra la seguridad alimentaria.</dct:description>
+         
+    <dc:language>es</dc:language>            
+    <dc:type>Multimedia</dc:type>    
+    <dct:type rdf:resource="http://landportal.info/library/resource-type/multimedia"/>            
+    <dc:coverage>BOL</dc:coverage>            
+    <dc:subject>Agricultura</dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_203"/>      
+    <dc:subject>Agricultura familiar</dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1422957329186"/>      
+    <dc:subject>Producción agrícola</dc:subject>    
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_203"/>      
+    <dc:subject>Seguridad alimentaria</dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_10967"/>            
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>         
+    <dc:rights>IPDRS</dc:rights>    <dc:publisher>IPDRS</dc:publisher>
+
+</rdf:Description>
+   <rdf:Description rdf:about="https://www.sudamericarural.org/nuestra-produccion/multimedia/multimedia/9">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
+    <dct:title xml:lang="es" >Bolivia: Riesgo climático, adaptación y mitigación para la seguridad alimentaria</dct:title> 
+    <dc:author>IPDRS</dc:author>
+    <dct:identifier>IPDRS-Videos-9</dct:identifier>     
+    <dct:extent>390</dct:extent>
+    <schema:image rdf:resource="https://i.ytimg.com/vi/FhbQZhTblro/default.jpg" /> 
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-05</dct:date>
+    <bibo:uri rdf:resource="https://www.youtube.com/watch?v=FhbQZhTblro"/>
+    <dct:description xml:lang="es" >El cambio climático obliga a los agricultores a tomar acciones, impulsar políticas y estrategias para reducir los impactos. Aquí, expertos nos explican más sobre los fenómenos naturales y sus efectos en la soberanía alimentaria.</dct:description>
+         
+    <dc:language>es</dc:language>            
+    <dc:type>Multimedia</dc:type>    
+    <dct:type rdf:resource="http://landportal.info/library/resource-type/multimedia"/>            
+    <dc:coverage>BOL</dc:coverage>            
+    <dc:subject>Asociaciones de agricultores </dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_2806"/>      
+    <dc:subject>Cambio climático </dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1666"/>      
+    <dc:subject>Políticas de desarrollo</dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_2228"/>      
+    <dc:subject>Seguridad alimentaria</dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_10967"/>      
+    <dc:subject>Soberanía alimentaria</dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1310718737317"/>            
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>         
+    <dc:rights>IPDRS</dc:rights>    <dc:publisher>IPDRS</dc:publisher>
+
+</rdf:Description>
+   <rdf:Description rdf:about="https://www.sudamericarural.org/nuestra-produccion/multimedia/multimedia/6">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
+    <dct:title xml:lang="es" >La UPEA investiga para el desarrollo rural</dct:title> 
+    <dc:author>IPDRS</dc:author>
+    <dct:identifier>IPDRS-Videos-6</dct:identifier>     
+    <dct:extent>410</dct:extent>
+    <schema:image rdf:resource="https://i.ytimg.com/vi/h_gQfIQSg5Q/default.jpg" /> 
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-02</dct:date>
+    <bibo:uri rdf:resource="https://www.youtube.com/watch?v=h_gQfIQSg5Q"/>
+    <dct:description xml:lang="es" >El documental elaborado en el marco del Proyecto Acciones de Interaprendizaje por la Tierra y el Desarrollo Rural, destaca la labor desarrollada por la Universidad Pública de El Alto (UPEA) en el ámbito de la investigación del desarrollo rural a través de su Facultad de Ciencias Pecuarias, Agrícolas y Recursos Naturales.</dct:description>
+         
+    <dc:language>es</dc:language>            
+    <dc:type>Multimedia</dc:type>    
+    <dct:type rdf:resource="http://landportal.info/library/resource-type/multimedia"/>            
+    <dc:coverage>BOL</dc:coverage>            
+    <dc:subject>Agricultura</dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_203"/>      
+    <dc:subject>Desarrollo rural  </dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6701"/>      
+    <dc:subject>Investigación </dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6513"/>      
+    <dc:subject>Seguridad alimentaria</dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_10967"/>            
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>         
+    <dc:rights>IPDRS</dc:rights>    <dc:publisher>IPDRS</dc:publisher>
+
+</rdf:Description>
+   <rdf:Description rdf:about="https://www.sudamericarural.org/nuestra-produccion/multimedia/multimedia/7">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
+    <dct:title xml:lang="es" >Cromatografia de suelos en el Curso de agricultura sostenible</dct:title> 
+    <dc:author>IPDRS</dc:author>
+    <dct:identifier>IPDRS-Videos-7</dct:identifier>     
+    <dct:extent>294</dct:extent>
+    <schema:image rdf:resource="https://i.ytimg.com/vi/DttJ1xKAukE/default.jpg" /> 
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-01</dct:date>
+    <bibo:uri rdf:resource="https://www.youtube.com/watch?v=DttJ1xKAukE"/>
+    <dct:description xml:lang="es" >EL Curso de Agricultura sostenible y Seguridad Alimentaria es el primero de tres que desarrolló SEMTA, Servicios Múltiples de Tecnología Aplicadas. El video recupera reflexiones sobre el estudio de suelos, explicando paso a paso cómo desarrollar una cromatografía. El IPDRS participó de la actividad como parte de sus acciones en red.</dct:description>
+         
+    <dc:language>es</dc:language>            
+    <dc:type>Multimedia</dc:type>    
+    <dct:type rdf:resource="http://landportal.info/library/resource-type/multimedia"/>            
+    <dc:coverage>BOL</dc:coverage>            
+    <dc:subject>Agricultura</dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_203"/>      
+    <dc:subject>Manejo sostenible de la tierra</dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_36580"/>      
+    <dc:subject>Seguridad alimentaria</dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_10967"/>            
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>         
+    <dc:rights>IPDRS</dc:rights>    <dc:publisher>IPDRS</dc:publisher>
+
+</rdf:Description>
+   <rdf:Description rdf:about="https://www.sudamericarural.org/nuestra-produccion/multimedia/multimedia/8">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
+    <dct:title xml:lang="es" >Curso Virtual Seguridad con Soberania Alimentaria</dct:title> 
+    <dc:author>IPDRS</dc:author>
+    <dct:identifier>IPDRS-Videos-8</dct:identifier>     
+    <dct:extent>386</dct:extent>
+    <schema:image rdf:resource="https://i.ytimg.com/vi/w8X3raQA4TI/default.jpg" /> 
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-05-07</dct:date>
+    <bibo:uri rdf:resource="https://www.youtube.com/watch?v=w8X3raQA4TI"/>
+    <dct:description xml:lang="es" >Introducción temática, contexto y objetivos del Curso Virtual Seguridad con Soberania Alimentaria</dct:description>
+         
+    <dc:language>es</dc:language>            
+    <dc:type>Multimedia</dc:type>    
+    <dct:type rdf:resource="http://landportal.info/library/resource-type/multimedia"/>            
+    <dc:coverage>005</dc:coverage>     
+    <dc:coverage>BOL</dc:coverage>            
+    <dc:subject>Agricultura</dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_203"/>      
+    <dc:subject>Agricultura familiar</dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1422957329186"/>      
+    <dc:subject>Crisis alimentaria</dc:subject>    
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_2470?clang=es"/>      
+    <dc:subject>Producción agrícola</dc:subject>    
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_203"/>      
+    <dc:subject>Seguridad alimentaria</dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_10967"/>      
+    <dc:subject>Sistema agroalimentario</dc:subject>    
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_40cb9134"/>      
+    <dc:subject>Soberanía alimentaria</dc:subject>    
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1310718737317"/>            
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>         
+    <dc:rights>IPDRS</dc:rights>    <dc:publisher>IPDRS</dc:publisher>
+
+</rdf:Description>
+</rdf:RDF>
