@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/LS-VGGT.END.GFFA2014">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-ACCESS"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-USE"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-ACCESS"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-USE"/>
+    <dct:identifier>LS-VGGT.END.GFFA2014</dct:identifier>
+    <skos:notation>LS-VGGT.END.GFFA2014</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/LS-VGGT"/>
+    <sdmx-attribute:unitMeasure>Index (0; 1=endorsed)</sdmx-attribute:unitMeasure>
+    <rdfs:label>VGGT endorsement at GFFA 2014</rdfs:label>
+    <skos:prefLabel>VGGT endorsement at GFFA 2014</skos:prefLabel>
+    <dct:title>VGGT endorsement at GFFA 2014</dct:title>
+    <skos:definition>This indicator lists the cuntries that endorsed the VGGT during the Global Forum for Food and Agriculture 2014. The summary of Results of the Global Forum for Food and Agriculture 2014, states that, among others that: We, the agriculture ministers assembled at the GFFA: […] establish and protect tenure rights to land, forests and fishing grounds as well as water rights for all – in particular vulnerable people – as a basic prerequisite for sustainable farming in line with the Voluntary Guidelines on the Responsible Governance of Tenure of Land, Fisheries and Forests in the Context of National Food Security endorsed by the Committee on World Food Security (CFS).</skos:definition>
+    <dct:description>This indicator lists the cuntries that endorsed the VGGT during the Global Forum for Food and Agriculture 2014. The summary of Results of the Global Forum for Food and Agriculture 2014, states that, among others that: We, the agriculture ministers assembled at the GFFA: […] establish and protect tenure rights to land, forests and fishing grounds as well as water rights for all – in particular vulnerable people – as a basic prerequisite for sustainable farming in line with the Voluntary Guidelines on the Responsible Governance of Tenure of Land, Fisheries and Forests in the Context of National Food Security endorsed by the Committee on World Food Security (CFS).</dct:description>
+    <rdfs:comment>This indicator lists the cuntries that endorsed the VGGT during the Global Forum for Food and Agriculture 2014. The summary of Results of the Global Forum for Food and Agriculture 2014, states that, among others that: We, the agriculture ministers assembled at the GFFA: […] establish and protect tenure rights to land, forests and fishing grounds as well as water rights for all – in particular vulnerable people – as a basic prerequisite for sustainable farming in line with the Voluntary Guidelines on the Responsible Governance of Tenure of Land, Fisheries and Forests in the Context of National Food Security endorsed by the Committee on World Food Security (CFS).</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/ls-vggtendgffa2014"/>
+  </rdf:Description>
+
+</rdf:RDF>

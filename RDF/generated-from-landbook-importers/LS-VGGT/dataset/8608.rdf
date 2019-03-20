@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:schema="http://schema.org/"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/LS-VGGT">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#DataSet"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+    <schema:image rdf:resource="https://landportal.org/sites/landportal.org/files/vggt-assessment_0.png"/>
+    <schema:logo rdf:resource="https://landportal.org/sites/landportal.org/files/vggt-assessment_0.png"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-LAW"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-USE"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INDIG"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INVEST"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INST"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-LAW"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-USE"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INDIG"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INVEST"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INST"/>
+    <dct:identifier>LS-VGGT</dct:identifier>
+    <skos:notation>LS-VGGT</skos:notation>
+    <dct:license rdf:resource="http://purl.org/NET/rdflicense/odbc-by1.0"/>
+    <schema:license rdf:resource="http://purl.org/NET/rdflicense/odbc-by1.0"/>
+    <dct:publisher rdf:resource="http://data.landportal.info/organization/1a7f23c4-d35a-410a-aa4e-17b3b1577148"/>
+    <skos:prefLabel>VGGT endorsement</skos:prefLabel>
+    <rdfs:label>VGGT endorsement</rdfs:label>
+    <dct:title>VGGT endorsement</dct:title>
+    <skos:definition>The Voluntary Guidelines on the Responsible Governance of Tenure on the Responsible Governance of Tenure of Land, Fisheries and Forests in the Context of National Food Security (VGGT) are the internationally negotiated framework to improve land governance. Drafted by over 1000 stakeholders with different cultural backgrounds from all regions of the world, the VGGT were negotiated by Member States of the Committee on World Food Security (CFS) and endorsed on 11 May 2012. Since then, they have received significant global and country-level recognition including from the G7, G20, Rio+20, the United Nations General Assembly, the Francophone Assembly of Parliamentarians, the Berlin Agricultural Ministers’ Summit and many more. According to the Land governance programme map and database of the Global Donor Working Group on Land, there are currently 253 active programmes worth 2.6 billion USD related to the VGGT.   While a range of endorsements at global, regional and country level exist, the following dataset compiles only whether a country has endorsed the VGGT as part of: the 2012 Committee on World Food Security (CFS 2012) the 2014 Global Forum for Food and Agriculture (GFFA 2014) or the Global Forum for Food and Agriculture 2015 (GFFA 2015)</skos:definition>
+    <dct:description>The Voluntary Guidelines on the Responsible Governance of Tenure on the Responsible Governance of Tenure of Land, Fisheries and Forests in the Context of National Food Security (VGGT) are the internationally negotiated framework to improve land governance. Drafted by over 1000 stakeholders with different cultural backgrounds from all regions of the world, the VGGT were negotiated by Member States of the Committee on World Food Security (CFS) and endorsed on 11 May 2012. Since then, they have received significant global and country-level recognition including from the G7, G20, Rio+20, the United Nations General Assembly, the Francophone Assembly of Parliamentarians, the Berlin Agricultural Ministers’ Summit and many more. According to the Land governance programme map and database of the Global Donor Working Group on Land, there are currently 253 active programmes worth 2.6 billion USD related to the VGGT.   While a range of endorsements at global, regional and country level exist, the following dataset compiles only whether a country has endorsed the VGGT as part of: the 2012 Committee on World Food Security (CFS 2012) the 2014 Global Forum for Food and Agriculture (GFFA 2014) or the Global Forum for Food and Agriculture 2015 (GFFA 2015)</dct:description>
+    <rdfs:comment>The Voluntary Guidelines on the Responsible Governance of Tenure on the Responsible Governance of Tenure of Land, Fisheries and Forests in the Context of National Food Security (VGGT) are the internationally negotiated framework to improve land governance. Drafted by over 1000 stakeholders with different cultural backgrounds from all regions of the world, the VGGT were negotiated by Member States of the Committee on World Food Security (CFS) and endorsed on 11 May 2012. Since then, they have received significant global and country-level recognition including from the G7, G20, Rio+20, the United Nations General Assembly, the Francophone Assembly of Parliamentarians, the Berlin Agricultural Ministers’ Summit and many more. According to the Land governance programme map and database of the Global Donor Working Group on Land, there are currently 253 active programmes worth 2.6 billion USD related to the VGGT.   While a range of endorsements at global, regional and country level exist, the following dataset compiles only whether a country has endorsed the VGGT as part of: the 2012 Committee on World Food Security (CFS 2012) the 2014 Global Forum for Food and Agriculture (GFFA 2014) or the Global Forum for Food and Agriculture 2015 (GFFA 2015)</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/24"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/dataset/ls-vggt"/>
+  </rdf:Description>
+
+</rdf:RDF>

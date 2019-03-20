@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/LS-VGGT.END.CFS2012">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-ACCESS"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-USE"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-ACCESS"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-USE"/>
+    <dct:identifier>LS-VGGT.END.CFS2012</dct:identifier>
+    <skos:notation>LS-VGGT.END.CFS2012</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/LS-VGGT"/>
+    <sdmx-attribute:unitMeasure>Index (0; 1=endorsed)</sdmx-attribute:unitMeasure>
+    <rdfs:label>VGGT endorsement at CFS 2012</rdfs:label>
+    <skos:prefLabel>VGGT endorsement at CFS 2012</skos:prefLabel>
+    <dct:title>VGGT endorsement at CFS 2012</dct:title>
+    <skos:definition>This indicator lists the cuntries that endorsed the VGGT during the Committee on World Food Security 2012. The Committee on World Food Security at its 38th (Special Session) on 11 May 2012 - among other activities: Endorsed the VGGT Noted that, according to their title  the VGGT are voluntary and not legally binding; Encouraged all stakeholders to promote, make use of and support the implementation of the VGGT when formulating relevant strategies, policies and programmes.   For more information, see FAO Council Report of the 38th (Special) Session of the Committee on World Food Security (11 May 2012), Rome, 11-15 June 2012.</skos:definition>
+    <dct:description>This indicator lists the cuntries that endorsed the VGGT during the Committee on World Food Security 2012. The Committee on World Food Security at its 38th (Special Session) on 11 May 2012 - among other activities: Endorsed the VGGT Noted that, according to their title  the VGGT are voluntary and not legally binding; Encouraged all stakeholders to promote, make use of and support the implementation of the VGGT when formulating relevant strategies, policies and programmes.   For more information, see FAO Council Report of the 38th (Special) Session of the Committee on World Food Security (11 May 2012), Rome, 11-15 June 2012.</dct:description>
+    <rdfs:comment>This indicator lists the cuntries that endorsed the VGGT during the Committee on World Food Security 2012. The Committee on World Food Security at its 38th (Special Session) on 11 May 2012 - among other activities: Endorsed the VGGT Noted that, according to their title  the VGGT are voluntary and not legally binding; Encouraged all stakeholders to promote, make use of and support the implementation of the VGGT when formulating relevant strategies, policies and programmes.   For more information, see FAO Council Report of the 38th (Special) Session of the Committee on World Food Security (11 May 2012), Rome, 11-15 June 2012.</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/ls-vggtendcfs2012"/>
+  </rdf:Description>
+
+</rdf:RDF>

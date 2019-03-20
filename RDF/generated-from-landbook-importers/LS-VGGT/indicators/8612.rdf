@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/LS-VGGT.END.TOTAL">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-ACCESS"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-USE"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-ACCESS"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-USE"/>
+    <dct:identifier>LS-VGGT.END.TOTAL</dct:identifier>
+    <skos:notation>LS-VGGT.END.TOTAL</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/LS-VGGT"/>
+    <sdmx-attribute:unitMeasure>Index (0; 1=endorsed)</sdmx-attribute:unitMeasure>
+    <rdfs:label>VGGT endorsement (TOTAL)</rdfs:label>
+    <skos:prefLabel>VGGT endorsement (TOTAL)</skos:prefLabel>
+    <dct:title>VGGT endorsement (TOTAL)</dct:title>
+    <skos:definition>This indicator reflects whether a given country officially endorsed the VGGT in at least one of following international forums: the Committee on World Food Security 2012 the Global Forum for Food and Agriculture 2014 the Global Forum for Food and Agriculture 2015</skos:definition>
+    <dct:description>This indicator reflects whether a given country officially endorsed the VGGT in at least one of following international forums: the Committee on World Food Security 2012 the Global Forum for Food and Agriculture 2014 the Global Forum for Food and Agriculture 2015</dct:description>
+    <rdfs:comment>This indicator reflects whether a given country officially endorsed the VGGT in at least one of following international forums: the Committee on World Food Security 2012 the Global Forum for Food and Agriculture 2014 the Global Forum for Food and Agriculture 2015</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/ls-vggtendtotal"/>
+  </rdf:Description>
+
+</rdf:RDF>
