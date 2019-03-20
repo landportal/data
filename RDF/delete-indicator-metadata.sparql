@@ -1,0 +1,22 @@
+# Remove all metadata of an indicator
+WITH <http://indicators.landportal.info> 
+DELETE
+{ ?indicator ?p ?o }
+WHERE {
+?indicator ?p ?o .
+VALUES ?indicator {<http://data.landportal.info/indicator/VGGT.END.CFS2012> } .
+}
+
+######
+
+# Remove all metadata of indicators of a dataset
+
+WITH <http://indicators.landportal.info> 
+DELETE
+{ ?indicator ?p ?o }
+WHERE {
+?indicator dct:source ?dataset ;
+           ?p ?o .
+
+VALUES ?dataset {<http://data.landportal.info/dataset/LS-VGGT>} .
+}
