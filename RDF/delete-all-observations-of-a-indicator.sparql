@@ -7,7 +7,7 @@ WHERE {
     qb:dataSet ?dataset ;
     cex:ref-indicator ?indicator ;
     ?p ?o .
-VALUES ?dataset {<http://data.landportal.info/dataset/FAO-LU> } .
+VALUES ?dataset {<http://data.landportal.info/dataset/FAO-XXX> } .
 VALUES ?indicator {<http://data.landportal.info/indicator/FAO-6716-5110> } .
 }
 

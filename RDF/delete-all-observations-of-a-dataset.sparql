@@ -6,7 +6,7 @@ WHERE {
     ?obs a qb:Observation ;
          qb:dataSet ?dataset ;
          ?p ?o .
-    VALUES ?dataset {<http://data.landportal.info/dataset/NKT-VGGT16> } .
+    VALUES ?dataset {<http://data.landportal.info/dataset/NKT-XXX> } .
 }
 
 ######

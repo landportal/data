@@ -4,7 +4,7 @@ DELETE
 { ?indicator ?p ?o }
 WHERE {
 ?indicator ?p ?o .
-VALUES ?indicator {<http://data.landportal.info/indicator/VGGT.END.CFS2012> } .
+VALUES ?indicator {<http://data.landportal.info/indicator/VGGT.END.XXXX> } .
 }
 
 ######
@@ -18,5 +18,5 @@ WHERE {
 ?indicator dct:source ?dataset ;
            ?p ?o .
 
-VALUES ?dataset {<http://data.landportal.info/dataset/LS-VGGT>} .
+VALUES ?dataset {<http://data.landportal.info/dataset/LS-XXXX>} .
 }
