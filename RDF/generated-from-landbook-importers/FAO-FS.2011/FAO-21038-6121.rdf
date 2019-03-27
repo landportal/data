@@ -1,0 +1,1954 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:cex="http://purl.org/weso/ontology/computex#"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:qb="http://purl.org/linked-data/cube#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:sdmx-concept="http://purl.org/linked-data/sdmx/2009/concept#"
+   xmlns:time="http://www.w3.org/2006/time#"
+>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_ERI_1998">
+    <rdfs:label xml:lang="en">Observation of ERI within the period of 1998 for indicator FAO-21038-6121</rdfs:label>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">25.3</cex:value>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1998"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/ERI"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_PAK_2001">
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">63.6</cex:value>
+    <rdfs:label xml:lang="en">Observation of PAK within the period of 2001 for indicator FAO-21038-6121</rdfs:label>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/PAK"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_MEX_1999">
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</cex:value>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <rdfs:label xml:lang="en">Observation of MEX within the period of 1999 for indicator FAO-21038-6121</rdfs:label>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/MEX"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1999"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_CHN_2002">
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2002"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">16.2</cex:value>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/CHN"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <rdfs:label xml:lang="en">Observation of CHN within the period of 2002 for indicator FAO-21038-6121</rdfs:label>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_MNG_2006">
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2006"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/MNG"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdfs:label xml:lang="en">Observation of MNG within the period of 2006 for indicator FAO-21038-6121</rdfs:label>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">52.8</cex:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_MEX_2003">
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">38</cex:value>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <rdfs:label xml:lang="en">Observation of MEX within the period of 2003 for indicator FAO-21038-6121</rdfs:label>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/MEX"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2003"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_ARE_2003">
+    <rdfs:label xml:lang="en">Observation of ARE within the period of 2003 for indicator FAO-21038-6121</rdfs:label>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2003"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/ARE"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">56</cex:value>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_BTN_1996">
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1996"/>
+    <rdfs:label xml:lang="en">Observation of BTN within the period of 1996 for indicator FAO-21038-6121</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/BTN"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</cex:value>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/1998">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeInterval"/>
+    <time:hasEnd rdf:resource="http://data.landportal.info/time/instant_1998_12_31"/>
+    <time:hasDateTimeDescription rdf:resource="http://data.landportal.info/time/1998_desc"/>
+    <time:hasBeginning rdf:resource="http://data.landportal.info/time/instant_1998_1_1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_IND_1994">
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">24.9</cex:value>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/IND"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1994"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <rdfs:label xml:lang="en">Observation of IND within the period of 1994 for indicator FAO-21038-6121</rdfs:label>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_BTN_2001">
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/BTN"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <rdfs:label xml:lang="en">Observation of BTN within the period of 2001 for indicator FAO-21038-6121</rdfs:label>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2001"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</cex:value>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_LAO_2000">
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2000"/>
+    <rdfs:label xml:lang="en">Observation of LAO within the period of 2000 for indicator FAO-21038-6121</rdfs:label>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">26.9</cex:value>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LAO"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_MMR_2001">
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/MMR"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2001"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">38.2</cex:value>
+    <rdfs:label xml:lang="en">Observation of MMR within the period of 2001 for indicator FAO-21038-6121</rdfs:label>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_MMR_2004">
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/MMR"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">22.3</cex:value>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdfs:label xml:lang="en">Observation of MMR within the period of 2004 for indicator FAO-21038-6121</rdfs:label>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2004"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_LKA_2005">
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</cex:value>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LKA"/>
+    <rdfs:label xml:lang="en">Observation of LKA within the period of 2005 for indicator FAO-21038-6121</rdfs:label>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2005"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_IND_1999">
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <rdfs:label xml:lang="en">Observation of IND within the period of 1999 for indicator FAO-21038-6121</rdfs:label>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/IND"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1999"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">21.5</cex:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_IND_2001">
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <rdfs:label xml:lang="en">Observation of IND within the period of 2001 for indicator FAO-21038-6121</rdfs:label>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">23.2</cex:value>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2001"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/IND"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_IND_1996">
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1996"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/IND"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <rdfs:label xml:lang="en">Observation of IND within the period of 1996 for indicator FAO-21038-6121</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.1</cex:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_CRI_1996">
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <rdfs:label xml:lang="en">Observation of CRI within the period of 1996 for indicator FAO-21038-6121</rdfs:label>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/CRI"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1996"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8.9</cex:value>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_TUN_1993">
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">99.1</cex:value>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1993"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/TUN"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdfs:label xml:lang="en">Observation of TUN within the period of 1993 for indicator FAO-21038-6121</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_IND_2000">
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <rdfs:label xml:lang="en">Observation of IND within the period of 2000 for indicator FAO-21038-6121</rdfs:label>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/IND"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2000"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">41.8</cex:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_RWA_1990">
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/RWA"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1990"/>
+    <rdfs:label xml:lang="en">Observation of RWA within the period of 1990 for indicator FAO-21038-6121</rdfs:label>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">94.2</cex:value>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_COD_2001">
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2001"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">10.1</cex:value>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <rdfs:label xml:lang="en">Observation of COD within the period of 2001 for indicator FAO-21038-6121</rdfs:label>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/COD"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_IDN_2003">
+    <rdfs:label xml:lang="en">Observation of IDN within the period of 2003 for indicator FAO-21038-6121</rdfs:label>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/IDN"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2003"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.2</cex:value>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_MNG_1996">
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/MNG"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <rdfs:label xml:lang="en">Observation of MNG within the period of 1996 for indicator FAO-21038-6121</rdfs:label>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">40.3</cex:value>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1996"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_CUB_1995">
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <rdfs:label xml:lang="en">Observation of CUB within the period of 1995 for indicator FAO-21038-6121</rdfs:label>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/CUB"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">51</cex:value>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1995"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_DOM_1993">
+    <rdfs:label xml:lang="en">Observation of DOM within the period of 1993 for indicator FAO-21038-6121</rdfs:label>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">86</cex:value>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1993"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/DOM"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_BGD_1993">
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">70.7</cex:value>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1993"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/BGD"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <rdfs:label xml:lang="en">Observation of BGD within the period of 1993 for indicator FAO-21038-6121</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_TCD_1994">
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <rdfs:label xml:lang="en">Observation of TCD within the period of 1994 for indicator FAO-21038-6121</rdfs:label>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1994"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/TCD"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">99.6</cex:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_MDV_1995">
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <rdfs:label xml:lang="en">Observation of MDV within the period of 1995 for indicator FAO-21038-6121</rdfs:label>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/MDV"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">65.5</cex:value>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1995"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/1994">
+    <time:hasEnd rdf:resource="http://data.landportal.info/time/instant_1994_12_31"/>
+    <time:hasBeginning rdf:resource="http://data.landportal.info/time/instant_1994_1_1"/>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeInterval"/>
+    <time:hasDateTimeDescription rdf:resource="http://data.landportal.info/time/1994_desc"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_GAB_2001">
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/GAB"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">30.5</cex:value>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <rdfs:label xml:lang="en">Observation of GAB within the period of 2001 for indicator FAO-21038-6121</rdfs:label>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2001"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_LSO_1997">
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <rdfs:label xml:lang="en">Observation of LSO within the period of 1997 for indicator FAO-21038-6121</rdfs:label>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LSO"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">91.8</cex:value>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1997"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_MNG_1999">
+    <rdfs:label xml:lang="en">Observation of MNG within the period of 1999 for indicator FAO-21038-6121</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">31.3</cex:value>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/MNG"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1999"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_TZA_1996">
+    <rdfs:label xml:lang="en">Observation of TZA within the period of 1996 for indicator FAO-21038-6121</rdfs:label>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">37.7</cex:value>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1996"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/TZA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_EGY_1998">
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">31.2</cex:value>
+    <rdfs:label xml:lang="en">Observation of EGY within the period of 1998 for indicator FAO-21038-6121</rdfs:label>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/EGY"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1998"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_ARE_1994">
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <rdfs:label xml:lang="en">Observation of ARE within the period of 1994 for indicator FAO-21038-6121</rdfs:label>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">56.6</cex:value>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1994"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/ARE"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_IRN_1999">
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1999"/>
+    <rdfs:label xml:lang="en">Observation of IRN within the period of 1999 for indicator FAO-21038-6121</rdfs:label>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</cex:value>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/IRN"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_NPL_1998">
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">35.1</cex:value>
+    <rdfs:label xml:lang="en">Observation of NPL within the period of 1998 for indicator FAO-21038-6121</rdfs:label>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/NPL"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1998"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_COL_1998">
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1998"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/COL"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.4</cex:value>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <rdfs:label xml:lang="en">Observation of COL within the period of 1998 for indicator FAO-21038-6121</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_IND_1991">
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1991"/>
+    <rdfs:label xml:lang="en">Observation of IND within the period of 1991 for indicator FAO-21038-6121</rdfs:label>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/IND"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">97</cex:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_TUR_2006">
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/TUR"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2006"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <rdfs:label xml:lang="en">Observation of TUR within the period of 2006 for indicator FAO-21038-6121</rdfs:label>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">97.9</cex:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_ARM_1997">
+    <rdfs:label xml:lang="en">Observation of ARM within the period of 1997 for indicator FAO-21038-6121</rdfs:label>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">31.7</cex:value>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/ARM"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1997"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_KEN_2004">
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/KEN"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">36.8</cex:value>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <rdfs:label xml:lang="en">Observation of KEN within the period of 2004 for indicator FAO-21038-6121</rdfs:label>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2004"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_MMR_1999">
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <rdfs:label xml:lang="en">Observation of MMR within the period of 1999 for indicator FAO-21038-6121</rdfs:label>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/MMR"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">55.5</cex:value>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1999"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_ZMB_1993">
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/ZMB"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <rdfs:label xml:lang="en">Observation of ZMB within the period of 1993 for indicator FAO-21038-6121</rdfs:label>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">72</cex:value>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1993"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_MUS_1995">
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1995"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <rdfs:label xml:lang="en">Observation of MUS within the period of 1995 for indicator FAO-21038-6121</rdfs:label>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">13.7</cex:value>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/MUS"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_SDN_1997">
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <rdfs:label xml:lang="en">Observation of SDN within the period of 1997 for indicator FAO-21038-6121</rdfs:label>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">54.9</cex:value>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/SDN"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1997"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_1994_1_1">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1994-01-01T00:00:00+00:00</time:inXSDDateTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_GIN_1994">
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/GIN"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1994"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <rdfs:label xml:lang="en">Observation of GIN within the period of 1994 for indicator FAO-21038-6121</rdfs:label>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">93.5</cex:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_CHN_1995">
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/CHN"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">45.3</cex:value>
+    <rdfs:label xml:lang="en">Observation of CHN within the period of 1995 for indicator FAO-21038-6121</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1995"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_IND_2005">
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2005"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/IND"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">50.9</cex:value>
+    <rdfs:label xml:lang="en">Observation of IND within the period of 2005 for indicator FAO-21038-6121</rdfs:label>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2002_1_1">
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2002-01-01T00:00:00+00:00</time:inXSDDateTime>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2006_desc">
+    <time:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2006-01-01</time:year>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeDescription"/>
+    <time:unitType rdf:resource="http://www.w3.org/2006/time#unitYear"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_BGD_1999">
+    <rdfs:label xml:lang="en">Observation of BGD within the period of 1999 for indicator FAO-21038-6121</rdfs:label>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/BGD"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">42.5</cex:value>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1999"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_BOL_1996">
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <rdfs:label xml:lang="en">Observation of BOL within the period of 1996 for indicator FAO-21038-6121</rdfs:label>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/BOL"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1996"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</cex:value>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/1993">
+    <time:hasBeginning rdf:resource="http://data.landportal.info/time/instant_1993_1_1"/>
+    <time:hasDateTimeDescription rdf:resource="http://data.landportal.info/time/1993_desc"/>
+    <time:hasEnd rdf:resource="http://data.landportal.info/time/instant_1993_12_31"/>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeInterval"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_IND_1997">
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/IND"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1997"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.5</cex:value>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <rdfs:label xml:lang="en">Observation of IND within the period of 1997 for indicator FAO-21038-6121</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/1992">
+    <time:hasDateTimeDescription rdf:resource="http://data.landportal.info/time/1992_desc"/>
+    <time:hasBeginning rdf:resource="http://data.landportal.info/time/instant_1992_1_1"/>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeInterval"/>
+    <time:hasEnd rdf:resource="http://data.landportal.info/time/instant_1992_12_31"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2002_12_31">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2002-12-31T00:00:00+00:00</time:inXSDDateTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_IND_1995">
+    <rdfs:label xml:lang="en">Observation of IND within the period of 1995 for indicator FAO-21038-6121</rdfs:label>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/IND"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</cex:value>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1995"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_GHA_1994">
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <rdfs:label xml:lang="en">Observation of GHA within the period of 1994 for indicator FAO-21038-6121</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">71.3</cex:value>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1994"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/GHA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_PRY_1999">
+    <rdfs:label xml:lang="en">Observation of PRY within the period of 1999 for indicator FAO-21038-6121</rdfs:label>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/PRY"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">13.4</cex:value>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1999"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2000">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeInterval"/>
+    <time:hasBeginning rdf:resource="http://data.landportal.info/time/instant_2000_1_1"/>
+    <time:hasDateTimeDescription rdf:resource="http://data.landportal.info/time/2000_desc"/>
+    <time:hasEnd rdf:resource="http://data.landportal.info/time/instant_2000_12_31"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_BFA_1999">
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1999"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/BFA"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">85.7</cex:value>
+    <rdfs:label xml:lang="en">Observation of BFA within the period of 1999 for indicator FAO-21038-6121</rdfs:label>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_BDI_2005">
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/BDI"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">60.5</cex:value>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2005"/>
+    <rdfs:label xml:lang="en">Observation of BDI within the period of 2005 for indicator FAO-21038-6121</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_CIV_2004">
+    <rdfs:label xml:lang="en">Observation of CIV within the period of 2004 for indicator FAO-21038-6121</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2004"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">27.6</cex:value>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/CIV"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2005">
+    <time:hasDateTimeDescription rdf:resource="http://data.landportal.info/time/2005_desc"/>
+    <time:hasEnd rdf:resource="http://data.landportal.info/time/instant_2005_12_31"/>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeInterval"/>
+    <time:hasBeginning rdf:resource="http://data.landportal.info/time/instant_2005_1_1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_IND_2002">
+    <rdfs:label xml:lang="en">Observation of IND within the period of 2002 for indicator FAO-21038-6121</rdfs:label>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/IND"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2002"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">11.3</cex:value>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_IRN_1996">
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <rdfs:label xml:lang="en">Observation of IRN within the period of 1996 for indicator FAO-21038-6121</rdfs:label>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">14.9</cex:value>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/IRN"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1996"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_MLI_2005">
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <rdfs:label xml:lang="en">Observation of MLI within the period of 2005 for indicator FAO-21038-6121</rdfs:label>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/MLI"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">68.3</cex:value>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2005"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_CHN_2005">
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">15.7</cex:value>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/CHN"/>
+    <rdfs:label xml:lang="en">Observation of CHN within the period of 2005 for indicator FAO-21038-6121</rdfs:label>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2005"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_ZWE_1999">
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/ZWE"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">14.8</cex:value>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdfs:label xml:lang="en">Observation of ZWE within the period of 1999 for indicator FAO-21038-6121</rdfs:label>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1999"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_NGA_2001">
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2001"/>
+    <rdfs:label xml:lang="en">Observation of NGA within the period of 2001 for indicator FAO-21038-6121</rdfs:label>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">27.5</cex:value>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/NGA"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_KWT_1997">
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/KWT"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">31.4</cex:value>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <rdfs:label xml:lang="en">Observation of KWT within the period of 1997 for indicator FAO-21038-6121</rdfs:label>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1997"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_GTM_1997">
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <rdfs:label xml:lang="en">Observation of GTM within the period of 1997 for indicator FAO-21038-6121</rdfs:label>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</cex:value>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/GTM"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1997"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_GIN_2003">
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">32.4</cex:value>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <rdfs:label xml:lang="en">Observation of GIN within the period of 2003 for indicator FAO-21038-6121</rdfs:label>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2003"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/GIN"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_UZB_1998">
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <rdfs:label xml:lang="en">Observation of UZB within the period of 1998 for indicator FAO-21038-6121</rdfs:label>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/UZB"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">97.4</cex:value>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1998"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/1991_desc">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeDescription"/>
+    <time:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1991-01-01</time:year>
+    <time:unitType rdf:resource="http://www.w3.org/2006/time#unitYear"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_MNG_2001">
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <rdfs:label xml:lang="en">Observation of MNG within the period of 2001 for indicator FAO-21038-6121</rdfs:label>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2001"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/MNG"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.9</cex:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2006">
+    <time:hasBeginning rdf:resource="http://data.landportal.info/time/instant_2006_1_1"/>
+    <time:hasEnd rdf:resource="http://data.landportal.info/time/instant_2006_12_31"/>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeInterval"/>
+    <time:hasDateTimeDescription rdf:resource="http://data.landportal.info/time/2006_desc"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_QAT_1996">
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</cex:value>
+    <rdfs:label xml:lang="en">Observation of QAT within the period of 1996 for indicator FAO-21038-6121</rdfs:label>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/QAT"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1996"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_MAR_1993">
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <rdfs:label xml:lang="en">Observation of MAR within the period of 1993 for indicator FAO-21038-6121</rdfs:label>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1993"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">63</cex:value>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/MAR"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_IND_1993">
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <rdfs:label xml:lang="en">Observation of IND within the period of 1993 for indicator FAO-21038-6121</rdfs:label>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/IND"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">81</cex:value>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1993"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2003_1_1">
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2003-01-01T00:00:00+00:00</time:inXSDDateTime>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_NAM_1999">
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/NAM"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <rdfs:label xml:lang="en">Observation of NAM within the period of 1999 for indicator FAO-21038-6121</rdfs:label>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.7</cex:value>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1999"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2001">
+    <time:hasBeginning rdf:resource="http://data.landportal.info/time/instant_2001_1_1"/>
+    <time:hasEnd rdf:resource="http://data.landportal.info/time/instant_2001_12_31"/>
+    <time:hasDateTimeDescription rdf:resource="http://data.landportal.info/time/2001_desc"/>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeInterval"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_BTN_1999">
+    <rdfs:label xml:lang="en">Observation of BTN within the period of 1999 for indicator FAO-21038-6121</rdfs:label>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/BTN"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">23.2</cex:value>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1999"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_SEN_1997">
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1997"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/SEN"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">81</cex:value>
+    <rdfs:label xml:lang="en">Observation of SEN within the period of 1997 for indicator FAO-21038-6121</rdfs:label>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_KGZ_2006">
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2006"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/KGZ"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">50.5</cex:value>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <rdfs:label xml:lang="en">Observation of KGZ within the period of 2006 for indicator FAO-21038-6121</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_PHL_2003">
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdfs:label xml:lang="en">Observation of PHL within the period of 2003 for indicator FAO-21038-6121</rdfs:label>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2003"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">23.8</cex:value>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/PHL"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_1999_1_1">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1999-01-01T00:00:00+00:00</time:inXSDDateTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_BTN_2000">
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <rdfs:label xml:lang="en">Observation of BTN within the period of 2000 for indicator FAO-21038-6121</rdfs:label>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.3</cex:value>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/BTN"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2000"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_HTI_2005">
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/HTI"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">58.9</cex:value>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2005"/>
+    <rdfs:label xml:lang="en">Observation of HTI within the period of 2005 for indicator FAO-21038-6121</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_TUR_2001">
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2001"/>
+    <rdfs:label xml:lang="en">Observation of TUR within the period of 2001 for indicator FAO-21038-6121</rdfs:label>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">72</cex:value>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/TUR"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_JOR_2000">
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/JOR"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">24.4</cex:value>
+    <rdfs:label xml:lang="en">Observation of JOR within the period of 2000 for indicator FAO-21038-6121</rdfs:label>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2000"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_PAN_1999">
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/PAN"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8.6</cex:value>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <rdfs:label xml:lang="en">Observation of PAN within the period of 1999 for indicator FAO-21038-6121</rdfs:label>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1999"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_IND_2006">
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</cex:value>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <rdfs:label xml:lang="en">Observation of IND within the period of 2006 for indicator FAO-21038-6121</rdfs:label>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/IND"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2006"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/1994_desc">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeDescription"/>
+    <time:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1994-01-01</time:year>
+    <time:unitType rdf:resource="http://www.w3.org/2006/time#unitYear"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_1994_12_31">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1994-12-31T00:00:00+00:00</time:inXSDDateTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_ZAF_1995">
+    <rdfs:label xml:lang="en">Observation of ZAF within the period of 1995 for indicator FAO-21038-6121</rdfs:label>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/ZAF"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1995"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">93.4</cex:value>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_TUN_1997">
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/TUN"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">26.4</cex:value>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <rdfs:label xml:lang="en">Observation of TUN within the period of 1997 for indicator FAO-21038-6121</rdfs:label>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1997"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_MDV_2002">
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <rdfs:label xml:lang="en">Observation of MDV within the period of 2002 for indicator FAO-21038-6121</rdfs:label>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/MDV"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">43.1</cex:value>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2002"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2003_desc">
+    <time:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2003-01-01</time:year>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeDescription"/>
+    <time:unitType rdf:resource="http://www.w3.org/2006/time#unitYear"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/1995">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeInterval"/>
+    <time:hasEnd rdf:resource="http://data.landportal.info/time/instant_1995_12_31"/>
+    <time:hasDateTimeDescription rdf:resource="http://data.landportal.info/time/1995_desc"/>
+    <time:hasBeginning rdf:resource="http://data.landportal.info/time/instant_1995_1_1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/1999_desc">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeDescription"/>
+    <time:unitType rdf:resource="http://www.w3.org/2006/time#unitYear"/>
+    <time:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1999-01-01</time:year>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_CMR_1993">
+    <rdfs:label xml:lang="en">Observation of CMR within the period of 1993 for indicator FAO-21038-6121</rdfs:label>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/CMR"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1993"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">91.7</cex:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_IND_2003">
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <rdfs:label xml:lang="en">Observation of IND within the period of 2003 for indicator FAO-21038-6121</rdfs:label>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/IND"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.9</cex:value>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2003"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_LSO_1999">
+    <rdfs:label xml:lang="en">Observation of LSO within the period of 1999 for indicator FAO-21038-6121</rdfs:label>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">100</cex:value>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1999"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LSO"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2000_desc">
+    <time:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2000-01-01</time:year>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeDescription"/>
+    <time:unitType rdf:resource="http://www.w3.org/2006/time#unitYear"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_MEX_2002">
+    <rdfs:label xml:lang="en">Observation of MEX within the period of 2002 for indicator FAO-21038-6121</rdfs:label>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/MEX"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2002"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</cex:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2003">
+    <time:hasBeginning rdf:resource="http://data.landportal.info/time/instant_2003_1_1"/>
+    <time:hasDateTimeDescription rdf:resource="http://data.landportal.info/time/2003_desc"/>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeInterval"/>
+    <time:hasEnd rdf:resource="http://data.landportal.info/time/instant_2003_12_31"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_NIC_2000">
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <rdfs:label xml:lang="en">Observation of NIC within the period of 2000 for indicator FAO-21038-6121</rdfs:label>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/NIC"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">13.4</cex:value>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2000"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_SLV_1997">
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1997"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <rdfs:label xml:lang="en">Observation of SLV within the period of 1997 for indicator FAO-21038-6121</rdfs:label>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/SLV"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.6</cex:value>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_MOZ_1998">
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <rdfs:label xml:lang="en">Observation of MOZ within the period of 1998 for indicator FAO-21038-6121</rdfs:label>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">65.4</cex:value>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1998"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/MOZ"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_TGO_2005">
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2005"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.2</cex:value>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/TGO"/>
+    <rdfs:label xml:lang="en">Observation of TGO within the period of 2005 for indicator FAO-21038-6121</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_CPV_1996">
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1996"/>
+    <rdfs:label xml:lang="en">Observation of CPV within the period of 1996 for indicator FAO-21038-6121</rdfs:label>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/CPV"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">77.4</cex:value>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_IDN_1998">
+    <rdfs:label xml:lang="en">Observation of IDN within the period of 1998 for indicator FAO-21038-6121</rdfs:label>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">63.7</cex:value>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/IDN"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1998"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_BRA_1996">
+    <rdfs:label xml:lang="en">Observation of BRA within the period of 1996 for indicator FAO-21038-6121</rdfs:label>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">32.9</cex:value>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/BRA"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1996"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_CHL_2001">
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <rdfs:label xml:lang="en">Observation of CHL within the period of 2001 for indicator FAO-21038-6121</rdfs:label>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2001"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/CHL"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.2</cex:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_GEO_2005">
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2005"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <rdfs:label xml:lang="en">Observation of GEO within the period of 2005 for indicator FAO-21038-6121</rdfs:label>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.4</cex:value>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/GEO"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_TCD_2003">
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2003"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdfs:label xml:lang="en">Observation of TCD within the period of 2003 for indicator FAO-21038-6121</rdfs:label>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">29.4</cex:value>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/TCD"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2005_12_31">
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2005-12-31T00:00:00+00:00</time:inXSDDateTime>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_ARM_2005">
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2005"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.3</cex:value>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/ARM"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <rdfs:label xml:lang="en">Observation of ARM within the period of 2005 for indicator FAO-21038-6121</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_NPL_2004">
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">27.9</cex:value>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <rdfs:label xml:lang="en">Observation of NPL within the period of 2004 for indicator FAO-21038-6121</rdfs:label>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/NPL"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_PER_2001">
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/PER"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <rdfs:label xml:lang="en">Observation of PER within the period of 2001 for indicator FAO-21038-6121</rdfs:label>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2001"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">10.4</cex:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2003_12_31">
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2003-12-31T00:00:00+00:00</time:inXSDDateTime>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_SAU_1995">
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <rdfs:label xml:lang="en">Observation of SAU within the period of 1995 for indicator FAO-21038-6121</rdfs:label>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1995"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/SAU"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</cex:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2004_12_31">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2004-12-31T00:00:00+00:00</time:inXSDDateTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_TUR_1999">
+    <rdfs:label xml:lang="en">Observation of TUR within the period of 1999 for indicator FAO-21038-6121</rdfs:label>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/TUR"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1999"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">46.2</cex:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_MLI_1999">
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1999"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <rdfs:label xml:lang="en">Observation of MLI within the period of 1999 for indicator FAO-21038-6121</rdfs:label>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/MLI"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">34.1</cex:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_TUR_2003">
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <rdfs:label xml:lang="en">Observation of TUR within the period of 2003 for indicator FAO-21038-6121</rdfs:label>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/TUR"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2003"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">74.6</cex:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_VNM_1993">
+    <rdfs:label xml:lang="en">Observation of VNM within the period of 1993 for indicator FAO-21038-6121</rdfs:label>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1993"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</cex:value>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/VNM"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_LAO_1993">
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <rdfs:label xml:lang="en">Observation of LAO within the period of 1993 for indicator FAO-21038-6121</rdfs:label>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">94.8</cex:value>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LAO"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1993"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_PNG_2004">
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <rdfs:label xml:lang="en">Observation of PNG within the period of 2004 for indicator FAO-21038-6121</rdfs:label>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">74.7</cex:value>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/PNG"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2004">
+    <time:hasEnd rdf:resource="http://data.landportal.info/time/instant_2004_12_31"/>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeInterval"/>
+    <time:hasBeginning rdf:resource="http://data.landportal.info/time/instant_2004_1_1"/>
+    <time:hasDateTimeDescription rdf:resource="http://data.landportal.info/time/2004_desc"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2005_1_1">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2005-01-01T00:00:00+00:00</time:inXSDDateTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/1990">
+    <time:hasBeginning rdf:resource="http://data.landportal.info/time/instant_1990_1_1"/>
+    <time:hasDateTimeDescription rdf:resource="http://data.landportal.info/time/1990_desc"/>
+    <time:hasEnd rdf:resource="http://data.landportal.info/time/instant_1990_12_31"/>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeInterval"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_PHL_1998">
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1998"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/PHL"/>
+    <rdfs:label xml:lang="en">Observation of PHL within the period of 1998 for indicator FAO-21038-6121</rdfs:label>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">65.3</cex:value>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_BTN_1992">
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1992"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <rdfs:label xml:lang="en">Observation of BTN within the period of 1992 for indicator FAO-21038-6121</rdfs:label>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/BTN"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">16.2</cex:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_MOZ_2004">
+    <rdfs:label xml:lang="en">Observation of MOZ within the period of 2004 for indicator FAO-21038-6121</rdfs:label>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/MOZ"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2004"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">68.1</cex:value>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_1993_1_1">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1993-01-01T00:00:00+00:00</time:inXSDDateTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_1995_1_1">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1995-01-01T00:00:00+00:00</time:inXSDDateTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_TGO_1999">
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1999"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdfs:label xml:lang="en">Observation of TGO within the period of 1999 for indicator FAO-21038-6121</rdfs:label>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/TGO"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">42.6</cex:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_LSO_2002">
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2002"/>
+    <rdfs:label xml:lang="en">Observation of LSO within the period of 2002 for indicator FAO-21038-6121</rdfs:label>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">21.5</cex:value>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LSO"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_LKA_2001">
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2001"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LKA"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">30.6</cex:value>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <rdfs:label xml:lang="en">Observation of LKA within the period of 2001 for indicator FAO-21038-6121</rdfs:label>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/1990_desc">
+    <time:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1990-01-01</time:year>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeDescription"/>
+    <time:unitType rdf:resource="http://www.w3.org/2006/time#unitYear"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/1997">
+    <time:hasDateTimeDescription rdf:resource="http://data.landportal.info/time/1997_desc"/>
+    <time:hasBeginning rdf:resource="http://data.landportal.info/time/instant_1997_1_1"/>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeInterval"/>
+    <time:hasEnd rdf:resource="http://data.landportal.info/time/instant_1997_12_31"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_TKM_2004">
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdfs:label xml:lang="en">Observation of TKM within the period of 2004 for indicator FAO-21038-6121</rdfs:label>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/TKM"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">18.7</cex:value>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_MRT_1995">
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">69.8</cex:value>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1995"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <rdfs:label xml:lang="en">Observation of MRT within the period of 1995 for indicator FAO-21038-6121</rdfs:label>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/MRT"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_UGA_2005">
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2005"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/UGA"/>
+    <rdfs:label xml:lang="en">Observation of UGA within the period of 2005 for indicator FAO-21038-6121</rdfs:label>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.9</cex:value>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_IND_1998">
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/IND"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1998"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <rdfs:label xml:lang="en">Observation of IND within the period of 1998 for indicator FAO-21038-6121</rdfs:label>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.3</cex:value>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_IRN_2001">
+    <rdfs:label xml:lang="en">Observation of IRN within the period of 2001 for indicator FAO-21038-6121</rdfs:label>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2001"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/IRN"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">19.7</cex:value>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2005_desc">
+    <time:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2005-01-01</time:year>
+    <time:unitType rdf:resource="http://www.w3.org/2006/time#unitYear"/>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeDescription"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2001_1_1">
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2001-01-01T00:00:00+00:00</time:inXSDDateTime>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_TUR_2002">
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <rdfs:label xml:lang="en">Observation of TUR within the period of 2002 for indicator FAO-21038-6121</rdfs:label>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2002"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/TUR"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">60.9</cex:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_BTN_1998">
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1998"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <rdfs:label xml:lang="en">Observation of BTN within the period of 1998 for indicator FAO-21038-6121</rdfs:label>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/BTN"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">12.3</cex:value>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/1997_desc">
+    <time:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1997-01-01</time:year>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeDescription"/>
+    <time:unitType rdf:resource="http://www.w3.org/2006/time#unitYear"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/1996">
+    <time:hasEnd rdf:resource="http://data.landportal.info/time/instant_1996_12_31"/>
+    <time:hasBeginning rdf:resource="http://data.landportal.info/time/instant_1996_1_1"/>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeInterval"/>
+    <time:hasDateTimeDescription rdf:resource="http://data.landportal.info/time/1996_desc"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2004_1_1">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2004-01-01T00:00:00+00:00</time:inXSDDateTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_EGY_2004">
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/EGY"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">91.9</cex:value>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2004"/>
+    <rdfs:label xml:lang="en">Observation of EGY within the period of 2004 for indicator FAO-21038-6121</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_1992_12_31">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1992-12-31T00:00:00+00:00</time:inXSDDateTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/1996_desc">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeDescription"/>
+    <time:unitType rdf:resource="http://www.w3.org/2006/time#unitYear"/>
+    <time:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1996-01-01</time:year>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_OMN_1994">
+    <rdfs:label xml:lang="en">Observation of OMN within the period of 1994 for indicator FAO-21038-6121</rdfs:label>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1994"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/OMN"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">49.8</cex:value>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_1999_12_31">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1999-12-31T00:00:00+00:00</time:inXSDDateTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_NPL_2005">
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">27.4</cex:value>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2005"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/NPL"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <rdfs:label xml:lang="en">Observation of NPL within the period of 2005 for indicator FAO-21038-6121</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/1999">
+    <time:hasBeginning rdf:resource="http://data.landportal.info/time/instant_1999_1_1"/>
+    <time:hasEnd rdf:resource="http://data.landportal.info/time/instant_1999_12_31"/>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeInterval"/>
+    <time:hasDateTimeDescription rdf:resource="http://data.landportal.info/time/1999_desc"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_GUY_1997">
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1997"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">21.9</cex:value>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdfs:label xml:lang="en">Observation of GUY within the period of 1997 for indicator FAO-21038-6121</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/GUY"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2004_desc">
+    <time:unitType rdf:resource="http://www.w3.org/2006/time#unitYear"/>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeDescription"/>
+    <time:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2004-01-01</time:year>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_LBR_1999">
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <rdfs:label xml:lang="en">Observation of LBR within the period of 1999 for indicator FAO-21038-6121</rdfs:label>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1999"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.5</cex:value>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LBR"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/1995_desc">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeDescription"/>
+    <time:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1995-01-01</time:year>
+    <time:unitType rdf:resource="http://www.w3.org/2006/time#unitYear"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/1991">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeInterval"/>
+    <time:hasDateTimeDescription rdf:resource="http://data.landportal.info/time/1991_desc"/>
+    <time:hasEnd rdf:resource="http://data.landportal.info/time/instant_1991_12_31"/>
+    <time:hasBeginning rdf:resource="http://data.landportal.info/time/instant_1991_1_1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_AFG_2004">
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2004"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/AFG"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <rdfs:label xml:lang="en">Observation of AFG within the period of 2004 for indicator FAO-21038-6121</rdfs:label>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">71.9</cex:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_GHA_1998">
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/GHA"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">100</cex:value>
+    <rdfs:label xml:lang="en">Observation of GHA within the period of 1998 for indicator FAO-21038-6121</rdfs:label>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1998"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2006_12_31">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2006-12-31T00:00:00+00:00</time:inXSDDateTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_IND_2004">
+    <rdfs:label xml:lang="en">Observation of IND within the period of 2004 for indicator FAO-21038-6121</rdfs:label>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/IND"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2004"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">36.7</cex:value>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_UZB_2005">
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">39.8</cex:value>
+    <rdfs:label xml:lang="en">Observation of UZB within the period of 2005 for indicator FAO-21038-6121</rdfs:label>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2005"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/UZB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_BHR_1999">
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <rdfs:label xml:lang="en">Observation of BHR within the period of 1999 for indicator FAO-21038-6121</rdfs:label>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1999"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/BHR"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">16.2</cex:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_BEN_1999">
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/1999"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <rdfs:label xml:lang="en">Observation of BEN within the period of 1999 for indicator FAO-21038-6121</rdfs:label>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8.3</cex:value>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/BEN"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_1990_12_31">
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1990-12-31T00:00:00+00:00</time:inXSDDateTime>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_1998_12_31">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1998-12-31T00:00:00+00:00</time:inXSDDateTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2001_12_31">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2001-12-31T00:00:00+00:00</time:inXSDDateTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_1997_1_1">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1997-01-01T00:00:00+00:00</time:inXSDDateTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_1990_1_1">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1990-01-01T00:00:00+00:00</time:inXSDDateTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_1991_1_1">
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1991-01-01T00:00:00+00:00</time:inXSDDateTime>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_1997_12_31">
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1997-12-31T00:00:00+00:00</time:inXSDDateTime>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2002">
+    <time:hasEnd rdf:resource="http://data.landportal.info/time/instant_2002_12_31"/>
+    <time:hasBeginning rdf:resource="http://data.landportal.info/time/instant_2002_1_1"/>
+    <time:hasDateTimeDescription rdf:resource="http://data.landportal.info/time/2002_desc"/>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeInterval"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_1996_12_31">
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1996-12-31T00:00:00+00:00</time:inXSDDateTime>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/1992_desc">
+    <time:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1992-01-01</time:year>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeDescription"/>
+    <time:unitType rdf:resource="http://www.w3.org/2006/time#unitYear"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2002_desc">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeDescription"/>
+    <time:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2002-01-01</time:year>
+    <time:unitType rdf:resource="http://www.w3.org/2006/time#unitYear"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/1998_desc">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeDescription"/>
+    <time:unitType rdf:resource="http://www.w3.org/2006/time#unitYear"/>
+    <time:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1998-01-01</time:year>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_1992_1_1">
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1992-01-01T00:00:00+00:00</time:inXSDDateTime>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS.2011/observation/FAO-21038-6121_TJK_2003">
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-21038-6121"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/TJK"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">63.9</cex:value>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2003"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdfs:label xml:lang="en">Observation of TJK within the period of 2003 for indicator FAO-21038-6121</rdfs:label>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-16</dct:issued>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/1993_desc">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeDescription"/>
+    <time:unitType rdf:resource="http://www.w3.org/2006/time#unitYear"/>
+    <time:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1993-01-01</time:year>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2006_1_1">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2006-01-01T00:00:00+00:00</time:inXSDDateTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_1998_1_1">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1998-01-01T00:00:00+00:00</time:inXSDDateTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_1991_12_31">
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1991-12-31T00:00:00+00:00</time:inXSDDateTime>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2000_12_31">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2000-12-31T00:00:00+00:00</time:inXSDDateTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2001_desc">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeDescription"/>
+    <time:unitType rdf:resource="http://www.w3.org/2006/time#unitYear"/>
+    <time:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2001-01-01</time:year>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2000_1_1">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2000-01-01T00:00:00+00:00</time:inXSDDateTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_1996_1_1">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1996-01-01T00:00:00+00:00</time:inXSDDateTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_1993_12_31">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1993-12-31T00:00:00+00:00</time:inXSDDateTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_1995_12_31">
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1995-12-31T00:00:00+00:00</time:inXSDDateTime>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+  </rdf:Description>
+</rdf:RDF>

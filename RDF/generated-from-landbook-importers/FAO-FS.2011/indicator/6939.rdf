@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:schema="http://schema.org/"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/FAO-21018-6125">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:identifier>FAO-21018-6125</dct:identifier>
+    <skos:notation>FAO-21018-6125</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FOOD"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-LAW"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FOOD"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-LAW"/>
+    <sdmx-attribute:unitMeasure>Index</sdmx-attribute:unitMeasure>
+    <rdfs:label>Domestic food price level index</rdfs:label>
+    <skos:prefLabel>Domestic food price level index</skos:prefLabel>
+    <dct:title>Domestic food price level index</dct:title>
+    <skos:definition>This indicator is part of the FAO Suite of Food Security Indicators (2011) in the dimension &quot;access&quot;. Domestic food price level index is an important indicator for global monitoring of food security because it compares the relative price of food across countries and over time. The Domestic Food Price Level Index is calculated by dividing the Food Purchasing Power Parity (FPPP) by the General PPP, thus providing an index of the price of food in the country relative to the price of the generic cosnumption basket. Data are available for 2005 from the ICP Program . It is then extended to other years by adjusting both numerator and denominator using the relative chenges in Food CPI and General CPI as provided by ILO. It allows comparison of the relative price of food across countries and over time.</skos:definition>
+    <dct:description>This indicator is part of the FAO Suite of Food Security Indicators (2011) in the dimension &quot;access&quot;. Domestic food price level index is an important indicator for global monitoring of food security because it compares the relative price of food across countries and over time. The Domestic Food Price Level Index is calculated by dividing the Food Purchasing Power Parity (FPPP) by the General PPP, thus providing an index of the price of food in the country relative to the price of the generic cosnumption basket. Data are available for 2005 from the ICP Program . It is then extended to other years by adjusting both numerator and denominator using the relative chenges in Food CPI and General CPI as provided by ILO. It allows comparison of the relative price of food across countries and over time.</dct:description>
+    <rdfs:comment>This indicator is part of the FAO Suite of Food Security Indicators (2011) in the dimension &quot;access&quot;. Domestic food price level index is an important indicator for global monitoring of food security because it compares the relative price of food across countries and over time. The Domestic Food Price Level Index is calculated by dividing the Food Purchasing Power Parity (FPPP) by the General PPP, thus providing an index of the price of food in the country relative to the price of the generic cosnumption basket. Data are available for 2005 from the ICP Program . It is then extended to other years by adjusting both numerator and denominator using the relative chenges in Food CPI and General CPI as provided by ILO. It allows comparison of the relative price of food across countries and over time.</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicators/indfaofsec1"/>
+  </rdf:Description>
+
+</rdf:RDF>

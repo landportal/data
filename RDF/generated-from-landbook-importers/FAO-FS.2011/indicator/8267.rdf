@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/FAO-21029-6125">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FOOD"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FOOD"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
+    <dct:identifier>FAO-21029-6125</dct:identifier>
+    <skos:notation>FAO-21029-6125</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/FAO-FS.2011"/>
+    <sdmx-attribute:unitMeasure>Index</sdmx-attribute:unitMeasure>
+    <rdfs:label>Domestic food price volatility (index)</rdfs:label>
+    <skos:prefLabel>Domestic food price volatility (index)</skos:prefLabel>
+    <dct:title>Domestic food price volatility (index)</dct:title>
+    <skos:definition>This indicator is part of the FAO Suite of Food Security Indicators (2011) in the dimension &amp;quot;stability&amp;quot;. The domestic food price volatility index measures the variability in the relative price of food in a country. The indicator is calculated from the monthly domestic food price level index using monthly consumer and general food price indices and purchasing power parity data from the International Comparison Program conducted by the World Bank (see the Relative Price of Food Indicator for more informaiton). Month-to-month growth rates are calculated, and the standard deviation of these growth rates are calculated over the previous 8 months (8-months rolling standard deviation). The average of these standard deviations is then computed to obtain an annual volatility indicator.</skos:definition>
+    <dct:description>This indicator is part of the FAO Suite of Food Security Indicators (2011) in the dimension &amp;quot;stability&amp;quot;. The domestic food price volatility index measures the variability in the relative price of food in a country. The indicator is calculated from the monthly domestic food price level index using monthly consumer and general food price indices and purchasing power parity data from the International Comparison Program conducted by the World Bank (see the Relative Price of Food Indicator for more informaiton). Month-to-month growth rates are calculated, and the standard deviation of these growth rates are calculated over the previous 8 months (8-months rolling standard deviation). The average of these standard deviations is then computed to obtain an annual volatility indicator.</dct:description>
+    <rdfs:comment>This indicator is part of the FAO Suite of Food Security Indicators (2011) in the dimension &amp;quot;stability&amp;quot;. The domestic food price volatility index measures the variability in the relative price of food in a country. The indicator is calculated from the monthly domestic food price level index using monthly consumer and general food price indices and purchasing power parity data from the International Comparison Program conducted by the World Bank (see the Relative Price of Food Indicator for more informaiton). Month-to-month growth rates are calculated, and the standard deviation of these growth rates are calculated over the previous 8 months (8-months rolling standard deviation). The average of these standard deviations is then computed to obtain an annual volatility indicator.</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/fao-21029-6125"/>
+  </rdf:Description>
+
+</rdf:RDF>
