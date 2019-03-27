@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:schema="http://schema.org/"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/FAO-21007-6132">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:identifier>FAO-21007-6132</dct:identifier>
+    <skos:notation>FAO-21007-6132</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/FAO-FS"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FOOD"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FOOD"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
+    <sdmx-attribute:unitMeasure>Million people</sdmx-attribute:unitMeasure>
+    <rdfs:label>Number of severely food insecure people</rdfs:label>
+    <skos:prefLabel>Number of severely food insecure people</skos:prefLabel>
+    <dct:title>Number of severely food insecure people</dct:title>
+    <skos:definition>This indicator is part of the FAO Suite of Food Security Indicators (2017) as &quot;Additional useful statistics&quot;. This indicator measures estimated number of people living in households classified as severely food insecure. It is calculated by multiplying the estimated percentage of people affected by severe food insecurity by the total population.</skos:definition>
+    <dct:description>This indicator is part of the FAO Suite of Food Security Indicators (2017) as &quot;Additional useful statistics&quot;. This indicator measures estimated number of people living in households classified as severely food insecure. It is calculated by multiplying the estimated percentage of people affected by severe food insecurity by the total population.</dct:description>
+    <rdfs:comment>This indicator is part of the FAO Suite of Food Security Indicators (2017) as &quot;Additional useful statistics&quot;. This indicator measures estimated number of people living in households classified as severely food insecure. It is calculated by multiplying the estimated percentage of people affected by severe food insecurity by the total population.</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/fao-21007-6132"/>
+  </rdf:Description>
+
+</rdf:RDF>

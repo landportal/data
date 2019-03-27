@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:schema="http://schema.org/"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/FAO-21019-6121">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:identifier>FAO-21019-6121</dct:identifier>
+    <skos:notation>FAO-21019-6121</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/FAO-FS"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FOOD"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FOOD"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
+    <sdmx-attribute:unitMeasure>Percentage</sdmx-attribute:unitMeasure>
+    <rdfs:label>Access to improved water sources (%)</rdfs:label>
+    <skos:prefLabel>Access to improved water sources (%)</skos:prefLabel>
+    <dct:title>Access to improved water sources (%)</dct:title>
+    <skos:definition>This indicator is part of the FAO Suite of Food Security Indicators (2017) in the dimension &quot;utilization&quot;. It measures the share (%) of the total population with access to improved drinking water sources. Access to an improved water source refers to the percentage of the population with reasonable access to an adequate amount of water from an improved source, such as a household connection, public standpipe, borehole, protected well or spring, and rainwater collection. Unimproved sources include vendors, tanker trucks, and unprotected wells and springs. Reasonable access is defined as the availability of at least 20 liters a person a day from a source within one kilometer of the dwelling. This indicator provides information useful to assess the utilization dimension of food security outcomes. It corresponds to the MDG 7 target 7.C: &quot;halve by 2015 the proportion of people without sutainable access to safe drinking water and basic sanitation&quot;. The indicator, originally compiled by the WHO/UNICEF Joint Monitoring Programme (JMP) for Water Supply and Sanitation (http://wssinfo.org), is also available on the World Bank site (http://data.worldbank.org/indicator/SH.STA.ACSN).</skos:definition>
+    <dct:description>This indicator is part of the FAO Suite of Food Security Indicators (2017) in the dimension &quot;utilization&quot;. It measures the share (%) of the total population with access to improved drinking water sources. Access to an improved water source refers to the percentage of the population with reasonable access to an adequate amount of water from an improved source, such as a household connection, public standpipe, borehole, protected well or spring, and rainwater collection. Unimproved sources include vendors, tanker trucks, and unprotected wells and springs. Reasonable access is defined as the availability of at least 20 liters a person a day from a source within one kilometer of the dwelling. This indicator provides information useful to assess the utilization dimension of food security outcomes. It corresponds to the MDG 7 target 7.C: &quot;halve by 2015 the proportion of people without sutainable access to safe drinking water and basic sanitation&quot;. The indicator, originally compiled by the WHO/UNICEF Joint Monitoring Programme (JMP) for Water Supply and Sanitation (http://wssinfo.org), is also available on the World Bank site (http://data.worldbank.org/indicator/SH.STA.ACSN).</dct:description>
+    <rdfs:comment>This indicator is part of the FAO Suite of Food Security Indicators (2017) in the dimension &quot;utilization&quot;. It measures the share (%) of the total population with access to improved drinking water sources. Access to an improved water source refers to the percentage of the population with reasonable access to an adequate amount of water from an improved source, such as a household connection, public standpipe, borehole, protected well or spring, and rainwater collection. Unimproved sources include vendors, tanker trucks, and unprotected wells and springs. Reasonable access is defined as the availability of at least 20 liters a person a day from a source within one kilometer of the dwelling. This indicator provides information useful to assess the utilization dimension of food security outcomes. It corresponds to the MDG 7 target 7.C: &quot;halve by 2015 the proportion of people without sutainable access to safe drinking water and basic sanitation&quot;. The indicator, originally compiled by the WHO/UNICEF Joint Monitoring Programme (JMP) for Water Supply and Sanitation (http://wssinfo.org), is also available on the World Bank site (http://data.worldbank.org/indicator/SH.STA.ACSN).</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicators/indfaofsec2"/>
+  </rdf:Description>
+
+</rdf:RDF>

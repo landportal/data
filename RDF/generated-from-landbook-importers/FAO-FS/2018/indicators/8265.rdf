@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:schema="http://schema.org/"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/FAO-21034-6121">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:identifier>FAO-21034-6121</dct:identifier>
+    <skos:notation>FAO-21034-6121</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/FAO-FS"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FOOD"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-USE"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FOOD"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-USE"/>
+    <sdmx-attribute:unitMeasure>Percentage (3-year average)</sdmx-attribute:unitMeasure>
+    <rdfs:label>Percentage of arable land equipped for irrigation (%) (3-year average)</rdfs:label>
+    <skos:prefLabel>Percentage of arable land equipped for irrigation (%) (3-year average)</skos:prefLabel>
+    <dct:title>Percentage of arable land equipped for irrigation (%) (3-year average)</dct:title>
+    <skos:definition>This indicator is part of the FAO Suite of Food Security Indicators (2017) in the dimension &amp;quot;stability&amp;quot;. This indicator is the ratio between arable land equipped for irrigation and total arable land. Arable land is defined as the land under temporary agricultural crops (multiple-cropped areas are counted only once), temporary meadows for mowing or pasture, land under market and kitchen gardens and land temporarily fallow (less than five years). The abandoned land resulting from shifting cultivation is not included in this category. Data for arable land are not meant to indicate the amount of land that is potentially cultivable. Total arable land equipped for irrigation is defined as the area equipped to provide water (via irrigation) to the crops. It includes areas equipped for full and partial control irrigation, equipped lowland areas, pastures, and areas equipped for spate irrigation. This indicator provides a measure of the dependence of a country’s or region’s agriculture on irrigation. It shows the vulnerability of agriculture to water stress and climatic shocks (such as droughts), which has implications for national food security depending on production and trade patterns. The indicator is calculated in three year averages, from 1990-92 to 2010-12, to reduce the impact of possible errors in estimated land.</skos:definition>
+    <dct:description>This indicator is part of the FAO Suite of Food Security Indicators (2017) in the dimension &amp;quot;stability&amp;quot;. This indicator is the ratio between arable land equipped for irrigation and total arable land. Arable land is defined as the land under temporary agricultural crops (multiple-cropped areas are counted only once), temporary meadows for mowing or pasture, land under market and kitchen gardens and land temporarily fallow (less than five years). The abandoned land resulting from shifting cultivation is not included in this category. Data for arable land are not meant to indicate the amount of land that is potentially cultivable. Total arable land equipped for irrigation is defined as the area equipped to provide water (via irrigation) to the crops. It includes areas equipped for full and partial control irrigation, equipped lowland areas, pastures, and areas equipped for spate irrigation. This indicator provides a measure of the dependence of a country’s or region’s agriculture on irrigation. It shows the vulnerability of agriculture to water stress and climatic shocks (such as droughts), which has implications for national food security depending on production and trade patterns. The indicator is calculated in three year averages, from 1990-92 to 2010-12, to reduce the impact of possible errors in estimated land.</dct:description>
+    <rdfs:comment>This indicator is part of the FAO Suite of Food Security Indicators (2017) in the dimension &amp;quot;stability&amp;quot;. This indicator is the ratio between arable land equipped for irrigation and total arable land. Arable land is defined as the land under temporary agricultural crops (multiple-cropped areas are counted only once), temporary meadows for mowing or pasture, land under market and kitchen gardens and land temporarily fallow (less than five years). The abandoned land resulting from shifting cultivation is not included in this category. Data for arable land are not meant to indicate the amount of land that is potentially cultivable. Total arable land equipped for irrigation is defined as the area equipped to provide water (via irrigation) to the crops. It includes areas equipped for full and partial control irrigation, equipped lowland areas, pastures, and areas equipped for spate irrigation. This indicator provides a measure of the dependence of a country’s or region’s agriculture on irrigation. It shows the vulnerability of agriculture to water stress and climatic shocks (such as droughts), which has implications for national food security depending on production and trade patterns. The indicator is calculated in three year averages, from 1990-92 to 2010-12, to reduce the impact of possible errors in estimated land.</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/fao-21034-6121"/>
+  </rdf:Description>
+
+</rdf:RDF>

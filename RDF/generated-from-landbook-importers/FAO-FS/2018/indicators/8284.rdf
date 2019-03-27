@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:schema="http://schema.org/"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/FAO-21016-6124">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:identifier>FAO-21016-6124</dct:identifier>
+    <skos:notation>FAO-21016-6124</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/FAO-FS"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FOOD"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FOOD"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
+    <sdmx-attribute:unitMeasure>Total route in km per 100 square km of land area</sdmx-attribute:unitMeasure>
+    <rdfs:label>Rail-lines density (per 100 square km of land area)</rdfs:label>
+    <skos:prefLabel>Rail-lines density (per 100 square km of land area)</skos:prefLabel>
+    <dct:title>Rail-lines density (per 100 square km of land area)</dct:title>
+    <skos:definition>This indicator is part of the FAO Suite of Food Security Indicators (2017) in the dimension &amp;quot;access&amp;quot;. It measures the total route in km per 100 square km of land area. Rail lines density corresponds to the ratio between the length of railway route available for train service, irrespective of the number of parallel tracks (rail lines, total route in km) with the area of the country. This indicator provides information on the possibility of physical access to markets. Due to low coverage, missing values for &amp;quot;Rail lines density (total route in km per 100 square km of land area)&amp;quot; and &amp;quot;Surface area (sq. km)&amp;quot; are imputed through linear interpolation and extrapolated backward and forward using the closest point. Regional aggregates are computed weighting &amp;quot;Rail lines density (total route in km per 100 square km of land area)&amp;quot; by &amp;quot;Surface area (sq. km)&amp;quot;, but they are disseminated only if &amp;quot;Surface area (sq. km)&amp;quot; for those countries with &amp;quot;Rail lines density (total route in km per 100 square km of land area)&amp;quot; available represents more than 70% of the total area of the region they belong to. Original data can be retrieved from the World Bank (World Bank: http://data.worldbank.org/indicator/IS.RRS.TOTL.KM and http://data.worldbank.org/indicator/AG.SRF.TOTL.K2)</skos:definition>
+    <dct:description>This indicator is part of the FAO Suite of Food Security Indicators (2017) in the dimension &amp;quot;access&amp;quot;. It measures the total route in km per 100 square km of land area. Rail lines density corresponds to the ratio between the length of railway route available for train service, irrespective of the number of parallel tracks (rail lines, total route in km) with the area of the country. This indicator provides information on the possibility of physical access to markets. Due to low coverage, missing values for &amp;quot;Rail lines density (total route in km per 100 square km of land area)&amp;quot; and &amp;quot;Surface area (sq. km)&amp;quot; are imputed through linear interpolation and extrapolated backward and forward using the closest point. Regional aggregates are computed weighting &amp;quot;Rail lines density (total route in km per 100 square km of land area)&amp;quot; by &amp;quot;Surface area (sq. km)&amp;quot;, but they are disseminated only if &amp;quot;Surface area (sq. km)&amp;quot; for those countries with &amp;quot;Rail lines density (total route in km per 100 square km of land area)&amp;quot; available represents more than 70% of the total area of the region they belong to. Original data can be retrieved from the World Bank (World Bank: http://data.worldbank.org/indicator/IS.RRS.TOTL.KM and http://data.worldbank.org/indicator/AG.SRF.TOTL.K2)</dct:description>
+    <rdfs:comment>This indicator is part of the FAO Suite of Food Security Indicators (2017) in the dimension &amp;quot;access&amp;quot;. It measures the total route in km per 100 square km of land area. Rail lines density corresponds to the ratio between the length of railway route available for train service, irrespective of the number of parallel tracks (rail lines, total route in km) with the area of the country. This indicator provides information on the possibility of physical access to markets. Due to low coverage, missing values for &amp;quot;Rail lines density (total route in km per 100 square km of land area)&amp;quot; and &amp;quot;Surface area (sq. km)&amp;quot; are imputed through linear interpolation and extrapolated backward and forward using the closest point. Regional aggregates are computed weighting &amp;quot;Rail lines density (total route in km per 100 square km of land area)&amp;quot; by &amp;quot;Surface area (sq. km)&amp;quot;, but they are disseminated only if &amp;quot;Surface area (sq. km)&amp;quot; for those countries with &amp;quot;Rail lines density (total route in km per 100 square km of land area)&amp;quot; available represents more than 70% of the total area of the region they belong to. Original data can be retrieved from the World Bank (World Bank: http://data.worldbank.org/indicator/IS.RRS.TOTL.KM and http://data.worldbank.org/indicator/AG.SRF.TOTL.K2)</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/fao-21016-6124"/>
+  </rdf:Description>
+
+</rdf:RDF>

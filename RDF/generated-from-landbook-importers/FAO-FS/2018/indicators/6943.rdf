@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:schema="http://schema.org/"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/FAO-21004-6121">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:identifier>FAO-21004-6121</dct:identifier>
+    <skos:notation>FAO-21004-6121</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/FAO-FS"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FOOD"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FOOD"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
+    <sdmx-attribute:unitMeasure>Percentage</sdmx-attribute:unitMeasure>
+    <rdfs:label>Prevalence of undernourishment (%) (3-year average)</rdfs:label>
+    <skos:prefLabel>Prevalence of undernourishment (%) (3-year average)</skos:prefLabel>
+    <dct:title>Prevalence of undernourishment (%) (3-year average)</dct:title>
+    <skos:definition>This indicator is part of the FAO Suite of Food Security Indicators (2017) in the dimension &quot;access&quot;. The prevalence of undernourishment expresses the probability that a randomly selected individual from the population consumes an amount of calories that is insufficient to cover her/his energy requirement for an active and healthy life. The indicator is computed by comparing a probability distribution of habitual daily dietary energy consumption with a threshold level called the minimum dietary energy Requirement. Both are based on the notion of an average individual in the reference population. This is the traditional FAO hunger indicator, adopted as official Millennium Development Goal indicator for Goal 1, Target 1.9. The indicator is calculated in three year averages, from 1990-92 to 2014-16, to reduce the impact of possible errors in estimated DES, due to the difficulties in properly accounting of stock variations in major food. More details on the methodology for computing the prevalence of undernourishment are in &quot;Annex 2&quot; of the &quot;State of Food Insecurity in the World 2015&quot; Report (http://www.fao.org/publications/sofi/en/)</skos:definition>
+    <dct:description>This indicator is part of the FAO Suite of Food Security Indicators (2017) in the dimension &quot;access&quot;. The prevalence of undernourishment expresses the probability that a randomly selected individual from the population consumes an amount of calories that is insufficient to cover her/his energy requirement for an active and healthy life. The indicator is computed by comparing a probability distribution of habitual daily dietary energy consumption with a threshold level called the minimum dietary energy Requirement. Both are based on the notion of an average individual in the reference population. This is the traditional FAO hunger indicator, adopted as official Millennium Development Goal indicator for Goal 1, Target 1.9. The indicator is calculated in three year averages, from 1990-92 to 2014-16, to reduce the impact of possible errors in estimated DES, due to the difficulties in properly accounting of stock variations in major food. More details on the methodology for computing the prevalence of undernourishment are in &quot;Annex 2&quot; of the &quot;State of Food Insecurity in the World 2015&quot; Report (http://www.fao.org/publications/sofi/en/)</dct:description>
+    <rdfs:comment>This indicator is part of the FAO Suite of Food Security Indicators (2017) in the dimension &quot;access&quot;. The prevalence of undernourishment expresses the probability that a randomly selected individual from the population consumes an amount of calories that is insufficient to cover her/his energy requirement for an active and healthy life. The indicator is computed by comparing a probability distribution of habitual daily dietary energy consumption with a threshold level called the minimum dietary energy Requirement. Both are based on the notion of an average individual in the reference population. This is the traditional FAO hunger indicator, adopted as official Millennium Development Goal indicator for Goal 1, Target 1.9. The indicator is calculated in three year averages, from 1990-92 to 2014-16, to reduce the impact of possible errors in estimated DES, due to the difficulties in properly accounting of stock variations in major food. More details on the methodology for computing the prevalence of undernourishment are in &quot;Annex 2&quot; of the &quot;State of Food Insecurity in the World 2015&quot; Report (http://www.fao.org/publications/sofi/en/)</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicators/indfaofsec4"/>
+  </rdf:Description>
+
+</rdf:RDF>

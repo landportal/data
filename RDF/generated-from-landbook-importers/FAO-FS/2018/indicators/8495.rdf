@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:schema="http://schema.org/"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/FAO-21042-6121">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:identifier>FAO-21042-6121</dct:identifier>
+    <skos:notation>FAO-21042-6121</skos:notation>
+    <sdmx-attribute:unitMeasure>Percentage</sdmx-attribute:unitMeasure>	
+    <dct:source rdf:resource="http://data.landportal.info/dataset/FAO-FS"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FOOD"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FOOD"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
+    <rdfs:label>Prevalence of obesity in the adult population (18 years and older)</rdfs:label>
+    <skos:prefLabel>Prevalence of obesity in the adult population (18 years and older)</skos:prefLabel>
+    <dct:title>Prevalence of obesity in the adult population (18 years and older)</dct:title>
+    <skos:definition>This indicator is part of the FAO Suite of Food Security Indicators (2017) in the dimension &quot;utilization&quot;. This indicator measures the prevalence of obesity in the adult population is the percentage of adults ages 18 and over whose Body Mass Index (BMI) is more than 30 kg/m2. Body Mass Index (BMI) is a simple index of weight-for-height, or the weight in kilograms divided by the square of the height in meters. Input data and methods are described here: NCD-RisC. Worldwide trends in body-mass index, underweight, overweight, and obesity from 1975 to 2016: a pooled analysis of 2416 population-based measurement studies with 128.9 million participants. Lancet 2017. DOI: http://dx.doi.org/10.1016/S0140-6736(17)32129-3.    More information at World Health Organization Global Health Observatory (GHO) http://apps.who.int/gho/data/node.main.A900A?lang=en</skos:definition>
+    <dct:description>This indicator is part of the FAO Suite of Food Security Indicators (2017) in the dimension &quot;utilization&quot;. This indicator measures the prevalence of obesity in the adult population is the percentage of adults ages 18 and over whose Body Mass Index (BMI) is more than 30 kg/m2. Body Mass Index (BMI) is a simple index of weight-for-height, or the weight in kilograms divided by the square of the height in meters. Input data and methods are described here: NCD-RisC. Worldwide trends in body-mass index, underweight, overweight, and obesity from 1975 to 2016: a pooled analysis of 2416 population-based measurement studies with 128.9 million participants. Lancet 2017. DOI: http://dx.doi.org/10.1016/S0140-6736(17)32129-3.    More information at World Health Organization Global Health Observatory (GHO) http://apps.who.int/gho/data/node.main.A900A?lang=en</dct:description>
+    <rdfs:comment>This indicator is part of the FAO Suite of Food Security Indicators (2017) in the dimension &quot;utilization&quot;. This indicator measures the prevalence of obesity in the adult population is the percentage of adults ages 18 and over whose Body Mass Index (BMI) is more than 30 kg/m2. Body Mass Index (BMI) is a simple index of weight-for-height, or the weight in kilograms divided by the square of the height in meters. Input data and methods are described here: NCD-RisC. Worldwide trends in body-mass index, underweight, overweight, and obesity from 1975 to 2016: a pooled analysis of 2416 population-based measurement studies with 128.9 million participants. Lancet 2017. DOI: http://dx.doi.org/10.1016/S0140-6736(17)32129-3.    More information at World Health Organization Global Health Observatory (GHO) http://apps.who.int/gho/data/node.main.A900A?lang=en</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/fao-21042-6121"/>
+  </rdf:Description>
+
+</rdf:RDF>

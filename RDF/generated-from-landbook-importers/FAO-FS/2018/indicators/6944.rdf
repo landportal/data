@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:schema="http://schema.org/"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/FAO-21023-6128">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:identifier>FAO-21023-6128</dct:identifier>
+    <skos:notation>FAO-21023-6128</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/FAO-FS"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FOOD"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FOOD"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
+    <sdmx-attribute:unitMeasure>kcal/capita/day</sdmx-attribute:unitMeasure>
+    <rdfs:label>Depth of the food deficit (kcal/capita/day) (3-year average)</rdfs:label>
+    <skos:prefLabel>Depth of the food deficit (kcal/capita/day) (3-year average)</skos:prefLabel>
+    <dct:title>Depth of the food deficit (kcal/capita/day) (3-year average)</dct:title>
+    <skos:definition>This indicator is part of the FAO Suite of Food Security Indicators (2017) in the dimension &quot;access&quot;. The depth of the food deficit indicates how many calories would be needed to lift the undernourished from their status, everything else being constant. The average intensity of food deprivation of the undernourished, estimated as the difference between the average dietary energy requirement and the average dietary energy consumption of the undernourished population (food-deprived), is multiplied by the number of undernourished to provide an estimate of the total food deficit in the country, which is then normalized by the total population. Complementary indicator to assess the multiple dimensions and manifestations of food insecurity and the policies for more effective interventions and responses. The indicator is calculated in three year averages, from 1990-92 to 2014-16, to reduce the impact of possible errors in estimated DES, due to the difficulties in properly accounting of stock variations in major food.</skos:definition>
+    <dct:description>This indicator is part of the FAO Suite of Food Security Indicators (2017) in the dimension &quot;access&quot;. The depth of the food deficit indicates how many calories would be needed to lift the undernourished from their status, everything else being constant. The average intensity of food deprivation of the undernourished, estimated as the difference between the average dietary energy requirement and the average dietary energy consumption of the undernourished population (food-deprived), is multiplied by the number of undernourished to provide an estimate of the total food deficit in the country, which is then normalized by the total population. Complementary indicator to assess the multiple dimensions and manifestations of food insecurity and the policies for more effective interventions and responses. The indicator is calculated in three year averages, from 1990-92 to 2014-16, to reduce the impact of possible errors in estimated DES, due to the difficulties in properly accounting of stock variations in major food.</dct:description>
+    <rdfs:comment>This indicator is part of the FAO Suite of Food Security Indicators (2017) in the dimension &quot;access&quot;. The depth of the food deficit indicates how many calories would be needed to lift the undernourished from their status, everything else being constant. The average intensity of food deprivation of the undernourished, estimated as the difference between the average dietary energy requirement and the average dietary energy consumption of the undernourished population (food-deprived), is multiplied by the number of undernourished to provide an estimate of the total food deficit in the country, which is then normalized by the total population. Complementary indicator to assess the multiple dimensions and manifestations of food insecurity and the policies for more effective interventions and responses. The indicator is calculated in three year averages, from 1990-92 to 2014-16, to reduce the impact of possible errors in estimated DES, due to the difficulties in properly accounting of stock variations in major food.</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicators/indfaofsec6"/>
+  </rdf:Description>
+
+</rdf:RDF>

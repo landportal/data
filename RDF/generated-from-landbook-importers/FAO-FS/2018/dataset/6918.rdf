@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:schema="http://schema.org/"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-FS">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#DataSet"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+    <schema:image rdf:resource="https://landportal.org/sites/landportal.org/files/FAO-FS.png"/>
+    <schema:logo rdf:resource="https://landportal.org/sites/landportal.org/files/FAO-FS.png"/>
+    <dct:identifier>FAO-FS</dct:identifier>
+    <skos:notation>FAO-FS</skos:notation>
+    <dct:publisher rdf:resource="http://data.landportal.info/organization/11005528-e13b-45b2-814a-5bb54c84bdfe"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FOOD"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-USE"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FOOD"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-USE"/>
+    <dc:rights rdf:datatype="http://www.w3.org/2001/XMLSchema#string">To ensure wide dissemination of its information, FAO is committed to making its content freely available and encourages the use, reproduction and dissemination of the text, multimedia and data presented. Except where otherwise indicated, content may be copied, printed and downloaded for private study, research and teaching purposes, and for use in non-commercial products or services, provided that appropriate acknowledgement of FAO as the source and copyright holder is given and that FAO's endorsement of users' views, products or services is not stated or implied in any way. More details in the FAO Terms and conditions webpage.</dc:rights>
+    <skos:prefLabel>FAO - Food Security</skos:prefLabel>
+    <rdfs:label>FAO - Food Security</rdfs:label>
+    <dct:title>FAO - Food Security</dct:title>
+    <skos:definition>This dataset contains a suite of indicators (available from 2017) on the level of food security in several countries as provided by FAO. The selection of the indicators included in this dataset is based upon the FAO suite of Food Security Indicators, which includes 21 indicators grouped along the four dimension of food security (Availability, Access, Utilization and Stability). Another 10 indicators are included as “additional useful statistics”. The new suite of food security indicators is composed of a revised selection of indicators based on the SDGs monitoring requirement and data availability. For example, some of the utilization indicators are replaced with official SDGs indicators. In addition, a new indicator for measuring severe food insecurity based on the Food Insecurity Experience Scale (FIES) is included.  The choice of the indicators has been informed by expert judgment and the availability of data with sufficient coverage to enable comparisons across regions and over time. Many of these indicators are produced and published elsewhere by FAO and other international organizations. They are reported here in a single database with the aim of building a wide food security information system. Data from the FAO suite of food security indicators can be accessed on FAOSTAT.</skos:definition>
+    <dct:description>This dataset contains a suite of indicators (available from 2017) on the level of food security in several countries as provided by FAO. The selection of the indicators included in this dataset is based upon the FAO suite of Food Security Indicators, which includes 21 indicators grouped along the four dimension of food security (Availability, Access, Utilization and Stability). Another 10 indicators are included as “additional useful statistics”. The new suite of food security indicators is composed of a revised selection of indicators based on the SDGs monitoring requirement and data availability. For example, some of the utilization indicators are replaced with official SDGs indicators. In addition, a new indicator for measuring severe food insecurity based on the Food Insecurity Experience Scale (FIES) is included.  The choice of the indicators has been informed by expert judgment and the availability of data with sufficient coverage to enable comparisons across regions and over time. Many of these indicators are produced and published elsewhere by FAO and other international organizations. They are reported here in a single database with the aim of building a wide food security information system. Data from the FAO suite of food security indicators can be accessed on FAOSTAT.</dct:description>
+    <rdfs:comment>This dataset contains a suite of indicators (available from 2017) on the level of food security in several countries as provided by FAO. The selection of the indicators included in this dataset is based upon the FAO suite of Food Security Indicators, which includes 21 indicators grouped along the four dimension of food security (Availability, Access, Utilization and Stability). Another 10 indicators are included as “additional useful statistics”. The new suite of food security indicators is composed of a revised selection of indicators based on the SDGs monitoring requirement and data availability. For example, some of the utilization indicators are replaced with official SDGs indicators. In addition, a new indicator for measuring severe food insecurity based on the Food Insecurity Experience Scale (FIES) is included.  The choice of the indicators has been informed by expert judgment and the availability of data with sufficient coverage to enable comparisons across regions and over time. Many of these indicators are produced and published elsewhere by FAO and other international organizations. They are reported here in a single database with the aim of building a wide food security information system. Data from the FAO suite of food security indicators can be accessed on FAOSTAT.</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/24"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/dataset/fao-fs"/>
+  </rdf:Description>
+
+</rdf:RDF>

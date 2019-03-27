@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:schema="http://schema.org/"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/FAO-21020-6121">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:identifier>FAO-21020-6121</dct:identifier>
+    <skos:notation>FAO-21020-6121</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/FAO-FS"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FOOD"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FOOD"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
+    <sdmx-attribute:unitMeasure>Percentage</sdmx-attribute:unitMeasure>
+    <rdfs:label>Access to improved sanitation facilities (%)</rdfs:label>
+    <skos:prefLabel>Access to improved sanitation facilities (%)</skos:prefLabel>
+    <dct:title>Access to improved sanitation facilities (%)</dct:title>
+    <skos:definition>This indicator is part of the FAO Suite of Food Security Indicators (2017) in the dimension &quot;utilization&quot;. It measures the share (%) of the total population with Access to Sanitation Facilities. Access to improved sanitation facilities refers to the percentage of the population with at least adequate access to excreta disposal facilities that can effectively prevent human, animal, and insect contact with excreta. Improved facilities range from simple but protected pit latrines to flush toilets with a sewerage connection. To be effective, facilities must be correctly constructed and properly maintained. This indicator provides information useful to assess the utilization dimension of food security outcomes. It corresponds to the MDG 7 target 7.C: &quot;halve by 2015 the proportion of people without sutainable access to safe drinking water and basic sanitation&quot;. The indicator, originally compiled by the WHO/UNICEF Joint Monitoring Programme (JMP) for Water Supply and Sanitation (wssinfo.org), is also part of the World Development Indicators of the World Bank (http://data.worldbank.org/indicator/SH.H2O.SAFE.ZS)  </skos:definition>
+    <dct:description>This indicator is part of the FAO Suite of Food Security Indicators (2017) in the dimension &quot;utilization&quot;. It measures the share (%) of the total population with Access to Sanitation Facilities. Access to improved sanitation facilities refers to the percentage of the population with at least adequate access to excreta disposal facilities that can effectively prevent human, animal, and insect contact with excreta. Improved facilities range from simple but protected pit latrines to flush toilets with a sewerage connection. To be effective, facilities must be correctly constructed and properly maintained. This indicator provides information useful to assess the utilization dimension of food security outcomes. It corresponds to the MDG 7 target 7.C: &quot;halve by 2015 the proportion of people without sutainable access to safe drinking water and basic sanitation&quot;. The indicator, originally compiled by the WHO/UNICEF Joint Monitoring Programme (JMP) for Water Supply and Sanitation (wssinfo.org), is also part of the World Development Indicators of the World Bank (http://data.worldbank.org/indicator/SH.H2O.SAFE.ZS)  </dct:description>
+    <rdfs:comment>This indicator is part of the FAO Suite of Food Security Indicators (2017) in the dimension &quot;utilization&quot;. It measures the share (%) of the total population with Access to Sanitation Facilities. Access to improved sanitation facilities refers to the percentage of the population with at least adequate access to excreta disposal facilities that can effectively prevent human, animal, and insect contact with excreta. Improved facilities range from simple but protected pit latrines to flush toilets with a sewerage connection. To be effective, facilities must be correctly constructed and properly maintained. This indicator provides information useful to assess the utilization dimension of food security outcomes. It corresponds to the MDG 7 target 7.C: &quot;halve by 2015 the proportion of people without sutainable access to safe drinking water and basic sanitation&quot;. The indicator, originally compiled by the WHO/UNICEF Joint Monitoring Programme (JMP) for Water Supply and Sanitation (wssinfo.org), is also part of the World Development Indicators of the World Bank (http://data.worldbank.org/indicator/SH.H2O.SAFE.ZS)  </rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicators/indfaofsec3"/>
+  </rdf:Description>
+
+</rdf:RDF>
