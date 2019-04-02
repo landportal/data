@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/FAO-6666-5110">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-USE"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-USE"/>
+    <dct:identifier>FAO-6666-5110</dct:identifier>
+    <skos:notation>FAO-6666-5110</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/FAO-LU"/>
+    <sdmx-attribute:unitMeasure>1'000 Ha</sdmx-attribute:unitMeasure>
+    <rdfs:label>Cropland area under zero or no tillage</rdfs:label>
+    <skos:prefLabel>Cropland area under zero or no tillage</skos:prefLabel>
+    <dct:title>Cropland area under zero or no tillage</dct:title>
+    <skos:definition>Cropland area on which practices do not involve any tillage operations. After the seeding operation, not more than 25 percent of the soil surface is allowed to be disturbed. The soils are always covered, including for the period between harvest and sowing. The stubble is retained and the soil surface is covered by residue mulch or stubble for erosion control. Seeding/planting is done with special no-tillage/direct seeders, which are able to open a narrow slot of the soil (through soil cover), drop the seed and close the slot again. Zero tillage is carried out with implements such as direct planters or hand-jab planters. Seed can be also sown by broad casting into standing vegetation or into small holes in the ground intended for seed placement.</skos:definition>
+    <dct:description>Cropland area on which practices do not involve any tillage operations. After the seeding operation, not more than 25 percent of the soil surface is allowed to be disturbed. The soils are always covered, including for the period between harvest and sowing. The stubble is retained and the soil surface is covered by residue mulch or stubble for erosion control. Seeding/planting is done with special no-tillage/direct seeders, which are able to open a narrow slot of the soil (through soil cover), drop the seed and close the slot again. Zero tillage is carried out with implements such as direct planters or hand-jab planters. Seed can be also sown by broad casting into standing vegetation or into small holes in the ground intended for seed placement.</dct:description>
+    <rdfs:comment>Cropland area on which practices do not involve any tillage operations. After the seeding operation, not more than 25 percent of the soil surface is allowed to be disturbed. The soils are always covered, including for the period between harvest and sowing. The stubble is retained and the soil surface is covered by residue mulch or stubble for erosion control. Seeding/planting is done with special no-tillage/direct seeders, which are able to open a narrow slot of the soil (through soil cover), drop the seed and close the slot again. Zero tillage is carried out with implements such as direct planters or hand-jab planters. Seed can be also sown by broad casting into standing vegetation or into small holes in the ground intended for seed placement.</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/fao-6666-5110"/>
+  </rdf:Description>
+
+</rdf:RDF>

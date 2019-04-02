@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/FAO-6602-5110">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-USE"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-USE"/>
+    <dct:identifier>FAO-6602-5110</dct:identifier>
+    <skos:notation>FAO-6602-5110</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/FAO-LU"/>
+    <sdmx-attribute:unitMeasure>1'000 ha</sdmx-attribute:unitMeasure>
+    <rdfs:label>Agriculture (Land Use)</rdfs:label>
+    <skos:prefLabel>Agriculture (Land Use)</skos:prefLabel>
+    <dct:title>Agriculture (Land Use)</dct:title>
+    <skos:definition>The total of areas under “Land under temporary crops”, “Land under temporary meadows and pastures”, “Land with temporary fallow”, “Land under permanent crops”, “Land under permanent meadows and pastures”, and “Land under protective cover”. This category includes tilled and fallow land, and naturally grown permanent meadows and pastures used for grazing, animal feeding or agricultural purpose. Scattered land under farm buildings, yards and their annexes, and permanently uncultivated land, such as uncultivated patches, banks, footpaths, ditches, headlands and shoulders are traditionally included.    </skos:definition>
+    <dct:description>The total of areas under “Land under temporary crops”, “Land under temporary meadows and pastures”, “Land with temporary fallow”, “Land under permanent crops”, “Land under permanent meadows and pastures”, and “Land under protective cover”. This category includes tilled and fallow land, and naturally grown permanent meadows and pastures used for grazing, animal feeding or agricultural purpose. Scattered land under farm buildings, yards and their annexes, and permanently uncultivated land, such as uncultivated patches, banks, footpaths, ditches, headlands and shoulders are traditionally included.    </dct:description>
+    <rdfs:comment>The total of areas under “Land under temporary crops”, “Land under temporary meadows and pastures”, “Land with temporary fallow”, “Land under permanent crops”, “Land under permanent meadows and pastures”, and “Land under protective cover”. This category includes tilled and fallow land, and naturally grown permanent meadows and pastures used for grazing, animal feeding or agricultural purpose. Scattered land under farm buildings, yards and their annexes, and permanently uncultivated land, such as uncultivated patches, banks, footpaths, ditches, headlands and shoulders are traditionally included.    </rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/fao-6602-5110"/>
+  </rdf:Description>
+
+</rdf:RDF>
