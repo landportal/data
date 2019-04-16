@@ -9,20 +9,20 @@
   <rdf:Description rdf:about="http://data.landportal.info/indicator/WF-ODB.SCORE">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_45b5a34a"/>
     <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
-    <dct:subject rdf:resource="https://landportal.org/voc/landvoc/concept/open-data"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_45b5a34a"/>
     <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
-    <schema:about rdf:resource="https://landportal.org/voc/landvoc/concept/open-data"/>
     <dct:identifier>WF-ODB.SCORE</dct:identifier>
     <skos:notation>WF-ODB.SCORE</skos:notation>
     <dct:source rdf:resource="http://data.landportal.info/dataset/WF-ODB"/>
     <sdmx-attribute:unitMeasure>Index (0; 100)</sdmx-attribute:unitMeasure>
-    <rdfs:label>Open Data Barometer - Score</rdfs:label>
-    <skos:prefLabel>Open Data Barometer - Score</skos:prefLabel>
-    <dct:title>Open Data Barometer - Score</dct:title>
-    <skos:definition>The Open Data Barometer (ODB) aggregates data from a number of different sources that uncover the true prevalence and impact of open data initiatives around the world.  The indicator ranges from 0 (worst possible score) to 100 (best possible score) how governments are publishing and using open data for accountability, innovation and social impact.</skos:definition>
-    <dct:description>The Open Data Barometer (ODB) aggregates data from a number of different sources that uncover the true prevalence and impact of open data initiatives around the world.  The indicator ranges from 0 (worst possible score) to 100 (best possible score) how governments are publishing and using open data for accountability, innovation and social impact.</dct:description>
-    <rdfs:comment>The Open Data Barometer (ODB) aggregates data from a number of different sources that uncover the true prevalence and impact of open data initiatives around the world.  The indicator ranges from 0 (worst possible score) to 100 (best possible score) how governments are publishing and using open data for accountability, innovation and social impact.</rdfs:comment>
+    <rdfs:label>Open Data Barometer Index - Score</rdfs:label>
+    <skos:prefLabel>Open Data Barometer Index - Score</skos:prefLabel>
+    <dct:title>Open Data Barometer Index - Score</dct:title>
+    <skos:definition>The Open Data Barometer Index (ODB) aggregates data from a number of different sources that uncover the true prevalence and impact of open data initiatives around the world. This indicator uses the ODB scores calculated every year to rank countries based on how governments are publishing and using open data for accountability, innovation and social impact. In this dataset, it is used absolute values for scores rather than scaled values. In previous editions (prior 2017), for example, the top performing government was given a score of 100 and other governments were scored relative to this. For more information, please visit https://opendatabarometer.org/.</skos:definition>
+    <dct:description>The Open Data Barometer Index (ODB) aggregates data from a number of different sources that uncover the true prevalence and impact of open data initiatives around the world. This indicator uses the ODB scores calculated every year to rank countries based on how governments are publishing and using open data for accountability, innovation and social impact. In this dataset, it is used absolute values for scores rather than scaled values. In previous editions (prior 2017), for example, the top performing government was given a score of 100 and other governments were scored relative to this. For more information, please visit https://opendatabarometer.org/.</dct:description>
+    <rdfs:comment>The Open Data Barometer Index (ODB) aggregates data from a number of different sources that uncover the true prevalence and impact of open data initiatives around the world. This indicator uses the ODB scores calculated every year to rank countries based on how governments are publishing and using open data for accountability, innovation and social impact. In this dataset, it is used absolute values for scores rather than scaled values. In previous editions (prior 2017), for example, the top performing government was given a score of 100 and other governments were scored relative to this. For more information, please visit https://opendatabarometer.org/.</rdfs:comment>
     <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
     <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/wf-odbscore"/>
   </rdf:Description>

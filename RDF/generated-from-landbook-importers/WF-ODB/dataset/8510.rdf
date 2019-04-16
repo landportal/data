@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-  xmlns:schema="http://schema.org/"
   xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/"
   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
 
@@ -9,22 +9,23 @@
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <rdf:type rdf:resource="http://purl.org/linked-data/cube#DataSet"/>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+    <dct:license rdf:resource="http://purl.org/NET/rdflicense/cc-by4.0"/>
+    <schema:license rdf:resource="http://purl.org/NET/rdflicense/cc-by4.0"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_45b5a34a"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_45b5a34a"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
+    <dct:publisher rdf:resource="http://data.landportal.info/organization/ab2e0eaf-df9f-428b-9ee3-e784b54d65b1"/>
     <schema:image rdf:resource="https://landportal.org/sites/landportal.org/files/ogg_dob_img.jpg"/>
     <schema:logo rdf:resource="https://landportal.org/sites/landportal.org/files/ogg_dob_img.jpg"/>
     <dct:identifier>WF-ODB</dct:identifier>
     <skos:notation>WF-ODB</skos:notation>
-    <dct:subject rdf:resource="https://landportal.org/voc/landvoc/concept/open-data"/>
-    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
-    <schema:about rdf:resource="https://landportal.org/voc/landvoc/concept/open-data"/>
-    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
-    <dct:license rdf:resource="http://purl.org/NET/rdflicense/cc-by4.0"/>
-    <dct:publisher rdf:resource="http://data.landportal.info/organization/ab2e0eaf-df9f-428b-9ee3-e784b54d65b1"/>
     <skos:prefLabel>WF - Open Data Barometer</skos:prefLabel>
     <rdfs:label>WF - Open Data Barometer</rdfs:label>
     <dct:title>WF - Open Data Barometer</dct:title>
-    <skos:definition>This dataset contains the data from the 1st, 2nd, 3rd, and 4th edition of the Open Data Barometer (ODB). This barometer aims to uncover the true prevalence and impact of open data initiatives around the world. It analyses global trends, and provides comparative data on countries and regions using an in-depth methodology that combines contextual data, technical assessments and secondary indicators. It is produced by the World Wide Web Foundation as a collaborative work of the Open Data for Development (OD4D) network and with the support of the Omidyar Network.   The Barometer builds upon tripartite structure with three sub-indexes: Readiness for open data initiatives. Implementation of open data programmes. Impact that open data is having on business, politics and civil society. You can contact the Barometer team at: project-odb@webfoundation.org   More information at opendatabarometer.org</skos:definition>
-    <dct:description>This dataset contains the data from the 1st, 2nd, 3rd, and 4th edition of the Open Data Barometer (ODB). This barometer aims to uncover the true prevalence and impact of open data initiatives around the world. It analyses global trends, and provides comparative data on countries and regions using an in-depth methodology that combines contextual data, technical assessments and secondary indicators. It is produced by the World Wide Web Foundation as a collaborative work of the Open Data for Development (OD4D) network and with the support of the Omidyar Network.   The Barometer builds upon tripartite structure with three sub-indexes: Readiness for open data initiatives. Implementation of open data programmes. Impact that open data is having on business, politics and civil society. You can contact the Barometer team at: project-odb@webfoundation.org   More information at opendatabarometer.org</dct:description>
-    <rdfs:comment>This dataset contains the data from the 1st, 2nd, 3rd, and 4th edition of the Open Data Barometer (ODB). This barometer aims to uncover the true prevalence and impact of open data initiatives around the world. It analyses global trends, and provides comparative data on countries and regions using an in-depth methodology that combines contextual data, technical assessments and secondary indicators. It is produced by the World Wide Web Foundation as a collaborative work of the Open Data for Development (OD4D) network and with the support of the Omidyar Network.   The Barometer builds upon tripartite structure with three sub-indexes: Readiness for open data initiatives. Implementation of open data programmes. Impact that open data is having on business, politics and civil society. You can contact the Barometer team at: project-odb@webfoundation.org   More information at opendatabarometer.org</rdfs:comment>
+    <skos:definition>This dataset contains the data from the 1st, 2nd, 3rd, 4th and 5th edition of the Open Data Barometer (ODB). This barometer aims to uncover the true prevalence and impact of open data initiatives around the world. It analyses global trends, and provides comparative data on countries and regions using an in-depth methodology that combines contextual data, technical assessments and secondary indicators. It is produced by the World Wide Web Foundation as a collaborative work of the Open Data for Development (OD4D) network and with the support of the Omidyar Network.   The Barometer builds upon tripartite structure with three sub-indexes: Readiness for open data initiatives. Implementation of open data programmes. Impact that open data is having on business, politics and civil society. You can contact the Barometer team at: project-odb@webfoundation.org   More information at opendatabarometer.org</skos:definition>
+    <dct:description>This dataset contains the data from the 1st, 2nd, 3rd, 4th and 5th edition of the Open Data Barometer (ODB). This barometer aims to uncover the true prevalence and impact of open data initiatives around the world. It analyses global trends, and provides comparative data on countries and regions using an in-depth methodology that combines contextual data, technical assessments and secondary indicators. It is produced by the World Wide Web Foundation as a collaborative work of the Open Data for Development (OD4D) network and with the support of the Omidyar Network.   The Barometer builds upon tripartite structure with three sub-indexes: Readiness for open data initiatives. Implementation of open data programmes. Impact that open data is having on business, politics and civil society. You can contact the Barometer team at: project-odb@webfoundation.org   More information at opendatabarometer.org</dct:description>
+    <rdfs:comment>This dataset contains the data from the 1st, 2nd, 3rd, 4th and 5th edition of the Open Data Barometer (ODB). This barometer aims to uncover the true prevalence and impact of open data initiatives around the world. It analyses global trends, and provides comparative data on countries and regions using an in-depth methodology that combines contextual data, technical assessments and secondary indicators. It is produced by the World Wide Web Foundation as a collaborative work of the Open Data for Development (OD4D) network and with the support of the Omidyar Network.   The Barometer builds upon tripartite structure with three sub-indexes: Readiness for open data initiatives. Implementation of open data programmes. Impact that open data is having on business, politics and civil society. You can contact the Barometer team at: project-odb@webfoundation.org   More information at opendatabarometer.org</rdfs:comment>
     <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/24"/>
     <rdfs:seeAlso rdf:resource="https://landportal.org/book/dataset/wf-odb"/>
   </rdf:Description>
