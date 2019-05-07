@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:schema="http://schema.org/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/AFRB-Q18B.VL">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/AFRB-SURV"/>
+    <dct:identifier>AFRB-Q18B.VL</dct:identifier>
+    <skos:notation>AFRB-Q18B.VL</skos:notation>
+    <sdmx-attribute:unitMeasure>Percentage (%)</sdmx-attribute:unitMeasure>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-ACCESS"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INVEST"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INST"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-ACCESS"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INVEST"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INST"/>
+    <rdfs:label>Q18B - Access to information: land ownership -- Very likely (%)</rdfs:label>
+    <skos:prefLabel>Q18B - Access to information: land ownership -- Very likely (%)</skos:prefLabel>
+    <dct:title>Q18B - Access to information: land ownership -- Very likely (%)</dct:title>
+    <skos:definition>This indicator from round 7 of the Afrobarometer shows the share of respondents, in a given country, that responded &quot;Very likely&quot; to the following question: - Access to information: land ownership (Q18b) -- How likely is it that you could get the following information from government or other public institutions, or haven’t you heard enough to say? If you went to the local council to find out who owns a piece of land in your community? (Not at all likely; Not very likely; Somewhat likely; Very likely; Refused; Don’t know) For more information on the Afrobarometer, please visit: http://afrobarometer.org/</skos:definition>
+    <dct:description>This indicator from round 7 of the Afrobarometer shows the share of respondents, in a given country, that responded &quot;Very likely&quot; to the following question: - Access to information: land ownership (Q18b) -- How likely is it that you could get the following information from government or other public institutions, or haven’t you heard enough to say? If you went to the local council to find out who owns a piece of land in your community? (Not at all likely; Not very likely; Somewhat likely; Very likely; Refused; Don’t know) For more information on the Afrobarometer, please visit: http://afrobarometer.org/</dct:description>
+    <rdfs:comment>This indicator from round 7 of the Afrobarometer shows the share of respondents, in a given country, that responded &quot;Very likely&quot; to the following question: - Access to information: land ownership (Q18b) -- How likely is it that you could get the following information from government or other public institutions, or haven’t you heard enough to say? If you went to the local council to find out who owns a piece of land in your community? (Not at all likely; Not very likely; Somewhat likely; Very likely; Refused; Don’t know) For more information on the Afrobarometer, please visit: http://afrobarometer.org/</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/afrb-q18bvl"/>
+  </rdf:Description>
+
+</rdf:RDF>

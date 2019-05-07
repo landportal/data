@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:schema="http://schema.org/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/AFRB-Q48C.VL">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:identifier>AFRB-Q48C.VL</dct:identifier>
+    <skos:notation>AFRB-Q48C.VL</skos:notation>
+    <sdmx-attribute:unitMeasure>Percentage (%)</sdmx-attribute:unitMeasure>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-ACCESS"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-CORRUPT"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INST"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INVEST"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-ACCESS"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-CORRUPT"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INST"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INVEST"/>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/AFRB-SURV"/>
+    <rdfs:label>Q48C - Ordinary person pay bribe to register land not theirs -- Very likely (%)</rdfs:label>
+    <skos:prefLabel>Q48C - Ordinary person pay bribe to register land not theirs -- Very likely (%)</skos:prefLabel>
+    <dct:title>Q48C - Ordinary person pay bribe to register land not theirs -- Very likely (%)</dct:title>
+    <skos:definition>This indicator from round 7 of the Afrobarometer shows the share of respondents, in a given country, that responded &quot;Very likely&quot; to the following question: - Ordinary person: pay bribe to register land not theirs (Q48c) -- In this country, how likely do you think it is that an ordinary person could pay a bribe or use personal connections to get away with: Registering land that does not belong to them? (Not at all likely; Not very likely; Somewhat likely; Very likely; Refused; Don’t know) For more information on the Afrobarometer, please visit: http://afrobarometer.org/</skos:definition>
+    <dct:description>This indicator from round 7 of the Afrobarometer shows the share of respondents, in a given country, that responded &quot;Very likely&quot; to the following question: - Ordinary person: pay bribe to register land not theirs (Q48c) -- In this country, how likely do you think it is that an ordinary person could pay a bribe or use personal connections to get away with: Registering land that does not belong to them? (Not at all likely; Not very likely; Somewhat likely; Very likely; Refused; Don’t know) For more information on the Afrobarometer, please visit: http://afrobarometer.org/</dct:description>
+    <rdfs:comment>This indicator from round 7 of the Afrobarometer shows the share of respondents, in a given country, that responded &quot;Very likely&quot; to the following question: - Ordinary person: pay bribe to register land not theirs (Q48c) -- In this country, how likely do you think it is that an ordinary person could pay a bribe or use personal connections to get away with: Registering land that does not belong to them? (Not at all likely; Not very likely; Somewhat likely; Very likely; Refused; Don’t know) For more information on the Afrobarometer, please visit: http://afrobarometer.org/</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/afrb-q48cvl"/>
+  </rdf:Description>
+
+</rdf:RDF>

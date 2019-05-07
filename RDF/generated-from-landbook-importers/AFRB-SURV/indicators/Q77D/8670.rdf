@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:schema="http://schema.org/"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/AFRB-Q77D.SA">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:identifier>AFRB-Q77D.SA</dct:identifier>
+    <skos:notation>AFRB-Q77D.SA</skos:notation>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-ACCESS"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-GENDER"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INST"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-ACCESS"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-GENDER"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INST"/>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/AFRB-SURV"/>
+    <sdmx-attribute:unitMeasure>Percentage (%)</sdmx-attribute:unitMeasure>
+    <rdfs:label>Q77D - Women and men have equal chance to own/inherit land -- Strongly Agree (%)</rdfs:label>
+    <skos:prefLabel>Q77D - Women and men have equal chance to own/inherit land -- Strongly Agree (%)</skos:prefLabel>
+    <dct:title>Q77D - Women and men have equal chance to own/inherit land -- Strongly Agree (%)</dct:title>
+    <skos:definition>This indicator from round 7 of the Afrobarometer shows the share of respondents, in a given country, that selected &quot;Strongly Agree&quot; when presented with the following statement: - Women have equal right to land (Q38e) -- For each of the following statements, please tell me whether you disagree or agree, or haven’t you heard enough to say? In our country today, women and men have equal opportunities to own and inherit land. (Strongly disagree; Disagree; Neither agree nor disagree; Agree; Strongly agree; Don’t know) For more information on the Afrobarometer, please visit: http://afrobarometer.org/</skos:definition>
+    <dct:description>This indicator from round 7 of the Afrobarometer shows the share of respondents, in a given country, that selected &quot;Strongly Agree&quot; when presented with the following statement: - Women have equal right to land (Q38e) -- For each of the following statements, please tell me whether you disagree or agree, or haven’t you heard enough to say? In our country today, women and men have equal opportunities to own and inherit land. (Strongly disagree; Disagree; Neither agree nor disagree; Agree; Strongly agree; Don’t know) For more information on the Afrobarometer, please visit: http://afrobarometer.org/</dct:description>
+    <rdfs:comment>This indicator from round 7 of the Afrobarometer shows the share of respondents, in a given country, that selected &quot;Strongly Agree&quot; when presented with the following statement: - Women have equal right to land (Q38e) -- For each of the following statements, please tell me whether you disagree or agree, or haven’t you heard enough to say? In our country today, women and men have equal opportunities to own and inherit land. (Strongly disagree; Disagree; Neither agree nor disagree; Agree; Strongly agree; Don’t know) For more information on the Afrobarometer, please visit: http://afrobarometer.org/</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/afrb-q77dsa"/>
+  </rdf:Description>
+
+</rdf:RDF>
