@@ -2,7 +2,7 @@ from rdflib import Graph
 import time
 g = Graph()
 
-themesIds=["7343", "7344", "7345", "7346", "7347", "7348", "7349", "7350", "7351" , "7352", "7508","8472" ]
+themesIds=["7343", "7344", "7345", "7346", "7347", "7348", "7349", "7350", "7351" , "7352", "7508","8472", "8643", "8641" ]
   
 for themeId in themesIds:
     url = "https://landportal.org/taxonomy_term/"+str(themeId)+".rdf"    
