@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:schema="http://schema.org/"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/IUCN-BCB-HUR.TARGET">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:identifier>IUCN-BCB-HUR.TARGET</dct:identifier>
+    <skos:notation>IUCN-BCB-HUR.TARGET</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/IUCN-BCB"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FLR"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FOREST"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-ENVIR"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FLR"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FOREST"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-ENVIR"/>
+    <sdmx-attribute:unitMeasure>Hectares (Ha)</sdmx-attribute:unitMeasure>
+    <rdfs:label>Area commited under restoration in hectares counted toward Bonn Challenge Commitment (target)</rdfs:label>
+    <skos:prefLabel>Area commited under restoration in hectares counted toward Bonn Challenge Commitment (target)</skos:prefLabel>
+    <dct:title>Area commited under restoration in hectares counted toward Bonn Challenge Commitment (target)</dct:title>
+    <skos:definition>This indicator measures the overall area (in hectares) committed under restoration in the context of the Bonn Challenge. In other words, this indicator reflects the overall restoration target, calculated as the sum of all commitments toeards the Bonn Challenge in a given country. For more information, please visit the Bonn Challenge Barometer.</skos:definition>
+    <dct:description>This indicator measures the overall area (in hectares) committed under restoration in the context of the Bonn Challenge. In other words, this indicator reflects the overall restoration target, calculated as the sum of all commitments toeards the Bonn Challenge in a given country. For more information, please visit the Bonn Challenge Barometer.</dct:description>
+    <rdfs:comment>This indicator measures the overall area (in hectares) committed under restoration in the context of the Bonn Challenge. In other words, this indicator reflects the overall restoration target, calculated as the sum of all commitments toeards the Bonn Challenge in a given country. For more information, please visit the Bonn Challenge Barometer.</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/iucn-bcb-hurtarget"/>
+  </rdf:Description>
+
+</rdf:RDF>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:schema="http://schema.org/"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/IUCN-BCB-HUR.NUMBER">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:identifier>IUCN-BCB-HUR.NUMBER</dct:identifier>
+    <skos:notation>IUCN-BCB-HUR.NUMBER</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/IUCN-BCB"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FLR"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FOREST"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-ENVIR"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FLR"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FOREST"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-ENVIR"/>
+    <sdmx-attribute:unitMeasure>Hectares (Ha)</sdmx-attribute:unitMeasure>
+    <rdfs:label>Area brought under restoration in hectares counted toward Bonn Challenge Commitment (actual)</rdfs:label>
+    <skos:prefLabel>Area brought under restoration in hectares counted toward Bonn Challenge Commitment (actual)</skos:prefLabel>
+    <dct:title>Area brought under restoration in hectares counted toward Bonn Challenge Commitment (actual)</dct:title>
+    <skos:definition>This indicator measures the area (in hectares) actually brought under restoration -and counted toward the Bonn Challenge Commitment- in each country. Reported hectares under restoration are divided into three tiers to convey the level of confidence and accuracy in the reported figures: Tier 1 values offer low confidence in accuracy, derived from non-spatial country statistics and broad estimates with limited supporting documentation or ground validation. Tier 2 values offer moderate confidence in accuracy, derived from maps, surveys and other statistical data with some supporting documentation and ground validation. Tier 3 values are associated with high confidence in accuracy, derived from spatially-specific estiamtes supported by adequate documentation and ground validation. For more information, please visit the Bonn Challenge Barometer</skos:definition>
+    <dct:description>This indicator measures the area (in hectares) actually brought under restoration -and counted toward the Bonn Challenge Commitment- in each country. Reported hectares under restoration are divided into three tiers to convey the level of confidence and accuracy in the reported figures: Tier 1 values offer low confidence in accuracy, derived from non-spatial country statistics and broad estimates with limited supporting documentation or ground validation. Tier 2 values offer moderate confidence in accuracy, derived from maps, surveys and other statistical data with some supporting documentation and ground validation. Tier 3 values are associated with high confidence in accuracy, derived from spatially-specific estiamtes supported by adequate documentation and ground validation. For more information, please visit the Bonn Challenge Barometer</dct:description>
+    <rdfs:comment>This indicator measures the area (in hectares) actually brought under restoration -and counted toward the Bonn Challenge Commitment- in each country. Reported hectares under restoration are divided into three tiers to convey the level of confidence and accuracy in the reported figures: Tier 1 values offer low confidence in accuracy, derived from non-spatial country statistics and broad estimates with limited supporting documentation or ground validation. Tier 2 values offer moderate confidence in accuracy, derived from maps, surveys and other statistical data with some supporting documentation and ground validation. Tier 3 values are associated with high confidence in accuracy, derived from spatially-specific estiamtes supported by adequate documentation and ground validation. For more information, please visit the Bonn Challenge Barometer</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/iucn-bcb-hurnumber"/>
+  </rdf:Description>
+
+</rdf:RDF>

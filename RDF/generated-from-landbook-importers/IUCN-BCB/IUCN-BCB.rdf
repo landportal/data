@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:cex="http://purl.org/weso/ontology/computex#"
+   xmlns:dcat="http://www.w3.org/ns/dcat#"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:qb="http://purl.org/linked-data/cube#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:sdmx-concept="http://purl.org/linked-data/sdmx/2009/concept#"
+   xmlns:time="http://www.w3.org/2006/time#"
+>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/IUCN-BCB/observation/IUCN-BCB-CM.CO2_SLV_2018">
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/IUCN-BCB"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/SLV"/>
+    <rdfs:label xml:lang="en">Observation of SLV within the period of 2018 for indicator IUCN-BCB-CM.CO2</rdfs:label>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-06-17</dct:issued>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">351321</cex:value>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2018"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/IUCN-BCB-CM.CO2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/IUCN-BCB/observation/IUCN-BCB-S.JOBS_BRA_2018">
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">151000</cex:value>
+    <rdfs:label xml:lang="en">Observation of BRA within the period of 2018 for indicator IUCN-BCB-S.JOBS</rdfs:label>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/IUCN-BCB"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-06-17</dct:issued>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/BRA"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/IUCN-BCB-S.JOBS"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2018"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/IUCN-BCB/observation/IUCN-BCB-CM.CO2_USA_2018">
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5200000</cex:value>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/IUCN-BCB"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2018"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/USA"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-06-17</dct:issued>
+    <rdfs:label xml:lang="en">Observation of USA within the period of 2018 for indicator IUCN-BCB-CM.CO2</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/IUCN-BCB-CM.CO2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://landportal.info">
+    <rdfs:comment xml:lang="es">El primer destino en línea para información, recursos, innovación y contactos en materia de la problemática de la tierra.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Premier site internet de partage d'informations, ressources, innovations et contacts sur les questions foncières.</rdfs:comment>
+    <rdfs:comment xml:lang="en">The leading online destination for information, resources, innovations and networking on land issues.</rdfs:comment>
+    <rdfs:label>landportal.info</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/IUCN-BCB/observation/IUCN-BCB-CM.CO2_BRA_2018">
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1363935900</cex:value>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/IUCN-BCB"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-06-17</dct:issued>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/BRA"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/IUCN-BCB-CM.CO2"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2018"/>
+    <rdfs:label xml:lang="en">Observation of BRA within the period of 2018 for indicator IUCN-BCB-CM.CO2</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/IUCN-BCB/observation/IUCN-BCB-HUR.TARGET_RWA_2018">
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/IUCN-BCB"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/RWA"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-06-17</dct:issued>
+    <rdfs:label xml:lang="en">Observation of RWA within the period of 2018 for indicator IUCN-BCB-HUR.TARGET</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2000000</cex:value>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/IUCN-BCB-HUR.TARGET"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2018"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/IUCN-BCB/observation/IUCN-BCB-FIN.FUND_USA_2018">
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-06-17</dct:issued>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/USA"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9500</cex:value>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/IUCN-BCB"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <rdfs:label xml:lang="en">Observation of USA within the period of 2018 for indicator IUCN-BCB-FIN.FUND</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/IUCN-BCB-FIN.FUND"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2018"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/IUCN-BCB/observation/IUCN-BCB-HUR.TARGET_SLV_2018">
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/IUCN-BCB"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1000000</cex:value>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/SLV"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-06-17</dct:issued>
+    <rdfs:label xml:lang="en">Observation of SLV within the period of 2018 for indicator IUCN-BCB-HUR.TARGET</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/IUCN-BCB-HUR.TARGET"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2018"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/IUCN-BCB/observation/IUCN-BCB-FIN.FUND_BRA_2018">
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2018"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">353</cex:value>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/IUCN-BCB-FIN.FUND"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-06-17</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/IUCN-BCB"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/BRA"/>
+    <rdfs:label xml:lang="en">Observation of BRA within the period of 2018 for indicator IUCN-BCB-FIN.FUND</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/IUCN-BCB/observation/IUCN-BCB-HUR.NUMBER_BRA_2018">
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/BRA"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2018"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/IUCN-BCB-HUR.NUMBER"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdfs:label xml:lang="en">Observation of BRA within the period of 2018 for indicator IUCN-BCB-HUR.NUMBER</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/IUCN-BCB"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-06-17</dct:issued>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9424802</cex:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/IUCN-BCB/observation/IUCN-BCB-HUR.TARGET_BRA_2018">
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12000000</cex:value>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/BRA"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2018"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/IUCN-BCB-HUR.TARGET"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-06-17</dct:issued>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <rdfs:label xml:lang="en">Observation of BRA within the period of 2018 for indicator IUCN-BCB-HUR.TARGET</rdfs:label>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/IUCN-BCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/IUCN-BCB/observation/IUCN-BCB-HUR.TARGET_USA_2018">
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15000000</cex:value>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <rdfs:label xml:lang="en">Observation of USA within the period of 2018 for indicator IUCN-BCB-HUR.TARGET</rdfs:label>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2018"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/USA"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-06-17</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/IUCN-BCB"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/IUCN-BCB-HUR.TARGET"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/IUCN-BCB/observation/IUCN-BCB-FIN.FUND_SLV_2018">
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-06-17</dct:issued>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/IUCN-BCB-FIN.FUND"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2018"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/IUCN-BCB"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">190</cex:value>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/SLV"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdfs:label xml:lang="en">Observation of SLV within the period of 2018 for indicator IUCN-BCB-FIN.FUND</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/IUCN-BCB/observation/IUCN-BCB-FIN.FUND_RWA_2018">
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/IUCN-BCB"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <rdfs:label xml:lang="en">Observation of RWA within the period of 2018 for indicator IUCN-BCB-FIN.FUND</rdfs:label>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/IUCN-BCB-FIN.FUND"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">612</cex:value>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/RWA"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-06-17</dct:issued>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2018"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/IUCN-BCB/observation/IUCN-BCB-CM.CO2_RWA_2018">
+    <rdfs:label xml:lang="en">Observation of RWA within the period of 2018 for indicator IUCN-BCB-CM.CO2</rdfs:label>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11360</cex:value>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-06-17</dct:issued>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/RWA"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/IUCN-BCB-CM.CO2"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2018"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/IUCN-BCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/IUCN-BCB/observation/IUCN-BCB-S.JOBS_SLV_2018">
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-06-17</dct:issued>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/IUCN-BCB"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/SLV"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12777</cex:value>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <rdfs:label xml:lang="en">Observation of SLV within the period of 2018 for indicator IUCN-BCB-S.JOBS</rdfs:label>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2018"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/IUCN-BCB-S.JOBS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2018">
+    <time:hasEnd rdf:resource="http://data.landportal.info/time/instant_2018_12_31"/>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeInterval"/>
+    <time:hasDateTimeDescription rdf:resource="http://data.landportal.info/time/2018_desc"/>
+    <time:hasBeginning rdf:resource="http://data.landportal.info/time/instant_2018_1_1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/catalog">
+    <foaf:homepage rdf:resource="http://landportal.info/data"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Catalog"/>
+    <dct:publisher rdf:resource="http://landportal.info"/>
+    <rdfs:label xml:lang="en">Land Portal Catalog</rdfs:label>
+    <dcat:dataset rdf:resource="http://data.landportal.info/dataset/IUCN-BCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/IUCN-BCB/observation/IUCN-BCB-S.JOBS_RWA_2018">
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-06-17</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/IUCN-BCB"/>
+    <rdfs:label xml:lang="en">Observation of RWA within the period of 2018 for indicator IUCN-BCB-S.JOBS</rdfs:label>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/IUCN-BCB-S.JOBS"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2018"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/RWA"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22302</cex:value>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/IUCN-BCB/observation/IUCN-BCB-HUR.NUMBER_RWA_2018">
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/IUCN-BCB"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">690629</cex:value>
+    <rdfs:label xml:lang="en">Observation of RWA within the period of 2018 for indicator IUCN-BCB-HUR.NUMBER</rdfs:label>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/RWA"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-06-17</dct:issued>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/IUCN-BCB-HUR.NUMBER"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2018"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/IUCN-BCB/observation/IUCN-BCB-HUR.NUMBER_USA_2018">
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-06-17</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/IUCN-BCB"/>
+    <rdfs:label xml:lang="en">Observation of USA within the period of 2018 for indicator IUCN-BCB-HUR.NUMBER</rdfs:label>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/USA"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/IUCN-BCB-HUR.NUMBER"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2018"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16959000</cex:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/IUCN-BCB/observation/IUCN-BCB-S.JOBS_USA_2018">
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/IUCN-BCB"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/USA"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/IUCN-BCB-S.JOBS"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-06-17</dct:issued>
+    <rdfs:label xml:lang="en">Observation of USA within the period of 2018 for indicator IUCN-BCB-S.JOBS</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">55000</cex:value>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2018"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/IUCN-BCB/observation/IUCN-BCB-HUR.NUMBER_SLV_2018">
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-06-17</dct:issued>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/SLV"/>
+    <rdfs:label xml:lang="en">Observation of SLV within the period of 2018 for indicator IUCN-BCB-HUR.NUMBER</rdfs:label>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2018"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/IUCN-BCB-HUR.NUMBER"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/IUCN-BCB"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">122094</cex:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2018_desc">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeDescription"/>
+    <time:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2018-01-01</time:year>
+    <time:unitType rdf:resource="http://www.w3.org/2006/time#unitYear"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2018_1_1">
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-01-01T00:00:00+00:00</time:inXSDDateTime>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/weso/ontology/computex#Raw">
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Computation"/>
+    <rdfs:comment xml:lang="en">Raw data values that have been collected from a datasource without any normalisation process.</rdfs:comment>
+    <rdfs:label xml:lang="en">Raw data</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/weso/ontology/computex#Computed">
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Computation"/>
+    <rdfs:label xml:lang="en">Computed data</rdfs:label>
+    <rdfs:comment xml:lang="en">Data values that have been computed by some algorithm.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2018_12_31">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-12-31T00:00:00+00:00</time:inXSDDateTime>
+  </rdf:Description>
+</rdf:RDF>

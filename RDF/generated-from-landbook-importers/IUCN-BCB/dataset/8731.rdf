@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:schema="http://schema.org/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/IUCN-BCB">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#DataSet"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+    <dct:identifier>IUCN-BCB</dct:identifier>
+    <skos:notation>IUCN-BCB</skos:notation>
+    <dct:publisher rdf:resource="http://data.landportal.info/organization/b1a87a4a-1e1c-4053-98eb-bffebd585d79"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FLR"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FOREST"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INST"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-ENVIR"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FLR"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FOREST"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INST"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-ENVIR"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
+    <skos:prefLabel>Bonn Challenge Barometer</skos:prefLabel>
+    <rdfs:label>Bonn Challenge Barometer</rdfs:label>
+    <dct:title>Bonn Challenge Barometer</dct:title>
+    <skos:definition>The Bonn Challenge barometer quantifies the progresses towards the implementation of the Bonn Challenge -a global effort to bring 150 million hectares of deforested and degraded land into restoration by 2020 and 350 million hectares by 2030- and provides information to accelerate action and address implementation bottlenecks.  There are a wide range of tangible benefits associated with Forest and Landscape Restoration (FLR), ranging from climate change mitigation, to biodiversity restoration and human well-being. Given this, the Bonn Challenge Barometer:  offers a systematic framework to take stock of progress, including hectares brought under restoration and a defined set of policy, regulatory, financial, and technical planning actions deemed important for achieving successful landscape restoration. It also supports pledgers to assess the impacts of their forest landscape restoration efforts and identify bottlenecks and resources to facilitate continued action. (Source: Bonn Challenge Barometer - Progress Tracking Protocol, December 2018) To date, 58 Governments, private associations and companies have pledged over 170 million hectares to the Challenge.</skos:definition>
+    <dct:description>The Bonn Challenge barometer quantifies the progresses towards the implementation of the Bonn Challenge -a global effort to bring 150 million hectares of deforested and degraded land into restoration by 2020 and 350 million hectares by 2030- and provides information to accelerate action and address implementation bottlenecks.  There are a wide range of tangible benefits associated with Forest and Landscape Restoration (FLR), ranging from climate change mitigation, to biodiversity restoration and human well-being. Given this, the Bonn Challenge Barometer:  offers a systematic framework to take stock of progress, including hectares brought under restoration and a defined set of policy, regulatory, financial, and technical planning actions deemed important for achieving successful landscape restoration. It also supports pledgers to assess the impacts of their forest landscape restoration efforts and identify bottlenecks and resources to facilitate continued action. (Source: Bonn Challenge Barometer - Progress Tracking Protocol, December 2018) To date, 58 Governments, private associations and companies have pledged over 170 million hectares to the Challenge.</dct:description>
+    <rdfs:comment>The Bonn Challenge barometer quantifies the progresses towards the implementation of the Bonn Challenge -a global effort to bring 150 million hectares of deforested and degraded land into restoration by 2020 and 350 million hectares by 2030- and provides information to accelerate action and address implementation bottlenecks.  There are a wide range of tangible benefits associated with Forest and Landscape Restoration (FLR), ranging from climate change mitigation, to biodiversity restoration and human well-being. Given this, the Bonn Challenge Barometer:  offers a systematic framework to take stock of progress, including hectares brought under restoration and a defined set of policy, regulatory, financial, and technical planning actions deemed important for achieving successful landscape restoration. It also supports pledgers to assess the impacts of their forest landscape restoration efforts and identify bottlenecks and resources to facilitate continued action. (Source: Bonn Challenge Barometer - Progress Tracking Protocol, December 2018) To date, 58 Governments, private associations and companies have pledged over 170 million hectares to the Challenge.</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/24"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/dataset/iucn-bcb"/>
+  </rdf:Description>
+
+</rdf:RDF>

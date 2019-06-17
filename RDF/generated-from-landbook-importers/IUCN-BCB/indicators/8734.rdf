@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:schema="http://schema.org/"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/IUCN-BCB-CM.CO2">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:identifier>IUCN-BCB-CM.CO2</dct:identifier>
+    <skos:notation>IUCN-BCB-CM.CO2</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/IUCN-BCB"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FLR"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-ENVIR"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FLR"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-ENVIR"/>
+    <sdmx-attribute:unitMeasure>Tonnes of C02 equivalent</sdmx-attribute:unitMeasure>
+    <rdfs:label>Cumulative estimated gross removal of CO2 from FLR activities included under the Bonn Challenge Commitment since 2011.</rdfs:label>
+    <skos:prefLabel>Cumulative estimated gross removal of CO2 from FLR activities included under the Bonn Challenge Commitment since 2011.</skos:prefLabel>
+    <dct:title>Cumulative estimated gross removal of CO2 from FLR activities included under the Bonn Challenge Commitment since 2011.</dct:title>
+    <skos:definition>This indicator provides an estimate for the cumulative gross removal of CO2 from FLR activities included under the Bonn Challenge Commitment since 2011. Reported climate impacts are divided into three tiers to convey the level of confidence and accuracy in the reported figures: Tier 1 values offer low confidence in accuracy, derived by combining estiamtes of the area under restoration offering low confidence with carbon sequestration rates that are not geographically or FLR activity-specific. Tier 2 values offer moderate confidence in accuracy, derived by combining estimates of the area under restoration offering moderate confidence with carbon sequestration rates that are or are not geographically or FLR activity-specific. Tier 3 values are associated with high confidence in accuracy, derived by combining estimates of the area under restoration offering high confidence with carbon sequestration rates that are geographically or FLR activity-specific. For more information, please visit the Bonn Challenge Barometer.</skos:definition>
+    <dct:description>This indicator provides an estimate for the cumulative gross removal of CO2 from FLR activities included under the Bonn Challenge Commitment since 2011. Reported climate impacts are divided into three tiers to convey the level of confidence and accuracy in the reported figures: Tier 1 values offer low confidence in accuracy, derived by combining estiamtes of the area under restoration offering low confidence with carbon sequestration rates that are not geographically or FLR activity-specific. Tier 2 values offer moderate confidence in accuracy, derived by combining estimates of the area under restoration offering moderate confidence with carbon sequestration rates that are or are not geographically or FLR activity-specific. Tier 3 values are associated with high confidence in accuracy, derived by combining estimates of the area under restoration offering high confidence with carbon sequestration rates that are geographically or FLR activity-specific. For more information, please visit the Bonn Challenge Barometer.</dct:description>
+    <rdfs:comment>This indicator provides an estimate for the cumulative gross removal of CO2 from FLR activities included under the Bonn Challenge Commitment since 2011. Reported climate impacts are divided into three tiers to convey the level of confidence and accuracy in the reported figures: Tier 1 values offer low confidence in accuracy, derived by combining estiamtes of the area under restoration offering low confidence with carbon sequestration rates that are not geographically or FLR activity-specific. Tier 2 values offer moderate confidence in accuracy, derived by combining estimates of the area under restoration offering moderate confidence with carbon sequestration rates that are or are not geographically or FLR activity-specific. Tier 3 values are associated with high confidence in accuracy, derived by combining estimates of the area under restoration offering high confidence with carbon sequestration rates that are geographically or FLR activity-specific. For more information, please visit the Bonn Challenge Barometer.</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/iucn-bcb-cmco2"/>
+  </rdf:Description>
+
+</rdf:RDF>

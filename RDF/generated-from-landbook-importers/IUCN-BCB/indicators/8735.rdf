@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:schema="http://schema.org/"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/IUCN-BCB-FIN.FUND">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:identifier>IUCN-BCB-FIN.FUND</dct:identifier>
+    <skos:notation>IUCN-BCB-FIN.FUND</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/IUCN-BCB"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FLR"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INST"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FLR"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INST"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
+    <sdmx-attribute:unitMeasure>Million US$</sdmx-attribute:unitMeasure>
+    <rdfs:label>Funding dedicated to facilitate and support FLR activities included under the Bonn Challenge Commitment.</rdfs:label>
+    <skos:prefLabel>Funding dedicated to facilitate and support FLR activities included under the Bonn Challenge Commitment.</skos:prefLabel>
+    <dct:title>Funding dedicated to facilitate and support FLR activities included under the Bonn Challenge Commitment.</dct:title>
+    <skos:definition>This indicator mesures the total funding dedicated to facilitate and support FLR activities included under the Bonn Challenge Commitment in each country. In the Bonn Challenge Barometer website, this figure is futher disaggregated into four categories: domestic public expenditure private Investment international donor support domestic philanthropic &amp;amp; non-profits. For more information, please visit the Bonn Challenge Barometer.</skos:definition>
+    <dct:description>This indicator mesures the total funding dedicated to facilitate and support FLR activities included under the Bonn Challenge Commitment in each country. In the Bonn Challenge Barometer website, this figure is futher disaggregated into four categories: domestic public expenditure private Investment international donor support domestic philanthropic &amp;amp; non-profits. For more information, please visit the Bonn Challenge Barometer.</dct:description>
+    <rdfs:comment>This indicator mesures the total funding dedicated to facilitate and support FLR activities included under the Bonn Challenge Commitment in each country. In the Bonn Challenge Barometer website, this figure is futher disaggregated into four categories: domestic public expenditure private Investment international donor support domestic philanthropic &amp;amp; non-profits. For more information, please visit the Bonn Challenge Barometer.</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/iucn-bcb-finfund"/>
+  </rdf:Description>
+
+</rdf:RDF>
