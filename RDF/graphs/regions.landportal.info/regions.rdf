@@ -1,0 +1,1175 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:geonames="http://www.geonames.org/ontology#" >
+  <rdf:Description rdf:about="http://data.landportal.info/geo/AIA">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/029" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/COK">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/061" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/FLK">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/005" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/GIB">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/039" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/GLP">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/029" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/GUF">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/005" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/MSR">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/029" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/MTQ">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/029" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/NFK">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/053" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/NIU">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/061" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/NRU">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/057" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/PCN">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/061" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/REU">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/014" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/SHN">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/011" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/SPM">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/021" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/VGB">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/029" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/WLF">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/061" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/FRO">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/154" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/TKL">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/061" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/CUW">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/029" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/MAF">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/029" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/ABW">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/029" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/BMU">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/021" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/CYM">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/029" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/GRL">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/021" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/GUM">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/057" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/IMN">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/154" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/MAC">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/030" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/MCO">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/155" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/MHL">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/057" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/MNP">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/057" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/NCL">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/054" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/PRI">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/029" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/PRK">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/030" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/PYF">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/061" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/SMR">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/039" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/SOM">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/014" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/SXM">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/029" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/TCA">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/029" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/TUV">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/061" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/MYT">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/014" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/CCK">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/053" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/ATA">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://purl.org/dc/terms/Location" />
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature" />
+    <rdfs:label>Antarctica</rdfs:label>
+    <rdfs:seeAlso rdf:resource="https://landportal.info/regions/antarctica" />
+    <skos:notation>010</skos:notation>
+    <skos:notation>ATA</skos:notation>
+    <skos:broader rdf:resource="http://data.landportal.info/geo/001" />
+    <skos:inScheme rdf:resource="https://landportal.info/" />
+    <skos:prefLabel>Antarctica</skos:prefLabel>
+    <dct:title>Antarctica</dct:title>
+    <dct:identifier>ATA</dct:identifier>
+    <dct:identifier>010</dct:identifier>
+    <geonames:countryCode>ATA</geonames:countryCode>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/ATF">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/014" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/BLM">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/029" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/GGY">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/154" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/HMD">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/053" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/JEY">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/154" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/SGS">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/005" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/BES">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/029" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/AGO">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/017" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/AND">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/039" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/ARE">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/145" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/ARG">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/005" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/ARM">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/145" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/ATG">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/029" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/AUS">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/053" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/AUT">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/155" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/AZE">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/145" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/BDI">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/014" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/BEL">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/155" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/BEN">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/011" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/BFA">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/011" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/BGD">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/034" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/BGR">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/151" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/BHR">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/145" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/BHS">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/029" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/BIH">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/039" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/BLR">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/151" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/BLZ">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/013" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/BOL">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/005" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/BRA">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/005" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/BRB">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/029" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/BRN">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/035" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/BTN">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/034" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/BWA">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/018" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/CAF">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/017" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/CAN">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/021" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/CHE">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/155" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/CHL">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/005" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/CHN">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/030" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/CIV">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/011" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/CMR">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/017" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/COD">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/017" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/COG">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/017" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/COL">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/005" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/COM">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/014" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/CPV">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/011" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/CRI">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/013" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/CUB">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/029" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/CYP">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/145" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/CZE">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/151" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/DEU">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/155" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/DJI">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/014" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/DMA">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/029" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/DNK">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/154" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/DOM">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/029" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/ECU">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/005" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/EGY">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/015" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/ERI">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/014" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/ESP">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/039" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/EST">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/154" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/ETH">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/014" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/FIN">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/154" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/FJI">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/054" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/FRA">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/155" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/FSM">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/057" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/GAB">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/017" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/GBR">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/154" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/GEO">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/145" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/GHA">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/011" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/GIN">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/011" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/GMB">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/011" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/GNB">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/011" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/GNQ">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/017" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/GRC">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/039" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/GRD">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/029" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/GTM">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/013" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/GUY">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/005" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/HKG">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/030" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/HND">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/013" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/HRV">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/039" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/HTI">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/029" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/HUN">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/151" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/IDN">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/035" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/IND">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/034" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/IRL">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/154" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/IRN">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/034" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/IRQ">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/145" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/ISL">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/154" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/ISR">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/145" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/ITA">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/039" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/JAM">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/029" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/JOR">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/145" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/JPN">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/030" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/KAZ">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/143" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/KEN">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/014" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/KGZ">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/143" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/KHM">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/035" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/KIR">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/057" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/KNA">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/029" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/KOR">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/030" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/KWT">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/145" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/LAO">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/035" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/LBN">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/145" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/LBR">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/011" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/LBY">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/015" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/LCA">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/029" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/LIE">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/155" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/LKA">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/034" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/LSO">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/018" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/LTU">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/154" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/LUX">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/155" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/LVA">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/154" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/MAR">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/015" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/MDA">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/151" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/MDG">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/014" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/MDV">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/034" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/MEX">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/013" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/MKD">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/039" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/MLI">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/011" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/MLT">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/039" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/MMR">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/035" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/MNE">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/039" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/MNG">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/030" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/MOZ">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/014" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/MRT">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/011" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/MUS">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/014" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/MWI">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/014" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/MYS">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/035" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/NAM">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/018" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/NER">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/011" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/NGA">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/011" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/NIC">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/013" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/NLD">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/155" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/NOR">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/154" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/NPL">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/034" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/NZL">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/053" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/OMN">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/145" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/PAK">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/034" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/PAN">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/013" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/PER">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/005" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/PHL">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/035" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/PLW">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/057" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/PNG">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/054" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/POL">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/151" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/PRT">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/039" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/PRY">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/005" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/PSE">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/145" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/QAT">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/145" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/ROU">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/151" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/RUS">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/151" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/RWA">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/014" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/SAU">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/145" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/SDN">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/015" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/SEN">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/011" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/SGP">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/035" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/SLB">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/054" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/SLE">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/011" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/SLV">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/013" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/SRB">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/039" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/SSD">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/014" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/STP">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/017" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/SUR">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/005" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/SVK">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/151" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/SVN">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/039" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/SWE">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/154" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/SWZ">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/018" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/SYC">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/014" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/SYR">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/145" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/TCD">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/017" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/TGO">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/011" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/THA">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/035" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/TJK">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/143" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/TKM">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/143" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/TLS">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/035" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/TON">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/061" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/TTO">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/029" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/TUN">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/015" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/TUR">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/145" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/TZA">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/014" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/UGA">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/014" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/UKR">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/151" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/URY">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/005" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/USA">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/021" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/UZB">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/143" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/VCT">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/029" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/VEN">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/005" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/VNM">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/035" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/VUT">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/054" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/WSM">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/061" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/YEM">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/145" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/ZAF">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/018" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/ZMB">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/014" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/ZWE">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/014" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/VAT">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/039" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/ESH">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/015" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/SJM">
+    <skos:broader rdf:resource="http://data.landportal.info/geo/154" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/001">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://purl.org/dc/terms/Location" />
+    <rdfs:label>Global</rdfs:label>
+    <rdfs:seeAlso rdf:resource="https://landportal.info/voc/regions/global" />
+    <skos:notation>001</skos:notation>
+    <skos:inScheme rdf:resource="https://landportal.info/" />
+    <skos:prefLabel>Global</skos:prefLabel>
+    <dct:title>Global</dct:title>
+    <dct:identifier>001</dct:identifier>
+    <skos:altLabel>World</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/030">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://purl.org/dc/terms/Location" />
+    <rdfs:label>Eastern Asia</rdfs:label>
+    <rdfs:seeAlso rdf:resource="https://landportal.info/voc/regions/eastern-asia" />
+    <skos:notation>030</skos:notation>
+    <skos:broader rdf:resource="http://data.landportal.info/geo/142" />
+    <skos:inScheme rdf:resource="https://landportal.info/" />
+    <skos:prefLabel>Eastern Asia</skos:prefLabel>
+    <dct:title>Eastern Asia</dct:title>
+    <dct:identifier>030</dct:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/142">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://purl.org/dc/terms/Location" />
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature" />
+    <rdfs:label>Asia</rdfs:label>
+    <rdfs:seeAlso rdf:resource="https://landportal.info/voc/regions/asia" />
+    <skos:notation>142</skos:notation>
+    <skos:broader rdf:resource="http://data.landportal.info/geo/001" />
+    <skos:inScheme rdf:resource="https://landportal.info/" />
+    <skos:prefLabel>Asia</skos:prefLabel>
+    <dct:title>Asia</dct:title>
+    <dct:identifier>142</dct:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/039">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://purl.org/dc/terms/Location" />
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature" />
+    <rdfs:label>Southern Europe</rdfs:label>
+    <rdfs:seeAlso rdf:resource="https://landportal.info/voc/regions/southern-europe" />
+    <skos:notation>039</skos:notation>
+    <skos:broader rdf:resource="http://data.landportal.info/geo/150" />
+    <skos:inScheme rdf:resource="https://landportal.info/" />
+    <skos:prefLabel>Southern Europe</skos:prefLabel>
+    <dct:title>Southern Europe</dct:title>
+    <dct:identifier>039</dct:identifier>
+    <skos:altLabel>Europa mediterrnea</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/150">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://purl.org/dc/terms/Location" />
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature" />
+    <rdfs:label>Europe</rdfs:label>
+    <rdfs:seeAlso rdf:resource="https://landportal.info/voc/regions/europe" />
+    <skos:notation>150</skos:notation>
+    <skos:broader rdf:resource="http://data.landportal.info/geo/001" />
+    <skos:inScheme rdf:resource="https://landportal.info/" />
+    <skos:prefLabel>Europe</skos:prefLabel>
+    <dct:title>Europe</dct:title>
+    <dct:identifier>150</dct:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/053">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://purl.org/dc/terms/Location" />
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature" />
+    <rdfs:label>Australia and New Zealand</rdfs:label>
+    <rdfs:seeAlso rdf:resource="https://landportal.info/voc/regions/australia-and-new-zealand" />
+    <skos:notation>053</skos:notation>
+    <skos:broader rdf:resource="http://data.landportal.info/geo/009" />
+    <skos:inScheme rdf:resource="https://landportal.info/" />
+    <skos:prefLabel>Australia and New Zealand</skos:prefLabel>
+    <dct:title>Australia and New Zealand</dct:title>
+    <dct:identifier>053</dct:identifier>
+    <skos:altLabel>Australia y Nueva Zelandia</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/009">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://purl.org/dc/terms/Location" />
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature" />
+    <rdfs:label>Oceania</rdfs:label>
+    <rdfs:seeAlso rdf:resource="https://landportal.info/voc/regions/oceania" />
+    <skos:notation>009</skos:notation>
+    <skos:broader rdf:resource="http://data.landportal.info/geo/001" />
+    <skos:inScheme rdf:resource="https://landportal.info/" />
+    <skos:prefLabel>Oceania</skos:prefLabel>
+    <dct:title>Oceania</dct:title>
+    <dct:identifier>009</dct:identifier>
+    <skos:altLabel>Oceania</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/054">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://purl.org/dc/terms/Location" />
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature" />
+    <rdfs:label>Melanesia</rdfs:label>
+    <rdfs:seeAlso rdf:resource="https://landportal.info/voc/regions/melanesia" />
+    <skos:notation>054</skos:notation>
+    <skos:broader rdf:resource="http://data.landportal.info/geo/009" />
+    <skos:inScheme rdf:resource="https://landportal.info/" />
+    <skos:prefLabel>Melanesia</skos:prefLabel>
+    <dct:title>Melanesia</dct:title>
+    <dct:identifier>054</dct:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/057">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://purl.org/dc/terms/Location" />
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature" />
+    <rdfs:label>Micronesia (region)</rdfs:label>
+    <rdfs:seeAlso rdf:resource="https://landportal.info/voc/regions/micronesia-region" />
+    <skos:notation>057</skos:notation>
+    <skos:broader rdf:resource="http://data.landportal.info/geo/009" />
+    <skos:inScheme rdf:resource="https://landportal.info/" />
+    <skos:prefLabel>Micronesia (region)</skos:prefLabel>
+    <dct:title>Micronesia (region)</dct:title>
+    <dct:identifier>057</dct:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/061">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://purl.org/dc/terms/Location" />
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature" />
+    <rdfs:label>Polynesia</rdfs:label>
+    <rdfs:seeAlso rdf:resource="https://landportal.info/voc/regions/polynesia" />
+    <skos:notation>061</skos:notation>
+    <skos:broader rdf:resource="http://data.landportal.info/geo/009" />
+    <skos:inScheme rdf:resource="https://landportal.info/" />
+    <skos:prefLabel>Polynesia</skos:prefLabel>
+    <dct:title>Polynesia</dct:title>
+    <dct:identifier>061</dct:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/002">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://purl.org/dc/terms/Location" />
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature" />
+    <rdfs:label>Africa</rdfs:label>
+    <rdfs:comment>Africa is the world&amp;#039;s second-largest and second most-populous continent, after Asia. At about 30.2 million km (11.7 million sq mi) including adjacent islands, it covers 6% of the Earth&amp;#039;s total surface area and 20.4% of the total land area.[2] With 1.0 billion people (as of 2009, see table) in 61 territories, it accounts for about 14.72% of the world&amp;#039;s human population.</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="https://landportal.info/voc/regions/africa" />
+    <skos:notation>002</skos:notation>
+    <skos:broader rdf:resource="http://data.landportal.info/geo/001" />
+    <skos:inScheme rdf:resource="https://landportal.info/" />
+    <skos:prefLabel>Africa</skos:prefLabel>
+    <dct:title>Africa</dct:title>
+    <dct:description>Africa is the world&amp;#039;s second-largest and second most-populous continent, after Asia. At about 30.2 million km (11.7 million sq mi) including adjacent islands, it covers 6% of the Earth&amp;#039;s total surface area and 20.4% of the total land area.[2] With 1.0 billion people (as of 2009, see table) in 61 territories, it accounts for about 14.72% of the world&amp;#039;s human population.</dct:description>
+    <dct:identifier>002</dct:identifier>
+    <skos:definition>Africa is the world&amp;#039;s second-largest and second most-populous continent, after Asia. At about 30.2 million km (11.7 million sq mi) including adjacent islands, it covers 6% of the Earth&amp;#039;s total surface area and 20.4% of the total land area.[2] With 1.0 billion people (as of 2009, see table) in 61 territories, it accounts for about 14.72% of the world&amp;#039;s human population.</skos:definition>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/034">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://purl.org/dc/terms/Location" />
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature" />
+    <rdfs:label>Southern Asia</rdfs:label>
+    <rdfs:seeAlso rdf:resource="https://landportal.info/voc/regions/southern-asia" />
+    <skos:notation>034</skos:notation>
+    <skos:broader rdf:resource="http://data.landportal.info/geo/142" />
+    <skos:inScheme rdf:resource="https://landportal.info/" />
+    <skos:prefLabel>Southern Asia</skos:prefLabel>
+    <dct:title>Southern Asia</dct:title>
+    <dct:identifier>034</dct:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/419">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://purl.org/dc/terms/Location" />
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature" />
+    <rdfs:label>Latin America and the Caribbean</rdfs:label>
+    <rdfs:seeAlso rdf:resource="https://landportal.info/voc/regions/latin-america-and-caribbean" />
+    <skos:notation>419</skos:notation>
+    <skos:broader rdf:resource="http://data.landportal.info/geo/019" />
+    <skos:inScheme rdf:resource="https://landportal.info/" />
+    <skos:prefLabel>Latin America and the Caribbean</skos:prefLabel>
+    <dct:title>Latin America and the Caribbean</dct:title>
+    <dct:identifier>419</dct:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/019">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://purl.org/dc/terms/Location" />
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature" />
+    <rdfs:label>Americas</rdfs:label>
+    <rdfs:seeAlso rdf:resource="https://landportal.info/voc/regions/americas" />
+    <skos:notation>019</skos:notation>
+    <skos:broader rdf:resource="http://data.landportal.info/geo/001" />
+    <skos:inScheme rdf:resource="https://landportal.info/" />
+    <skos:prefLabel>Americas</skos:prefLabel>
+    <dct:title>Americas</dct:title>
+    <dct:identifier>019</dct:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/202">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://purl.org/dc/terms/Location" />
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature" />
+    <rdfs:label>Sub-Saharan Africa</rdfs:label>
+    <rdfs:seeAlso rdf:resource="https://landportal.info/voc/regions/sub-saharan-africa" />
+    <skos:notation>202</skos:notation>
+    <skos:broader rdf:resource="http://data.landportal.info/geo/002" />
+    <skos:inScheme rdf:resource="https://landportal.info/" />
+    <skos:prefLabel>Sub-Saharan Africa</skos:prefLabel>
+    <dct:title>Sub-Saharan Africa</dct:title>
+    <dct:identifier>202</dct:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/021">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://purl.org/dc/terms/Location" />
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature" />
+    <rdfs:label>Northern America</rdfs:label>
+    <rdfs:seeAlso rdf:resource="https://landportal.info/voc/regions/northern-america" />
+    <skos:notation>021</skos:notation>
+    <skos:broader rdf:resource="http://data.landportal.info/geo/019" />
+    <skos:inScheme rdf:resource="https://landportal.info/" />
+    <skos:prefLabel>Northern America</skos:prefLabel>
+    <dct:title>Northern America</dct:title>
+    <dct:identifier>021</dct:identifier>
+    <skos:altLabel>North America</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/035">
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://purl.org/dc/terms/Location" />
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <rdfs:label>South-Eastern Asia</rdfs:label>
+    <rdfs:seeAlso rdf:resource="https://landportal.info/voc/regions/south-eastern-asia" />
+    <skos:notation>035</skos:notation>
+    <skos:broader rdf:resource="http://data.landportal.info/geo/142" />
+    <skos:inScheme rdf:resource="https://landportal.info/" />
+    <skos:prefLabel>South-Eastern Asia</skos:prefLabel>
+    <dct:title>South-Eastern Asia</dct:title>
+    <dct:identifier>035</dct:identifier>
+    <skos:altLabel>Southeast Asia &amp; Pacific</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/143">
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://purl.org/dc/terms/Location" />
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <rdfs:label>Central Asia</rdfs:label>
+    <rdfs:seeAlso rdf:resource="https://landportal.info/voc/regions/central-asia" />
+    <skos:notation>143</skos:notation>
+    <skos:broader rdf:resource="http://data.landportal.info/geo/142" />
+    <skos:inScheme rdf:resource="https://landportal.info/" />
+    <skos:prefLabel>Central Asia</skos:prefLabel>
+    <dct:title>Central Asia</dct:title>
+    <dct:identifier>143</dct:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/145">
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://purl.org/dc/terms/Location" />
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <rdfs:label>Western Asia</rdfs:label>
+    <rdfs:seeAlso rdf:resource="https://landportal.info/voc/regions/western-asia" />
+    <skos:notation>145</skos:notation>
+    <skos:broader rdf:resource="http://data.landportal.info/geo/142" />
+    <skos:inScheme rdf:resource="https://landportal.info/" />
+    <skos:prefLabel>Western Asia</skos:prefLabel>
+    <dct:title>Western Asia</dct:title>
+    <dct:identifier>145</dct:identifier>
+    <skos:altLabel>Middle East</skos:altLabel>
+    <skos:altLabel>Mdio Oriente</skos:altLabel>
+    <skos:altLabel>Asie de l&#39;Ouest</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/014">
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://purl.org/dc/terms/Location" />
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <rdfs:label>Eastern Africa</rdfs:label>
+    <rdfs:seeAlso rdf:resource="https://landportal.info/voc/regions/eastern-africa" />
+    <skos:notation>014</skos:notation>
+    <skos:broader rdf:resource="http://data.landportal.info/geo/202" />
+    <skos:inScheme rdf:resource="https://landportal.info/" />
+    <skos:prefLabel>Eastern Africa</skos:prefLabel>
+    <dct:title>Eastern Africa</dct:title>
+    <dct:identifier>014</dct:identifier>
+    <skos:definition>Africa Oriental a parte dafricabanhada peloOceano ndicoe inclui, no s os pases costeiros einsulares,Comores,Djibouti,Eritreia,Etipia,Qunia,Seychelles,Moambique,SomliaeTanznia, mas tambm alguns do interior, comoBurundi,RuandaeUganda, alm deZimbabwe,ZmbiaeMalawi, herdeiros independentes da antigaFederao da Rodsia e Niassalndia (Wikipedia)</skos:definition>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/018">
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://purl.org/dc/terms/Location" />
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <rdfs:label>Southern Africa</rdfs:label>
+    <rdfs:seeAlso rdf:resource="https://landportal.info/voc/regions/southern-africa" />
+    <skos:notation>018</skos:notation>
+    <skos:broader rdf:resource="http://data.landportal.info/geo/202" />
+    <skos:inScheme rdf:resource="https://landportal.info/" />
+    <skos:prefLabel>Southern Africa</skos:prefLabel>
+    <dct:title>Southern Africa</dct:title>
+    <dct:identifier>018</dct:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/015">
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://purl.org/dc/terms/Location" />
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <rdfs:label>Northern Africa</rdfs:label>
+    <rdfs:seeAlso rdf:resource="https://landportal.info/voc/regions/northern-africa" />
+    <skos:notation>015</skos:notation>
+    <skos:broader rdf:resource="http://data.landportal.info/geo/002" />
+    <skos:inScheme rdf:resource="https://landportal.info/" />
+    <skos:prefLabel>Northern Africa</skos:prefLabel>
+    <dct:title>Northern Africa</dct:title>
+    <dct:identifier>015</dct:identifier>
+    <skos:definition>ONorte de frica (Norte da frica, Norte d&#39;frica, frica do Norte, frica setentrionaloufrica branca(por oposio frica Negra)) compreende os pases localizados no norte docontinente africano, junto aoMediterrneo, nomeadamenteMarrocos,Tunsia,Arglia,LbiaeEgito. No entanto, o Departamento deEstatsticasdaONUinclui nesta sub-regio oSaara Ocidentale oSudo(Wikipedia).</skos:definition>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/151">
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://purl.org/dc/terms/Location" />
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <rdfs:label>Eastern Europe</rdfs:label>
+    <rdfs:seeAlso rdf:resource="https://landportal.info/voc/regions/eastern-europe" />
+    <skos:notation>151</skos:notation>
+    <skos:broader rdf:resource="http://data.landportal.info/geo/150" />
+    <skos:inScheme rdf:resource="https://landportal.info/" />
+    <skos:prefLabel>Eastern Europe</skos:prefLabel>
+    <dct:title>Eastern Europe</dct:title>
+    <dct:identifier>151</dct:identifier>
+    <skos:altLabel>Europa de Leste</skos:altLabel>
+    <skos:altLabel>Europe de l&#39;Est</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/155">
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://purl.org/dc/terms/Location" />
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <rdfs:label>Western Europe</rdfs:label>
+    <rdfs:seeAlso rdf:resource="https://landportal.info/voc/regions/western-europe" />
+    <skos:notation>155</skos:notation>
+    <skos:broader rdf:resource="http://data.landportal.info/geo/150" />
+    <skos:inScheme rdf:resource="https://landportal.info/" />
+    <skos:prefLabel>Western Europe</skos:prefLabel>
+    <dct:title>Western Europe</dct:title>
+    <dct:identifier>155</dct:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/013">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://purl.org/dc/terms/Location" />
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature" />
+    <rdfs:label>Central America</rdfs:label>
+    <rdfs:seeAlso rdf:resource="https://landportal.info/voc/regions/central-america" />
+    <skos:notation>013</skos:notation>
+    <skos:broader rdf:resource="http://data.landportal.info/geo/419" />
+    <skos:inScheme rdf:resource="https://landportal.info/" />
+    <skos:prefLabel>Central America</skos:prefLabel>
+    <dct:title>Central America</dct:title>
+    <dct:identifier>013</dct:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/011">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://purl.org/dc/terms/Location" />
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature" />
+    <rdfs:label>Western Africa</rdfs:label>
+    <rdfs:seeAlso rdf:resource="https://landportal.info/voc/regions/western-africa" />
+    <skos:notation>011</skos:notation>
+    <skos:broader rdf:resource="http://data.landportal.info/geo/202" />
+    <skos:inScheme rdf:resource="https://landportal.info/" />
+    <skos:prefLabel>Western Africa</skos:prefLabel>
+    <dct:title>Western Africa</dct:title>
+    <dct:identifier>011</dct:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/017">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://purl.org/dc/terms/Location" />
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature" />
+    <rdfs:label>Middle Africa</rdfs:label>
+    <rdfs:seeAlso rdf:resource="https://landportal.info/voc/regions/middle-africa" />
+    <skos:notation>017</skos:notation>
+    <skos:broader rdf:resource="http://data.landportal.info/geo/202" />
+    <skos:inScheme rdf:resource="https://landportal.info/" />
+    <skos:prefLabel>Middle Africa</skos:prefLabel>
+    <dct:title>Middle Africa</dct:title>
+    <dct:identifier>017</dct:identifier>
+    <skos:definition>A frica Central  a sub-regio que fica no centro do continente. Para o Departamento de Estatstica da ONU, compreende os seguintes pases: Angola Chade Congo-Brazzaville Camares Gabo Guin Equatorial So Tom e Prncipe Repblica Centro-Africana (Wikipdia)</skos:definition>
+    <skos:altLabel>Central Africa</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/005">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://purl.org/dc/terms/Location" />
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature" />
+    <rdfs:label>South America</rdfs:label>
+    <rdfs:seeAlso rdf:resource="https://landportal.info/voc/regions/south-america" />
+    <skos:notation>005</skos:notation>
+    <skos:broader rdf:resource="http://data.landportal.info/geo/419" />
+    <skos:inScheme rdf:resource="https://landportal.info/" />
+    <skos:prefLabel>South America</skos:prefLabel>
+    <dct:title>South America</dct:title>
+    <dct:identifier>005</dct:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/029">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://purl.org/dc/terms/Location" />
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature" />
+    <rdfs:label>Caribbean</rdfs:label>
+    <rdfs:seeAlso rdf:resource="https://landportal.info/voc/regions/caribbean" />
+    <skos:notation>029</skos:notation>
+    <skos:broader rdf:resource="http://data.landportal.info/geo/419" />
+    <skos:inScheme rdf:resource="https://landportal.info/" />
+    <skos:prefLabel>Caribbean</skos:prefLabel>
+    <dct:title>Caribbean</dct:title>
+    <dct:identifier>029</dct:identifier>
+    <skos:definition>ou Carabas</skos:definition>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/geo/154">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://purl.org/dc/terms/Location" />
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <rdf:type rdf:resource="http://www.geonames.org/ontology#Feature" />
+    <rdfs:label>Northern Europe</rdfs:label>
+    <rdfs:seeAlso rdf:resource="https://landportal.info/voc/regions/northern-europe" />
+    <skos:notation>154</skos:notation>
+    <skos:broader rdf:resource="http://data.landportal.info/geo/150" />
+    <skos:inScheme rdf:resource="https://landportal.info/" />
+    <skos:prefLabel>Northern Europe</skos:prefLabel>
+    <dct:title>Northern Europe</dct:title>
+    <dct:identifier>154</dct:identifier>
+    <skos:altLabel>Europa do Norte</skos:altLabel>
+  </rdf:Description>
+</rdf:RDF>
