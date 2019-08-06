@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/UN-SDG_2.3.1">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#DataSet"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+    <dct:license rdf:resource="http://purl.org/NET/rdflicense/allrightsreserved"/>
+    <schema:license rdf:resource="http://purl.org/NET/rdflicense/allrightsreserved"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FLR"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FOOD"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INVEST"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-ENVIR"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-PASTOR"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FLR"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FOOD"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INVEST"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-ENVIR"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-PASTOR"/>
+    <dct:publisher rdf:resource="http://data.landportal.info/organization/e82f9624-3a20-4f31-a61f-861982f6f1c5"/>
+    <dct:identifier>UN-SDG_2.3.1</dct:identifier>
+    <skos:notation>UN-SDG_2.3.1</skos:notation>
+    <skos:prefLabel>SDG 2.3.1 - Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size</skos:prefLabel>
+    <rdfs:label>SDG 2.3.1 - Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size</rdfs:label>
+    <dct:title>SDG 2.3.1 - Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size</dct:title>
+    <skos:definition>/*--&gt;*/ The data included in this dataset reflects indicator 2.3.1 of the Sustainable Development Goals (SDGs) -- that is, the volume of production per labour unit by classes of farming/pastoral/forestry enterprise size. This indicator is under &quot;Goal 2: Zero Hunger&quot; of the SDGs and it refers to Target 2.3, which focuses on agricultural productivity and income: By 2030, double the agricultural productivity and incomes of small-scale food producers, in particular women, indigenous peoples, family farmers, pastoralists and fishers, including through secure and equal access to land, other productive resources and inputs, knowledge, financial services, markets and opportunities for value addition and non-farm employment This indicator is currently classified as Tier II. FAO is the Custiodian agency for this indicator and official metadata are available at SDG UN Metadata website. For more information, check also this indicator's page on LandPortal SDG portfolio. Please note that according to their official formulation, several SDGs indicators needs to be disaggregated, therefore the related datasets that appear on our website might contain more than one data series for a given SDGs indicator. In particular, SDG indicator 2.3.1 is composed by the following data series: Productivity of small-scale food producers (agricultural output per labour day, PPP) (constant 2011 international $)</skos:definition>
+    <dct:description>/*--&gt;*/ The data included in this dataset reflects indicator 2.3.1 of the Sustainable Development Goals (SDGs) -- that is, the volume of production per labour unit by classes of farming/pastoral/forestry enterprise size. This indicator is under &quot;Goal 2: Zero Hunger&quot; of the SDGs and it refers to Target 2.3, which focuses on agricultural productivity and income: By 2030, double the agricultural productivity and incomes of small-scale food producers, in particular women, indigenous peoples, family farmers, pastoralists and fishers, including through secure and equal access to land, other productive resources and inputs, knowledge, financial services, markets and opportunities for value addition and non-farm employment This indicator is currently classified as Tier II. FAO is the Custiodian agency for this indicator and official metadata are available at SDG UN Metadata website. For more information, check also this indicator's page on LandPortal SDG portfolio. Please note that according to their official formulation, several SDGs indicators needs to be disaggregated, therefore the related datasets that appear on our website might contain more than one data series for a given SDGs indicator. In particular, SDG indicator 2.3.1 is composed by the following data series: Productivity of small-scale food producers (agricultural output per labour day, PPP) (constant 2011 international $)</dct:description>
+    <rdfs:comment>/*--&gt;*/ The data included in this dataset reflects indicator 2.3.1 of the Sustainable Development Goals (SDGs) -- that is, the volume of production per labour unit by classes of farming/pastoral/forestry enterprise size. This indicator is under &quot;Goal 2: Zero Hunger&quot; of the SDGs and it refers to Target 2.3, which focuses on agricultural productivity and income: By 2030, double the agricultural productivity and incomes of small-scale food producers, in particular women, indigenous peoples, family farmers, pastoralists and fishers, including through secure and equal access to land, other productive resources and inputs, knowledge, financial services, markets and opportunities for value addition and non-farm employment This indicator is currently classified as Tier II. FAO is the Custiodian agency for this indicator and official metadata are available at SDG UN Metadata website. For more information, check also this indicator's page on LandPortal SDG portfolio. Please note that according to their official formulation, several SDGs indicators needs to be disaggregated, therefore the related datasets that appear on our website might contain more than one data series for a given SDGs indicator. In particular, SDG indicator 2.3.1 is composed by the following data series: Productivity of small-scale food producers (agricultural output per labour day, PPP) (constant 2011 international $)</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/24"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/dataset/un-sdg231"/>
+  </rdf:Description>
+
+</rdf:RDF>
