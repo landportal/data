@@ -104,10 +104,10 @@ WHERE {
 ORDER BY DESC (?count)
 
 
-# Organization type of publishers
+# Get number of publishers by organization type
 PREFIX bibo:<http://purl.org/ontology/bibo/>
 PREFIX schema:<http://schema.org/>
-SELECT ?organizationType (COUNT(?organizationType) AS ?num_organizations)
+SELECT ?organizationTypeURI STR(?organizationType) AS ?organizationType (COUNT(?organizationType) AS ?num_organizations)
 FROM <http://library.landportal.info>
 FROM <http://organizations.landportal.info>
 FROM <http://organization-types.landportal.info>
@@ -118,9 +118,9 @@ WHERE {
            schema:publisher ?publisher .}}
 	   
     ?publisher dct:type ?organizationTypeURI .
-    ?organizationTypeURI rdfs:label ?organizationType .
+    OPTIONAL {?organizationTypeURI rdfs:label ?organizationType }.
 }
-GROUP BY ?organizationType
+GROUP BY ?organizationTypeURI ?organizationType
 ORDER BY DESC (?num_organizations)
 
 
