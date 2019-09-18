@@ -1,0 +1,12 @@
+# Gets URL, ID and LABEL of all the themes, ordered alphabetically by label.
+
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+
+SELECT * 
+FROM <http://themes.landportal.info>
+WHERE {
+?theme a skos:Concept ;
+  skos:notation ?ID;
+  skos:prefLabel ?label .
+}
+ORDER BY ?label
