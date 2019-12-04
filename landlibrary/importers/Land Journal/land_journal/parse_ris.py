@@ -3,9 +3,16 @@
 from RISparser import readris
 from landvoc import LandVoc
 from llr.LandLibraryResource import LandLibraryResource
-from llr import utils
+from llr import utils as llrutils
+import glob
+
+from landvocLANDJOURNAL.LandVocLANDJOURNAL import LandVocLANDJOURNAL
+LANDVOC_LANDJOURNAL = LandVocLANDJOURNAL()
 
 LANDVOC = LandVoc()
+
+concepts_list = []
+llrs = set()
 
 def curate_RIS_MDI_file(filename):
     write_filename = "new-"+filename
@@ -22,16 +29,15 @@ def curate_RIS_MDI_file(filename):
             new_bibliography_file.write(line)
         new_bibliography_file.write("ER  - ") #latest
         new_bibliography_file.close()
-    
-    return write_filename    
-    
+
+    return write_filename
+
 def create_llrs(filename):
 
     curated_filename = curate_RIS_MDI_file(filename)
-    
-    llrs = set()
+
     with open(curated_filename, 'r') as bibliography_file:
-        # using https://pypi.python.org/pypi/RISparser 
+        # using https://pypi.python.org/pypi/RISparser
         entries = readris(bibliography_file)
         for entry in entries:
             llrs.add(create_llr_from_RIS(entry))
@@ -46,7 +52,7 @@ def create_llr_from_RIS(ris_entry):
 
     #type. Only one
     if ris_entry["type_of_reference"]=="EJOU":
-        llr_record.set_type(u"Peer-reviewed publication")
+        llr_record.set_types([u"Peer-reviewed publication"])
 
     #title. Only one
     title = ris_entry["title"]
@@ -71,18 +77,21 @@ def create_llr_from_RIS(ris_entry):
     #ID. Only one.
     doi = ris_entry["doi"]
     llr_record.set_id(doi)
-    
+
     #number of pages. Only one
 
     #date.
     year = ris_entry["year"] # format (YYYY)
     issue = ris_entry["number"]
-    month = {
-        "1": "03",
-        "2" : "06",
-        "3" : "09",
-        "4" : "12",
-    }[issue]
+    month = issue
+    if int(year) < 2019:
+        switcher_pre_2019 = {
+            "1": "03",
+            "2" : "06",
+            "3" : "09",
+            "4" : "12",
+        }
+        month = switcher_pre_2019.get(issue, "2")
     publish_date = year+"-"+month+"-31"# format (YYYY-MM-DD)
     llr_record.set_date(publish_date)
 
@@ -91,10 +100,10 @@ def create_llr_from_RIS(ris_entry):
     init_page=str(int(doi[-4:]))
     original_url = "http://www.mdpi.com/2073-445X/"+volume+"/"+issue+"/"+init_page+"/"
     resource_url = original_url+"pdf"
-    
+
     #original url. Only one
     llr_record.set_original_url(original_url)
-    
+
     #resource url. Only one
     llr_record.set_resource_url(resource_url)
 
@@ -103,7 +112,7 @@ def create_llr_from_RIS(ris_entry):
 #     resource_url = "http://dx.doi.org/"+doi
 #     resp = requests.head(resource_url)
 #     location = resp.headers["Location"]
-    
+
     #License
     llr_record.set_license(u"Creative Commons Attribution")
 
@@ -115,35 +124,67 @@ def create_llr_from_RIS(ris_entry):
     llr_record.set_data_provider(u"Land Journal")
 
     #image
-    llr_record.set_image("private://feeds/LandJournal-thumbnail.png")
+    #llr_record.set_image("private://feeds/LandJournal-thumbnail.png")
 
     #keywords
     keywords = ris_entry["keywords"]
+    concepts_list.extend(keywords)
+
+    llr_record.set_potential_list(keywords)
 
     #geographical focus. list
-    countries = set(utils.flatten(filter(None,[utils.getISO3166_1code(k) for k in keywords])))
-    regions = set(utils.flatten(filter(None,[utils.getUNM49code(k) for k in keywords])))
-    llr_record.set_geographical_focus(countries, regions)
+    final_places = set()
+    final_places |= set(llrutils.flatten(filter(None,[llrutils.getISO3166_1code(k) for k in keywords])))
+    final_places |= set(llrutils.flatten(filter(None,[llrutils.getUNM49code(k) for k in keywords])))
+    
+    #NLTK for geo
+    if not final_places:
+        final_places |= set(llrutils.getPlaceET_fromText_NLTK(llr_record.get_title())) | set(llrutils.getPlaceET_fromText_GeoText(llr_record.get_title())) 
+        final_places |= set(llrutils.getPlaceET_fromText_NLTK(llr_record.get_description())) | set(llrutils.getPlaceET_fromText_GeoText(llr_record.get_description())) 
 
+    final_places = set(filter(None,llrutils.flatten(final_places)))
+
+    if not final_places:
+        final_places.add("001")
+
+    llr_record.set_geographical_focus(final_places)
 
     concepts = LANDVOC.get_concepts_direct(keywords)
-    themes=LANDVOC.get_fixed_themes(concepts)
-    oacs=LANDVOC.get_fixed_oacs(concepts)
 
-    llr_record.set_concepts(concepts);
-    llr_record.set_themes(themes);
-    llr_record.set_overarching_categories(oacs);
+    landjournal_mapping = set(LANDVOC_LANDJOURNAL.get_concepts_landjournal_related(keywords))
+
+    #parse the title
+    for concept in LANDVOC.parse_get_concepts(title):
+        if concept != "land":
+            concepts.append(unicode(LANDVOC.get_EnglishPrefLabel(concept,lang="en")))
+    
+    concepts.extend(landjournal_mapping)
+    
+    if concepts:
+        concepts = set(concepts)
+    else:
+        concepts = set([u"land",u"research"])
+
+    themes=LANDVOC.get_fixed_themes(concepts)
+
+    llr_record.set_concepts(concepts)
+    llr_record.set_themes(themes)
 
     #Language
-    lang = u"en"
-    llr_record.set_language(lang)
-    
+    langs = [u"en"]
+    llr_record.set_languages(langs)
+
+    # Add journal volumen
+    subtitle = "Volume "+volume+" Issue "+issue
+    llr_record.set_subtitle(subtitle)
+
     return llr_record
 
 def generate_csv(llrs, filename):
     with open(filename,'w') as csv_file:
         csv_file.write((u'\ufeff').encode('utf8')) #BOM
-        headers = u"ID;Title;Subtitle;Abstract/Description;Authors;Corporate authors;Publishers;Data provider;Publicaton date (YYYY/MM);Language;Related concepts;Themes;Overarching Categories;Geographical focus;Resource types;Link to the original website;Link to the publication;Thumbnail;License;Copyright details;Pages\n"
+        # TODO: change headers
+        headers = LandLibraryResource.get_csv_header_line()
         csv_file.write(headers.encode('utf8'))
 
         for llr in llrs:
@@ -156,9 +197,16 @@ def generate_csv(llrs, filename):
 
 # llrs = create_llrs('land-v01-i01_20170608.ris')
 # generate_csv(llrs, 'land-v01-i01_20170608.csv')
-# 
+#
 # llrs = create_llrs('land-v02-i04_20170608.ris')
 # generate_csv(llrs, 'land-v02-i04_20170608.csv')
 
-llrs = create_llrs('land-v07-i01_20180402.ris')
-generate_csv(llrs, 'land-v07-i01_20180402.csv')
+ris_files = glob.glob("land*.ris")
+for ris_file in ris_files:
+    print ris_file
+    create_llrs(ris_file)
+    generate_csv(llrs, ris_file+'.csv')
+    llrs = set()
+    
+print concepts_list
+print [{x:concepts_list.count(x)} for x in set(concepts_list) if concepts_list.count(x)>4]
