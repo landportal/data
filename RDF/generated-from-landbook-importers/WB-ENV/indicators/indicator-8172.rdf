@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/WB-EN.FSH.THRD.NO">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_2593"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_2934"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-ENVIR"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_2593"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_2934"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-ENVIR"/>
+    <dct:identifier>WB-EN.FSH.THRD.NO</dct:identifier>
+    <skos:notation>WB-EN.FSH.THRD.NO</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/WB-ENV"/>
+    <sdmx-attribute:unitMeasure>Number of species</sdmx-attribute:unitMeasure>
+    <rdfs:label>Fish species, threatened</rdfs:label>
+    <skos:prefLabel>Fish species, threatened</skos:prefLabel>
+    <dct:title>Fish species, threatened</dct:title>
+    <skos:definition>Threatened species are the number of species classified by the IUCN as endangered, vulnerable, rare, indeterminate, out of danger, or insufficiently known. Fish species are based on Froese, R. and Pauly, D. (eds). 2008. The number of threatened species is an important measure of the immediate need for conservation in an area. Global analyses of the status of threatened species have been carried out for few groups of organisms. Only for mammals, birds, and amphibians has the status of virtually all known species been assessed. Threatened species are defined using the International Union for Conservation of Nature's (IUCN) classification: endangered (in danger of extinction and unlikely to survive if causal factors continue operating) and vulnerable (likely to move into the endangered category in the near future if causal factors continue operating). The International Union for Conservation of Nature (IUCN) Red List of Threatened Species is widely recognized as the most comprehensive, objective global approach for evaluating the conservation status of plant and animal species. (source: http://databank.worldbank.org/data/reports.aspx?source=2&amp;amp;type=metadata&amp;amp;series=EN.FSH.THRD.NO)</skos:definition>
+    <dct:description>Threatened species are the number of species classified by the IUCN as endangered, vulnerable, rare, indeterminate, out of danger, or insufficiently known. Fish species are based on Froese, R. and Pauly, D. (eds). 2008. The number of threatened species is an important measure of the immediate need for conservation in an area. Global analyses of the status of threatened species have been carried out for few groups of organisms. Only for mammals, birds, and amphibians has the status of virtually all known species been assessed. Threatened species are defined using the International Union for Conservation of Nature's (IUCN) classification: endangered (in danger of extinction and unlikely to survive if causal factors continue operating) and vulnerable (likely to move into the endangered category in the near future if causal factors continue operating). The International Union for Conservation of Nature (IUCN) Red List of Threatened Species is widely recognized as the most comprehensive, objective global approach for evaluating the conservation status of plant and animal species. (source: http://databank.worldbank.org/data/reports.aspx?source=2&amp;amp;type=metadata&amp;amp;series=EN.FSH.THRD.NO)</dct:description>
+    <rdfs:comment>Threatened species are the number of species classified by the IUCN as endangered, vulnerable, rare, indeterminate, out of danger, or insufficiently known. Fish species are based on Froese, R. and Pauly, D. (eds). 2008. The number of threatened species is an important measure of the immediate need for conservation in an area. Global analyses of the status of threatened species have been carried out for few groups of organisms. Only for mammals, birds, and amphibians has the status of virtually all known species been assessed. Threatened species are defined using the International Union for Conservation of Nature's (IUCN) classification: endangered (in danger of extinction and unlikely to survive if causal factors continue operating) and vulnerable (likely to move into the endangered category in the near future if causal factors continue operating). The International Union for Conservation of Nature (IUCN) Red List of Threatened Species is widely recognized as the most comprehensive, objective global approach for evaluating the conservation status of plant and animal species. (source: http://databank.worldbank.org/data/reports.aspx?source=2&amp;amp;type=metadata&amp;amp;series=EN.FSH.THRD.NO)</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/wb-enfshthrdno"/>
+  </rdf:Description>
+
+</rdf:RDF>

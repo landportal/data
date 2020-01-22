@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/WB-AG.LND.PRCP.MM">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1666"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_2593"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_8320"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-ENVIR"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_1666"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_2593"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_8320"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-ENVIR"/>
+    <dct:identifier>WB-AG.LND.PRCP.MM</dct:identifier>
+    <skos:notation>WB-AG.LND.PRCP.MM</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/WB-ENV"/>
+    <sdmx-attribute:unitMeasure>mm per year</sdmx-attribute:unitMeasure>
+    <rdfs:label>Average precipitation (mm per year)</rdfs:label>
+    <skos:prefLabel>Average precipitation (mm per year)</skos:prefLabel>
+    <dct:title>Average precipitation (mm per year)</dct:title>
+    <skos:definition>Average precipitation is the long-term average in depth (over space and time) of annual precipitation in the country, measured in millimeter per year. Precipitation is defined as any kind of water that falls from clouds as a liquid or a solid. The agriculture sector is the most water-intensive sector, and water delivery in agriculture is increasingly important. Data on irrigated agricultural land and data on average precipitation illustrate how countries obtain water for agricultural use. (Source: http://databank.worldbank.org/data/reports.aspx?source=2&amp;amp;type=metadata&amp;amp;series=AG.LND.PRCP.MM)</skos:definition>
+    <dct:description>Average precipitation is the long-term average in depth (over space and time) of annual precipitation in the country, measured in millimeter per year. Precipitation is defined as any kind of water that falls from clouds as a liquid or a solid. The agriculture sector is the most water-intensive sector, and water delivery in agriculture is increasingly important. Data on irrigated agricultural land and data on average precipitation illustrate how countries obtain water for agricultural use. (Source: http://databank.worldbank.org/data/reports.aspx?source=2&amp;amp;type=metadata&amp;amp;series=AG.LND.PRCP.MM)</dct:description>
+    <rdfs:comment>Average precipitation is the long-term average in depth (over space and time) of annual precipitation in the country, measured in millimeter per year. Precipitation is defined as any kind of water that falls from clouds as a liquid or a solid. The agriculture sector is the most water-intensive sector, and water delivery in agriculture is increasingly important. Data on irrigated agricultural land and data on average precipitation illustrate how countries obtain water for agricultural use. (Source: http://databank.worldbank.org/data/reports.aspx?source=2&amp;amp;type=metadata&amp;amp;series=AG.LND.PRCP.MM)</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/wb-aglndprcpmm"/>
+  </rdf:Description>
+
+</rdf:RDF>

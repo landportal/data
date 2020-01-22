@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/WB-ER.LND.PTLD.ZS">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_2593"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_37952"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-ENVIR"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_2593"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_37952"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-ENVIR"/>
+    <dct:identifier>WB-ER.LND.PTLD.ZS</dct:identifier>
+    <skos:notation>WB-ER.LND.PTLD.ZS</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/WB-ENV"/>
+    <sdmx-attribute:unitMeasure>% of total land area</sdmx-attribute:unitMeasure>
+    <rdfs:label>Terrestrial protected areas (% of total land area)</rdfs:label>
+    <skos:prefLabel>Terrestrial protected areas (% of total land area)</skos:prefLabel>
+    <dct:title>Terrestrial protected areas (% of total land area)</dct:title>
+    <skos:definition>This indicator measures the proportion of terrestrial protected areas as a share of the total land area in a country. Terrestrial protected areas are totally or partially protected areas of at least 1,000 hectares that are designated by national authorities as scientific reserves with limited public access, national parks, natural monuments, nature reserves or wildlife sanctuaries, protected landscapes, and areas managed mainly for sustainable use. Marine areas, unclassified areas, littoral (intertidal) areas, and sites protected under local or provincial law are excluded. As threats to biodiversity mount, the international community is increasingly focusing on conserving diversity. Deforestation is a major cause of loss of biodiversity, and habitat conservation is vital for stemming this loss. Conservation efforts have focused on protecting areas of high biodiversity. Increasing the proportion of terrestrial and marine areas protected helps defend vulnerable plant and animal species and safeguard biodiversity. (Source: http://databank.worldbank.org/data/reports.aspx?source=2&amp;amp;type=metadata&amp;amp;series=ER.LND.PTLD.ZS)</skos:definition>
+    <dct:description>This indicator measures the proportion of terrestrial protected areas as a share of the total land area in a country. Terrestrial protected areas are totally or partially protected areas of at least 1,000 hectares that are designated by national authorities as scientific reserves with limited public access, national parks, natural monuments, nature reserves or wildlife sanctuaries, protected landscapes, and areas managed mainly for sustainable use. Marine areas, unclassified areas, littoral (intertidal) areas, and sites protected under local or provincial law are excluded. As threats to biodiversity mount, the international community is increasingly focusing on conserving diversity. Deforestation is a major cause of loss of biodiversity, and habitat conservation is vital for stemming this loss. Conservation efforts have focused on protecting areas of high biodiversity. Increasing the proportion of terrestrial and marine areas protected helps defend vulnerable plant and animal species and safeguard biodiversity. (Source: http://databank.worldbank.org/data/reports.aspx?source=2&amp;amp;type=metadata&amp;amp;series=ER.LND.PTLD.ZS)</dct:description>
+    <rdfs:comment>This indicator measures the proportion of terrestrial protected areas as a share of the total land area in a country. Terrestrial protected areas are totally or partially protected areas of at least 1,000 hectares that are designated by national authorities as scientific reserves with limited public access, national parks, natural monuments, nature reserves or wildlife sanctuaries, protected landscapes, and areas managed mainly for sustainable use. Marine areas, unclassified areas, littoral (intertidal) areas, and sites protected under local or provincial law are excluded. As threats to biodiversity mount, the international community is increasingly focusing on conserving diversity. Deforestation is a major cause of loss of biodiversity, and habitat conservation is vital for stemming this loss. Conservation efforts have focused on protecting areas of high biodiversity. Increasing the proportion of terrestrial and marine areas protected helps defend vulnerable plant and animal species and safeguard biodiversity. (Source: http://databank.worldbank.org/data/reports.aspx?source=2&amp;amp;type=metadata&amp;amp;series=ER.LND.PTLD.ZS)</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/wb-erlndptldzs"/>
+  </rdf:Description>
+
+</rdf:RDF>

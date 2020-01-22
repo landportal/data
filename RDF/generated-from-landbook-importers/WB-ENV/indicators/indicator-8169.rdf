@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/WB-NY.GDP.FRST.RT.ZS">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000115"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FOREST"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-ENVIR"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000115"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FOREST"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-ENVIR"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
+    <dct:identifier>WB-NY.GDP.FRST.RT.ZS</dct:identifier>
+    <skos:notation>WB-NY.GDP.FRST.RT.ZS</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/WB-ENV"/>
+    <sdmx-attribute:unitMeasure>% of GDP</sdmx-attribute:unitMeasure>
+    <rdfs:label>Forest rents (% of GDP)</rdfs:label>
+    <skos:prefLabel>Forest rents (% of GDP)</skos:prefLabel>
+    <dct:title>Forest rents (% of GDP)</dct:title>
+    <skos:definition>This indicator measures forest rents as a share of the gross domestic product (GDP) of a given country. Forest rents are roundwood harvest times the product of average prices and a region-specific rental rate. Accounting for the contribution of natural resources to economic output is important in building an analytical framework for sustainable development. In some countries earnings from natural resources, especially from fossil fuels and minerals, account for a sizable share of GDP, and much of these earnings come in the form of economic rents - revenues above the cost of extracting the resources. Natural resources give rise to economic rents because they are not produced. For produced goods and services competitive forces expand supply until economic profits are driven to zero, but natural resources in fixed supply often command returns well in excess of their cost of production. Rents from nonrenewable resources - fossil fuels and minerals - as well as rents from overharvesting of forests indicate the liquidation of a country's capital stock. When countries use such rents to support current consumption rather than to invest in new capital to replace what is being used up, they are, in effect, borrowing against their future. (Source: http://databank.worldbank.org/data/reports.aspx?source=2&amp;amp;type=metadata&amp;amp;series=NY.GDP.FRST.RT.ZS)</skos:definition>
+    <dct:description>This indicator measures forest rents as a share of the gross domestic product (GDP) of a given country. Forest rents are roundwood harvest times the product of average prices and a region-specific rental rate. Accounting for the contribution of natural resources to economic output is important in building an analytical framework for sustainable development. In some countries earnings from natural resources, especially from fossil fuels and minerals, account for a sizable share of GDP, and much of these earnings come in the form of economic rents - revenues above the cost of extracting the resources. Natural resources give rise to economic rents because they are not produced. For produced goods and services competitive forces expand supply until economic profits are driven to zero, but natural resources in fixed supply often command returns well in excess of their cost of production. Rents from nonrenewable resources - fossil fuels and minerals - as well as rents from overharvesting of forests indicate the liquidation of a country's capital stock. When countries use such rents to support current consumption rather than to invest in new capital to replace what is being used up, they are, in effect, borrowing against their future. (Source: http://databank.worldbank.org/data/reports.aspx?source=2&amp;amp;type=metadata&amp;amp;series=NY.GDP.FRST.RT.ZS)</dct:description>
+    <rdfs:comment>This indicator measures forest rents as a share of the gross domestic product (GDP) of a given country. Forest rents are roundwood harvest times the product of average prices and a region-specific rental rate. Accounting for the contribution of natural resources to economic output is important in building an analytical framework for sustainable development. In some countries earnings from natural resources, especially from fossil fuels and minerals, account for a sizable share of GDP, and much of these earnings come in the form of economic rents - revenues above the cost of extracting the resources. Natural resources give rise to economic rents because they are not produced. For produced goods and services competitive forces expand supply until economic profits are driven to zero, but natural resources in fixed supply often command returns well in excess of their cost of production. Rents from nonrenewable resources - fossil fuels and minerals - as well as rents from overharvesting of forests indicate the liquidation of a country's capital stock. When countries use such rents to support current consumption rather than to invest in new capital to replace what is being used up, they are, in effect, borrowing against their future. (Source: http://databank.worldbank.org/data/reports.aspx?source=2&amp;amp;type=metadata&amp;amp;series=NY.GDP.FRST.RT.ZS)</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/wb-nygdpfrstrtzs"/>
+  </rdf:Description>
+
+</rdf:RDF>
