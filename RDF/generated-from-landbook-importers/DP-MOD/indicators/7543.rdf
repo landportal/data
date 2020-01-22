@@ -3,18 +3,24 @@
   xmlns:dct="http://purl.org/dc/terms/"
   xmlns:schema="http://schema.org/"
   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
 
   <rdf:Description rdf:about="http://data.landportal.info/indicator/DP-MOD-O-F">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
-    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-LAW"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_4182"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_35332"/>
     <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INST"/>
-    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-LAW"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_4182"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_35332"/>
     <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INST"/>
     <dct:identifier>DP-MOD-O-F</dct:identifier>
     <skos:notation>DP-MOD-O-F</skos:notation>
     <dct:source rdf:resource="http://data.landportal.info/dataset/DP-MOD"/>
+    <sdmx-attribute:unitMeasure>US$ (Current)</sdmx-attribute:unitMeasure>
     <rdfs:label>Ongoing Projects - Funding</rdfs:label>
     <skos:prefLabel>Ongoing Projects - Funding</skos:prefLabel>
     <dct:title>Ongoing Projects - Funding</dct:title>
@@ -22,7 +28,7 @@
     <dct:description>Total funding (US $) for programmes still ongoing. Last updated on the 31st of January, 2019.</dct:description>
     <rdfs:comment>Total funding (US $) for programmes still ongoing. Last updated on the 31st of January, 2019.</rdfs:comment>
     <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
-    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/dp-mod-o-f"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicators/dp-mod-o-f"/>
   </rdf:Description>
 
 </rdf:RDF>
