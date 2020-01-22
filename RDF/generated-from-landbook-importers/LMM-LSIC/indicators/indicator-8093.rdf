@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/LMM-LSIC-6CL">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_d42b49e7"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_331524"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_195"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_45cd8441"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_7fc44e33"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INDIG"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INST"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_d42b49e7"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_331524"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_195"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_45cd8441"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_7fc44e33"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INDIG"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INST"/>
+    <dct:identifier>LMM-LSIC-6CL</dct:identifier>
+    <skos:notation>LMM-LSIC-6CL</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/LMM-LSIC"/>
+    <sdmx-attribute:unitMeasure>Index (1; 4)</sdmx-attribute:unitMeasure>
+    <rdfs:label>VI - Perpetuity - Community Lands</rdfs:label>
+    <skos:prefLabel>VI - Perpetuity - Community Lands</skos:prefLabel>
+    <dct:title>VI - Perpetuity - Community Lands</dct:title>
+    <skos:definition>This indicator is part of the set of Indicators of the Legal Security of Indigenous and Community Lands estimated by LandMark (http://www.landmarkmap.org/). It answers to the following question: Do the law and formal title recognize that indigenous Peoples land rights may be held in perpetuity? Each indicator is assigned a score from 1 (-&amp;gt; Yes, the law addresses the issue fully) to 4 (-&amp;gt; No, the law does not address the issue.) ot Not applicable (-&amp;gt; N/A Not applicable is used in cases where the subject matter in question is non-existent.). The scoring of indicators is based exclusively on express legal provisions.</skos:definition>
+    <dct:description>This indicator is part of the set of Indicators of the Legal Security of Indigenous and Community Lands estimated by LandMark (http://www.landmarkmap.org/). It answers to the following question: Do the law and formal title recognize that indigenous Peoples land rights may be held in perpetuity? Each indicator is assigned a score from 1 (-&amp;gt; Yes, the law addresses the issue fully) to 4 (-&amp;gt; No, the law does not address the issue.) ot Not applicable (-&amp;gt; N/A Not applicable is used in cases where the subject matter in question is non-existent.). The scoring of indicators is based exclusively on express legal provisions.</dct:description>
+    <rdfs:comment>This indicator is part of the set of Indicators of the Legal Security of Indigenous and Community Lands estimated by LandMark (http://www.landmarkmap.org/). It answers to the following question: Do the law and formal title recognize that indigenous Peoples land rights may be held in perpetuity? Each indicator is assigned a score from 1 (-&amp;gt; Yes, the law addresses the issue fully) to 4 (-&amp;gt; No, the law does not address the issue.) ot Not applicable (-&amp;gt; N/A Not applicable is used in cases where the subject matter in question is non-existent.). The scoring of indicators is based exclusively on express legal provisions.</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/lmm-lsic-6cl"/>
+  </rdf:Description>
+
+</rdf:RDF>

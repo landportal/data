@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/LMM-LSIC-11AVIP">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_41b77c02"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_331524"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_12069"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_7fc44e33"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INDIG"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INST"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_41b77c02"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_331524"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_12069"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_7fc44e33"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INDIG"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INST"/>
+    <dct:identifier>LMM-LSIC-11AVIP</dct:identifier>
+    <skos:notation>LMM-LSIC-11AVIP</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/LMM-LSIC"/>
+    <sdmx-attribute:unitMeasure>Index (1; 4)</sdmx-attribute:unitMeasure>
+    <rdfs:label>Average score for the ten indicators of the legal security of indigenous and community lands - Indigenous People</rdfs:label>
+    <skos:prefLabel>Average score for the ten indicators of the legal security of indigenous and community lands - Indigenous People</skos:prefLabel>
+    <dct:title>Average score for the ten indicators of the legal security of indigenous and community lands - Indigenous People</dct:title>
+    <skos:definition>The average score for the ten indicators of the legal security of indigenous People lands is also provided. The average score is the sum of the indicator scores of a specific collective tenure type for a country divided by the total number of indicators scored (in most cases, this number is 10). This average score provides only a snapshot of the security of indigenous and community land. It does not represent an index, in that the various indicators are not weighted based on their relative importance to secure tenure. Each indicator is assigned a score from 1 (-&amp;gt; Yes, the law addresses the issue fully) to 4 (-&amp;gt; No, the law does not address the issue.) ot Not applicable (-&amp;gt; N/A Not applicable is used in cases where the subject matter in question is non-existent.). The scoring of indicators is based exclusively on express legal provisions.</skos:definition>
+    <dct:description>The average score for the ten indicators of the legal security of indigenous People lands is also provided. The average score is the sum of the indicator scores of a specific collective tenure type for a country divided by the total number of indicators scored (in most cases, this number is 10). This average score provides only a snapshot of the security of indigenous and community land. It does not represent an index, in that the various indicators are not weighted based on their relative importance to secure tenure. Each indicator is assigned a score from 1 (-&amp;gt; Yes, the law addresses the issue fully) to 4 (-&amp;gt; No, the law does not address the issue.) ot Not applicable (-&amp;gt; N/A Not applicable is used in cases where the subject matter in question is non-existent.). The scoring of indicators is based exclusively on express legal provisions.</dct:description>
+    <rdfs:comment>The average score for the ten indicators of the legal security of indigenous People lands is also provided. The average score is the sum of the indicator scores of a specific collective tenure type for a country divided by the total number of indicators scored (in most cases, this number is 10). This average score provides only a snapshot of the security of indigenous and community land. It does not represent an index, in that the various indicators are not weighted based on their relative importance to secure tenure. Each indicator is assigned a score from 1 (-&amp;gt; Yes, the law addresses the issue fully) to 4 (-&amp;gt; No, the law does not address the issue.) ot Not applicable (-&amp;gt; N/A Not applicable is used in cases where the subject matter in question is non-existent.). The scoring of indicators is based exclusively on express legal provisions.</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/lmm-lsic-11avip"/>
+  </rdf:Description>
+
+</rdf:RDF>
