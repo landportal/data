@@ -1,0 +1,20 @@
+# Shouldn't be an indicator: "VGGT-16-3", "VGGT-16-8", "VGGT-16-9", "VGGT-16-5", "VGGT-16-2"
+# Unpublished: "WF-ODB.RANKING"
+
+PREFIX cex: <http://purl.org/weso/ontology/computex#>
+PREFIX time: <http://www.w3.org/2006/time#>
+PREFIX qb: <http://purl.org/linked-data/cube#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dct: <http://purl.org/dc/terms/>
+PREFIX sdmx-attribute: <http://purl.org/linked-data/sdmx/2009/attribute#>  
+
+SELECT ?id ?label ?datasetURL ?unit 
+FROM <http://indicators.landportal.info> FROM <http://datasets.landportal.info> 
+WHERE { 
+?uri a cex:Indicator ;   
+skos:notation ?id ;  
+rdfs:label ?label ;
+dct:source ?datasetURL .
+OPTIONAL {?uri sdmx-attribute:unitMeasure ?unit . }
+FILTER (!bound(?unit)) 
+} ORDER BY ?label
