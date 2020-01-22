@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/OECD-SIGI-12">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1dfe5bfe"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000090"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_37734"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_28718"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_195"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_37898"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_8420"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-GENDER"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INST"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_1dfe5bfe"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000090"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_37734"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_28718"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_195"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_37898"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_8420"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-GENDER"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INST"/>
+    <dct:identifier>OECD-SIGI-12</dct:identifier>
+    <skos:notation>OECD-SIGI-12</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/OECD-SIGI"/>
+    <sdmx-attribute:unitMeasure>Index (0; 1)</sdmx-attribute:unitMeasure>
+    <rdfs:label>Restricted Resources and Entitlements - Land Titles Owned by Women</rdfs:label>
+    <skos:prefLabel>Restricted Resources and Entitlements - Land Titles Owned by Women</skos:prefLabel>
+    <dct:title>Restricted Resources and Entitlements - Land Titles Owned by Women</dct:title>
+    <skos:definition>This indicator is taken from the OECD the Gender, Institutions and Development Database (GID-DB). It is and index ranging from 0 to 1.</skos:definition>
+    <dct:description>This indicator is taken from the OECD the Gender, Institutions and Development Database (GID-DB). It is and index ranging from 0 to 1.</dct:description>
+    <rdfs:comment>This indicator is taken from the OECD the Gender, Institutions and Development Database (GID-DB). It is and index ranging from 0 to 1.</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicators/oecd-sigi-12"/>
+  </rdf:Description>
+
+</rdf:RDF>
