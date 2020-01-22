@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/FAO-LGA">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_2593"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_4182"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_8e487587"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-ENVIR"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-PASTOR"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_2593"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_4182"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_8e487587"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-ENVIR"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-PASTOR"/>
+    <dct:identifier>FAO-LGA</dct:identifier>
+    <skos:notation>FAO-LGA</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/FAO-GLPSR"/>
+    <sdmx-attribute:unitMeasure>Sq Km</sdmx-attribute:unitMeasure>
+    <rdfs:label>Livestock-only systems in arid and semi-arid areas</rdfs:label>
+    <skos:prefLabel>Livestock-only systems in arid and semi-arid areas</skos:prefLabel>
+    <dct:title>Livestock-only systems in arid and semi-arid areas</dct:title>
+    <skos:definition>This country-level indicator measures the extension (in sq. Km) of livestock-only systems in rangeland-based arid and semi-arid areas [LGA]. The data comes frorm the Map of Global Livestock Production Systems (version 5), a joint initiative between FAO and ILRI. The full reference for the Map of Global Livestock Production Systems (version 5) is: Robinson TP, Thornton PK, Franceschini G, Kruska RL, Chiozza F, et al., (2011): Global livestock production systems. Rome: Food and Agriculture Organization of the United Nations (FAO) and International Livestock Research Institute (ILRI). pp. 152. http://www.fao.org/docrep/014/i2414e/i2414e.pdf. Further Information on the Map of Global Livestock Production Systems is available here: http://www.fao.org/ag/againfo/resources/en/glw/GLW_prod-sys.html. For more information about the fulll data included in the The Gridded Livestock of the World (GLW) database, please refer to: Robinson, T.P., Wint, G.R.W., Conchedda, G., Van Boeckel, T.P., Ercoli, V., Palamara, E., Cinardi, G., D’Aietti, L., Hay, S.I and Gilbert, M. (2014) Mapping the global distribution of livestock. PLoS ONE 9(5): e96084. doi:10.1371/journal.pone.0096084.</skos:definition>
+    <dct:description>This country-level indicator measures the extension (in sq. Km) of livestock-only systems in rangeland-based arid and semi-arid areas [LGA]. The data comes frorm the Map of Global Livestock Production Systems (version 5), a joint initiative between FAO and ILRI. The full reference for the Map of Global Livestock Production Systems (version 5) is: Robinson TP, Thornton PK, Franceschini G, Kruska RL, Chiozza F, et al., (2011): Global livestock production systems. Rome: Food and Agriculture Organization of the United Nations (FAO) and International Livestock Research Institute (ILRI). pp. 152. http://www.fao.org/docrep/014/i2414e/i2414e.pdf. Further Information on the Map of Global Livestock Production Systems is available here: http://www.fao.org/ag/againfo/resources/en/glw/GLW_prod-sys.html. For more information about the fulll data included in the The Gridded Livestock of the World (GLW) database, please refer to: Robinson, T.P., Wint, G.R.W., Conchedda, G., Van Boeckel, T.P., Ercoli, V., Palamara, E., Cinardi, G., D’Aietti, L., Hay, S.I and Gilbert, M. (2014) Mapping the global distribution of livestock. PLoS ONE 9(5): e96084. doi:10.1371/journal.pone.0096084.</dct:description>
+    <rdfs:comment>This country-level indicator measures the extension (in sq. Km) of livestock-only systems in rangeland-based arid and semi-arid areas [LGA]. The data comes frorm the Map of Global Livestock Production Systems (version 5), a joint initiative between FAO and ILRI. The full reference for the Map of Global Livestock Production Systems (version 5) is: Robinson TP, Thornton PK, Franceschini G, Kruska RL, Chiozza F, et al., (2011): Global livestock production systems. Rome: Food and Agriculture Organization of the United Nations (FAO) and International Livestock Research Institute (ILRI). pp. 152. http://www.fao.org/docrep/014/i2414e/i2414e.pdf. Further Information on the Map of Global Livestock Production Systems is available here: http://www.fao.org/ag/againfo/resources/en/glw/GLW_prod-sys.html. For more information about the fulll data included in the The Gridded Livestock of the World (GLW) database, please refer to: Robinson, T.P., Wint, G.R.W., Conchedda, G., Van Boeckel, T.P., Ercoli, V., Palamara, E., Cinardi, G., D’Aietti, L., Hay, S.I and Gilbert, M. (2014) Mapping the global distribution of livestock. PLoS ONE 9(5): e96084. doi:10.1371/journal.pone.0096084.</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/fao-lga"/>
+  </rdf:Description>
+
+</rdf:RDF>
