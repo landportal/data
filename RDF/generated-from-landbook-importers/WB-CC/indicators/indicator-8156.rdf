@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/WB-AG.LND.EL5M.RU.K2">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1666"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000021"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_10391"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6699"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-ENVIR"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_1666"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000021"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_10391"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_6699"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-ENVIR"/>
+    <dct:identifier>WB-AG.LND.EL5M.RU.K2</dct:identifier>
+    <skos:notation>WB-AG.LND.EL5M.RU.K2</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/WB-CC"/>
+    <sdmx-attribute:unitMeasure>Sq Km</sdmx-attribute:unitMeasure>
+    <rdfs:label>Rural land area where elevation is below 5 meters (Sq. Km)</rdfs:label>
+    <skos:prefLabel>Rural land area where elevation is below 5 meters (Sq. Km)</skos:prefLabel>
+    <dct:title>Rural land area where elevation is below 5 meters (Sq. Km)</dct:title>
+    <skos:definition>Rural land area below 5m is the total rural land area in square kilometers where the elevation is 5 meters or less. Rising global temperatures will cause sea level rise and alter local climate conditions, affecting forests, crop yields, and water supplies, and may affect human health, animals, and many types of ecosystems. (Source: http://databank.worldbank.org/data/reports.aspx?source=2&amp;amp;type=metadata&amp;amp;series=AG.LND.EL5M.RU.K2)</skos:definition>
+    <dct:description>Rural land area below 5m is the total rural land area in square kilometers where the elevation is 5 meters or less. Rising global temperatures will cause sea level rise and alter local climate conditions, affecting forests, crop yields, and water supplies, and may affect human health, animals, and many types of ecosystems. (Source: http://databank.worldbank.org/data/reports.aspx?source=2&amp;amp;type=metadata&amp;amp;series=AG.LND.EL5M.RU.K2)</dct:description>
+    <rdfs:comment>Rural land area below 5m is the total rural land area in square kilometers where the elevation is 5 meters or less. Rising global temperatures will cause sea level rise and alter local climate conditions, affecting forests, crop yields, and water supplies, and may affect human health, animals, and many types of ecosystems. (Source: http://databank.worldbank.org/data/reports.aspx?source=2&amp;amp;type=metadata&amp;amp;series=AG.LND.EL5M.RU.K2)</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/wb-aglndel5mruk2"/>
+  </rdf:Description>
+
+</rdf:RDF>

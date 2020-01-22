@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/WB-EN.CLC.GHGR.MT.CE">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1666"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_3055"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FOREST"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-ENVIR"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_1666"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_3055"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FOREST"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-ENVIR"/>
+    <dct:identifier>WB-EN.CLC.GHGR.MT.CE</dct:identifier>
+    <skos:notation>WB-EN.CLC.GHGR.MT.CE</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/WB-CC"/>
+    <sdmx-attribute:unitMeasure>Million ton of CO2 equivalent</sdmx-attribute:unitMeasure>
+    <rdfs:label>GHG net emissions/removals by LUCF (Mt of CO2 equivalent)</rdfs:label>
+    <skos:prefLabel>GHG net emissions/removals by LUCF (Mt of CO2 equivalent)</skos:prefLabel>
+    <dct:title>GHG net emissions/removals by LUCF (Mt of CO2 equivalent)</dct:title>
+    <skos:definition>GHG net emissions/removals by LUCF refers to changes in atmospheric levels of all greenhouse gases attributable to forest and land-use change activities, including but not limited to (1) emissions and removals of CO2 from decreases or increases in biomass stocks due to forest management, logging, fuelwood collection, etc.; (2) conversion of existing forests and natural grasslands to other land uses; (3) removal of CO2 from the abandonment of formerly managed lands (e.g. croplands and pastures); and (4) emissions and removals of CO2 in soil associated with land-use change and management. For Annex-I countries under the UNFCCC, these data are drawn from the annual GHG inventories submitted to the UNFCCC by each country; for non-Annex-I countries, data are drawn from the most recently submitted National Communication where available. Because of differences in reporting years and methodologies, these data are not generally considered comparable across countries. Data are in million metric tons. (Source: http://databank.worldbank.org/data/reports.aspx?source=2&amp;amp;type=metadata&amp;amp;series=EN.CLC.GHGR.MT.CE)</skos:definition>
+    <dct:description>GHG net emissions/removals by LUCF refers to changes in atmospheric levels of all greenhouse gases attributable to forest and land-use change activities, including but not limited to (1) emissions and removals of CO2 from decreases or increases in biomass stocks due to forest management, logging, fuelwood collection, etc.; (2) conversion of existing forests and natural grasslands to other land uses; (3) removal of CO2 from the abandonment of formerly managed lands (e.g. croplands and pastures); and (4) emissions and removals of CO2 in soil associated with land-use change and management. For Annex-I countries under the UNFCCC, these data are drawn from the annual GHG inventories submitted to the UNFCCC by each country; for non-Annex-I countries, data are drawn from the most recently submitted National Communication where available. Because of differences in reporting years and methodologies, these data are not generally considered comparable across countries. Data are in million metric tons. (Source: http://databank.worldbank.org/data/reports.aspx?source=2&amp;amp;type=metadata&amp;amp;series=EN.CLC.GHGR.MT.CE)</dct:description>
+    <rdfs:comment>GHG net emissions/removals by LUCF refers to changes in atmospheric levels of all greenhouse gases attributable to forest and land-use change activities, including but not limited to (1) emissions and removals of CO2 from decreases or increases in biomass stocks due to forest management, logging, fuelwood collection, etc.; (2) conversion of existing forests and natural grasslands to other land uses; (3) removal of CO2 from the abandonment of formerly managed lands (e.g. croplands and pastures); and (4) emissions and removals of CO2 in soil associated with land-use change and management. For Annex-I countries under the UNFCCC, these data are drawn from the annual GHG inventories submitted to the UNFCCC by each country; for non-Annex-I countries, data are drawn from the most recently submitted National Communication where available. Because of differences in reporting years and methodologies, these data are not generally considered comparable across countries. Data are in million metric tons. (Source: http://databank.worldbank.org/data/reports.aspx?source=2&amp;amp;type=metadata&amp;amp;series=EN.CLC.GHGR.MT.CE)</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/wb-enclcghgrmtce"/>
+  </rdf:Description>
+
+</rdf:RDF>

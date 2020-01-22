@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/WB-EN.ATM.GHGT.ZG">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1666"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-ENVIR"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_1666"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-ENVIR"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
+    <dct:identifier>WB-EN.ATM.GHGT.ZG</dct:identifier>
+    <skos:notation>WB-EN.ATM.GHGT.ZG</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/WB-CC"/>
+    <sdmx-attribute:unitMeasure>% change from 1990</sdmx-attribute:unitMeasure>
+    <rdfs:label>Total greenhouse gas emissions (% change from 1990)</rdfs:label>
+    <skos:prefLabel>Total greenhouse gas emissions (% change from 1990)</skos:prefLabel>
+    <dct:title>Total greenhouse gas emissions (% change from 1990)</dct:title>
+    <skos:definition>This indicator measures the percentage change in total greenhouse gas emissions compared to 1990 levels. Total greenhouse gas emissions are composed of CO2 totals excluding short-cycle biomass burning (such as agricultural waste burning and Savannah burning) but including other biomass burning (such as forest fires, post-burn decay, peat fires and decay of drained peatlands), all anthropogenic CH4 sources, N2O sources and F-gases (HFCs, PFCs and SF6). Each year of data shows the percentage change to that year from 1990. (Source: http://databank.worldbank.org/data/reports.aspx?source=2&amp;amp;type=metadata&amp;amp;series=EN.ATM.GHGT.ZG)</skos:definition>
+    <dct:description>This indicator measures the percentage change in total greenhouse gas emissions compared to 1990 levels. Total greenhouse gas emissions are composed of CO2 totals excluding short-cycle biomass burning (such as agricultural waste burning and Savannah burning) but including other biomass burning (such as forest fires, post-burn decay, peat fires and decay of drained peatlands), all anthropogenic CH4 sources, N2O sources and F-gases (HFCs, PFCs and SF6). Each year of data shows the percentage change to that year from 1990. (Source: http://databank.worldbank.org/data/reports.aspx?source=2&amp;amp;type=metadata&amp;amp;series=EN.ATM.GHGT.ZG)</dct:description>
+    <rdfs:comment>This indicator measures the percentage change in total greenhouse gas emissions compared to 1990 levels. Total greenhouse gas emissions are composed of CO2 totals excluding short-cycle biomass burning (such as agricultural waste burning and Savannah burning) but including other biomass burning (such as forest fires, post-burn decay, peat fires and decay of drained peatlands), all anthropogenic CH4 sources, N2O sources and F-gases (HFCs, PFCs and SF6). Each year of data shows the percentage change to that year from 1990. (Source: http://databank.worldbank.org/data/reports.aspx?source=2&amp;amp;type=metadata&amp;amp;series=EN.ATM.GHGT.ZG)</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/wb-enatmghgtzg"/>
+  </rdf:Description>
+
+</rdf:RDF>

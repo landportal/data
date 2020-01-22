@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/WB-EN.ATM.NOXE.KT.CE">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1666"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-ENVIR"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_1666"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-ENVIR"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
+    <dct:identifier>WB-EN.ATM.NOXE.KT.CE</dct:identifier>
+    <skos:notation>WB-EN.ATM.NOXE.KT.CE</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/WB-CC"/>
+    <sdmx-attribute:unitMeasure>Kiloton of CO2 equivalent</sdmx-attribute:unitMeasure>
+    <rdfs:label>Nitrous oxide emissions (thousand metric tons of CO2 equivalent)</rdfs:label>
+    <skos:prefLabel>Nitrous oxide emissions (thousand metric tons of CO2 equivalent)</skos:prefLabel>
+    <dct:title>Nitrous oxide emissions (thousand metric tons of CO2 equivalent)</dct:title>
+    <skos:definition>This indicator measures nitrous oxide (N2O) emissions in kilotonnes of CO2 equivalent. Nitrous oxide (N2O) emissions are mainly from fossil fuel combustion, fertilizers, rainforest fires, and animal waste. The carbon dioxide emissions of a country are only an indicator of one greenhouse gas. For a more complete idea of how a country influences climate change, gases such as methane and nitrous oxide should be taken into account. This is particularly important in agricultural economies. Nitrous oxide is a powerful greenhouse gas, with an estimated atmospheric lifetime of 114 years, compared with 12 years for methane. The per kilogram global warming potential of nitrous oxide is nearly 310 times that of carbon dioxide within 100 years. (Source: http://databank.worldbank.org/data/reports.aspx?source=2&amp;amp;type=metadata&amp;amp;series=EN.ATM.NOXE.KT.CE)</skos:definition>
+    <dct:description>This indicator measures nitrous oxide (N2O) emissions in kilotonnes of CO2 equivalent. Nitrous oxide (N2O) emissions are mainly from fossil fuel combustion, fertilizers, rainforest fires, and animal waste. The carbon dioxide emissions of a country are only an indicator of one greenhouse gas. For a more complete idea of how a country influences climate change, gases such as methane and nitrous oxide should be taken into account. This is particularly important in agricultural economies. Nitrous oxide is a powerful greenhouse gas, with an estimated atmospheric lifetime of 114 years, compared with 12 years for methane. The per kilogram global warming potential of nitrous oxide is nearly 310 times that of carbon dioxide within 100 years. (Source: http://databank.worldbank.org/data/reports.aspx?source=2&amp;amp;type=metadata&amp;amp;series=EN.ATM.NOXE.KT.CE)</dct:description>
+    <rdfs:comment>This indicator measures nitrous oxide (N2O) emissions in kilotonnes of CO2 equivalent. Nitrous oxide (N2O) emissions are mainly from fossil fuel combustion, fertilizers, rainforest fires, and animal waste. The carbon dioxide emissions of a country are only an indicator of one greenhouse gas. For a more complete idea of how a country influences climate change, gases such as methane and nitrous oxide should be taken into account. This is particularly important in agricultural economies. Nitrous oxide is a powerful greenhouse gas, with an estimated atmospheric lifetime of 114 years, compared with 12 years for methane. The per kilogram global warming potential of nitrous oxide is nearly 310 times that of carbon dioxide within 100 years. (Source: http://databank.worldbank.org/data/reports.aspx?source=2&amp;amp;type=metadata&amp;amp;series=EN.ATM.NOXE.KT.CE)</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/wb-enatmnoxektce"/>
+  </rdf:Description>
+
+</rdf:RDF>

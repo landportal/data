@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/WB-EN.POP.EL5M.RU.ZS">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1666"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000021"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_10391"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6705"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-ENVIR"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_1666"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000021"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_10391"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_6705"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-ENVIR"/>
+    <dct:identifier>WB-EN.POP.EL5M.RU.ZS</dct:identifier>
+    <skos:notation>WB-EN.POP.EL5M.RU.ZS</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/WB-CC"/>
+    <sdmx-attribute:unitMeasure>% of total population</sdmx-attribute:unitMeasure>
+    <rdfs:label>Rural population living in areas where elevation is below 5 meters (% of total population)</rdfs:label>
+    <skos:prefLabel>Rural population living in areas where elevation is below 5 meters (% of total population)</skos:prefLabel>
+    <dct:title>Rural population living in areas where elevation is below 5 meters (% of total population)</dct:title>
+    <skos:definition>Rural population below 5m is the percentage of the total population, living in areas where the elevation is 5 meters or less. Rising global temperatures will cause sea level rise and alter local climate conditions, affecting forests, crop yields, and water supplies, and may affect human health, animals, and many types of ecosystems. (Source: http://databank.worldbank.org/data/reports.aspx?source=2&amp;amp;type=metadata&amp;amp;series=EN.POP.EL5M.RU.ZS)</skos:definition>
+    <dct:description>Rural population below 5m is the percentage of the total population, living in areas where the elevation is 5 meters or less. Rising global temperatures will cause sea level rise and alter local climate conditions, affecting forests, crop yields, and water supplies, and may affect human health, animals, and many types of ecosystems. (Source: http://databank.worldbank.org/data/reports.aspx?source=2&amp;amp;type=metadata&amp;amp;series=EN.POP.EL5M.RU.ZS)</dct:description>
+    <rdfs:comment>Rural population below 5m is the percentage of the total population, living in areas where the elevation is 5 meters or less. Rising global temperatures will cause sea level rise and alter local climate conditions, affecting forests, crop yields, and water supplies, and may affect human health, animals, and many types of ecosystems. (Source: http://databank.worldbank.org/data/reports.aspx?source=2&amp;amp;type=metadata&amp;amp;series=EN.POP.EL5M.RU.ZS)</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/wb-enpopel5mruzs"/>
+  </rdf:Description>
+
+</rdf:RDF>

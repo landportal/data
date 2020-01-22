@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/WB-EN.ATM.METH.KT.CE">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1666"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-ENVIR"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_1666"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-ENVIR"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
+    <dct:identifier>WB-EN.ATM.METH.KT.CE</dct:identifier>
+    <skos:notation>WB-EN.ATM.METH.KT.CE</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/WB-CC"/>
+    <sdmx-attribute:unitMeasure>Kiloton of CO2 equivalent</sdmx-attribute:unitMeasure>
+    <rdfs:label>Methane emissions (kt of CO2 equivalent)</rdfs:label>
+    <skos:prefLabel>Methane emissions (kt of CO2 equivalent)</skos:prefLabel>
+    <dct:title>Methane emissions (kt of CO2 equivalent)</dct:title>
+    <skos:definition>This indicator measures methane (CH4) emissions in kilotonnes of CO2 equivalent. Methane emissions are those stemming from human activities such as agriculture and from industrial methane production. The carbon dioxide emissions of a country are only an indicator of one greenhouse gas. For a more complete idea of how a country influences climate change, gases such as methane and nitrous oxide should be taken into account. This is particularly important in agricultural economies. The emissions are usually expressed in carbon dioxide equivalents using the global warming potential, which allows the effective contributions of different gases to be compared. A kilogram of methane is 21 times as effective at trapping heat in the earth's atmosphere as a kilogram of carbon dioxide within 100 years. (Source: http://databank.worldbank.org/data/reports.aspx?source=2&amp;amp;type=metadata&amp;amp;series=EN.ATM.METH.KT.CE)</skos:definition>
+    <dct:description>This indicator measures methane (CH4) emissions in kilotonnes of CO2 equivalent. Methane emissions are those stemming from human activities such as agriculture and from industrial methane production. The carbon dioxide emissions of a country are only an indicator of one greenhouse gas. For a more complete idea of how a country influences climate change, gases such as methane and nitrous oxide should be taken into account. This is particularly important in agricultural economies. The emissions are usually expressed in carbon dioxide equivalents using the global warming potential, which allows the effective contributions of different gases to be compared. A kilogram of methane is 21 times as effective at trapping heat in the earth's atmosphere as a kilogram of carbon dioxide within 100 years. (Source: http://databank.worldbank.org/data/reports.aspx?source=2&amp;amp;type=metadata&amp;amp;series=EN.ATM.METH.KT.CE)</dct:description>
+    <rdfs:comment>This indicator measures methane (CH4) emissions in kilotonnes of CO2 equivalent. Methane emissions are those stemming from human activities such as agriculture and from industrial methane production. The carbon dioxide emissions of a country are only an indicator of one greenhouse gas. For a more complete idea of how a country influences climate change, gases such as methane and nitrous oxide should be taken into account. This is particularly important in agricultural economies. The emissions are usually expressed in carbon dioxide equivalents using the global warming potential, which allows the effective contributions of different gases to be compared. A kilogram of methane is 21 times as effective at trapping heat in the earth's atmosphere as a kilogram of carbon dioxide within 100 years. (Source: http://databank.worldbank.org/data/reports.aspx?source=2&amp;amp;type=metadata&amp;amp;series=EN.ATM.METH.KT.CE)</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/wb-enatmmethktce"/>
+  </rdf:Description>
+
+</rdf:RDF>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/WB-EN.ATM.CO2E.KT">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1666"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_2593"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_4182"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-ENVIR"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_1666"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_2593"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_4182"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-ENVIR"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
+    <dct:identifier>WB-EN.ATM.CO2E.KT</dct:identifier>
+    <skos:notation>WB-EN.ATM.CO2E.KT</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/WB-CC"/>
+    <sdmx-attribute:unitMeasure>Kiloton of CO2</sdmx-attribute:unitMeasure>
+    <rdfs:label>CO2 emissions (kt)</rdfs:label>
+    <skos:prefLabel>CO2 emissions (kt)</skos:prefLabel>
+    <dct:title>CO2 emissions (kt)</dct:title>
+    <skos:definition>This indicator measures carbon dioxide (CO2) emission in kilotonnes. Carbon dioxide emissions are those stemming from the burning of fossil fuels and the manufacture of cement. They include carbon dioxide produced during consumption of solid, liquid, and gas fuels and gas flaring. Carbon dioxide (CO2) is naturally occurring gas fixed by photosynthesis into organic matter. A byproduct of fossil fuel combustion and biomass burning, it is also emitted from land use changes and other industrial processes. It is the principal anthropogenic greenhouse gas that affects the Earth's radiative balance. It is the reference gas against which other greenhouse gases are measured, thus having a Global Warming Potential of 1. Burning of carbon-based fuels since the industrial revolution has rapidly increased concentrations of atmospheric carbon dioxide, increasing the rate of global warming and causing anthropogenic climate change. It is also a major source of ocean acidification since it dissolves in water to form carbonic acid. The addition of man-made greenhouse gases to the Atmosphere disturbs the earth's radiative balance. This is leading to an increase in the earth's surface temperature and to related effects on climate, sea level rise and world agriculture. (Source: http://databank.worldbank.org/data/reports.aspx?source=2&amp;amp;type=metadata&amp;amp;series=EN.ATM.CO2E.KT)</skos:definition>
+    <dct:description>This indicator measures carbon dioxide (CO2) emission in kilotonnes. Carbon dioxide emissions are those stemming from the burning of fossil fuels and the manufacture of cement. They include carbon dioxide produced during consumption of solid, liquid, and gas fuels and gas flaring. Carbon dioxide (CO2) is naturally occurring gas fixed by photosynthesis into organic matter. A byproduct of fossil fuel combustion and biomass burning, it is also emitted from land use changes and other industrial processes. It is the principal anthropogenic greenhouse gas that affects the Earth's radiative balance. It is the reference gas against which other greenhouse gases are measured, thus having a Global Warming Potential of 1. Burning of carbon-based fuels since the industrial revolution has rapidly increased concentrations of atmospheric carbon dioxide, increasing the rate of global warming and causing anthropogenic climate change. It is also a major source of ocean acidification since it dissolves in water to form carbonic acid. The addition of man-made greenhouse gases to the Atmosphere disturbs the earth's radiative balance. This is leading to an increase in the earth's surface temperature and to related effects on climate, sea level rise and world agriculture. (Source: http://databank.worldbank.org/data/reports.aspx?source=2&amp;amp;type=metadata&amp;amp;series=EN.ATM.CO2E.KT)</dct:description>
+    <rdfs:comment>This indicator measures carbon dioxide (CO2) emission in kilotonnes. Carbon dioxide emissions are those stemming from the burning of fossil fuels and the manufacture of cement. They include carbon dioxide produced during consumption of solid, liquid, and gas fuels and gas flaring. Carbon dioxide (CO2) is naturally occurring gas fixed by photosynthesis into organic matter. A byproduct of fossil fuel combustion and biomass burning, it is also emitted from land use changes and other industrial processes. It is the principal anthropogenic greenhouse gas that affects the Earth's radiative balance. It is the reference gas against which other greenhouse gases are measured, thus having a Global Warming Potential of 1. Burning of carbon-based fuels since the industrial revolution has rapidly increased concentrations of atmospheric carbon dioxide, increasing the rate of global warming and causing anthropogenic climate change. It is also a major source of ocean acidification since it dissolves in water to form carbonic acid. The addition of man-made greenhouse gases to the Atmosphere disturbs the earth's radiative balance. This is leading to an increase in the earth's surface temperature and to related effects on climate, sea level rise and world agriculture. (Source: http://databank.worldbank.org/data/reports.aspx?source=2&amp;amp;type=metadata&amp;amp;series=EN.ATM.CO2E.KT)</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/wb-enatmco2ekt"/>
+  </rdf:Description>
+
+</rdf:RDF>
