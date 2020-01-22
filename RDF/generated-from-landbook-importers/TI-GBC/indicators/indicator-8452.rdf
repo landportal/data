@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/TI-GCB-GPCL.VS">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_28663"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9a4f48b4"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INST"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_28663"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_9a4f48b4"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INST"/>
+    <dct:identifier>TI-GCB-GPCL.VS</dct:identifier>
+    <skos:notation>TI-GCB-GPCL.VS</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/TI-GCB"/>
+    <sdmx-attribute:unitMeasure>Percentage (%)</sdmx-attribute:unitMeasure>
+    <rdfs:label>Perception of &quot;grand&quot; or political corruption in land matters - Very serious problem</rdfs:label>
+    <skos:prefLabel>Perception of &quot;grand&quot; or political corruption in land matters - Very serious problem</skos:prefLabel>
+    <dct:title>Perception of &quot;grand&quot; or political corruption in land matters - Very serious problem</dct:title>
+    <skos:definition>This indicator measures the weghted proportion (%) of respondants who percevied grand or political corruption for land services as a VERY SERIOUS PROBLEM. In particuar, the 2009 round of the Global Corruption Barometer included the following question: How serious do you think the problem of grand or political corruption in land matters is in this country? Possible answer were the followings: - Not a problem at all - Moderate - Average - Serious - Very serious problem - Don’t know/ No answer (NA) We used the weights provided in the original dataset provided by TI. For more information around the TI&amp;#039;s GCB please visit: https://www.transparency.org/news/feature/global_corruption_barometer_ci...</skos:definition>
+    <dct:description>This indicator measures the weghted proportion (%) of respondants who percevied grand or political corruption for land services as a VERY SERIOUS PROBLEM. In particuar, the 2009 round of the Global Corruption Barometer included the following question: How serious do you think the problem of grand or political corruption in land matters is in this country? Possible answer were the followings: - Not a problem at all - Moderate - Average - Serious - Very serious problem - Don’t know/ No answer (NA) We used the weights provided in the original dataset provided by TI. For more information around the TI&amp;#039;s GCB please visit: https://www.transparency.org/news/feature/global_corruption_barometer_ci...</dct:description>
+    <rdfs:comment>This indicator measures the weghted proportion (%) of respondants who percevied grand or political corruption for land services as a VERY SERIOUS PROBLEM. In particuar, the 2009 round of the Global Corruption Barometer included the following question: How serious do you think the problem of grand or political corruption in land matters is in this country? Possible answer were the followings: - Not a problem at all - Moderate - Average - Serious - Very serious problem - Don’t know/ No answer (NA) We used the weights provided in the original dataset provided by TI. For more information around the TI&amp;#039;s GCB please visit: https://www.transparency.org/news/feature/global_corruption_barometer_ci...</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <skos:broader rdf:resource="http://data.landportal.info/indicator/TI-GCB-GPCL"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/ti-gcb-gpclvs"/>
+  </rdf:Description>
+
+</rdf:RDF>

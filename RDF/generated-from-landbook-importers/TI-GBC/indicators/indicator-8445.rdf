@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/TI-GCB-PPCL.A">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_28663"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000091"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_4182"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INST"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_28663"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000091"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_4182"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INST"/>
+    <dct:identifier>TI-GCB-PPCL.A</dct:identifier>
+    <skos:notation>TI-GCB-PPCL.A</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/TI-GCB"/>
+    <sdmx-attribute:unitMeasure>Percentage (%)</sdmx-attribute:unitMeasure>
+    <rdfs:label>Perception of ''petty'' corruption for land services - Average problem</rdfs:label>
+    <skos:prefLabel>Perception of ''petty'' corruption for land services - Average problem</skos:prefLabel>
+    <dct:title>Perception of ''petty'' corruption for land services - Average problem</dct:title>
+    <skos:definition>This indicator measures the weghted proportion (%) of respondants who percevied petty corruption for land services as a AVERAGE PROBLEM. In particuar, the 2009 round of the Global Corruption Barometer included the following question: &amp;quot;How serious do you think is in this country the problem of bribes being paid to land authorities to obtain favourable decisions in selling, buying, leasing, inheriting and registering land, or in land tax declaration, or in handling land disputes?&amp;quot; Possible answers were the followings: - Not a problem at all - Moderate - Average - Serious - Very serious problem - Don’t know / No Answer (NA) We used the weights provided in the original dataset provided by TI. For more information around the TI&amp;#039;s GCB please visit: https://www.transparency.org/news/feature/global_corruption_barometer_ci...</skos:definition>
+    <dct:description>This indicator measures the weghted proportion (%) of respondants who percevied petty corruption for land services as a AVERAGE PROBLEM. In particuar, the 2009 round of the Global Corruption Barometer included the following question: &amp;quot;How serious do you think is in this country the problem of bribes being paid to land authorities to obtain favourable decisions in selling, buying, leasing, inheriting and registering land, or in land tax declaration, or in handling land disputes?&amp;quot; Possible answers were the followings: - Not a problem at all - Moderate - Average - Serious - Very serious problem - Don’t know / No Answer (NA) We used the weights provided in the original dataset provided by TI. For more information around the TI&amp;#039;s GCB please visit: https://www.transparency.org/news/feature/global_corruption_barometer_ci...</dct:description>
+    <rdfs:comment>This indicator measures the weghted proportion (%) of respondants who percevied petty corruption for land services as a AVERAGE PROBLEM. In particuar, the 2009 round of the Global Corruption Barometer included the following question: &amp;quot;How serious do you think is in this country the problem of bribes being paid to land authorities to obtain favourable decisions in selling, buying, leasing, inheriting and registering land, or in land tax declaration, or in handling land disputes?&amp;quot; Possible answers were the followings: - Not a problem at all - Moderate - Average - Serious - Very serious problem - Don’t know / No Answer (NA) We used the weights provided in the original dataset provided by TI. For more information around the TI&amp;#039;s GCB please visit: https://www.transparency.org/news/feature/global_corruption_barometer_ci...</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <skos:broader rdf:resource="http://data.landportal.info/indicator/TI-GCB-PPCL"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/ti-gcb-ppcla"/>
+  </rdf:Description>
+
+</rdf:RDF>

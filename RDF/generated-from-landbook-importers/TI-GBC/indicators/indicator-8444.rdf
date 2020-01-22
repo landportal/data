@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/TI-GCB-IBL">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_28663"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000091"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_4182"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INST"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_28663"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000091"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_4182"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INST"/>
+    <dct:identifier>TI-GCB-IBL</dct:identifier>
+    <skos:notation>TI-GCB-IBL</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/TI-GCB"/>
+    <sdmx-attribute:unitMeasure>Percentage (%)</sdmx-attribute:unitMeasure>
+    <rdfs:label>Incidence of bribes paid for land services</rdfs:label>
+    <skos:prefLabel>Incidence of bribes paid for land services</skos:prefLabel>
+    <dct:title>Incidence of bribes paid for land services</dct:title>
+    <skos:definition>This indicator measures the weghted proportion (%) of respondants who have been requested to paid a bribe, among those who contacted land services. In particular, the indicator is obtained aggregating at the country level for each year the responses to the following question: &amp;quot;In the past 12 months have you or anyone living in your household paid a bribe in any form to each of the following institutions/organizations [Land Services]?&amp;quot; We only considered the share of those replying YES to the previous question, among those who reported that they (or anyone in the household) had contacted insitutions or organizations for land services in the last 12 months. We used the weights provided in the original dataset provided by TI. This question has been included in 4 waves of the Global Curruption Barometer survey: 2009, 2010, 2011, 2012. For more information around the TI&amp;#039;s GCB please visit: https://www.transparency.org/news/feature/global_corruption_barometer_ci....</skos:definition>
+    <dct:description>This indicator measures the weghted proportion (%) of respondants who have been requested to paid a bribe, among those who contacted land services. In particular, the indicator is obtained aggregating at the country level for each year the responses to the following question: &amp;quot;In the past 12 months have you or anyone living in your household paid a bribe in any form to each of the following institutions/organizations [Land Services]?&amp;quot; We only considered the share of those replying YES to the previous question, among those who reported that they (or anyone in the household) had contacted insitutions or organizations for land services in the last 12 months. We used the weights provided in the original dataset provided by TI. This question has been included in 4 waves of the Global Curruption Barometer survey: 2009, 2010, 2011, 2012. For more information around the TI&amp;#039;s GCB please visit: https://www.transparency.org/news/feature/global_corruption_barometer_ci....</dct:description>
+    <rdfs:comment>This indicator measures the weghted proportion (%) of respondants who have been requested to paid a bribe, among those who contacted land services. In particular, the indicator is obtained aggregating at the country level for each year the responses to the following question: &amp;quot;In the past 12 months have you or anyone living in your household paid a bribe in any form to each of the following institutions/organizations [Land Services]?&amp;quot; We only considered the share of those replying YES to the previous question, among those who reported that they (or anyone in the household) had contacted insitutions or organizations for land services in the last 12 months. We used the weights provided in the original dataset provided by TI. This question has been included in 4 waves of the Global Curruption Barometer survey: 2009, 2010, 2011, 2012. For more information around the TI&amp;#039;s GCB please visit: https://www.transparency.org/news/feature/global_corruption_barometer_ci....</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/ti-gcb-ibl"/>
+  </rdf:Description>
+
+</rdf:RDF>
