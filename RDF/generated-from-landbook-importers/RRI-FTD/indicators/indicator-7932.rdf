@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/RRI-FTD-OWPRI">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_24843"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_3055"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_331524"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_28718"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_45cd8441"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FOREST"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INDIG"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_24843"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_3055"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_331524"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_28718"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_45cd8441"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FOREST"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INDIG"/>
+    <dct:identifier>RRI-FTD-OWPRI</dct:identifier>
+    <skos:notation>RRI-FTD-OWPRI</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/RRI-FTD"/>
+    <sdmx-attribute:unitMeasure>Million ha</sdmx-attribute:unitMeasure>
+    <rdfs:label>Forest land owned by individuals and firms</rdfs:label>
+    <skos:prefLabel>Forest land owned by individuals and firms</skos:prefLabel>
+    <dct:title>Forest land owned by individuals and firms</dct:title>
+    <skos:definition>Forest land owned by individuals and firms: In these areas, individuals and firms have full legal rights of ownership of forest land. Concessionaires are not included in this category. Data are in million ha. See more at: http://rightsandresources.org/en/resources/tenure-data/the-four-categori...</skos:definition>
+    <dct:description>Forest land owned by individuals and firms: In these areas, individuals and firms have full legal rights of ownership of forest land. Concessionaires are not included in this category. Data are in million ha. See more at: http://rightsandresources.org/en/resources/tenure-data/the-four-categori...</dct:description>
+    <rdfs:comment>Forest land owned by individuals and firms: In these areas, individuals and firms have full legal rights of ownership of forest land. Concessionaires are not included in this category. Data are in million ha. See more at: http://rightsandresources.org/en/resources/tenure-data/the-four-categori...</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/rri-ftd-owpri"/>
+  </rdf:Description>
+
+</rdf:RDF>

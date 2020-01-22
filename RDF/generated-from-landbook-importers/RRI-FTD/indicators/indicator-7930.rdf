@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/RRI-FTD-AGOV">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_ff890f6b"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_24843"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1374155312641"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_195"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FOREST"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INDIG"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_ff890f6b"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_24843"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_1374155312641"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_195"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FOREST"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INDIG"/>
+    <dct:identifier>RRI-FTD-AGOV</dct:identifier>
+    <skos:notation>RRI-FTD-AGOV</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/RRI-FTD"/>
+    <sdmx-attribute:unitMeasure>Million ha</sdmx-attribute:unitMeasure>
+    <rdfs:label>Forest land administered by governments</rdfs:label>
+    <skos:prefLabel>Forest land administered by governments</skos:prefLabel>
+    <dct:title>Forest land administered by governments</dct:title>
+    <skos:definition>Forest land administered by governments: This category includes all forest land that is legally claimed as exclusively belonging to the state. It includes areas where community rights are limited to basic access or withdrawal rights that can be extinguished legally with relative ease by the state. It also includes most state-owned and managed protected areas and some forest land awarded under concessions, which do not transfer underlying ownership rights. Data are in million ha. See more at: http://rightsandresources.org/en/resources/tenure-data/the-four-categori...</skos:definition>
+    <dct:description>Forest land administered by governments: This category includes all forest land that is legally claimed as exclusively belonging to the state. It includes areas where community rights are limited to basic access or withdrawal rights that can be extinguished legally with relative ease by the state. It also includes most state-owned and managed protected areas and some forest land awarded under concessions, which do not transfer underlying ownership rights. Data are in million ha. See more at: http://rightsandresources.org/en/resources/tenure-data/the-four-categori...</dct:description>
+    <rdfs:comment>Forest land administered by governments: This category includes all forest land that is legally claimed as exclusively belonging to the state. It includes areas where community rights are limited to basic access or withdrawal rights that can be extinguished legally with relative ease by the state. It also includes most state-owned and managed protected areas and some forest land awarded under concessions, which do not transfer underlying ownership rights. Data are in million ha. See more at: http://rightsandresources.org/en/resources/tenure-data/the-four-categori...</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/rri-ftd-agov"/>
+  </rdf:Description>
+
+</rdf:RDF>
