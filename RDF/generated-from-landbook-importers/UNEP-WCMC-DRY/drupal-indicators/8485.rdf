@@ -12,13 +12,11 @@
     <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_16112"/>
     <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_8e487587"/>
     <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6448"/>
-    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-USE"/>
     <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-ENVIR"/>
     <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-PASTOR"/>
     <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_16112"/>
     <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_8e487587"/>
     <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_6448"/>
-    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/overarching-category/OA-USE"/>
     <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-ENVIR"/>
     <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-PASTOR"/>
     <dct:identifier>UNEP-WCMC-DRY.ARID</dct:identifier>
