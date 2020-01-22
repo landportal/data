@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/NKT-VGGT16-3A">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1791"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9a4f48b4"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_4175"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_12069"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INVEST"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INST"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_1791"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_9a4f48b4"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_4175"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_12069"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INVEST"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INST"/>
+    <dct:identifier>NKT-VGGT16-3A</dct:identifier>
+    <skos:notation>NKT-VGGT16-3A</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/NKT-VGGT16"/>
+    <sdmx-attribute:unitMeasure>Index (A; C)</sdmx-attribute:unitMeasure>
+    <rdfs:label>Alternative to the 'fair market value' approach to calculating compensation in cases where land markets are weak or non-existent</rdfs:label>
+    <skos:prefLabel>Alternative to the 'fair market value' approach to calculating compensation in cases where land markets are weak or non-existent</skos:prefLabel>
+    <dct:title>Alternative to the 'fair market value' approach to calculating compensation in cases where land markets are weak or non-existent</dct:title>
+    <skos:definition>This indicator asks whether national laws provides alternative approaches to the fair market value approach in cases where land markets are weak or non-existent. This indicator is based on Section 16.3 of the VGGTs, which states &quot;States should ensure a fair valuation and prompt compensation in accordance with national law.&quot; Furthermore, section 18.2 of the VGGTs provides &quot;Policies and laws related to valuation should strive to ensure that valuation systems take into account non-market values, such as social, cultural, religious, spiritual and environmental values where applicable.&quot; Answering the question posed by the indicator entailed reviewing a broad range of legally binding laws, regulations, and court decisions at the national level.</skos:definition>
+    <dct:description>This indicator asks whether national laws provides alternative approaches to the fair market value approach in cases where land markets are weak or non-existent. This indicator is based on Section 16.3 of the VGGTs, which states &quot;States should ensure a fair valuation and prompt compensation in accordance with national law.&quot; Furthermore, section 18.2 of the VGGTs provides &quot;Policies and laws related to valuation should strive to ensure that valuation systems take into account non-market values, such as social, cultural, religious, spiritual and environmental values where applicable.&quot; Answering the question posed by the indicator entailed reviewing a broad range of legally binding laws, regulations, and court decisions at the national level.</dct:description>
+    <rdfs:comment>This indicator asks whether national laws provides alternative approaches to the fair market value approach in cases where land markets are weak or non-existent. This indicator is based on Section 16.3 of the VGGTs, which states &quot;States should ensure a fair valuation and prompt compensation in accordance with national law.&quot; Furthermore, section 18.2 of the VGGTs provides &quot;Policies and laws related to valuation should strive to ensure that valuation systems take into account non-market values, such as social, cultural, religious, spiritual and environmental values where applicable.&quot; Answering the question posed by the indicator entailed reviewing a broad range of legally binding laws, regulations, and court decisions at the national level.</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <skos:broader rdf:resource="http://data.landportal.info/indicator/VGGT-16-3"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/nkt-vggt16-3a"/>
+  </rdf:Description>
+
+</rdf:RDF>

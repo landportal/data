@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/NKT-VGGT16-3G">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1791"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1798"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1dfe5bfe"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_37734"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9a4f48b4"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_12069"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-GENDER"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INVEST"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INST"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_1791"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_1798"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_1dfe5bfe"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_37734"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_9a4f48b4"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_12069"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-GENDER"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INVEST"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INST"/>
+    <dct:identifier>NKT-VGGT16-3G</dct:identifier>
+    <skos:notation>NKT-VGGT16-3G</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/NKT-VGGT16"/>
+    <sdmx-attribute:unitMeasure>Index (A; C)</sdmx-attribute:unitMeasure>
+    <rdfs:label>A gender-sensitive approach to providing compensation to affected landholders</rdfs:label>
+    <skos:prefLabel>A gender-sensitive approach to providing compensation to affected landholders</skos:prefLabel>
+    <dct:title>A gender-sensitive approach to providing compensation to affected landholders</dct:title>
+    <skos:definition>This indicator asks whether national laws require governments to follow a gender-sensitve approach to providing compensation, accounting for the varying ways in which women and men depend on and use land. &quot;Gender-sensitive approach&quot; as used here means an approach the provides special protections for women landholders, ensuring they are fairly compensated based on their right or attachment to the land. This indicator is based on Section 16.3 of the VGGTs, which provides that &quot;States should ensure a fair valuation and prompt compensation in accordance with national law.&quot; This indicator is also based on various provisions established in the VGGTs which call for state and non-state actors to promote gender-sensitive land governance. For instance, Section 3b establishes that states should promote gender equality, which is defined as “ensur[ing] the equal right of women and men to the enjoyment of all human rights, while acknowledging difference between women and men and taking specific measures aimed at accelerating de facto equality when necessary.&quot; In addition to Section 3b, other sections of the VGGTs call for states to adopt gender-sensitive approaches to land governance, including Sections 4.4, 4.7, 5.3, 5.7, and 10.1. Additionally, Section 16.1 of the VGGTs calls for states to “respect all legitimate tenure rights holders... by providing just compensation,&quot; and women landholders are a subset of “legitimate tenure rights holders.” States should ensure that women and girls have equal tenure rights.” In countries where compensation procedures are gender-neutral, a score of &quot;C&quot; is provided. Answering the question posed by the indicator entailed reviewing a broad range of legally binding laws, regulations, and court decisions at the national level.</skos:definition>
+    <dct:description>This indicator asks whether national laws require governments to follow a gender-sensitve approach to providing compensation, accounting for the varying ways in which women and men depend on and use land. &quot;Gender-sensitive approach&quot; as used here means an approach the provides special protections for women landholders, ensuring they are fairly compensated based on their right or attachment to the land. This indicator is based on Section 16.3 of the VGGTs, which provides that &quot;States should ensure a fair valuation and prompt compensation in accordance with national law.&quot; This indicator is also based on various provisions established in the VGGTs which call for state and non-state actors to promote gender-sensitive land governance. For instance, Section 3b establishes that states should promote gender equality, which is defined as “ensur[ing] the equal right of women and men to the enjoyment of all human rights, while acknowledging difference between women and men and taking specific measures aimed at accelerating de facto equality when necessary.&quot; In addition to Section 3b, other sections of the VGGTs call for states to adopt gender-sensitive approaches to land governance, including Sections 4.4, 4.7, 5.3, 5.7, and 10.1. Additionally, Section 16.1 of the VGGTs calls for states to “respect all legitimate tenure rights holders... by providing just compensation,&quot; and women landholders are a subset of “legitimate tenure rights holders.” States should ensure that women and girls have equal tenure rights.” In countries where compensation procedures are gender-neutral, a score of &quot;C&quot; is provided. Answering the question posed by the indicator entailed reviewing a broad range of legally binding laws, regulations, and court decisions at the national level.</dct:description>
+    <rdfs:comment>This indicator asks whether national laws require governments to follow a gender-sensitve approach to providing compensation, accounting for the varying ways in which women and men depend on and use land. &quot;Gender-sensitive approach&quot; as used here means an approach the provides special protections for women landholders, ensuring they are fairly compensated based on their right or attachment to the land. This indicator is based on Section 16.3 of the VGGTs, which provides that &quot;States should ensure a fair valuation and prompt compensation in accordance with national law.&quot; This indicator is also based on various provisions established in the VGGTs which call for state and non-state actors to promote gender-sensitive land governance. For instance, Section 3b establishes that states should promote gender equality, which is defined as “ensur[ing] the equal right of women and men to the enjoyment of all human rights, while acknowledging difference between women and men and taking specific measures aimed at accelerating de facto equality when necessary.&quot; In addition to Section 3b, other sections of the VGGTs call for states to adopt gender-sensitive approaches to land governance, including Sections 4.4, 4.7, 5.3, 5.7, and 10.1. Additionally, Section 16.1 of the VGGTs calls for states to “respect all legitimate tenure rights holders... by providing just compensation,&quot; and women landholders are a subset of “legitimate tenure rights holders.” States should ensure that women and girls have equal tenure rights.” In countries where compensation procedures are gender-neutral, a score of &quot;C&quot; is provided. Answering the question posed by the indicator entailed reviewing a broad range of legally binding laws, regulations, and court decisions at the national level.</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <skos:broader rdf:resource="http://data.landportal.info/indicator/VGGT-16-3"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/nkt-vggt16-3g"/>
+  </rdf:Description>
+
+</rdf:RDF>

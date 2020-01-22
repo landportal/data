@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/NKT-VGGT16-8B">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1ada969a"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9a4f48b4"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_37898"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_12069"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_45cd8441"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_7fc44e33"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INVEST"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-CONFLICT"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INST"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_1ada969a"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_9a4f48b4"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_37898"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_12069"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_45cd8441"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_7fc44e33"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INVEST"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-CONFLICT"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INST"/>
+    <dct:identifier>NKT-VGGT16-8B</dct:identifier>
+    <skos:notation>NKT-VGGT16-8B</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/NKT-VGGT16"/>
+    <sdmx-attribute:unitMeasure>Index (A; C)</sdmx-attribute:unitMeasure>
+    <rdfs:label>Government obligation to minimize or avoid involuntary resettlement</rdfs:label>
+    <skos:prefLabel>Government obligation to minimize or avoid involuntary resettlement</skos:prefLabel>
+    <dct:title>Government obligation to minimize or avoid involuntary resettlement</dct:title>
+    <skos:definition>This indicator asks whether national laws require the government to minimize or avoid involuntary resettlement when expropriating land. This indicator is based on section 16.8 of the VGGTs, which establishes that &amp;quot;States should, prior to eviction or shift in land use which could result in depriving individuals and communities from access to their productive resources, explore feasible alternatives in consultation with the affected parties, consistent with the principles of these Guidelines, with a view to avoiding, or at least minimizing, the need to resort to evictions.&amp;quot;</skos:definition>
+    <dct:description>This indicator asks whether national laws require the government to minimize or avoid involuntary resettlement when expropriating land. This indicator is based on section 16.8 of the VGGTs, which establishes that &amp;quot;States should, prior to eviction or shift in land use which could result in depriving individuals and communities from access to their productive resources, explore feasible alternatives in consultation with the affected parties, consistent with the principles of these Guidelines, with a view to avoiding, or at least minimizing, the need to resort to evictions.&amp;quot;</dct:description>
+    <rdfs:comment>This indicator asks whether national laws require the government to minimize or avoid involuntary resettlement when expropriating land. This indicator is based on section 16.8 of the VGGTs, which establishes that &amp;quot;States should, prior to eviction or shift in land use which could result in depriving individuals and communities from access to their productive resources, explore feasible alternatives in consultation with the affected parties, consistent with the principles of these Guidelines, with a view to avoiding, or at least minimizing, the need to resort to evictions.&amp;quot;</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <skos:broader rdf:resource="http://data.landportal.info/indicator/VGGT-16-8"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/nkt-vggt16-8b"/>
+  </rdf:Description>
+
+</rdf:RDF>

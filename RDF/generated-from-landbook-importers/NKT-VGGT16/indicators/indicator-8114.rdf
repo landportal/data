@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/NKT-VGGT16-3D">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1791"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1798"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9a4f48b4"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_37898"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_4182"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INDIG"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INVEST"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_1791"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_1798"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_9a4f48b4"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_37898"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_4182"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INDIG"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INVEST"/>
+    <dct:identifier>NKT-VGGT16-3D</dct:identifier>
+    <skos:notation>NKT-VGGT16-3D</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/NKT-VGGT16"/>
+    <sdmx-attribute:unitMeasure>Index (A; C)</sdmx-attribute:unitMeasure>
+    <rdfs:label>Compensation for intangible land values (e.g. historical, cultural, spiritual values)</rdfs:label>
+    <skos:prefLabel>Compensation for intangible land values (e.g. historical, cultural, spiritual values)</skos:prefLabel>
+    <dct:title>Compensation for intangible land values (e.g. historical, cultural, spiritual values)</dct:title>
+    <skos:definition>This indicator asks whether national laws require assessors of compensation to account for intangible land values (e.g. historical, cultural, spiritiual values) associated with the expropriated land. This indicator is based on Section 16.3 of the VGGTs, which provides that &quot;States should ensure a fair valuation and prompt compensation in accordance with national law.&quot; Furthermore, section 18.2 of the VGGTs provides &quot;Policies and laws related to valuation should strive to ensure that valuation systems take into account non-market values, such as social, cultural, religious, spiritual and environmental values where applicable.&quot; Answering the question posed by the indicator entailed reviewing a broad range of legally binding laws, regulations, and court decisions at the national level.</skos:definition>
+    <dct:description>This indicator asks whether national laws require assessors of compensation to account for intangible land values (e.g. historical, cultural, spiritiual values) associated with the expropriated land. This indicator is based on Section 16.3 of the VGGTs, which provides that &quot;States should ensure a fair valuation and prompt compensation in accordance with national law.&quot; Furthermore, section 18.2 of the VGGTs provides &quot;Policies and laws related to valuation should strive to ensure that valuation systems take into account non-market values, such as social, cultural, religious, spiritual and environmental values where applicable.&quot; Answering the question posed by the indicator entailed reviewing a broad range of legally binding laws, regulations, and court decisions at the national level.</dct:description>
+    <rdfs:comment>This indicator asks whether national laws require assessors of compensation to account for intangible land values (e.g. historical, cultural, spiritiual values) associated with the expropriated land. This indicator is based on Section 16.3 of the VGGTs, which provides that &quot;States should ensure a fair valuation and prompt compensation in accordance with national law.&quot; Furthermore, section 18.2 of the VGGTs provides &quot;Policies and laws related to valuation should strive to ensure that valuation systems take into account non-market values, such as social, cultural, religious, spiritual and environmental values where applicable.&quot; Answering the question posed by the indicator entailed reviewing a broad range of legally binding laws, regulations, and court decisions at the national level.</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <skos:broader rdf:resource="http://data.landportal.info/indicator/VGGT-16-3"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/nkt-vggt16-3d"/>
+  </rdf:Description>
+
+</rdf:RDF>

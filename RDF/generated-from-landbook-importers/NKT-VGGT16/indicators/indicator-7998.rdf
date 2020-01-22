@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/NKT-VGGT16-1D">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_56c34d4d"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_331524"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000098"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_37898"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_12069"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_4182"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_45cd8441"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INDIG"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INVEST"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_56c34d4d"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_331524"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000098"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_37898"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_12069"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_4182"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_45cd8441"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INDIG"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INVEST"/>
+    <dct:identifier>NKT-VGGT16-1D</dct:identifier>
+    <skos:notation>NKT-VGGT16-1D</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/NKT-VGGT16"/>
+    <sdmx-attribute:unitMeasure>Index (A; C)</sdmx-attribute:unitMeasure>
+    <rdfs:label>Compensation for unregistered customary tenure rights</rdfs:label>
+    <skos:prefLabel>Compensation for unregistered customary tenure rights</skos:prefLabel>
+    <dct:title>Compensation for unregistered customary tenure rights</dct:title>
+    <skos:definition>This indicator asks whether national laws adopt VGGT section 16.1 by providing compensation for unregistered tenrue rights held by Indigenous Peoples and local commmunities. Section 16.1 provides that States should respecct legitimate tenure rights by providing just compensation. According to the VGGTs, States should respect and recognize the legitimate tenure rights of Indigenous Peoples and local communities whether those tenure rights are formally recorded or not (see principles 9, 5.3, 3.1). Answering the question posed by the indicator entailed reviewing a broad range of legally binding statutes, regulations, and some court decisions at the national level. For more info, see: http://www.wri.org/publication/encroaching-on-land-and-livelihoods</skos:definition>
+    <dct:description>This indicator asks whether national laws adopt VGGT section 16.1 by providing compensation for unregistered tenrue rights held by Indigenous Peoples and local commmunities. Section 16.1 provides that States should respecct legitimate tenure rights by providing just compensation. According to the VGGTs, States should respect and recognize the legitimate tenure rights of Indigenous Peoples and local communities whether those tenure rights are formally recorded or not (see principles 9, 5.3, 3.1). Answering the question posed by the indicator entailed reviewing a broad range of legally binding statutes, regulations, and some court decisions at the national level. For more info, see: http://www.wri.org/publication/encroaching-on-land-and-livelihoods</dct:description>
+    <rdfs:comment>This indicator asks whether national laws adopt VGGT section 16.1 by providing compensation for unregistered tenrue rights held by Indigenous Peoples and local commmunities. Section 16.1 provides that States should respecct legitimate tenure rights by providing just compensation. According to the VGGTs, States should respect and recognize the legitimate tenure rights of Indigenous Peoples and local communities whether those tenure rights are formally recorded or not (see principles 9, 5.3, 3.1). Answering the question posed by the indicator entailed reviewing a broad range of legally binding statutes, regulations, and some court decisions at the national level. For more info, see: http://www.wri.org/publication/encroaching-on-land-and-livelihoods</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <skos:broader rdf:resource="http://data.landportal.info/indicator/VGGT-16-1"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/nkt-vggt16-1d"/>
+  </rdf:Description>
+
+</rdf:RDF>
