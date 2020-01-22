@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"  
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/IFPRI-GHI-CHILD_WASTING">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_10967"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_4182"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6151"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FOOD"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_10967"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_4182"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_6151"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FOOD"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
+    <dct:identifier>IFPRI-GHI-CHILD_WASTING</dct:identifier>
+    <skos:notation>IFPRI-GHI-CHILD_WASTING</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/IFPRI-GHI"/>
+    <sdmx-attribute:unitMeasure>Percentage (%)</sdmx-attribute:unitMeasure>
+    <rdfs:label>Child Wasting</rdfs:label>
+    <skos:prefLabel>Child Wasting</skos:prefLabel>
+    <dct:title>Child Wasting</dct:title>
+    <skos:definition>The proportion of children under the age of five who suffer from wasting (that is, low weight for their height, reflecting acute undernutrition)</skos:definition>
+    <dct:description>The proportion of children under the age of five who suffer from wasting (that is, low weight for their height, reflecting acute undernutrition)</dct:description>
+    <rdfs:comment>The proportion of children under the age of five who suffer from wasting (that is, low weight for their height, reflecting acute undernutrition)</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicators/ifpri-ghi-childwasting"/>
+  </rdf:Description>
+
+</rdf:RDF>
