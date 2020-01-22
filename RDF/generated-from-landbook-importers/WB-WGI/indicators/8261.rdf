@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/WB-PV.EST">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_10967"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6151"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FOOD"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_10967"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_6151"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FOOD"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
+    <dct:identifier>WB-PV.EST</dct:identifier>
+    <skos:notation>WB-PV.EST</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/WB-WGI"/>
+    <sdmx-attribute:unitMeasure>Index (-2.5; 2.5)</sdmx-attribute:unitMeasure>
+    <rdfs:label>Political stability and absence of violence/terrorism (index)</rdfs:label>
+    <skos:prefLabel>Political stability and absence of violence/terrorism (index)</skos:prefLabel>
+    <dct:title>Political stability and absence of violence/terrorism (index)</dct:title>
+    <skos:definition>This indicator is part of the Worldwide Governance Indicators (http://info.worldbank.org/governance/wgi/#home). Political stability and absence of violence measures perceptions of the likelihood that the government will be destabilized or overthrown by unconstitutional or violent means, including politically-motivated violence and terrorism. The indicator is also part of the FAO Suite of Food Security Indicators -- Dimension: stability (http://www.fao.org/economic/ess/ess-fs/ess-fadata/en/#.WTlX9BPytPU).</skos:definition>
+    <dct:description>This indicator is part of the Worldwide Governance Indicators (http://info.worldbank.org/governance/wgi/#home). Political stability and absence of violence measures perceptions of the likelihood that the government will be destabilized or overthrown by unconstitutional or violent means, including politically-motivated violence and terrorism. The indicator is also part of the FAO Suite of Food Security Indicators -- Dimension: stability (http://www.fao.org/economic/ess/ess-fs/ess-fadata/en/#.WTlX9BPytPU).</dct:description>
+    <rdfs:comment>This indicator is part of the Worldwide Governance Indicators (http://info.worldbank.org/governance/wgi/#home). Political stability and absence of violence measures perceptions of the likelihood that the government will be destabilized or overthrown by unconstitutional or violent means, including politically-motivated violence and terrorism. The indicator is also part of the FAO Suite of Food Security Indicators -- Dimension: stability (http://www.fao.org/economic/ess/ess-fs/ess-fadata/en/#.WTlX9BPytPU).</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/wb-pvest"/>
+  </rdf:Description>
+
+</rdf:RDF>
