@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/SEDAC-PAST">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_8e487587"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_653f04fe"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6448"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-ENVIR"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-PASTOR"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_8e487587"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_653f04fe"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_6448"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-ENVIR"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-PASTOR"/>
+    <dct:identifier>SEDAC-PAST</dct:identifier>
+    <skos:notation>SEDAC-PAST</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/SEDAC-ABW"/>
+    <sdmx-attribute:unitMeasure>Sq Km</sdmx-attribute:unitMeasure>
+    <rdfs:label>Pastoral villages</rdfs:label>
+    <skos:prefLabel>Pastoral villages</skos:prefLabel>
+    <dct:title>Pastoral villages</dct:title>
+    <skos:definition>This indicators measures the country-level extension (in sq. Km) of the residential rangelands anthrome class, which includes rangelands with substantial human population. According to Ellis et Al., (2011), anthrome classes ranges from wildlands - with little antrhropogenic impact on the ecosystem - to dense human settlements - in which the anthropogenic impact is maximum. This indicator is part of the Anthropogenic Biomes of the World (Version 2). Full data and additional information are available via this link:http://sedac.ciesin.columbia.edu/data/set/anthromes-anthropogenic-biomes... Full citation for the data included here is: Ellis, E.C., K.K. Goldewijk, S. Siebert, D. Lightman, and N. Ramankutty. 2013. Anthropogenic Biomes of the World, Version 2: 2000. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). http://dx.doi.org/10.7927/H4D798B9. For more information about anthrome classes, please visit:http://ecotope.org/anthromes/v2/ Or consult: Ellis, E. C., K. Klein Goldewijk, S. Siebert, D. Lightman, and N. Ramankutty. 2010. Anthropogenic transformation of the biomes, 1700 to 2000. Global Ecology and Biogeography 19(5):589-606. Available at: http://ecotope.org/people/ellis/papers/ellis_2010.pdf</skos:definition>
+    <dct:description>This indicators measures the country-level extension (in sq. Km) of the residential rangelands anthrome class, which includes rangelands with substantial human population. According to Ellis et Al., (2011), anthrome classes ranges from wildlands - with little antrhropogenic impact on the ecosystem - to dense human settlements - in which the anthropogenic impact is maximum. This indicator is part of the Anthropogenic Biomes of the World (Version 2). Full data and additional information are available via this link:http://sedac.ciesin.columbia.edu/data/set/anthromes-anthropogenic-biomes... Full citation for the data included here is: Ellis, E.C., K.K. Goldewijk, S. Siebert, D. Lightman, and N. Ramankutty. 2013. Anthropogenic Biomes of the World, Version 2: 2000. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). http://dx.doi.org/10.7927/H4D798B9. For more information about anthrome classes, please visit:http://ecotope.org/anthromes/v2/ Or consult: Ellis, E. C., K. Klein Goldewijk, S. Siebert, D. Lightman, and N. Ramankutty. 2010. Anthropogenic transformation of the biomes, 1700 to 2000. Global Ecology and Biogeography 19(5):589-606. Available at: http://ecotope.org/people/ellis/papers/ellis_2010.pdf</dct:description>
+    <rdfs:comment>This indicators measures the country-level extension (in sq. Km) of the residential rangelands anthrome class, which includes rangelands with substantial human population. According to Ellis et Al., (2011), anthrome classes ranges from wildlands - with little antrhropogenic impact on the ecosystem - to dense human settlements - in which the anthropogenic impact is maximum. This indicator is part of the Anthropogenic Biomes of the World (Version 2). Full data and additional information are available via this link:http://sedac.ciesin.columbia.edu/data/set/anthromes-anthropogenic-biomes... Full citation for the data included here is: Ellis, E.C., K.K. Goldewijk, S. Siebert, D. Lightman, and N. Ramankutty. 2013. Anthropogenic Biomes of the World, Version 2: 2000. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). http://dx.doi.org/10.7927/H4D798B9. For more information about anthrome classes, please visit:http://ecotope.org/anthromes/v2/ Or consult: Ellis, E. C., K. Klein Goldewijk, S. Siebert, D. Lightman, and N. Ramankutty. 2010. Anthropogenic transformation of the biomes, 1700 to 2000. Global Ecology and Biogeography 19(5):589-606. Available at: http://ecotope.org/people/ellis/papers/ellis_2010.pdf</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/sedac-past"/>
+  </rdf:Description>
+
+</rdf:RDF>
