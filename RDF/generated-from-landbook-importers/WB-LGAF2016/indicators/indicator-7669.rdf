@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/WB-LGAF2016-1.1.3">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_d42b49e7"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_331524"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_45cd8441"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_7fc44e33"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INDIG"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INST"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_d42b49e7"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_331524"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_45cd8441"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_7fc44e33"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INDIG"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INST"/>
+    <dct:identifier>WB-LGAF2016-1.1.3</dct:identifier>
+    <skos:notation>WB-LGAF2016-1.1.3</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/WB-LGAF2016"/>
+<sdmx-attribute:unitMeasure>Index (A; D)</sdmx-attribute:unitMeasure>
+    <rdfs:label>Indigenous rights to land &amp; forest are (i) recognized and (ii) protected in practice</rdfs:label>
+    <skos:prefLabel>Indigenous rights to land &amp; forest are (i) recognized and (ii) protected in practice</skos:prefLabel>
+    <dct:title>Indigenous rights to land &amp; forest are (i) recognized and (ii) protected in practice</dct:title>
+    <skos:definition>Indigenous rights to land &amp;amp; forest are (i) recognized and (ii) protected in practice measured on a scale from A - which stands for good practices - to D - reflecting weak practices. For more information please visit http://go.worldbank.org/21M7S7AZO0</skos:definition>
+    <dct:description>Indigenous rights to land &amp;amp; forest are (i) recognized and (ii) protected in practice measured on a scale from A - which stands for good practices - to D - reflecting weak practices. For more information please visit http://go.worldbank.org/21M7S7AZO0</dct:description>
+    <rdfs:comment>Indigenous rights to land &amp;amp; forest are (i) recognized and (ii) protected in practice measured on a scale from A - which stands for good practices - to D - reflecting weak practices. For more information please visit http://go.worldbank.org/21M7S7AZO0</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicators/wb-lgaf2016-113"/>
+  </rdf:Description>
+
+</rdf:RDF>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/WB-LGAF2016-8.1.4">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1ada969a"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_57156ff8"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_37898"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_45cd8441"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-CONFLICT"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_1ada969a"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_573abb9f"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_57156ff8"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_37898"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_45cd8441"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-CONFLICT"/>
+    <dct:identifier>WB-LGAF2016-8.1.4</dct:identifier>
+    <skos:notation>WB-LGAF2016-8.1.4</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/WB-LGAF2016"/>
+<sdmx-attribute:unitMeasure>Index (A; D)</sdmx-attribute:unitMeasure>
+    <rdfs:label>Accessible, affordable and timely process for appeal</rdfs:label>
+    <skos:prefLabel>Accessible, affordable and timely process for appeal</skos:prefLabel>
+    <dct:title>Accessible, affordable and timely process for appeal</dct:title>
+    <skos:definition>Accessible, affordable and timely process for appeal measured on a scale from A - which stands for good practices - to D - reflecting weak practices. For more information please visit http://go.worldbank.org/21M7S7AZO0</skos:definition>
+    <dct:description>Accessible, affordable and timely process for appeal measured on a scale from A - which stands for good practices - to D - reflecting weak practices. For more information please visit http://go.worldbank.org/21M7S7AZO0</dct:description>
+    <rdfs:comment>Accessible, affordable and timely process for appeal measured on a scale from A - which stands for good practices - to D - reflecting weak practices. For more information please visit http://go.worldbank.org/21M7S7AZO0</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicators/wb-lgaf2016-814"/>
+  </rdf:Description>
+
+</rdf:RDF>

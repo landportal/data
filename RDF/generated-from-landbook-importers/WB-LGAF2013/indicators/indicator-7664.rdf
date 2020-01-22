@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/WB-LGAF2013-5.21.1">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1ada969a"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6f79699c"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_195"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-CONFLICT"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INST"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_1ada969a"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_6f79699c"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_195"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-CONFLICT"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INST"/>
+    <dct:identifier>WB-LGAF2013-5.21.1</dct:identifier>
+    <skos:notation>WB-LGAF2013-5.21.1</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/WB-LGAF2013"/>
+<sdmx-attribute:unitMeasure>Index (A; D)</sdmx-attribute:unitMeasure>
+    <rdfs:label>Land disputes in the formal court system are low</rdfs:label>
+    <skos:prefLabel>Land disputes in the formal court system are low</skos:prefLabel>
+    <dct:title>Land disputes in the formal court system are low</dct:title>
+    <skos:definition>Land disputes in the formal court system are low measured on a scale from A - which stands for good practices - to D - reflecting weak practices. For more information please visit http://go.worldbank.org/21M7S7AZO0</skos:definition>
+    <dct:description>Land disputes in the formal court system are low measured on a scale from A - which stands for good practices - to D - reflecting weak practices. For more information please visit http://go.worldbank.org/21M7S7AZO0</dct:description>
+    <rdfs:comment>Land disputes in the formal court system are low measured on a scale from A - which stands for good practices - to D - reflecting weak practices. For more information please visit http://go.worldbank.org/21M7S7AZO0</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicators/wb-lgaf2013-5211"/>
+  </rdf:Description>
+
+</rdf:RDF>
