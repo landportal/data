@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:schema="http://schema.org/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/FAO-21042-6121">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:identifier>FAO-21042-6121</dct:identifier>
+    <skos:notation>FAO-21042-6121</skos:notation>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FOOD"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_203"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_10967"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_4182"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6151"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FOOD"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_203"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_10967"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_4182"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_6151"/>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/FAO-FS"/>
+    <sdmx-attribute:unitMeasure>Percentage (%)</sdmx-attribute:unitMeasure>
+    <rdfs:label>Prevalence of obesity in the adult population (18 years and older)</rdfs:label>
+    <skos:prefLabel>Prevalence of obesity in the adult population (18 years and older)</skos:prefLabel>
+    <dct:title>Prevalence of obesity in the adult population (18 years and older)</dct:title>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/fao-21042-6121"/>
+  </rdf:Description>
+
+</rdf:RDF>
