@@ -1,0 +1,1620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:schema="http://schema.org/" xmlns:bibo="http://purl.org/ontology/bibo/">
+  <rdf:Description rdf:about="https://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/49">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <dct:title xml:lang="es">Comunidad Agora, barrio: pilares del levantamiento indígena – popular de octubre 2019</dct:title>
+    <dc:author>Francisco Hidalgo Flor</dc:author>
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-12-13</dct:date>
+    <dct:extent>10</dct:extent>
+    <schema:image rdf:resource="https://www.sudamericarural.org/images/exploraciones/Exploracin-49_001.jpg"/>
+    <bibo:uri rdf:resource="https://www.sudamericarural.org/images/exploraciones/archivos/Exploracin-49.pdf"/>
+    <dct:description xml:lang="es">Comunidad Agora, barrio: pilares del levantamiento indígena – popular de octubre 2019[1].
+ Por: Francisco Hidalgo Flor[2]
+  
+ La magnitud e intensidad de la revuelta indígena – popular por la derogatoria de las medidas que llevaron a la elevación del precio de las gasolinas y del transporte público, sorprendió a todos, en primer lugar, a las élites gobernantes, que habían calculado una tibia y “manejable” respuesta desde las clases populares, y también a los sectores populares de la ciudad y del campo que se iban reconociendo en la creciente masividad y fortaleza de las movilizaciones.
+ Esa sorpresa y amplitud de la protesta, que llegó a copar buena parte del país, especialmente en la región andina del Ecuador, al punto de poner en cuestión la estabilidad del propio régimen de Moreno, fue la que obligó a que las clases dominantes, a regañadientes, se hayan visto obligadas a retroceder y echar abajo las medidas.
+ La revuelta indígena popular de Octubre es un acontecimiento aún en movimiento, por ejemplo, al momento de escribir este artículo se ha instalado un parlamento popular bajo iniciativa de la Confederación de Nacionalidades Indígenas del Ecuador – Conaie para discutir las propuestas de los movimientos sociales, mientras que el gobierno ha presentado una nueva ley tributaria, y reabre las reuniones alrededor de la reforma laboral.
+ Este levantamiento social, que “golpeó el tablero” del continuum de la transición del retorno neoliberal, marca una presencia fortalecida de las reivindicaciones populares, y tiene la virtud de evidenciar la multiplicidad de las resistencias, se hacen presentes los marginados, los excluidos, ante los impactos de más de una década de modernización capitalista.
+  
+ [1] Ponencia presentada en el XV Seminario Internacional Gramsci – Bogotá noviembre 2019, Universidad Nacional de Colombia
+ [2] Sociólogo, docente de la Facultad de Ciencias Sociales de la Universidad Central del Ecuador, investigador de SIPAE.</dct:description>
+    <dct:identifier>IPDRS-Exploraciones-49</dct:identifier>
+    <dc:type>IPDRS - Exploraciones</dc:type>
+    <dc:language>es</dc:language>
+    <dc:coverage>ECU</dc:coverage>
+    <dc:subject>Políticas de desarrollo</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_2228"/>
+    <dc:subject>pueblos indígenas </dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_331524"/>
+    <dc:subject>Reformas</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_bb4738d4"/>
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+    <dc:rights>IPDRS</dc:rights>
+    <dc:publisher>IPDRS</dc:publisher>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/48">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <dct:title xml:lang="es">Construcción de la justicia desde la justicia indígena: Experiencias interlegales de Inquisivi - Bolivia</dct:title>
+    <dc:author>Magali Vienca Copa Pabón y Amy Michelle Kennemore</dc:author>
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-12-04</dct:date>
+    <dct:extent>16</dct:extent>
+    <schema:image rdf:resource="https://www.sudamericarural.org/images/exploraciones/Exploracin-48_001.jpg"/>
+    <bibo:uri rdf:resource="https://www.sudamericarural.org/images/exploraciones/archivos/Exploracin-48.pdf"/>
+    <dct:description xml:lang="es">Construcción de la justicia desde la justicia indígena: Experiencias interlegales de Inquisivi 
+  
+ Magali Vienca Copa Pabón[1] / Amy Michelle Kennemore[2]
+  
+ Introducción
+ El 19 de marzo de 2018 se inauguró un Tribunal provincial y mixto (ayllu y sindicato) de Justicia Indígena de Inquisivi, una provincia de seis municipios ubicada en el suroeste del departamento de La Paz. La creación del Tribunal es resultado de una lucha legal de las autoridades de justicia indígena para resolver un conflicto de límites de terrenos entre dos comunidades: la comunidad de Titiamaya del Ayllu Cagua y la Comunidad de Sopocari del Sindicato Agrario. Dicho conflicto – que había derivado en un proceso penal por avasallamiento- puso en cuestión las estructuras internas tradicionales dentro del Ayllu y del sindicato para resolver el conflicto, lo que impulso a las autoridades hacia la ruta de la justicia indígena para reclamar sus derechos fundamentales de ejercer la justicia según sus propias normas y procedimientos.
+ La herramienta principal de esta lucha fue un “conflicto de competencias”, mecanismo jurídico establecido por la Constitución Política del Estado bajo el marco de pluralismo jurídico igualitario. En un conflicto de competencia, las autoridades de la Jurisdicción Indígena Originaria Campesina (JIOC) y los jueces de la justicia ordinaria se disputan la competencia de un caso concreto.
+ En un contexto donde las vías formales hacia la autonomía indígena parecen parcialmente – si no casi completamente – bloqueados, el marco constitucional del pluralismo jurídico en Bolivia se ha convertido en un sitio de lucha y innovación legal por parte de muchos lideres indígenas originarios en los años recientes. En algunos casos, como el caso emblemático de Zongo, las autoridades indígenas originarias lograron desafiar las normas que delimitan severamente los derechos colectivos avanzados en la Constitución, tales como la Ley de Deslinde Jurisdiccional (Ley No 073/2010)[3], para arrebatar un proceso jurídico de características penales y ambientales a un juez ordinario.
+ Lo inédito del Tribunal Mixto de Inquisivi es el establecimiento de la primera instancia a nivel provincial (compuesto de varios municipios, secciones y comunidades) que es conformado por las autoridades tanto del Sindicato y del Ayllu, dos estructuras de organización político-jurídica que tradicionalmente se presentaban como distintos y hasta antagonistas. Ambas relacionadas con categorías como campesino, originario e indígena. La categoría “indígena originario campesina” (singular y sin comas) fue el resultado de debates dentro del Pacto de Unidad, una entidad representativa de amplios sectores populares como los sindicatos campesinos y las organizaciones indígenas en la Asamblea Constituyente. Según Schavelzon (2012: 93), una gran parte de la tensión se centraba en el hecho de que muchas de las organizaciones campesinas no querían dejar de ser reconocidos como aymaras o quechuas, pero tampoco querían dejar sus organizaciones sindicales o su identificación como campesinos, dado de que podría significar la pérdida de derechos que correspondía con una u otra de las categorías.
+ Por otra parte, hemos visto los límites que estas autoridades enfrentan al poner en vigencia su derecho a ejercer la justicia indígena. La primera barrera que enfrentan las autoridades indígenas es acceder al Tribunal Constitucional debido a las brechas legales y burocráticas que enfrentaron, sumado a la incertidumbre que viene después de su victoria legal para resolver un caso concreto.
+ Nuestra participación ha sido el seguimiento y documentación del caso desde que las autoridades indígena originarias plantearon el conflicto de competencias ante el Tribunal Constitucional. El motivo central de nuestra investigación es mostrar cómo en el fortalecimiento de sus luchas jurídicas las comunidades de Inquisivi construyeron nuevas instituciones indígenas propias para encarar los nuevos desafíos que enfrentan, paradójicamente, por la incorporación de estas instituciones al seno del Estado Plurinacional. Además de destacar los límites y dificultades que enfrentó el Tribunal mixto, nos interesa mostrar sus esfuerzos por construir lo propio. Usamos el concepto de “lo propio”, de los intelectuales aymaras, como esa posibilidad de pensar a partir de la identidad, así, dentro de la justicia indígena lo propio nos ayuda a demarcar aquellos “límites para avanzar” dentro la jurisdicción indígena superando las categorías de identidad/diferencia señaladas desde afuera. Al contrario de la autoidentificación o una categoría de derecho como es la de “indígena originaria campesina” señalada en la Constitución Política del Estado (CPE), la identidad se trata de lo que Fausto Reinaga (1978) llamó el “pensamiento indio”, como la voz de denuncia e interpelación contra una subordinación encubierta pero también de avanzar hacia un sí mismo. Fernando Untoja (2000), llama “lo propio” al retorno y ruptura con las categorías de identidad superpuestas desde afuera, y señala que existe una conflictividad simultánea entre lo propio y lo ajeno (ver también Copa, 2017: 59).
+ Por otra parte, el caso nos brinda la oportunidad de repensar el papel de intermediarios en un nuevo escenario de “diálogo de saberes” que busca alimentar nuevas maneras de articularse entre sí mismos y con el Estado.
+ En el caso del Tribunal Mixto, el surgimiento de estas nuevas instituciones y estratégicas de lucha jurídica dio paso a su creación a partir de una sentencia del Tribunal Constitucional que declinó la competencia a la jurisdicción indígena originaria campesina a resolver el conflicto entre la Comunidad de Titiamaya y la Comunidad de Sopocari. Con este avance, un problema históricamente construido y complejo (que el Estado no ha podido resolver) fue devuelto a la jurisdicción indígena y en su ejercicio le queda disputar y construir la legitimidad y legalidad propia del Tribunal Mixto para resolver el problema. Dentro de este proceso interno se va definir los alcances del diálogo entre sí mismos (sindicato-ayllu), para enfrentar los límites que el Estado ha ido poniendo a través de la historia y que se acumulan en un conflicto que va a mostrar estás contingencias en su propia jurisdicción.
+ En un contexto donde la interculturalidad y el pluralismo son ejes centrales de la construcción del Estado Plurinacional, los desafíos del uso del derecho estatal como estrategia de lucha ha sido reconfigurado.
+ Conscientes de la diversidad de experiencias y particularidades que se pueden presentar en cada caso, nos interesa reflexionar sobre los dilemas y tensiones que enfrenan los actores, destacando aquellos elementos y significaciones nuevas que tienen para las comunidades la incorporación del Tribunal Constitucional con sus sentencias, y sus efectos en el interior del sistema jurídico propio.
+  
+ [1] Fue parte de la Unidad de Descolonización del Tribunal Constitucional Plurinacional como abogada constitucionalista (2012-2014), cursó la Maestría de Derechos Humanos en la Universidad Autónoma de San Luis Potosí, actualmente es abogada aymara independiente y miembro del comité de redacción de la revista Pukara.
+ [2] Candidata de doctorado en Antropología en la Universidad de California, San Diego. Tiene maestría en Antropología de la Universidad de California, San Diego (2014) y en los Estudios Latinoamericanos de la Universidad de Norte Carolina, Charlotte (2012). A partir de 2014, vive en La Paz, Bolivia donde está realizando un estudio sobre el pluralismo jurídico, en el cual, en su papel como antropóloga activista, hace seguimiento de a casos concretos de conflictos de competencia entre las jurisdicciones indígenas y las del Estado por documentar, estudiar y difundir las experiencias de activismo jurídico.
+ [3] La Ley No. 073 de diciembre de 2010, llamada Ley de Deslinde Jurisdiccional, fue una de las primeras leyes promulgadas para garantizar el respeto constitucional al pluralismo jurídico, ya que la misma Constitución estableció que las jurisdicciones IOC están en igualdad jerárquica con las demás, siendo necesario establecer ámbitos de competencia para cada jurisdicción. En el artículo 10, que trata del ámbito de vigencia material, la ley excluye la competencia de la JIOC en delitos de materia penal, delitos contra el derecho internacional, los crímenes de lesa humanidad, delitos de seguridad interna y externa del Estado, delitos de terrorismo, los tributarios y aduaneros, delitos por corrupción, delitos cometidos en contra de la integridad corporal de los niños y adolescentes, además de los delitos de violación, asesinato u homicidio.</dct:description>
+    <dct:identifier>IPDRS-Exploraciones-48</dct:identifier>
+    <dc:type>IPDRS - Exploraciones</dc:type>
+    <dc:language>es</dc:language>
+    <dc:coverage>BOL</dc:coverage>
+    <dc:subject>Asesoramiento</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_330990"/>
+    <dc:subject>Bolivia</dc:subject>
+    <dc:subject>Derechos de tierras </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_37898"/>
+    <dc:subject>Desarrollo rural  </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6701"/>
+    <dc:subject>pueblos indígenas </dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_331524"/>
+    <dc:subject>Zonas rurales</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6699"/>
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+    <dc:rights>IPDRS</dc:rights>
+    <dc:publisher>IPDRS</dc:publisher>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/46">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <dct:title xml:lang="pt">A gestão pública das águas e os conflitos territoriais  na  Bacia Hidrográfica do rio Paraguaçu</dct:title>
+    <dc:author>Iñigo Arrazola Aranzabal, Claudio Adão Dourado de Oliveira</dc:author>
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-11-01</dct:date>
+    <dct:extent>13</dct:extent>
+    <schema:image rdf:resource="https://www.sudamericarural.org/images/exploraciones/Exploracin_46_001.jpg"/>
+    <bibo:uri rdf:resource="https://www.sudamericarural.org/images/exploraciones/archivos/Exploracin_46.pdf"/>
+    <dct:description xml:lang="pt">A gestão pública das águas e os conflitos territoriais na Bacia Hidrográfica do rio Paraguaçu
+  
+ Por Iñigo Arrazola Aranzabal Mestre em Desenvolvimento Territorial Rural pela Flacso, Quito - Equador e Claudio Adão Dourado  de Oliveira
+ Antropologo pela Universidade Salesiana de Quito e Pós graduado em Direito Agrário, Universidade Federal do Rio de Janeiro - UFG
+  
+  
+ O  rio  Paraguaçu  é uns dos rios  mais  importantes  da Bahia.  Sua  nascente  se situa na Chapada Diamantina, conhecida também  como a ‘caixa d'água  da Bahia’,  e percorre  um trajeto de mais de 600 km atéculminar na baia do Iguape, no recôncavo baiano. O rio tem servido  de  eixo  fundamental   no  desenvolvimento histórico  do  Estado.  Na  sua  foz encontram-se  cidades como Cachoeira, antigo ponto estratégico  para a  colonização  do interior. Paraguaçu  significa  rio  imenso na língua  tupi, e na atualidade, em seu entorno podem-se  encontrar povos e  comunidades tradicionais  marisqueiras, pescadoras, camponesas,  quilombolas, ribeirinhas e   indígenas  que dependem  de suas águas  para sua reprodução.
+ Estes  povos  se  encontram também   distribuídos   pela  área   que  compreende a  Bacia Hidrográfica do Rio Paraguaçu, com mais de 150 afluentes. O artigo pretende oferecer uma perspectiva do  processo de  expansão  do  agronegócio  ao  longo  da  bacia  e  de  suas consequências para os atores locais nas últimas décadas. O documento éconstruído a partir do trabalho de campo realizado com a Caravana do Paraguaçu, uma iniciativa da Comissão Pastoral  da  Terra  (CPT),   Cáritas  Diocesana de Ruy  Barbosa, Comissão  Pastoral  dos Pescadores (CPP),  o  Movimento dos Sem  Terra  (MST)   e  o  Movimento Estadual   de Trabalhadores Assentados,  Acampados e Quilombolas (CETA), Movimento de Pequenos Pescadores  (MPP) e outras organizações,  movimentos  sociais, ambientalistas  e sociedade civil  comprometidos  com a defesa dos direitos territoriais. A  Caravana percorreu o rio desde o Recôncavo atéa Chapada com a intenção de visibilizar os conflitos causados pela apropriação  e  contaminação  das águas  por parte  de empresas, o  Estado e  os grandes projetos instalados  na Bacia. Durante seu trajeto, a Caravana colocou em diálogo  pessoas pertencentes a diferentes  partes da bacia para compartilharem suas experiências, problemas e lutas. O texto oferece  assim um relato deste caminho, focado nos conflitos gerados pela consolidação  do  agronegócio  em  diferentes partes da  bacia  e  nos  problemas que  a apropriação privadas das águas gera para a reprodução das comunidades  e povos.</dct:description>
+    <dct:identifier>IPDRS-Exploraciones-46</dct:identifier>
+    <dc:type>IPDRS - Exploraciones</dc:type>
+    <dc:language>pt</dc:language>
+    <dc:coverage>BRA</dc:coverage>
+    <dc:subject>acaparamiento de tierras </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_cc39a497"/>
+    <dc:subject>Brasil</dc:subject>
+    <dc:subject>Gestión del agua</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_8320"/>
+    <dc:subject>Medio ambiente </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_2593"/>
+    <dc:subject>Políticas de desarrollo</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_2228"/>
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+    <dc:rights>IPDRS</dc:rights>
+    <dc:publisher>IPDRS</dc:publisher>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/47">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <dct:title xml:lang="es">Autonomía indígena y prácticas de autodeterminación en Bolivia</dct:title>
+    <dc:author>Ruth Bautista Durán</dc:author>
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-10-31</dct:date>
+    <dct:extent>23</dct:extent>
+    <schema:image rdf:resource="https://www.sudamericarural.org/images/exploraciones/Exploracin_47_001.jpg"/>
+    <bibo:uri rdf:resource="https://www.sudamericarural.org/images/exploraciones/archivos/Exploracin_47.pdf"/>
+    <dct:description xml:lang="es">Autonomía indígena y prácticas de autodeterminación en Bolivia
+  
+ Ruth Bautista Durán[1]
+  
+  
+ Las actuales demandas por autonomía indígena originaria campesina (AIOC) en Bolivia, expresan la histórica demanda de las naciones originarias y pueblos indígenas por su libre determinación; y además, expresan la relación contenciosa con un Estado que de ser colonial y republicano, ha pasado a ser plurinacional, pero no ha dejado atrás su centralismo e insiste en burocratizar la viabilidad autonómica de los pueblos. La experiencia de las organizaciones campesinas e indígenas, nos convoca a revisar sus repertorios y no perder de vista el proyecto de largo aliento, por los territorios, la autodeterminación y el ejercicio de los derechos colectivos en el marco de los Estados plurinacionales.
+ Gonzalo Vargas (2016)[2] plantea que la autonomía tiene dos dimensiones, una basada en la territorialidad ancestral y política, y otra como entidad territorial gubernativa. Es decir, en una dimensión queda el territorio como base de la libre determinación y la autoridad comunaria, y en otra, la entidad territorial, una institucionalidad que administra y gobierna en la jurisdicción de acuerdo a las competencias que le confiere la Constitución Política del Estado Plurinacional (CPEP). Instaurada esta dicotomía, la articulación entre estas dimensiones, según el planteamiento de Vargas, parece ser el reconocimiento de la preexistencia colonial de los pueblos indígenas, que a su vez constitucionaliza la facultad jurisdiccional, que “siempre tuvieron” en el marco de la histórica autonomía territorial (190-92).
+ Respecto a la denominación que agrupa lo “indígena originario campesino”, Exeni (2015) explica sin mayores reparos que se trata de una categoría compuesta, resultado de una transacción en la Asamblea Constituyente para incluir a los pueblos indígenas de tierras bajas, tierras altas y comunidades campesinas. Una inclusión supuestamente horizontal, que supone una problemática importante, al momento de operar la libre determinación sobre los derechos al territorio.
+ Es importante prestar atención al suceso de las cosas. Copa, Kennemore y López (2018) explican que en el momento de la Asamblea Constituyente ocurrió una “domesticación”, porque los constituyentes del Movimiento al Socialismo (MAS) promovían la inclusión de los niveles autonómicos indígena y regional, para restar peso político a la autonomía departamental; es decir, a la denominada “nación camba” que en aquel contexto manifestaba su demanda autonómica. La última modificación del texto constitucional, “consolidó la visión instrumentalista sobre la autonomía indígena” y se desarticuló el poder constituyente (45-47). Si bien se planteó un Estado plurinacional, las naciones originarias y pueblos indígenas no adquirieron representación en la asamblea legislativa, y su participación se relegó a la intermediación de partidos políticos.
+ Con apenas tres gobiernos consolidados, se tiene una lectura respecto a la situación de los procesos AIOC, sus tendencias y momentos críticos. Exeni (2015) enfatiza los siguientes: la tensión entre lo plurinacional y la base neo extractivista del Estado plurinacional, por el control de los recursos naturales; las AIOC forman parte de estrategias más amplias de reconstitución territorial y política; las AIOC implican disputa y redistribución de poder; las barreras burocráticas por desidia estatal; las organizaciones matrices campesinas sienten recelo; los partidos políticos  vislumbran la pérdida de espacios de poder; la noción de interculturalidad se amplía hacia el “otro-no indígena” y disputas interétnicas; se impulsa el proceso del constitucionalismo plurinacional; y además, los procesos AIOC mediados por instituciones y técnicos, que imponen una vigilancia constitucional (68-69).
+ La autonomía indígena originaria campesina (AIOC) se la puede comprender “en relación al derecho a la libre determinación, reconocer las instituciones, sistemas de autoridad y ejercicio del poder de los pueblos y naciones; ejercicio de sus formas de autogobierno; ejercicio de sus derechos políticos y económicos implica el reconocimiento de sus derechos territoriales, acceso a la tierra, territorio y aprovechamiento de recursos naturales” (Copa, 2018); no obstante, cada AIOC presentará un sistema y dinámica peculiar, una historia propia y no pueden establecerse métodos, rutas, procedimientos generales, a riesgo de homogeneizar, las diferencias y particularidades que tanto esfuerzo y tiempo están costando reivindicar.
+ Al momento existen varias posturas que interpretan las autonomías indígenas, algunas desde un aliento más bien optimista insisten en su impulso por los aprendizajes que suponen los procesos, con todo y las trabas burocráticas; otras en cambio, menos acuciosas se concentran en las falencias, el renovado tutelaje estatal y la ausencia de referentes. Lo que notamos es que existe una generalizada postura demandante al Estado central, es decir que, al reconocer este rol principal en la viabilidad de los procesos autonómicos indígenas, nuevamente se reafirma su hegemonía. Entonces, el desafío que planteamos será establecer un rol colaborativo respecto a las autonomías indígenas, pensarlas desde su agencia e historia reivindicativa, y además, ubicarla en un espectro más amplio y no aislado del resto de la sociedad.
+ Este vértice reflexivo creemos que coadyuvará a afirmar la agencia social[3] –de los sujetos y colectividades- respecto al dominio estructurante y coercitivo del Estado. Entre las múltiples valoraciones a la deficiencia de la maquinaria estatal se presentan conductas como la ausencia de voluntad política y la rigidez burocrática, y en cambio, los protagonistas de los procesos autonómicos manifiestan estrategias y prácticas innovadoras, una activación permanente de la memoria y un ejercicio de su agencia -autogobierno- expresada en la consecuente tramitación de requisitos, y en la creatividad para imaginarse su propia estatalidad.
+  
+ [1] Socióloga, investigadora del IPDRS, coordinadora del Movimiento regional por la tierra y territorio.
+ [2] Además de autor del texto referido, Gonzalo Vargas ha sido Viceministro de Autonomías, y estuvo a cargo de la Dirección de Organización Territorial.
+ [3] Bourdieu (1989) observa que la incorporación de la institucionalidad, y más la estatal, es la que habilita y limita la agencia social y por eso es necesario restituir a los agentes, a los sujetos sociales "un poder generador y unificador, elaborador y clasificador”. No obstante, los sujetos debemos considerar que nuestra capacidad de elaborar la realidad social, tiene que ver con nuestra inmersión en varios procesos situados de socialización y la práctica los principios organizadores socialmente elaborados y adquiridos.</dct:description>
+    <dct:identifier>IPDRS-Exploraciones-47</dct:identifier>
+    <dc:type>IPDRS - Exploraciones</dc:type>
+    <dc:language>es</dc:language>
+    <dc:coverage>BOL</dc:coverage>
+    <dc:subject>Bolivia</dc:subject>
+    <dc:subject>Desarrollo rural territorial</dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_1789"/>
+    <dc:subject>Gestión de recursos naturales</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000115"/>
+    <dc:subject>pueblos indígenas </dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_331524"/>
+    <dc:subject>territorio </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_a9e7dd7f"/>
+    <dc:subject>Territorio indígena</dc:subject>
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+    <dc:rights>IPDRS</dc:rights>
+    <dc:publisher>IPDRS</dc:publisher>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/45">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <dct:title xml:lang="pt">Sob o signo do despejo: a resistência camponesa no Estado do Rio de Janeiro (Brasil) a partir da trajetória de Roseli Borges</dct:title>
+    <dc:author>Fabrício Teló, Ricardo Braga Brito </dc:author>
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-04-30</dct:date>
+    <dct:extent>20</dct:extent>
+    <schema:image rdf:resource="https://www.sudamericarural.org/images/exploraciones/Exploracion_45.jpg"/>
+    <bibo:uri rdf:resource="https://www.sudamericarural.org/images/exploraciones/archivos/Exploracion-45.pdf"/>
+    <dct:description xml:lang="pt">A questão agrária no Brasil e na América Latina é politicamente elaborada diante da concentração fundiária e da correspondente dificuldade de acesso dos camponeses à terra. As experiências de despejo têm sido marca constitutiva do imaginário social e da vida de inúmeros trabalhadores e trabalhadoras rurais em todo o território brasileiro (MARTINS, 1983, 2003). Trata-se de uma experiência dramática e que, dada a sua recorrência e intensidade, é constitutiva da experiência dos despossuídos rurais no Brasil. Fonte de sofrimento, as ações de despejo desarticulam relações sociais e produzem desenraizamento territorial e cultural, mas ao mesmo tempo ensejam a articulação das resistências individuais e coletivas e novas formas de reinserção social.
+ A história de vida[1] de Roseli Borges, camponesa conhecida como Dona Rosa, ilustra de forma emblemática essa precariedade que marca o acesso dos camponeses brasileiros à terra e, ao mesmo tempo, as resistência com que reagem em meio a essas situações. Por meio de suas narrativas de experiência de vida, buscaremos articular um conjunto de histórias e experiências que, da perspectiva da rememoração, compuseram o passado recente dos camponeses no estado do Rio de Janeiro e que continuam a se afigurar no presente, mostrando ser o despejo uma sombra que continua a ameaçar inúmeros trabalhadores e trabalhadoras rurais.
+ Sendo Dona Rosa uma mulher negra, pretendemos desenvolver uma análise com perspectiva interseccional de classe, gênero e raça (CARBYN, 1982; COLLINS, 2000) de forma a evidenciar as diferentes formas de desigualdade que tencionam as correlações de força e poder na sociedade brasileira, em particular no campo. Além disso, o fato de Dona Rosa não ter desempenhado papéis de liderança política ao longo de sua vida nos permite dar visibilidade a histórias de vida das “pessoas comuns”, tantas vezes invisibilizadas, já que na maioria das vezes os estudos priorizam quem mais se destacou nas lutas.
+ Aos 66 anos de idade, Dona Rosa é hoje uma atingida pelo projeto de construção da barragem do Rio Guapiaçu, investimento estatal que  mais uma vez acena com a possibilidade de ter que sair da terra em que desenvolveu sua vida. Ao sintetizar o despejo enquanto elemento central de sua experiência de vida, Dona Rosa enfatiza elementos que ilustram a condição de subalternidade que marca os camponeses em geral:[2]
+ [...] a única coisa que eu entendo é a exploração. A única coisa que eu entendo é o despejo, a covardia.
+ O artigo baseia-se em entrevistas com Dona Rosa, documentos de diferentes arquivos, notícias de jornal e entrevistas com demais camponeses das regiões analisadas. Por meio dessas fontes, foi possível apresentar os diferentes contextos sociais e os distintos períodos em que viveu Dona Rosa: o pré-golpe, quando ainda era criança; a ditadura empresarial-militar[3] (1964-1985) e os novos dramas e resistências desde 2013/14.
+ [1] Segundo Camargo (1984), a história de vida é uma abordagem rica nas ciências humanas ao permitir a compreensão da cultura a partir das vivências e elaborações do ator estudado, uma compreensão “por dentro” que se realiza pelo contato intensivo com o ator observado, estudado e escutado, de tal modo a tornar possível a compreensão da cultura através de sua história de vida e de sua percepção. História oral e história de vida possibilitam, assim, reconstruir eventos históricos e revelar a lógica, as conexões e o cenário social no qual esses eventos se desenrolam, articulando memória e biografia, vivência e história (CAMARGO, 1984; BOSI, 1994; FRANÇOIS, 2006).
+ [2] Dona Roseli foi convidada para contar sua história a uma turma de professores e professoras da rede pública de ensino do município de Cachoeiras de Macacu. Sua presença fez parte da atividade do Projeto de Extensão Memória das Lutas pela Terra no Rio de Janeiro, voltado para a capacitação de professores da rede municipal e estadual do município de Cachoeiras de Macacu, realizado no segundo semestre de 2017 e também no primeiro semestre de 2018. O projeto foi realizado pela Universidade Federal Rural do Rio de Janeiro (UFRRJ); Universidade Federal Fluminense (UFF); Universidade Federal do Rio de Janeiro (UFRJ); Universidade Estadual do Rio de Janeiro (UERJ); Universidade Salgado Filho; Secretaria Municipal de Educação de Cachoeiras de Macacu; Movimento dos Atingidos por Barragens (MAB); Grupo de Trabalho em Assuntos Agrários da Associação dos Geógrafos Brasileiros – Seções Rio e Niterói (GT Agrária – AGB); Coordenadoria Estadual por Memória, Verdade  e Educação em Direitos Humanos da Superintendência de Promoção dos Direitos Humanos, da Secretaria de Estado de Direitos Humanos e Políticas para Mulheres e Idosos do Rio de Janeiro; Sociedade Clube da Esquina de Amigos do Arquivo Histórico de Cachoeiras de Macacu. O projeto pode ser acessado no sítio digital: &lt;https://memoriasdaslutas.wordpress.com/apresentacao/&gt;. Acessado em: 18/12/2018. 
+ [3] Conforme apontado por Melo (2014), a opção por caracterizar o período ditatorial e o golpe como “empresarial-militar” busca qualificar de forma mais detalhada o grupo social que atuou de modo decisivo para a sua realização. Baseado em um conjunto de autores, Melo (2014) enfatiza a organização deste setor em prol da realização do golpe e da implementação de um conjunto de reformas e práticas que colocaram em vigor um projeto de sociedade capaz de levar adiante os interesses das classes empresariais do campo e da cidade, nacionais e transnacionais. Deste modo é possível superar as dificuldades colocadas pelo termo “civil”, mais genérico que o termo “empresarial”, além de apontar categoricamente o caráter de classe tanto do golpe quanto da ditadura.</dct:description>
+    <dct:identifier>IPDRS-Exploraciones-45</dct:identifier>
+    <dc:type>IPDRS - Exploraciones</dc:type>
+    <dc:language>pt</dc:language>
+    <dc:coverage>BRA</dc:coverage>
+    <dc:subject>Abuso</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_ecf20c17"/>
+    <dc:subject>acceso a la tierra </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000090"/>
+    <dc:subject>conflictos por la tierra </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_e236b2b1"/>
+    <dc:subject>Derecho de acceso</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6604"/>
+    <dc:subject>Zonas rurales</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6699"/>
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+    <dc:rights>IPDRS</dc:rights>
+    <dc:publisher>IPDRS</dc:publisher>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/44">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <dct:title xml:lang="es">Construyendo caminos de esperanza: Narrativas de jóvenes de la Amazonia colombiana</dct:title>
+    <dc:author>Andrea  Susana Lopez Torres,  Luz Dary Sotto Carvajal, Luis Eduardo López Castro </dc:author>
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-04-01</dct:date>
+    <dct:extent>15</dct:extent>
+    <schema:image rdf:resource="https://www.sudamericarural.org/images/exploraciones/Exploracion_44_001.jpg"/>
+    <bibo:uri rdf:resource="https://www.sudamericarural.org/images/exploraciones/archivos/Exploracion_44.pdf"/>
+    <dct:description xml:lang="es">Construyendo caminos de esperanza: Narrativas de jóvenes de la Amazonia colombiana
+  
+ 
+ 
+ 
+  
+ Andrea Susana Lopez Torres,
+ 
+ 
+  
+ Luz Dary Sotto Carvajal, Luis Eduardo López Castro
+ 
+ 
+  
+ 
+ Todos participan de la iniciativa “Semillero de Investigación Inti Wayra” desarrollada en la Universidad de la Amazonia, Caquetá, Colombia. Este ensayo obtuvo el primer lugar en la séptima versión del Concurso Alimentos y pensamiento siempre en agenda cuya temática propuesta fue “Historias de vida que sobreviven la violencia y persecución en el campo en Sudamérica”. 
+ 
+ 
+ 
+ 
+  
+ Nosotros somos Andrea, Luis Eduardo y Luz, jóvenes estudiantes de la Universidad de la Amazonia, del programa de Ingeniería Agroecológica, la Licenciatura en Educación Física y Programa de Derecho, respectivamente.
+ Somos hijos y nietos de familias campesinas del Caquetá, nacidos en el bello territorio de las Veredas de Puerto Torres y Portal La Mono , del Municipio de Belén de los Andaquíes, en la Amazonia colombiana. Somos parte de una generación de jóvenes estudiantes en busca de nuestras raíces y nuestra historia, para así, asomarnos a ella desde el perdón. Nuestra búsqueda es por la sanación, liberación y reconciliación, base para construir la paz que ha sido tan esquiva en nuestro país. Esta guerra ha estado instalada en nuestros territorios, geográficos y corporales, desde el tiempo de nuestros mayores, los abuelos de nuestros abuelos. En esta búsqueda aprendimos que a través de los procesos de investigación podemos conectar el pasado con el presente. Esto nos permite dignificar nuestra memoria y aprender las lecciones que nos permiten construir un mejor futuro para nosotros y las siguientes generaciones.
+ En este caminar, construimos un proceso colectivo promovido por nuestra docente Dennis Dussán3 y estudiantes de la Universidad en el “Semillero de investigación Inti Wayra”, espacio en el que trabajamos vivencialmente una metodología que denominamos como “metodología de la memoria encriptada”4 , basada en los postulados de la maestra Dennis Dussán y pensadores como Estela Quintar y Hugo Zemelman. La metodología de la memoria encriptada genera procesos de investigación partiendo de la recuperación de la memoria que la guerra marcó. Este proceso no es nada fácil porque nuestro cuerpo se resiste a volver a sentir en ese dolor, sin embargo, comprendimos la importancia e implicancias, decidimos que la mejor forma de comenzar a desencriptar el pasado, era partir de nosotros y nuestras propias historias.De esta manera, empezamos con la elaboración de relatos de la memoria que representa nuestra historia y vivencias, con la esperanza y mucha fe en que estos relatos, sean semilla para la construcción y crecimiento de un árbol de historias recuperadas que den aliento y ayude a sanar más víctimas. Para nosotros la recuperación tiene que ver con mostrar al mundo que existen situaciones duras que hacen parte de la vida, que forman parte de un territorio junto con su población, y que éstas quedan atrapadas en el olvido. Al hacer el esfuerzo desde la memoria histórica por recuperar este pasado doloroso, sanarlo y comunicar al resto, que sí es posible surgir, sí es posible salir y que todas esas malas experiencias vividas, nos construyen como personas. Nuestros relatos se originan en Puerto Torres, vereda del municipio de Belén de los Andaquies, donde el grupo armado ilegal Autodefensas Unidas de Colombia (AUC) sembró el terror, la barbarie y la crueldad, protagonizando actos inhumanos que no podemos siquiera imaginar.5Los relatos que vamos a narrar a continuación fueron escritos por dos estudiantes de la vereda El Portal La Mono y una estudiante de Puerto Torres, donde ocurrieron estos hechos que muestran el miedo, el dolor y sobre todo, la necesidad de enfrentar estas sensaciones, para salir adelante. Los relatos están hechos en primera persona, los contamos como sobrevivientes de ese lugar y ese momento de horror y muerte.
+  </dct:description>
+    <dct:identifier>IPDRS-Exploraciones-44</dct:identifier>
+    <dc:type>IPDRS - Exploraciones</dc:type>
+    <dc:language>es</dc:language>
+    <dc:coverage>COL</dc:coverage>
+    <dc:subject>Abuso</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_ecf20c17"/>
+    <dc:subject>Arrendatarios de tierras</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_f73955fb"/>
+    <dc:subject>Colombia</dc:subject>
+    <dc:subject>conflictos por la tierra </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_e236b2b1"/>
+    <dc:subject>Derechos de vivienda</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_a1b5abd0"/>
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+    <dc:rights>IPDRS</dc:rights>
+    <dc:publisher>IPDRS</dc:publisher>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/43">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <dct:title xml:lang="pt">A reinvenção da democracia brasileira, os novos sujeitos coletivos e as lutas camponesas. </dct:title>
+    <dc:author>Claudio A. Dourado de Oliveira</dc:author>
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-03-06</dct:date>
+    <dct:extent>14</dct:extent>
+    <schema:image rdf:resource="https://www.sudamericarural.org/images/exploraciones/Exploracion_43_Dourado01_001.jpg"/>
+    <bibo:uri rdf:resource="https://www.sudamericarural.org/images/exploraciones/archivos/Exploracion_43_Dourado01.pdf"/>
+    <dct:description xml:lang="pt">A reinvenção da democracia brasileira, os novos sujeitos coletivos e as lutas camponesas.
+  
+ 
+ 
+ 
+  Por Claudio A. Dourado de Oliveira
+ 
+ 
+ As lógicas antropocêntricas do capitalismo enquanto civilização dominante e com os diversos socialismos reais que existiram até agora – deverão ser repensados a partir de posturas sociobiocêntricas e não serão atualizados simplesmentemudando seus sobrenomes. Não esqueçamos que socialistas e capitalistas de todos os tipos se enfrentaram e ainda se enfrentam no quadrilátero do desenvolvimento e do progresso (Acosta, 2016).
+ 
+ 
+ 
+  
+  
+  
+ O desejo incessante de encontrar saídas diante das incertezas, no cenário político brasileiro, me motivou a refletir a partir  daqueles/as que sempre tiveram que enfrentar todos as barreiras da sociedade para sustentar suas identidades - camponesa/camponês. Tendo que ganhar mil batalhas sem vencer a guerra, mas sem poder perder nenhuma (D. Ribeiro, 1995).
+ Em nível nacional é quase um consenso que o nosso projeto de nação seja falho e débil. E que esta deficiência está na falta de resposta, prévia, sobre quem somos. O vazio identitário insinuam o rumo a tomar. Mas, segundo Janine, onde se nota o vazio há presenças, só que mal identificadas por nós. Senão as resistências somente aparecem como obstáculos irracionais, como sinais de atraso; mas pode bem ser que elas expressem algo positivo, um fator cultural a ser levado mais seriamente em conta, em vez desse resíduo desagradável que assim é vislumbrado. Boa parte, por sinal, do trabalho em antropologia nas últimas décadas consistiu em mostrar que, lá onde não se descortinava inteligibilidade, mas tão somente resto ou carência, havia uma cultura pulsando, só que não reconhecida ou percebida enquanto tal (J. Ribeiro, 2000).
+ No Brasil, mesmo com muitas lutas travadas juntos aos principais partidos de esquerda, como o próprio Partido dos Trabalhadores, desde sempre grandes aliados, estes não foram diferentes, sempre viram este campesinato como uma categoria atrasada e muitas vezes um empecilho para o desenvolvimento, carro chefe dos governos do PT.
+ O próprio Marx diz que o campesinato é como batata num saco, quer dizer, há situações nas quais o campesinato não chega a se articular politicamente. Ele é uma realidade econômica, mas não é uma classe política, porque não se assumiu, não se organizou. Diante disso, diversos autores afirmaram que o campesinato é uma categoria pouco politizada, pré-política, há um certo primitivismo político nas suas lutas. E, classicamente, como se sabe, se atribui a condição de “povos sem história”, a grupos e nacionalidades que não têm viabilidade histórica, em certas situações. O campesinato como contra-revolucionário, devido ao caráter das suas reivindicações.
+ Paralelo a esta ideia, temos um país construído a partir dos maiores vícios coloniais que perduram em nosso imaginário, no nosso jeito de ver e fazer a política. Basta uma breve retomada histórica em nossa literatura, que percebemos a necessidade de grandes rupturas. Rupturas estas que não aconteceram com a chegada do PT ao governo, em parte pelas alianças constituídas, pela manutenção do Congresso e Senado não reformado, pelo fortalecimento Judiciário e parte por renegar a revolução a partir das bases, a partir das comunidades, com sua diversidade étnica e cultural, como apresenta Janine Ribeiro, na obra "A sociedade contra o social" (2000).</dct:description>
+    <dct:identifier>IPDRS-Exploraciones-43</dct:identifier>
+    <dc:type>IPDRS - Exploraciones</dc:type>
+    <dc:language>pt</dc:language>
+    <dc:coverage>BRA</dc:coverage>
+    <dc:subject>acceso a la tierra </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000090"/>
+    <dc:subject>Agricultores</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_2805"/>
+    <dc:subject>Derechos colectivos</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_de048871"/>
+    <dc:subject>Economía campesina</dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_29100?clang=es"/>
+    <dc:subject>organizaciones de la sociedad civil</dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_9000020"/>
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+    <dc:rights>IPDRS</dc:rights>
+    <dc:publisher>IPDRS</dc:publisher>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/42">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <dct:title xml:lang="es">Valores de uso agrícola: El agua y tierra en tiempos de crisis civilizatoria</dct:title>
+    <dc:author>Héctor López Terán </dc:author>
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-11-30</dct:date>
+    <dct:extent>15</dct:extent>
+    <schema:image rdf:resource="https://www.sudamericarural.org/images/exploraciones/Exploracion_42_Hector_Lopez_Teran_001.jpg"/>
+    <bibo:uri rdf:resource="https://www.sudamericarural.org/images/exploraciones/archivos/Exploracion_42_Hector_Lopez_Teran.pdf"/>
+    <dct:description xml:lang="es">Valores de uso agrícola: El agua y tierra en tiempos de crisis civilizatoria
+  
+ 
+ 
+ 
+ 
+ Héctor López Terán 
+ 
+ 
+ 
+ 
+  El nuevo paradigma plantea, como opción fundamental, una dinámica social equilibrada entre personas, géneros y grupos sociales,
+ en armonmexiía con la naturaleza, para promover la vida y asegurar su reproducción.
+ Se trata de vivir bien, de cumplir con el bien común de la humanidad, lo que implica, como primer paso,
+ el respeto a la integridad de la naturaleza como fuente de vida (François Houtart 2015).
+  
+ 
+ 
+ 
+ 
+ 
+ Introducción 
+ 
+ Una de las propuestas del legado que nos dejó el sacerdote católico, teólogo y sociólogo marxista belga François Houtart fue repensar un nuevo paradigma social sobre la base del bien común de la humanidad. Fundamental acierto en momentos de crisis civilizatoria del capitalismo (Echeverría 2016), cuando la valorización de la vida se sobrepone sobre el sujeto social y la naturaleza. La visión de Houtart nos permite visualizar la situación de los recursos naturales, como valores de uso sociales, para pensar alternativas y recoger el núcleo central, la esencia misma de la contradicción del capital entre el valor y el valor de uso[1] (Echeverría 1998). Siendo ésta en general una perspectiva importante, aún más relevancia adquiere para las comunidades agrarias en nuestra región latinoamericana, donde la tierra y el agua son valores de uso fundamentales para la reproducción de su materialidad como elementos de producción de su vida y su cultura.
+ El modelo económico actual, sustentado en la explotación intensiva de los recursos naturales, supone una pérdida de los valores de uso de las comunidades campesinas. La tierra y el agua, sometidos a procesos de despojo (Harvey 2007), omiten los valores de uso para las comunidades agrarias, son excluidas y apropiadas por actividades intensivas en capital que paulatinamente van desmoronando la riqueza material que da sustento a la vida campesina.
+ Por ello partimos de esa premisa para construir el presente ensayo, en el que se aborda la pérdida del potencial cualitativo del valor de uso para las comunidades agrarias debido a las actividades extractivas en la región andina, cuya población rural es representativa (Bolivia 31%, Colombia 21%, Ecuador 36% y Perú 21%), además de estar inmersa en constante pugna con los proyectos extractivistas impulsados por el modelo económico vigente en la mayoría de los gobiernos locales.
+ Se comprende que para las sociedades campesinas la imbricación entre el agua y la tierra representa la fusión fundamental para el desarrollo de la vida y el trabajo, sostén de la producción agrícola para la soberanía alimentaria. En este sentido, contemplamos un análisis en el que la apropiación y despojo del agua como valor de uso involucra el resquebrajamiento del tejido social en sus formas de producción, organización y cultura, por el menoscabo material y simbólico de los recursos que sustentan la vida. 
+ Respaldar el valor de uso para las comunidades campesinas implica la construcción de alternativas que enfrenten las actividades intensivas en capital. Por ello, mencionamos como opción en la vida campesina familiar la importancia de la práctica agroecológica para la soberanía alimentaria en la que se exalta la potencialidad de los recursos naturales como valores de uso para enfrentar y resistir el embate extractivista.
+ Por otro lado, la vía agroecológica evidencia la viabilidad campesina dentro de la modernidad capitalista (Echeverría 2010, 2016) como alternativa moderna en el tiempo presente -respaldada por un legado histórico-, que exige un cambio de paradigma con fundamento en "el respeto a la integridad de la naturaleza, como fuente de vida” (Houtart 2015, 39).
+  
+ [1] Valor de uso “Es aquél que representa la Utilidad y beneficios económicos que proporciona el Bien, o sea la Utilidad futura que se espera se derive de su posición. Por lo tanto, es un Valor subjetivo y podemos decir que se conoce intuitivamente; por ello es difícil determinarlo con precisión y su base son las predicciones futuras sobre Precios y tasas de Interés”.
+ (ttps://www.eco-finanzas.com/diccionario/V/VALOR_DE_USO.htm).</dct:description>
+    <dct:identifier>IPDRS-Exploraciones-42</dct:identifier>
+    <dc:type>IPDRS - Exploraciones</dc:type>
+    <dc:language>es</dc:language>
+    <dc:coverage>MEX</dc:coverage>
+    <dc:subject>Agricultura familiar</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1422957329186"/>
+    <dc:subject>Economía campesina</dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_29100?clang=es"/>
+    <dc:subject>Producción agrícola</dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_203"/>
+    <dc:subject>Recursos naturales</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_5091"/>
+    <dc:subject>Soberanía alimentaria</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1310718737317"/>
+    <dc:subject>Tierra</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_4172"/>
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+    <dc:rights>IPDRS</dc:rights>
+    <dc:publisher>IPDRS</dc:publisher>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/41">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <dct:title xml:lang="es">Ecuador: Comportamientos electorales en regiones con identidad indígena y montubia en la consulta popular de 2018</dct:title>
+    <dc:author>Francisco Hidalgo Flor, Ingrid Salazar, Katherine Ramos, Francisco Batalla, Andrés Barzallo</dc:author>
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-11-14</dct:date>
+    <dct:extent>17</dct:extent>
+    <schema:image rdf:resource="https://www.sudamericarural.org/images/exploraciones/Exploracion_41.jpg"/>
+    <bibo:uri rdf:resource="https://www.sudamericarural.org/images/exploraciones/archivos/Exploracion_41-Francisco_Hidalgo_Flor-3.pdf"/>
+    <dct:description xml:lang="es">Ecuador: Comportamientos electorales en regiones con identidad indígena y montubia en la consulta popular de 2018
+  
+ Francisco Hidalgo Flor, 
+ Ingrid Salazar, Katherine Ramos, Francisco Batalla, Andrés Barzallo 
+ Los comportamientos electorales, entendidos básicamente como “expresión de preferencias sometidas examen del voto” (Arnoletto, 2007)[1], son dinámicos y van articulados a las evoluciones de procesos sociales y políticos más amplios; en la mayoría de casos los reflejan. En el Ecuador, como en la mayor parte de países con elecciones institucionalizadas, estos comportamientos expresan coyunturas políticas, tienen modificaciones según los contextos históricos, sociales y territoriales.
+ El presente trabajo estudia el comportamiento electoral en los cantones con mayor identidad étnica, la mayor parte de ellos ubicados en las regiones rurales del Ecuador, referido a un momento político electoral concreto: la consulta popular de febrero del 2018.
+ El estudio pone atención en las etnias indígenas, afrodescendientes y montubias, relegadas históricamente en el marco de estructuras determinadas por la colonialidad del poder (Quijano, 2000), que afecta profundamente al país a lo largo de su vida republicana. Recordemos que sólo a partir de la Constitución de 1979 las poblaciones indígenas tuvieron acceso al voto, ganando espacios en las últimas décadas, hasta que en la reciente Constitución del 2008, se proclama al Ecuador como plurinacional e intercultural.
+ Una especificidad del presente estudio es su interés por una coyuntura político electoral concreta: la consulta popular de febrero del 2018, convocada por el presidente Lenín Moreno a nueve meses de su posesión en el mando (mayo 2017).
+ En el presente estudio, definimos al contexto político de esta consulta como un momento bisagra. Nos sirve la definición de bisagra, “hendidura en una unión”, para describir la especificidad de la coyuntura alrededor de esta consulta, caracterizada por la fractura y luego ruptura dentro de la estructura política, hasta entonces hegemónica: Alianza País, que ganó las elecciones legislativas y presidenciales a lo largo de una década (2007 – 2017), incluidas las elecciones de febrero y abril del 2017, que precisamente llevaron a Moreno a la Presidencia.
+ Ambos, el saliente Rafael Correa y el entrante Lenin Moreno, fueron beneficiarios a lo largo de diez años, de un mismo caudal electoral: presidente y vicepresidente en binomio en 2006 y 2009, fueron las figuras relevantes de esta hegemonía. Pero luego del triunfo electoral en las presidenciales de abril del 2017, se hizo visible una fricción entre los dos líderes, y grupos adherentes alrededor de ellos, que vertiginosamente derivó en una ruptura, cuyo momento crucial fue la prisión del ex – vicepresidente Jorge Glass en octubre de 2017 y la convocatoria a consulta popular en diciembre del mismo año.
+ La consulta popular es la vía política que escoge Lenin Moreno y la fracción pro - gubernamental de Alianza País, para marcar la ruptura con Rafael Correa y la fracción opositora, dirimir las bases sociales y políticas de apoyo y configurar un respaldo político y electoral propio, bajo una conducción pragmática política de sobrevivencia y conservación.
+ El objetivo de la consulta popular de febrero del 2018, fue legitimar una base electoral y otorgar una base política de apoyo al gobierno de Lenin Moreno y su estrategia pragmática en ruptura con la línea autoritaria e ideológica[2], para luego ir al desmontaje de las bases del predecesor, pero dentro de la misma tienda política.
+  
+ [1] Arnoletto, Eduardo (2007). Glosario de conceptos políticos. Consultado en: www.eumed.net
+ [2] Francisco Hidalgo (2018) “No es traición, es evolución pragmática… ¿y crisis?”. Consultado en: www.rebelion.org
+  </dct:description>
+    <dct:identifier>IPDRS-Exploraciones-41</dct:identifier>
+    <dc:type>IPDRS - Exploraciones</dc:type>
+    <dc:language>es</dc:language>
+    <dc:coverage>ECU</dc:coverage>
+    <dc:subject>pueblos indígenas </dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_331524"/>
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+    <dc:rights>IPDRS</dc:rights>
+    <dc:publisher>IPDRS</dc:publisher>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/40">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <dct:title xml:lang="es">Agua y Poder: Entre el Caribe y Los Andes Colombianos</dct:title>
+    <dc:author>Alexandra Gómez Boyaca</dc:author>
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-10-27</dct:date>
+    <dct:extent>11</dct:extent>
+    <schema:image rdf:resource="https://www.sudamericarural.org/images/exploraciones/Exploracion_40-Alexandra_Gomez_Boyaca_001.jpg"/>
+    <bibo:uri rdf:resource="https://www.sudamericarural.org/images/exploraciones/archivos/Exploracion_40-Alexandra_Gomez_Boyaca.pdf"/>
+    <dct:description xml:lang="es">Agua y Poder: Entre el Caribe y Los Andes Colombianos
+ Colombia tiene un lugar importante en la región por su variedad geográfica y la pervivencia de múltiples especies de flora y fauna, como parte de las formas de vida de muchas poblaciones. Igualmente se destaca por su diversidad en las cartografías hídricas de América Latina y el planeta. La ubicación geográfica del país da gran riqueza al suelo, subsuelo, páramos y demás nichos geo-ambientales que atraen desde hace siglos grandes proyectos extractivos de países del llamado primer mundo.
+ En este sentido, desde la llegada de los europeos hace cinco siglos, el territorio colombiano continúa siendo escenario de una disputa global – local, que atraviesa cada período de la historia, desde la conquista y la colonia hasta la república. En la actualidad vivimos procesos de zonificación y reacomodo territorial al servicio del capitalismo. Formas coloniales de explotación de recursos naturales, como la mita y la encomienda, se transformaron en haciendas de latifundistas y empresas de extracción. A partir de la República, España fue reemplazada por diferentes imperios hasta que se estableció el complejo financiero internacional militar[1] y se fortaleció la disputa por el suelo y el subsuelo, atropellando toda construcción territorial local. La extracción de petróleo, esmeraldas y oro, entre otros recursos, que viene debilitando la biodiversidad y acabando con pueblos en un avance galopante de acumulación de unos a través del despojo de otros, generalmente de los habitantes originarios de las tierras y sus bienes.
+ Los sucesivos desastres naturales multiplican el esfuerzo de múltiples especies para sobrevivir y muestran la necesidad de sustituir energías fósiles desgastadas por unas más limpias; así como regular el crecimiento de las ciudades y la redistribución de utilidades a pobladores locales-rurales, quienes, gracias a su organización y al impulso de diversas formas de solidaridad, logran subsistir.
+ Nos encontramos en un territorio en constante conflicto. Los marcos de desigualdad, injusticia y miedo en los que viven los sujetos, sometidos a un poder ajeno, no les permiten expresarse, por lo que buscan intersticios de expresión disimulada, entre los que están la generación de focos organizativos de resistencia en la vida cotidiana.
+ Este ensayo no parte de un estudio de la cultura popular ni de las resistencias a los regímenes de poder, sino más bien de la identificación de la situación de modos heterónomos[2] (Certau, 2009). En esta perspectiva, lo que importa no son tanto los sujetos, sino las operaciones que realizan, el quehacer de la regulación de un sentido práctico de la vida cotidiana. En este sentido, existe un saber propio a la base de las prácticas diarias que permiten la producción y reproducción de los medios materiales y simbólicos que impiden su extinción, en medio de una condición de guerra constante, a través de tácticas y maneras no explícitas de hombres y mujeres que se saben en desventaja dentro de la estructura social, pero a pesar de ello son capaces de generar estrategias de resistencia como actos creativos en lo cotidiano.
+ Dentro de este contexto de economía política se expresan diversas experiencias de gobernanza sobre el agua. Como la de los habitantes de Emaús, pobladores del Caribe colombiano, quienes alternan sus formas de vida entre la tierra y el agua y, por ende, desarrollan un proceso de empoderamiento social local con el cuidado, siembra, cosecha y defensa del agua en tiempos secos y su buen uso en tiempos de lluvia. Y la del pueblo Nasa, indígenas ubicados mayormente en la Cordillera de los Andes conectada con el Caribe por río. Son dos pueblos distintos que viven en  lugares distantes en la geografía colombiana, pero están enlazados por el agua y sus luchas.
+ [1]  Para Miriam Amparo Espinosa, antropóloga colombiana, La Guerra de los Mil días y la participación de Colombia en la Guerra de Corea, son sucesos que emergen en el período de modernización de Colombia donde son los conflictos armados que fundan relaciones industriales y económicas de los Estados lo que constituye  el “complejo financiero internacional militar” bajo el concepto de la soberanía nacional, allí desaparece la idea de colonizar de Europa y surgen  relaciones alrededor de la cooperación y el mercado militar.
+ [2] Heterónomo, persona sometida a un poder ajeno que le impide el propio desarrollo de su naturaleza.</dct:description>
+    <dct:identifier>IPDRS-Exploraciones-40</dct:identifier>
+    <dc:type>IPDRS - Exploraciones</dc:type>
+    <dc:language>es</dc:language>
+    <dc:coverage>COL</dc:coverage>
+    <dc:subject>Mujeres </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_8420"/>
+    <dc:subject>territorio </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_a9e7dd7f"/>
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+    <dc:rights>IPDRS</dc:rights>
+    <dc:publisher>IPDRS</dc:publisher>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/39">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <dct:title xml:lang="es">Capital social en la gestión comunitaria del agua en dos territorios de Ecuador</dct:title>
+    <dc:author>Ma. Lourdes Ramos Bayas</dc:author>
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-06-26</dct:date>
+    <dct:extent>27</dct:extent>
+    <schema:image rdf:resource="https://www.sudamericarural.org/images/exploraciones/Exploracion_39-Lourdes_Ramos_Bayas_cover.jpg"/>
+    <bibo:uri rdf:resource="https://www.sudamericarural.org/images/exploraciones/archivos/Exploracion_39-Lourdes_Ramos_Bayas.pdf"/>
+    <dct:description xml:lang="es">Capital social en la gestión comunitaria del agua en dos territorios de Ecuador [1]
+   
+ 
+ 
+ 
+  
+ 
+ Ma. Lourdes Ramos Bayas
+ 
+ 
+ 
+  
+ Comunicadora Social, periodista popular. Este trabajo ganó el segundo lugar en el Concurso 2017 de Ensayos Alimentos y
+ 
+ 
+  
+ Pensamientos, siempre en agenda, convocado anualmente por el IPDRS. El texto se basa en un estudio
+ 
+ 
+  
+ de caso comparativo realizado en la tesis de maestría de la autora el año 2017 para FLACSO, Ecuador.
+ 
+ 
+ 
+  
+ El actual contexto político del Ecuador, influenciado por cambios socioeconómicos, demográficos y legislativos, presenta una serie de situaciones que deben ser enfrentadas por las familias que integran organizaciones comunitarias, como las Juntas de Agua, adscritas a JAAPRE (Juntas Administradoras de Agua Potable y Riego del Ecuador) que están dispersas y fragmentadas a lo largo y ancho de los territorios rurales del país, especialmente en la sierra.
+ Por ello es interesa indagar si las familias de estas Juntas disponen de capital social expresado en prácticas de solidaridad y reciprocidad, como la minga, el “cambiamanos” y el trueque, y si este capital les permite hacer frente a los problemas socioeconómicos y demográficos que atraviesan. Este es el propósito que se plantea el presente texto, cuyas reflexiones se basan en los resultados de un estudio de caso, desarrollado el año 2016, que comparó la situación de dos Regionales filiales de la JAAPRE, Guangaje, en Cotopaxi, y Nitón - Chiquicha - Sucre en Tungurahua.
+ La minga, el “cambiamanos” y el trueque[2] son prácticas de cooperación y reciprocidad de larga data en el trabajo comunitario en la sierra ecuatoriana. Al comparar la situación en dos territorios diferentes, el estudio pretendió encontrar pistas de su sobrevivencia, transformación o desaparición, y de los efectos que cualesquiera de estos hechos tienen en el funcionamiento de la Juntas de Agua y en la vida de las comunidades de ambos territorios. 
+ Tanto el método de investigación como sus resultados permiten reflexionar respecto a la manera en que las poblaciones de esos territorios de la sierra ecuatoriana enfrentan los desafiantes cambios del contexto actual desde sus procesos particulares y haciendo uso de prácticas ancestrales. Pero ¿son efectivas éstas, mantienen sus fortalezas y características, siguen siendo útiles para las necesidades colectivas?
+ Éstas y otras preguntas son las que guían esta investigación y las respuestas pueden orientar al Estado, a las organizaciones de desarrollo y a la cooperación internacional en su trabajo en determinados territorios y reconocer que con la generalización desaprensiva de proyectos de desarrollo, leyes y reglamentos se corre el riesgo de homogenizar a las organizaciones sociales, cuya riqueza radica en su diversidad. Profundizar en el conocimiento de la diversidad de los mundos rurales contribuirá a pensar en la intervención para el desarrollo desde sus particularidades.
+ [1] Tesis de maestría titulada “El Capital social de Juntas Administradoras de Agua Potable y Riego del Ecuador JAAPRE y la Ley Orgánica de Recursos Hídricos, usos y aprovechamiento del Agua (2009-2015)” (Ramos, M. 2017 FLACSO, Ecuador), que se realizó con el objetivo de obtener información que permita comprender los contextos rurales como objetos diversos, a través de la aplicación de una encuesta, observación no participante, entrevistas semiestructuradas a miembros de los territorios a investigarse y dos grupos focales.
+ [2] “La minga (minka en quechua) es una antigua tradición de trabajo comunitario o colectivo con fines de utilidad social. Ciertamente el significado de la minga se deriva del conocimiento que tenían los aborígenes de que, realizando un trabajo compartido para el bien común, se lo hace más rápido y mejor”. https://lamingaenmovimiento.wordpress.com/la-minga/
+ El “cambiamanos” “(…) es otra práctica atribuida a las poblaciones rurales indígenas y mestizas que lleva impregnado un beneficio no económico entre quienes lo hacen. La cantidad de trabajo que se puede reunir bajo esta modalidad de relación social depende de la extensión de la red, sea esta mantenida a través de lazos fundamentados en el parentesco o en lazos comunales fuertes; la misma se establece en la entrega recíproca y solidaria de mano de obra no remunerada para trabajos relacionados, principalmente, con tareas agrícolas y pecuarias, y las que requieren de cooperación y acción colectiva”. El capital social de Juntas Administradoras de Agua Potable y Riego del Ecuador JAAPRE y la Ley Orgánica de recursos hídricos, usos y aprovechamiento del agua (2009–2015) María Lourdes Ramos Bayas. http://repositorio.flacsoandes.edu.ec/bitstream/10469/12670/2/TFLACSO-2017MLRB.pdf
+ El trueque consiste en “una institución económica en sí misma, un modelo de intercambio con características sociales propias y que ocupa un espacio moral específico, que no puede explicarse como negación o afirmación de otras instituciones económicas más reconocidas, sino que tiene dignidad de categoría económica, social y cultural por méritos propios. (…) el truque sólo puede ser entendido dentro de su contexto social específico; como este contexto varía, así lo hacen sus características. (…) el trueque se convierte en un intercambio que crea relaciones sociales”. Caroline Humphrey y Stephen Hugh-Jones (compiladores), Trueque intercambio y valor: un acercamiento antropológico. Abya Yala, Quito, 1997. http://www.flacso.edu.ec/docs/i14_ferraro.pdf</dct:description>
+    <dct:identifier>IPDRS-Exploraciones-39</dct:identifier>
+    <dc:type>IPDRS - Exploraciones</dc:type>
+    <dc:language>es</dc:language>
+    <dc:coverage>002</dc:coverage>
+    <dc:coverage>ECU</dc:coverage>
+    <dc:subject>Ecuador</dc:subject>
+    <dc:subject>Población rural  </dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_6705"/>
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+    <dc:rights>IPDRS</dc:rights>
+    <dc:publisher>IPDRS</dc:publisher>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/38">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <dct:title xml:lang="es">La cosecha de agua, un diálogo entre conocimiento de saberes y el conocimiento técnico</dct:title>
+    <dc:author>Janneth Mannina Quispe Yanahuaya</dc:author>
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-05-15</dct:date>
+    <dct:extent>7</dct:extent>
+    <schema:image rdf:resource="https://www.sudamericarural.org/images/exploraciones/foto-EX38.png"/>
+    <bibo:uri rdf:resource="https://www.sudamericarural.org/images/exploraciones/archivos/EXPLORACIONES38.-GANADORA-2indd.pdf"/>
+    <dct:description xml:lang="es">En este texto sistematiza una experiencia familiar de trabajo de cosecha de agua para la producción agropecuaria y para el consumo en la comunidad Phina Sallathiji del municipio de Corocoro, provincia Pacajes de departamento de La Paz en Bolivia.
+ “Lo que queremos contarles es nuestra aventura en el altiplano, podemos afirmar que es posible vivir y producir en una región difícil como es en el altiplano Boliviano donde la producción agrícola tiene muchas dificultades debido principalmente a las limitaciones del tipo de suelo, la falta de agua, las inclemencias del clima como la sequía, las heladas, las granizadas”, introduce el texto.</dct:description>
+    <dct:identifier>IPDRS-Exploraciones-38</dct:identifier>
+    <dc:type>IPDRS - Exploraciones</dc:type>
+    <dc:language>es</dc:language>
+    <dc:coverage>BOL</dc:coverage>
+    <dc:subject>acceso a la tierra </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000090"/>
+    <dc:subject>Derechos sobre el agua</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_16062"/>
+    <dc:subject>Economía campesina</dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_29100?clang=es"/>
+    <dc:subject>Gestión del agua</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_8320"/>
+    <dc:subject>Juventud </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_8491"/>
+    <dc:subject>Mujeres </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_8420"/>
+    <dc:license>Creative Commons Attribution</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/creative-commons-attribution"/>
+    <dc:rights>IPDRS</dc:rights>
+    <dc:publisher>IPDRS</dc:publisher>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/37">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <dct:title xml:lang="es">COTA MAMA:  La importancia de la interacción ritual para el uso y preservación del agua</dct:title>
+    <dc:author>Iris Anabel Ortega Balboa </dc:author>
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-04-04</dct:date>
+    <dct:extent>16</dct:extent>
+    <schema:image rdf:resource="https://www.sudamericarural.org/images/exploraciones/EXPLORACIONES-37.png"/>
+    <bibo:uri rdf:resource="https://www.sudamericarural.org/images/exploraciones/archivos/EXPLORACIONES-37--GANADORA-2017.pdf"/>
+    <dct:description xml:lang="es">Iris Ortega Balboa, de la ciudad de La Paz, Bolivia, es la ganadora del Concurso de Ensayos y Fotografías 2017 "Prácticas de Siembra, cosecha y uso del agua para el desarrollo rural".
+ En su trabajo enfatiza, entre varias ideas, que cuando se toma la temática AGUA, para las sociedades modernas: “el agua es fundamental para la vida”, por lo que es un recurso valioso que debemos saber usar y administrar. Sin embargo, dentro de la cosmovisión indígena “el agua es fundamental para la vida”, pero no constituye un simple recurso, es una fuerza de la vida misma, con la cual una persona puede interactuar, es una parte integral del sistema de la naturaleza, sistema del cual el ser humano forma parte, no como un ente externo que usa los recursos, forma parte como un ente integrado dentro del equilibrio de este sistema.</dct:description>
+    <dct:identifier>IPDRS-Exploraciones-37</dct:identifier>
+    <dc:type>IPDRS - Exploraciones</dc:type>
+    <dc:language>es</dc:language>
+    <dc:coverage>BOL</dc:coverage>
+    <dc:subject>Derechos colectivos</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_de048871"/>
+    <dc:subject>Derechos sobre el agua</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_16062"/>
+    <dc:subject>Mujeres </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_8420"/>
+    <dc:subject>pueblos indígenas </dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_331524"/>
+    <dc:license>Creative Commons Attribution</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/creative-commons-attribution"/>
+    <dc:rights>IPDRS</dc:rights>
+    <dc:publisher>IPDRS</dc:publisher>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/36">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <dct:title xml:lang="es">Enfoques de género y prácticas de las mujeres rurales en Sudamérica</dct:title>
+    <dc:author>Ruth Bautista Durán</dc:author>
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-07-29</dct:date>
+    <dct:extent>20</dct:extent>
+    <schema:image rdf:resource="https://www.sudamericarural.org/images/exploraciones/exploraciones-36.png"/>
+    <bibo:uri rdf:resource="https://www.sudamericarural.org/images/exploraciones/archivos/EXPLORACIONES36-RBD1.pdf"/>
+    <dct:description xml:lang="es">En este documento se repasan algunos textos recientemente producidos en el ámbito del ‘género para el desarrollo’ que abordan la problemática de las mujeres rurales en el acceso a la tierra, y además, la autora plantea algunas reflexiones en relación con el trabajo que viene realizando el Movimiento Regional por la Tierra y Territorio en su búsqueda de casos inspiradores de acceso a la tierra y territorio con mujeres como protagonistas.</dct:description>
+    <dct:identifier>IPDRS-Exploraciones-36</dct:identifier>
+    <dc:type>IPDRS - Exploraciones</dc:type>
+    <dc:language>es</dc:language>
+    <dc:coverage>BOL</dc:coverage>
+    <dc:subject>acceso a la tierra </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000090"/>
+    <dc:subject>Activistas por el derecho a la tierra</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_e6067b76"/>
+    <dc:subject>adquisiciones de tierras </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_89d3dcbb"/>
+    <dc:subject>Agricultura familiar</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1422957329186"/>
+    <dc:subject>Mujeres </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_8420"/>
+    <dc:subject>Resolución de disputas o conflictos por la tierra</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6f79699c"/>
+    <dc:license>Creative Commons Attribution</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/creative-commons-attribution"/>
+    <dc:rights>IPDRS- MRxTT</dc:rights>
+    <dc:publisher>IPDRS</dc:publisher>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/35">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <dct:title xml:lang="pt">De Utopias e de topoi: espaço e poder em questão (perspectivas desde algumas experiências de lutas sociais na América Latina)</dct:title>
+    <dc:author>Carlos Walter Porto-Gonçalves </dc:author>
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-05-05</dct:date>
+    <dct:extent>36</dct:extent>
+    <schema:image rdf:resource="https://www.sudamericarural.org/images/exploraciones/EXPLORACIONES35.jpg"/>
+    <bibo:uri rdf:resource="https://www.sudamericarural.org/images/exploraciones/archivos/EXPLORACIONES35---f.pdf"/>
+    <dct:description xml:lang="pt">Nesse artigo buscamos explicitar o silêncio acerca da relação espaço-poder que se dá tradicionalmente na tradição do pensamento ocidental, inclusive no campo do pensamento crítico. Mais do que falar de utopias queremos trazer ao debate a relação espaço-poder e não de modo abstrato, mas inspirando-nos em algumas experiências em curso de movimentos sociais na América Latina e, por isso, é da relação utopia-topoi que nos ocupamos. Procuramos colocar em diálogo o léxico téorico-político que emana dessas experiências com a tradição do pensamento/ação crítico europeu, sobretudo com o Marx tardio.
+  </dct:description>
+    <dct:identifier>IPDRS-Exploraciones-35</dct:identifier>
+    <dc:type>IPDRS - Libros</dc:type>
+    <dc:language>pt</dc:language>
+    <dc:coverage>BRA</dc:coverage>
+    <dc:subject>acceso a la tierra </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000090"/>
+    <dc:subject>Agrocombustibles</dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_27465"/>
+    <dc:subject>Agroindustria</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_28831"/>
+    <dc:subject>Derechos sobre tierras indígenas</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_d42b49e7"/>
+    <dc:subject>Desarrollo rural territorial</dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_1789"/>
+    <dc:subject>Territorio indígena</dc:subject>
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+    <dc:rights>IPDRS</dc:rights>
+    <dc:publisher>IPDRS</dc:publisher>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/34">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <dct:title xml:lang="pt">Estética, Agricultura e Gênero:  A visualidade nas mudanças do modelo agroalimentar  após a revolução verde </dct:title>
+    <dc:author>Diana Peña</dc:author>
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-13</dct:date>
+    <dct:extent>21</dct:extent>
+    <schema:image rdf:resource="https://www.sudamericarural.org/images/exploraciones/exploraciones_34.JPG"/>
+    <bibo:uri rdf:resource="https://www.sudamericarural.org/images/exploraciones/archivos/exploraciones_34.pdf"/>
+    <dct:description xml:lang="pt">Com este artigo propõe-se numa das múltiplas arestas dessa clivagem (homem/mulher, civilização/natureza), a saber, a maneira em que os discursos e representações produzidos pela lógica moderna/patriarcal/capitalista são reproduzidos na cotidianidade das práticas agroalimentares numa região do sul global, a estética associada a essa ordem e sua relação com o papel da mulher na divisão do trabalho agrícola. Nesse contexto, identifica-se a Revolução Verde como um instrumento crucial na construção do discurso desenvolvimentista que erigiu a modernização tecnológica como paradigma da produção alimentar, desviando a atenção da dimensão política da questão agrária e desconsiderando as particularidades sociais, culturais e ecossistêmicas.
+ Deste modo, propõe-se a abordagem do problema a partir da visualidade, devido à importância da dimensão ótica e estética na institucionalização de uma representação dicotômica da realidade agroalimentar nos países do denominado terceiro mundo, na qual a agricultura camponesa e a alimentação tradicional são sinônimos de atraso e pobreza, enquanto as tecnologias da Revolução Verde se consagram como promessa de prosperidade e progresso. Esta mudança na percepção e na forma de se cultivar os alimentos teve repercussões profundas, entre as quais se destacam a perda do histórico protagonismo da mulher na agricultura e o empobrecimento da dieta pela homogeneização das variedades comercializadas.
+  </dct:description>
+    <dct:identifier>IPDRS-Exploraciones-34</dct:identifier>
+    <dc:type>IPDRS - Exploraciones</dc:type>
+    <dc:language>pt</dc:language>
+    <dc:coverage>BRA</dc:coverage>
+    <dc:subject>Agricultura</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_203"/>
+    <dc:subject>Equidad de género</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_f29f3106"/>
+    <dc:subject>Equidad de género en el acceso a la tierra</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1dfe5bfe"/>
+    <dc:license>Creative Commons Attribution</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/creative-commons-attribution"/>
+    <dc:rights>IPDRS</dc:rights>
+    <dc:publisher>IPDRS</dc:publisher>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/33">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <dct:title xml:lang="pt">Resistir plantando:  A resiliência dos sistemas agrícolas indígenas no extremo sul da Bahia</dct:title>
+    <dc:author>Marilena Altenfelder de Arruda Campos</dc:author>
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-06</dct:date>
+    <dct:extent>18</dct:extent>
+    <schema:image rdf:resource="https://www.sudamericarural.org/images/exploraciones/exploraciones_33.JPG"/>
+    <bibo:uri rdf:resource="https://www.sudamericarural.org/images/exploraciones/archivos/exploraciones_33.pdf"/>
+    <dct:description xml:lang="pt">Apresento, neste ensaio (autora), um breve histórico sobre a questão agrícola na região do Monte Pascoal e a forma como os modos cotidianos de resistência Pataxó foram capazes de promover a perpetução de saberes e práticas agrícolas tradicionais de gestão da agrobiodiversidade em detrimento do avanço das mudanças ambientais e dos projetos de modernização dos sistemas agrícolas. Ainda, demonstro como esses modos de vida possibilitaram a adaptação de conceitos e práticas advindas de atores externos, como técnicos, ambientalistas e planejadores, inovando-os através de mecanismos próprios que ampliam, assim, a resiliência dos sistemas sócio-ecológicos deste povo.</dct:description>
+    <dct:identifier>IPDRS-Exploraciones-33</dct:identifier>
+    <dc:type>IPDRS - Exploraciones</dc:type>
+    <dc:language>pt</dc:language>
+    <dc:coverage>BRA</dc:coverage>
+    <dc:subject>Agricultura</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_203"/>
+    <dc:subject>Resiliencia</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1374480530924"/>
+    <dc:subject>territorio </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_a9e7dd7f"/>
+    <dc:license>Creative Commons Attribution</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/creative-commons-attribution"/>
+    <dc:rights>IPDRS</dc:rights>
+    <dc:publisher>IPDRS</dc:publisher>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/32">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <dct:title xml:lang="es">Fiesta de la semilla “Muyu Raymi”: Agrobiodiversidad, mujeres e identidad</dct:title>
+    <dc:author> Stephanie Andrade Vinueza</dc:author>
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-02-10</dct:date>
+    <dct:extent>16</dct:extent>
+    <schema:image rdf:resource="https://www.sudamericarural.org/images/exploraciones/exploraciones_32.JPG"/>
+    <bibo:uri rdf:resource="https://www.sudamericarural.org/images/exploraciones/archivos/exploraciones_32.pdf"/>
+    <dct:description xml:lang="es">Este ensayo tiene como propósito principal dar a conocer la relevancia de la festividad del Muyu Raymi, una iniciativa de resiliencia agrícola. Para ello, en un primer momento, se hará una breve contextualización que permitirá entender la fiesta en el marco de una realidad climática, social y política particular. Luego, se describirá el Muyu Raymi enfocando tres ejes fundamentales: la agrobiodiversidad, las mujeres y la identidad. Este ensayo se nutre de conversaciones, opiniones y experiencias vividas en el marco del Muyu Raymi que se llevó acabo el 13 de agosto del 2016.</dct:description>
+    <dct:identifier>IPDRS-Exploraciones-32</dct:identifier>
+    <dc:type>IPDRS - Exploraciones</dc:type>
+    <dc:language>es</dc:language>
+    <dc:coverage>ECU</dc:coverage>
+    <dc:subject>Activistas por el derecho a la tierra</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_e6067b76"/>
+    <dc:subject>Buen Vivir</dc:subject>
+    <dc:subject>Derechos sobre tierras indígenas</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_d42b49e7"/>
+    <dc:subject>Desarrollo</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_331049"/>
+    <dc:license>Creative Commons Attribution</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/creative-commons-attribution"/>
+    <dc:rights>IPDRS</dc:rights>
+    <dc:publisher>IPDRS</dc:publisher>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/31">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <dct:title xml:lang="es">Disputas en la gestión de la identidad y el ejercicio de los gobiernos indígenas en Bolivia</dct:title>
+    <dc:author>Pedro Pachaguaya y Samuel Flores</dc:author>
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-29</dct:date>
+    <dct:extent>17</dct:extent>
+    <schema:image rdf:resource="https://www.sudamericarural.org/images/exploraciones/exploraciones_31.JPG"/>
+    <bibo:uri rdf:resource="https://www.sudamericarural.org/images/exploraciones/archivos/exploraciones_31.pdf"/>
+    <dct:description xml:lang="es">Pedro Pachaguaya y Samuel Flores, antropólogo y líder originario, proponen un documento que pone en cuestión la forma en que el Estado Plurinacional gestiona la identidad cultural de la población. Describen las principales acciones que derivan de reflexiones colectivas entre varias naciones originarias, plantean las posibilidades y oportunidades de la identidad colectiva y la identidad cultural, y muestran los alcances jurídicos, políticos y sociales que implica el acceso a la suscripción consciente de una identidad cultural en las cédulas de identidad para los pueblos indígenas en la construcción de sus gobiernos propios y autonomías territoriales.</dct:description>
+    <dct:identifier>IPDRS-Exploraciones-31</dct:identifier>
+    <dc:type>IPDRS - Exploraciones</dc:type>
+    <dc:language>es</dc:language>
+    <dc:coverage>BOL</dc:coverage>
+    <dc:subject>Afrodescendientes</dc:subject>
+    <dc:subject>pueblos indígenas </dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_331524"/>
+    <dc:license>Creative Commons Attribution</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/creative-commons-attribution"/>
+    <dc:rights>IPDRS- MRxTT</dc:rights>
+    <dc:publisher>IPDRS</dc:publisher>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/30">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <dct:title xml:lang="es">REDES ALIMENTARIAS ALTERNATIVAS, CONTRIBUCIONES A LA RECONEXIÓN DEL CONSUMIDOR CON LA ALIMENTACIÓN</dct:title>
+    <dc:author>Liseth Estefanía Barriga Velásquez</dc:author>
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-15</dct:date>
+    <dct:extent>15</dct:extent>
+    <schema:image rdf:resource="https://www.sudamericarural.org/images/exploraciones/exploraciones_30.JPG"/>
+    <bibo:uri rdf:resource="https://www.sudamericarural.org/images/exploraciones/archivos/exploraciones_30.pdf"/>
+    <dct:description xml:lang="es">La industrialización agrícola en el sigo XX provocó una transformación en los procesos del sistema agroalimentario, que trajo consigo la desconexión del productor con el consumidor. En la actualidad, mientras que la mayoría de los consumidores sólo optan por la adquisición de alimentos para satisfacer las necesidades básicas de nutrición; otros consumidores empiezan a interesarse por la dimensión social, ambiental, cultural, territorial y de salud que engloba el hecho alimentario. Existen en la actualidad varios tipos de mercados que se enmarcan en las redes alimentarias alternativas (RAA), cuyo objetivo principal radica en reducir el número de intermediarios y establecer espacios de solidaridad, compromiso y sentido de pertenencia, para constituirse en un modelo económico local e innovador que incentive al consumidor a reflexionar sobre su alimentación. Existen numerosos estudios sobre estas redes alimentarias alternativas desde la perspectiva de los productores, pero el trabajo realizado sobre el rol de los consumidores en el sistema agroalimentario es aún poco examinado. En esta línea, el presente trabajo analiza el aporte de las redes alimentarias alternativas a la reconexión del consumidor con la alimentación. Para ello, se contextualiza la situación actual de las mismas en función de estudios que recogen las opiniones de consumidores que participan de estas iniciativas. Este análisis contextual permite identificar los elementos claves para la cohesión territorial a través de la construcción de redes que permiten que el consumidor se convierta en un actor soberano consciente de su identidad y de la toma de decisiones sobre los sistemas de aprovisionamiento de alimentos.</dct:description>
+    <dct:identifier>IPDRS-Exploraciones-30</dct:identifier>
+    <dc:type>IPDRS - Exploraciones</dc:type>
+    <dc:language>es</dc:language>
+    <dc:coverage>150</dc:coverage>
+    <dc:coverage>ESP</dc:coverage>
+    <dc:coverage>USA</dc:coverage>
+    <dc:subject>Administración de tierras  </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000091"/>
+    <dc:subject>Agricultores</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_2805"/>
+    <dc:subject>Agricultura</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_203"/>
+    <dc:subject>Agroindustria</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_28831"/>
+    <dc:subject>Agronegocios</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_208"/>
+    <dc:subject>Seguridad alimentaria</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_10967"/>
+    <dc:subject>Sistema agroalimentario</dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_40cb9134"/>
+    <dc:license>Creative Commons Attribution</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/creative-commons-attribution"/>
+    <dc:rights>IPDRS</dc:rights>
+    <dc:publisher>IPDRS</dc:publisher>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/29">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <dct:title xml:lang="es">Temporeras en Chile: Iñche zomo kudaw ñi mapu, Yo soy mujer que trabaja mi tierra</dct:title>
+    <dc:author>Matilde Mera Anchio</dc:author>
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-05-23</dct:date>
+    <dct:extent>22</dct:extent>
+    <schema:image rdf:resource="https://www.sudamericarural.org/images/exploraciones/Exploraciones 29.jpg"/>
+    <bibo:uri rdf:resource="https://www.sudamericarural.org/images/exploraciones/archivos/Exploracin 29.pdf"/>
+    <dct:description xml:lang="es">Este texto de Matilde Mera Anchio, que le valió la mención en el Concurso Alimentos y pensamientos, siempre en agenda,versión 2015 del Instituto para el Desarrollo Rural de Sudamérica (IPDRS). En este trabajo se realiza un análisis de la situación de las trabajadoras agrícolas Región de los Ríos, en Chile, durante las últimas décadas del siglo XX, cuando se produjo el quiebre definitivo de la relaciones de producción tradicionales y se expandieron los mercados laborales, abriendo a las mujeres la oportunidad de salir de las labores del hogar y, por esa vía, generar cambios en las relaciones de género.
+  </dct:description>
+    <dct:identifier>IPDRS-Exploraciones-29</dct:identifier>
+    <dc:type>IPDRS - Exploraciones</dc:type>
+    <dc:language>es</dc:language>
+    <dc:coverage>CHL</dc:coverage>
+    <dc:subject>Agricultura familiar</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1422957329186"/>
+    <dc:subject>Asalariados rurales</dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_8684"/>
+    <dc:subject>Modelos de desarrollo</dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_4881"/>
+    <dc:subject>modos de aprovechamiento</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_66afb052"/>
+    <dc:subject>Mujeres </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_8420"/>
+    <dc:subject>Políticas agrarias</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_195"/>
+    <dc:subject>pueblos indígenas </dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_331524"/>
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+    <dc:rights>IPDRS</dc:rights>
+    <dc:publisher>IPDRS</dc:publisher>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/28">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <dct:title xml:lang="es">TLC Y TBI amenazan a la Soberanía Alimentaria</dct:title>
+    <dc:author>Susana Castillo Figueroa</dc:author>
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-03-28</dct:date>
+    <dct:extent>21</dct:extent>
+    <schema:image rdf:resource="https://www.sudamericarural.org/images/exploraciones/Exploraciones.jpg"/>
+    <bibo:uri rdf:resource="https://www.sudamericarural.org/images/exploraciones/archivos/Exploraciones 28.pdf"/>
+    <dct:description xml:lang="es">El presente ensayo esboza en amplias líneas los intereses y estrategias de Estados Unidos (USA) y la Unión Europea (UE) en relación a la producción, comercialización y consumo de alimentos, un eje transversal en las secciones de Comercio, Servicios y Propiedad Intelectual de un Tratado de Libre Comercio.</dct:description>
+    <dct:identifier>IPDRS-Exploraciones-28</dct:identifier>
+    <dc:type>IPDRS - Exploraciones</dc:type>
+    <dc:language>es</dc:language>
+    <dc:coverage>ECU</dc:coverage>
+    <dc:subject>Acuerdos de libre comercio</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_3ffda84e"/>
+    <dc:subject>Agroindustria</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_28831"/>
+    <dc:subject>Crisis alimentaria</dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_2470?clang=es"/>
+    <dc:subject>Modelos de desarrollo</dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_4881"/>
+    <dc:subject>Semillas</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6946"/>
+    <dc:subject>Soberanía alimentaria</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1310718737317"/>
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+    <dc:rights>IPDRS</dc:rights>
+    <dc:publisher>IPDRS</dc:publisher>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/27">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <dct:title xml:lang="es">Jornaleros en nuestra propia tierra</dct:title>
+    <dc:author>Julie Manuela Mena Ortega</dc:author>
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-01-11</dct:date>
+    <dct:extent>22</dct:extent>
+    <schema:image rdf:resource="https://www.sudamericarural.org/images/exploraciones/exploraciones27 tapa.png"/>
+    <bibo:uri rdf:resource="https://www.sudamericarural.org/images/exploraciones/archivos/Exploraciones 27.pdf"/>
+    <dct:description xml:lang="es">La authora plantea un enfoque interesante a través de la comparación entre el monocultivo y sus consecuencias para la seguridad alimentaria de una zona en Colombia, con testimonios que enriquecen la perspectiva cultural de la descripción. Por su carácter testimonial, el texto mereció mención en el Concurso 2015.</dct:description>
+    <dct:identifier>IPDRS-Exploraciones-27</dct:identifier>
+    <dc:type>IPDRS - Exploraciones</dc:type>
+    <dc:language>es</dc:language>
+    <dc:coverage>COL</dc:coverage>
+    <dc:subject>Agencias de desarrollo </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_2224"/>
+    <dc:subject>Agricultura familiar</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1422957329186"/>
+    <dc:subject>Agroindustria</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_28831"/>
+    <dc:subject>Monocultivo</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_4915"/>
+    <dc:subject>Seguridad alimentaria</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_10967"/>
+    <dc:subject>territorio comunal  </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_41b77c02"/>
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+    <dc:rights>IPDRS</dc:rights>
+    <dc:publisher>IPDRS</dc:publisher>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/26">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <dct:title xml:lang="es">Combatiendo la pobreza en América Latina: La experiencia de los Programas de Transferencias Monetarias Condicionadas.</dct:title>
+    <dc:author>Andrés Santana Bonilla</dc:author>
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-07</dct:date>
+    <dct:extent>24</dct:extent>
+    <schema:image rdf:resource="https://www.sudamericarural.org/images/exploraciones/Portada exploraciones26.jpg"/>
+    <bibo:uri rdf:resource="https://www.sudamericarural.org/images/exploraciones/archivos/Exploraciones 26.pdf"/>
+    <dct:description xml:lang="es">El ensayo que ahora presentamos mereció el tercer city en el Concurso de este año. Desde Colombia, el author propone una argumentación teórica para la región latinoamericana comparando datos sobre diversas experiencias de Programas de Transferencias Monetarias Condicionadas, usando un método de análisis con respaldo cuantitativo y datos históricos comparativos entre países, con indicadores más generales y comparando los casos de Brasil y México, de forma más específica.
+  </dct:description>
+    <dct:identifier>IPDRS-Exploraciones-26</dct:identifier>
+    <dc:type>IPDRS - Exploraciones</dc:type>
+    <dc:language>es</dc:language>
+    <dc:coverage>COL</dc:coverage>
+    <dc:subject>Modelos de desarrollo</dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_4881"/>
+    <dc:subject>Organismos multilaterales</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_50260"/>
+    <dc:subject>Pobreza</dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_6151?clang=es"/>
+    <dc:subject>Transferencias monetarias directas</dc:subject>
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+    <dc:rights>IPDRS</dc:rights>
+    <dc:publisher>IPDRS</dc:publisher>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/25">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <dct:title xml:lang="es">Quinua, un alimento del pasado con un futuro incierto</dct:title>
+    <dc:author>Nelson Enzo Yapari Campos</dc:author>
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-10-05</dct:date>
+    <dct:extent>28</dct:extent>
+    <schema:image rdf:resource="https://www.sudamericarural.org/images/exploraciones/Portada explo25.png"/>
+    <bibo:uri rdf:resource="https://www.sudamericarural.org/images/exploraciones/archivos/Exploraciones 25.pdf"/>
+    <dct:description xml:lang="es">Este artículo describe y analiza los orígenes mitológicos y socioculturales de la producción de quinua en la zona altiplánica boliviano - peruana, con elementos de género y culturales, para apoyar la hipótesis del desequilibrio que está causando, en sus palabras, “una irresponsable masificación comercial del grano”. El ensayo forma parte de un trabajo inédito y más amplio del author. El Comité de Calificación del Concurso 2015 lo eligió segundo premio, por su perspectiva regional y por el esfuerzo interdisciplinario para analizar un producto agrícola alimentario de alta incidencia en la economía de ambos países. </dct:description>
+    <dct:identifier>IPDRS-Exploraciones-25</dct:identifier>
+    <dc:type>IPDRS - Exploraciones</dc:type>
+    <dc:language>es</dc:language>
+    <dc:coverage>BOL</dc:coverage>
+    <dc:subject>Agricultura familiar</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1422957329186"/>
+    <dc:subject>Agronegocios</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_208"/>
+    <dc:subject>conflictos por la tierra </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_e236b2b1"/>
+    <dc:subject>Crisis alimentaria</dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_2470?clang=es"/>
+    <dc:subject>Monocultivo</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_4915"/>
+    <dc:subject>Mujeres </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_8420"/>
+    <dc:subject>Uso intensivo de la tierra</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_36551"/>
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+    <dc:rights>IPDRS</dc:rights>
+    <dc:publisher>IPDRS</dc:publisher>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/24">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <dct:title xml:lang="es">Programas FAMILIA en Colombia y Argentina: Umbrales de bienestar y nuevas formas para el tutelaje de los pobres</dct:title>
+    <dc:author>Angélica Gunturiz</dc:author>
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-07-27</dct:date>
+    <dct:extent>29</dct:extent>
+    <schema:image rdf:resource="https://www.sudamericarural.org/images/exploraciones/EXPLORACIONES 24.jpg"/>
+    <bibo:uri rdf:resource="https://www.sudamericarural.org/images/exploraciones/archivos/Exploraciones 24.pdf"/>
+    <dct:description xml:lang="es">Primer premio de la categoría Ensayos del Concurso 2015, el trabajo que ahora presentamos se basa en la investigación Construcción de ciudadanía a través de políticas contra la exclusión social: el caso de “Familias en acción” y “Familias por la inclusión social” en los Conurbanos de Bogotá y Buenos Aires, tesis de maestría de la authora. Gunturiz analiza los programas de transferencias monetarias condicionadas, que han proliferado a lo largo de la región latinoamericana durante las últimas dos décadas, como políticas sociales protagónicas, a partir de la forma en que en las sociedades plantean la cuestión de la integración y la ciudadanía,y cómo ello seplasma en las herramientas de política social. La authora propone este ejercicio en el entendido de que permitirá contribuir a la comprensión de las dinámicas conflictivas en torno a las cuales se definen los sentidos de la política social.
+  </dct:description>
+    <dct:identifier>IPDRS-Exploraciones-24</dct:identifier>
+    <dc:type>IPDRS - Exploraciones</dc:type>
+    <dc:language>es</dc:language>
+    <dc:coverage>COL</dc:coverage>
+    <dc:subject>Exclusión social</dc:subject>
+    <dc:subject>Modelos de desarrollo</dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_4881"/>
+    <dc:subject>Mujeres </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_8420"/>
+    <dc:subject>Pobreza</dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_6151?clang=es"/>
+    <dc:subject>Transferencias monetarias directas</dc:subject>
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+    <dc:rights>IPDRS</dc:rights>
+    <dc:publisher>IPDRS</dc:publisher>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/23">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <dct:title xml:lang="es">Roles de género en la actividad pesquera del Lago Titicaca, reflexiones  para el pensamiento Sudamericano</dct:title>
+    <dc:author>Miriam Julieta Huacani</dc:author>
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-06-08</dct:date>
+    <dct:extent>0</dct:extent>
+    <schema:image rdf:resource="https://www.sudamericarural.org/images/exploraciones/PORTADA EXPORACIONES 23.jpg"/>
+    <bibo:uri rdf:resource="https://www.sudamericarural.org/images/exploraciones/archivos/Exploraciones 23.pdf"/>
+    <dct:description xml:lang="es">El presente ensayo describe detalladamente la participación de mujeres y hombres en la pesca tradicional de una comunidad a orillas del Lago Titicaca, que comparten Bolivia y Perú. El trabajo fue calificado como tercer premio del Concurso anual de artículos y ensayos sobre agricultura familiar comunitaria, destacando de manera especial su esfuerzo para visualizar la participación de las mujeres en una actividad tradicionalmente considerada “masculina”. En el análisis, la authora afirma “que la pesca también constituye otro tipo de agricultura familiar basada en la explotación de peces” y se sumergió en el estudio de caso buscando pistas respecto a la activa participación de las mujeres en esa actividad. </dct:description>
+    <dct:identifier>IPDRS-Exploraciones-23</dct:identifier>
+    <dc:type>IPDRS - Exploraciones</dc:type>
+    <dc:language>es</dc:language>
+    <dc:coverage>BOL</dc:coverage>
+    <dc:subject>Agricultura familiar</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1422957329186"/>
+    <dc:subject>comunidad local </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_45cd8441"/>
+    <dc:subject>Economía campesina</dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_29100?clang=es"/>
+    <dc:subject>Pesca  </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_2934"/>
+    <dc:subject>pueblos indígenas </dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_331524"/>
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+    <dc:rights>IPDRS</dc:rights>
+    <dc:publisher>IPDRS</dc:publisher>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/22">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <dct:title xml:lang="es">Agricultura Familiar Comunitaria, un problema de diseño</dct:title>
+    <dc:author>Mariana Tió Lima</dc:author>
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-03-24</dct:date>
+    <dct:extent>15</dct:extent>
+    <schema:image rdf:resource="https://www.sudamericarural.org/images/exploraciones/Exploraciones22.jpg"/>
+    <bibo:uri rdf:resource="https://www.sudamericarural.org/images/exploraciones/archivos/Exploraciones 22.pdf"/>
+    <dct:description xml:lang="es">Este trabajo, guiado y articulado por interrogantes, encuentra su razón de ser en un ejercicio para posicionar el razonamiento sobre agricultura familiar en una perspectiva comunitaria de la forma más holística que mi entendimiento pueda alcanzar.
+  
+ La idea central es plantear la Agricultura Familiar Comunitaria (AFC) como un problema de diseño, con la premisa de proyectarla como una actividad potenciadora del nexo entre el sector rural y el contexto urbano, generando una amplia y diversa red de relaciones, coherentes y colaborativas, mediante las cuales cada agrupación encuentre su rol específico dentro de un plano comunitario.
+  </dct:description>
+    <dct:identifier>IPDRS-Exploraciones-22</dct:identifier>
+    <dc:type>IPDRS - Exploraciones</dc:type>
+    <dc:language>es</dc:language>
+    <dc:coverage>URY</dc:coverage>
+    <dc:subject>Agricultura familiar</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1422957329186"/>
+    <dc:subject>Biodiversidad</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_33949"/>
+    <dc:subject>Desarrollo sostenible </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_35332"/>
+    <dc:subject>Soberanía alimentaria</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1310718737317"/>
+    <dc:subject>Zonas rurales</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6699"/>
+    <dc:subject>Zonas urbanas </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_8085"/>
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+    <dc:rights>IPDRS</dc:rights>
+    <dc:publisher>IPDRS</dc:publisher>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/21">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <dct:title xml:lang="es">Agriculturas Familiares en Sudamérica: Riesgo de cultivar e ingerir tecnobiopoder</dct:title>
+    <dc:author>Juan David Arias Henao</dc:author>
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-01-17</dct:date>
+    <dct:extent>27</dct:extent>
+    <schema:image rdf:resource="https://www.sudamericarural.org/images/exploraciones/Tapa Exploraciones.jpg"/>
+    <bibo:uri rdf:resource="https://www.sudamericarural.org/images/exploraciones/archivos/Exploraciones 21.pdf"/>
+    <dct:description xml:lang="es">El texto con que retomamos este inicio del año 2015 la difusión de la serie de documentos de trabajo Exploraciones resultó ganador con el primer premio en la categoría ensayos del concurso Alimentos y pensamientos, siempre en agenda, versión 2014. En el trabajo, su author alerta sobre los peligros de la introducción irrestricta de tecnología en la producción de la agricultura familiar, no sólo en términos medioambientales, sino de salubridad e impactos económicos y sociales sobre las condiciones de producción y en la vida diaria de la población. </dct:description>
+    <dct:identifier>IPDRS-Exploraciones-21</dct:identifier>
+    <dc:type>IPDRS - Exploraciones</dc:type>
+    <dc:language>es</dc:language>
+    <dc:coverage>COL</dc:coverage>
+    <dc:subject>Agricultura familiar</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1422957329186"/>
+    <dc:subject>Biodiversidad</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_33949"/>
+    <dc:subject>Economía campesina</dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_29100?clang=es"/>
+    <dc:subject>Globalización</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_37880"/>
+    <dc:subject>Políticas de desarrollo</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_2228"/>
+    <dc:subject>Transgénicos</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_34283"/>
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+    <dc:rights>IPDRS</dc:rights>
+    <dc:publisher>IPDRS</dc:publisher>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/20">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <dct:title xml:lang="es">Juventud indígena, interculturalidad y Vivir Bien</dct:title>
+    <dc:author>Iris Anabel Ortega B.</dc:author>
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-04-07</dct:date>
+    <dct:extent>27</dct:extent>
+    <schema:image rdf:resource="https://www.sudamericarural.org/images/exploraciones/EXPLORACIONES 20.jpg"/>
+    <bibo:uri rdf:resource="https://www.sudamericarural.org/images/exploraciones/archivos/Exploraciones 20.pdf"/>
+    <dct:description xml:lang="es">El texto que presentamos a las y los visitantes de nuestra página recibió el tercer premio en la categoría ensayos del Concurso Alimentos y pensamientos, siempre en agenda con el tema de la versión 2013: "Juventudes Rurales, situación y desafíos". La authora despliega una reflexión sobre el papel que las y los jóvenes indígenas de los países sudamericanos pueden cumplir en la recuperación de la dignidad y el protagonismo de sus pueblos asumiendo el compromiso de investigar, imaginar y proponer los sentidos más concretos y viables que hagan operativo el concepto Vivir Bien.</dct:description>
+    <dct:identifier>IPDRS-Exploraciones-20</dct:identifier>
+    <dc:type>IPDRS - Exploraciones</dc:type>
+    <dc:language>es</dc:language>
+    <dc:coverage>BOL</dc:coverage>
+    <dc:subject>Agronegocios</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_208"/>
+    <dc:subject>Derechos de la naturaleza</dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_16141"/>
+    <dc:subject>Desplazamiento</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_65c7772b"/>
+    <dc:subject>Exclusión social</dc:subject>
+    <dc:subject>Juventud </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_8491"/>
+    <dc:subject>Modelos de desarrollo</dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_4881"/>
+    <dc:subject>pueblos indígenas </dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_331524"/>
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+    <dc:rights>IPDRS</dc:rights>
+    <dc:publisher>IPDRS</dc:publisher>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/19">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <dct:title xml:lang="es">Jóvenes rurales actores y autores</dct:title>
+    <dc:author>Matias Pontoriero</dc:author>
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-02-10</dct:date>
+    <dct:extent>16</dct:extent>
+    <schema:image rdf:resource="https://www.sudamericarural.org/images/exploraciones/Exploraciones 19.jpg"/>
+    <bibo:uri rdf:resource="https://www.sudamericarural.org/images/exploraciones/archivos/exploraciones 19 PDF.pdf"/>
+    <dct:description xml:lang="es"> 
+ Este texto obtuvo el segundo premio en el Concurso Alimentos y Pensamientos, siempre en Agenda con la temática 2013 "Juventudes Rurales, situación y desafíos".  El ensayo presenta una perspectiva sobre la situación actual y el potencial de las y los jóvenes rurales de los países del cono sur,  basada en dos experiencias concretas desarrolladas en esa región. Además de la descripción de los procesos, incluye diversas recomendaciones para promover y potenciar la participación joven en esta parte del mundo. Por razones de espacio la información está resumida, si bien hay un informe que sirvió de texto base, el documento que se presenta incluye actualizaciones y reflexiones nuevas. Puede accederse al texto completo en: Con Nuestras voces, con nuestras manos: Una agenda política de la juventud para la transformación de los territorios rurales. UCAR 2013. http://www.ucar.gob.ar/index.php/biblioteca-multimedia/buscar-publicaciones/23-libros/165-con-nuestras-voces-con-nuestras-manos. </dct:description>
+    <dct:identifier>IPDRS-Exploraciones-19</dct:identifier>
+    <dc:type>IPDRS - Exploraciones</dc:type>
+    <dc:language>es</dc:language>
+    <dc:coverage>ARG</dc:coverage>
+    <dc:subject>acceso a la tierra </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000090"/>
+    <dc:subject>Agricultura familiar</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1422957329186"/>
+    <dc:subject>Juventud </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_8491"/>
+    <dc:subject>Nueva ruralidad</dc:subject>
+    <dc:subject>Políticas de desarrollo</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_2228"/>
+    <dc:subject>Reforma agraria</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_196"/>
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+    <dc:rights>IPDRS</dc:rights>
+    <dc:publisher>IPDRS</dc:publisher>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/18">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <dct:title xml:lang="es">Mujeres Jóvenes Rurales en Colombia</dct:title>
+    <dc:author>Daniela Buendía Silva</dc:author>
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-10-11</dct:date>
+    <dct:extent>21</dct:extent>
+    <schema:image rdf:resource="https://www.sudamericarural.org/images/exploraciones/Explo18.jpg"/>
+    <bibo:uri rdf:resource="https://www.sudamericarural.org/images/exploraciones/archivos/Exploraciones 18 final.pdf"/>
+    <dct:description xml:lang="es"> 
+ La hipótesis principal del presente trabajo es que en la década actual las y los jóvenes rurales de Colombia confrontan con problemas y carencias y, paradójicamente, al mismo tiempo con oportunidades. Se trata de una mirada provocadora y acuciosa sobre la situación general de la juventud rural colombiana y sobre las organizaciones de mujeres en particular, proveyendo algunas líneas de reflexión para el contexto regional sudamericano. Estos fueron los elementos por los que el comité calificador del segundo Concurso anual (2013): Juventudes rurales, situación y desafíos, propiciado por el Instituto para el Desarrollo Rural de Sudamérica (IPDRS), ICCO y Oxfam otorgaron el primer premio, en la categoría ensayos, a la authora del presente trabajo.</dct:description>
+    <dct:identifier>IPDRS-Exploraciones-18</dct:identifier>
+    <dc:type>IPDRS - Exploraciones</dc:type>
+    <dc:language>es</dc:language>
+    <dc:coverage>COL</dc:coverage>
+    <dc:subject>Desplazamiento</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_65c7772b"/>
+    <dc:subject>Juventud </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_8491"/>
+    <dc:subject>Modelos de desarrollo</dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_4881"/>
+    <dc:subject>Mujeres </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_8420"/>
+    <dc:subject>Población rural  </dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_6705"/>
+    <dc:subject>Políticas de desarrollo</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_2228"/>
+    <dc:subject>Violencia</dc:subject>
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+    <dc:rights>IPDRS</dc:rights>
+    <dc:publisher>IPDRS</dc:publisher>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/17">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <dct:title xml:lang="es">Desarrollismo y pachamamismo en las visiones sobre la alimentación en Bolivia</dct:title>
+    <dc:author>Pedro Pachaguaya</dc:author>
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-06-28</dct:date>
+    <dct:extent>27</dct:extent>
+    <schema:image rdf:resource="https://www.sudamericarural.org/images/exploraciones/Exploraciones 17.jpg"/>
+    <bibo:uri rdf:resource="https://www.sudamericarural.org/images/exploraciones/archivos/Exploraciones 17.pdf"/>
+    <dct:description xml:lang="es">¿Las propuestas de desarrollo contemplan y respetan las perspectivas “verdaderas” de las poblaciones indígenas? ¿El desarrollo es una estrategia para despolitizar y explotar a las y los indígenas? ¿Son las ONG un instrumento para ello?
+ Estos y otros temas son abordados provocadoramente en el presente ensayo, que, siempre con el ánimo de contribuir al debate desde distintos enfoques y posiciones, publicamos en esta nueva versión de la serie Exploraciones. El trabajo mereció el tercer city en la categoría ensayos del Concurso 2012: Alimentos y pensamientos, siempre en agenda.
+ Al decir del author, el texto se propone, desde la antropología crítica, “superar el romanticismo exagerado y fuera de la realidad que utilizan indígenas del desarrollo y `neo hipies` que consumen el discurso ecológico y viven de la producción de pobreza, y de-construir el discurso victimizador de las Organizaciones no Gubernamentales (ONG) para (…) despolitizar los imaginarios de resistencia y propuesta de las comunidades, a fin de que no estorben a las reglas del mercado”.  </dct:description>
+    <dct:identifier>IPDRS-Exploraciones-17</dct:identifier>
+    <dc:type>IPDRS - Exploraciones</dc:type>
+    <dc:language>es</dc:language>
+    <dc:coverage>BOL</dc:coverage>
+    <dc:subject>Desarrollo rural  </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6701"/>
+    <dc:subject>Modelos de desarrollo</dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_4881"/>
+    <dc:subject>Pobreza</dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_6151?clang=es"/>
+    <dc:subject>pueblos indígenas </dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_331524"/>
+    <dc:subject>Soberanía alimentaria</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1310718737317"/>
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+    <dc:rights>IPDRS</dc:rights>
+    <dc:publisher>IPDRS</dc:publisher>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/16">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <dct:title xml:lang="es">Sostenibilidad, desafío del desarrollo rural paraguayo</dct:title>
+    <dc:author>Daniela María Solís Ochoa</dc:author>
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-04-08</dct:date>
+    <dct:extent>30</dct:extent>
+    <schema:image rdf:resource="https://www.sudamericarural.org/images/exploraciones/Tapa Exploraciones 16.jpg"/>
+    <bibo:uri rdf:resource="https://www.sudamericarural.org/images/exploraciones/archivos/Exploraciones 16.pdf"/>
+    <dct:description xml:lang="es">Aunque durante los últimos años ha estado varias veces en agenda, principalmente a raíz de sus inesperados cambios de gobierno, Paraguay puede ser un país misterioso para mucha gente, sobre el que se escucha y se sabe poco. Entre lo poco, está su caracterización como país pobre que ha ido cultivando sin pausa una vocación productiva de granos para la exportación.  El texto que presentamos en la versión número 16 de nuestra serie Exploraciones, presenta un amplio telón de fondo sobre las condiciones integrales  del desarrollo paraguayo a tiempo de proponer la hipótesis de que los alentadores índices de crecimiento económico del país no están orientados a revertir las condiciones estructurales de pobreza del mundo rural, por lo que propone una serie de recomendaciones imprescindibles a la hora de formular políticas y proyectos de desarrollo . La authora mereció por este trabajo mención especial en el Concurso alimentos y pensamientos, siempre en agenda, patrocinado por el IPDRS el año 2012. El texto que ahora divulgamos es un summary del documento original.</dct:description>
+    <dct:identifier>IPDRS-Exploraciones-16</dct:identifier>
+    <dc:type>IPDRS - Exploraciones</dc:type>
+    <dc:language>es</dc:language>
+    <dc:coverage>PRY</dc:coverage>
+    <dc:subject>Agroexportación</dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_2761"/>
+    <dc:subject>Agroindustria</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_28831"/>
+    <dc:subject>Contaminación</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_28317"/>
+    <dc:subject>Degradación de tierras</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_34823"/>
+    <dc:subject>Desarrollo rural  </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6701"/>
+    <dc:subject>Desarrollo sostenible </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_35332"/>
+    <dc:subject>Modelos de desarrollo</dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_4881"/>
+    <dc:subject>Pobreza</dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_6151?clang=es"/>
+    <dc:subject>Políticas de desarrollo</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_2228"/>
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+    <dc:rights>IPDRS</dc:rights>
+    <dc:publisher>IPDRS</dc:publisher>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/15">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <dct:title xml:lang="es">Quinua: ¿Cómo evitar que se repita la historia de la papa?</dct:title>
+    <dc:author>Andrea Baudoin Farah </dc:author>
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-01-21</dct:date>
+    <dct:extent>23</dct:extent>
+    <schema:image rdf:resource="https://www.sudamericarural.org/images/exploraciones/Tapa exploraciones 15.jpg"/>
+    <bibo:uri rdf:resource="https://www.sudamericarural.org/images/exploraciones/archivos/tapa exploraciones 15.pdf"/>
+    <dct:description xml:lang="es">En esta oportunidad el Exploraciones 15 publica un trabajo realizado por Andrea Baudoin, quien plantea una serie de desafíos que deberían enfrentar Bolivia y Perú, los principales países andinos productores de quinua. El documento propone que, para no repetir la historia de la papa, estos países deben trabajar de manera inmediata asegurando entre otras cosas la rentabilidad y la sostenibilidad del cultivo de este grano.</dct:description>
+    <dct:identifier>IPDRS-Exploraciones-15</dct:identifier>
+    <dc:type>IPDRS - Exploraciones</dc:type>
+    <dc:language>es</dc:language>
+    <dc:coverage>BOL</dc:coverage>
+    <dc:subject>Agricultura familiar</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1422957329186"/>
+    <dc:subject>Agroexportación</dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_2761"/>
+    <dc:subject>Agroindustria</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_28831"/>
+    <dc:subject>Desarrollo rural  </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6701"/>
+    <dc:subject>Desarrollo sostenible </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_35332"/>
+    <dc:subject>Economía campesina</dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_29100?clang=es"/>
+    <dc:subject>Globalización</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_37880"/>
+    <dc:subject>Soberanía alimentaria</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1310718737317"/>
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+    <dc:rights>IPDRS</dc:rights>
+    <dc:publisher>IPDRS</dc:publisher>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/14">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <dct:title xml:lang="es">Soberanía alimentaria, entre el despojo y el Buen Vivir</dct:title>
+    <dc:author>Fredy Napoleón Páez Castro </dc:author>
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-11-19</dct:date>
+    <dct:extent>24</dct:extent>
+    <schema:image rdf:resource="https://www.sudamericarural.org/images/exploraciones/Exploraciones 14.jpg"/>
+    <bibo:uri rdf:resource="https://www.sudamericarural.org/images/exploraciones/archivos/Exploraciones 14.pdf"/>
+    <dct:description xml:lang="es">El documento publicado en el Exploraciones 14 informa y reflexiona sobre la inseguridad alimentaria en Colombia en un contexto de violencia y al mismo tiempo, da cuenta de experiencias esperanzadoras para atender el problema. El trabajo de Fredy Napoleón Páez mereció el segundo premio de la categoría Ensayos en el Concurso Alimentos y pensamiento, siempre en agenda, llevado a cabo por el IPDRS en alianza con ICCO y OXFAM.</dct:description>
+    <dct:identifier>IPDRS-Exploraciones-14</dct:identifier>
+    <dc:type>IPDRS - Exploraciones</dc:type>
+    <dc:language>es</dc:language>
+    <dc:coverage>COL</dc:coverage>
+    <dc:subject>Desposesión</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_781deefb"/>
+    <dc:subject>Modelos de desarrollo</dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_4881"/>
+    <dc:subject>Seguridad alimentaria</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_10967"/>
+    <dc:subject>Semillas</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6946"/>
+    <dc:subject>Soberanía alimentaria</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1310718737317"/>
+    <dc:subject>Transgénicos</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_34283"/>
+    <dc:subject>Violencia</dc:subject>
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+    <dc:rights>IPDRS</dc:rights>
+    <dc:publisher>IPDRS</dc:publisher>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/13">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <dct:title xml:lang="pt">Terras Indígenas: garantía de sobrevivência física e cultural dos povos</dct:title>
+    <dc:author>Diego do Santos</dc:author>
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-10-11</dct:date>
+    <dct:extent>24</dct:extent>
+    <schema:image rdf:resource="https://www.sudamericarural.org/images/exploraciones/Tapa Exploraciones 13.jpg"/>
+    <bibo:uri rdf:resource="https://www.sudamericarural.org/images/exploraciones/archivos/Exploraciones 13.pdf"/>
+    <dct:description xml:lang="pt">A terra é um dos fundamentos da cultura e da própria existência dos povos indígenas. A terra é dotado de valor simbólico, além de ser uma propriedade. Por isso, é um símbolo da luta indígena de auto-preservação e auto-determinação. Você luta pela terra, além do espaço territorial em si. Ele simboliza a preservação da existência dos diferentes povos indígenas. Nesta linha de pensamento, este ensaio visitar a história contemporânea do processo dos direitos indígenas no Brasil, com base em estereótipos e preconceitos sobre suas identidades até o conteúdo da legislação específica.</dct:description>
+    <dct:identifier>IPDRS-Exploraciones-13</dct:identifier>
+    <dc:type>IPDRS - Exploraciones</dc:type>
+    <dc:language>pt</dc:language>
+    <dc:coverage>BRA</dc:coverage>
+    <dc:subject>acceso a la tierra </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000090"/>
+    <dc:subject>conflictos por la tierra </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_e236b2b1"/>
+    <dc:subject>Derechos sobre tierras indígenas</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_d42b49e7"/>
+    <dc:subject>Extractivismo</dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_5d3b8015"/>
+    <dc:subject>Modelos de desarrollo</dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_4881"/>
+    <dc:subject>Poder político</dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_49988"/>
+    <dc:subject>pueblos indígenas </dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_331524"/>
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+    <dc:rights>IPDRS</dc:rights>
+    <dc:publisher>IPDRS</dc:publisher>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/11">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <dct:title xml:lang="es">Menonitas del Chaco boliviano paraguayo</dct:title>
+    <dc:author>Oscar Bazoberry Chali</dc:author>
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-07-24</dct:date>
+    <dct:extent>15</dct:extent>
+    <schema:image rdf:resource="https://www.sudamericarural.org/images/exploraciones/exp_11_corregido_1.jpg"/>
+    <bibo:uri rdf:resource="https://www.sudamericarural.org/images/exploraciones/archivos/exploraciones_11.pdf"/>
+    <dct:description xml:lang="es">El ensayo intenta comprender mejor al grupo de los menonitas, sobre el cual se ha escrito mucho, por lo que se plantea una aproximación diferente. La mayoría de lo producido recurre a la descripción histórica, cultural y religiosa, entre la que se encuentran valoraciones, autoafirmaciones positivas y alertas sobre los crecientes y muchas veces negativos impactos ambientales, económicos y sociales que estas poblaciones están causando.
+ Como marco general de análisis se recurre a la teoría de las culturas, porque exige una aproximación más analítica y ayuda con elementos diferentes a lo ya dicho y escrito, para un ejercicio que pretende contribuir con una ampliación de la perspectiva.</dct:description>
+    <dct:identifier>IPDRS-Exploraciones-11</dct:identifier>
+    <dc:type>IPDRS - Exploraciones</dc:type>
+    <dc:language>es</dc:language>
+    <dc:coverage>BOL</dc:coverage>
+    <dc:subject>acceso a la tierra </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000090"/>
+    <dc:subject>conflictos por la tierra </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_e236b2b1"/>
+    <dc:subject>pueblos indígenas </dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_331524"/>
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+    <dc:rights>IPDRS</dc:rights>
+    <dc:publisher>IPDRS</dc:publisher>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/12">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <dct:title xml:lang="es">OEA y la Seguridad Alimentaria: la oportunidad perdida</dct:title>
+    <dc:author>Julio Prudencio Böhrt</dc:author>
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-07-11</dct:date>
+    <dct:extent>27</dct:extent>
+    <schema:image rdf:resource="https://www.sudamericarural.org/images/exploraciones/exploraciones_12_1.jpg"/>
+    <bibo:uri rdf:resource="https://www.sudamericarural.org/images/exploraciones/archivos/exploraciones_12.pdf"/>
+    <dct:description xml:lang="es">El documento analiza la Declaración de la Organización de Estados Americanos (OEA) sobre seguridad alimentaria en el marco de una perspectiva histórica de la construcción de esa definición, así como de los distintos momentos en los que se la debatió y de las experiencias regionales y nacionales logradas hasta el momento.
+ Al concluir el texto, las y los lectores tendrán una viión panorámica integral del contenido de la declaración, sus debilidades, ausencias y, más importante aún, los desafíos hacia el futuro inmediato. </dct:description>
+    <dct:identifier>IPDRS-Exploraciones-12</dct:identifier>
+    <dc:type>IPDRS - Exploraciones</dc:type>
+    <dc:language>es</dc:language>
+    <dc:coverage>BOL</dc:coverage>
+    <dc:subject>Agricultura familiar</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1422957329186"/>
+    <dc:subject>Agrocombustibles</dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_27465"/>
+    <dc:subject>Agroindustria</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_28831"/>
+    <dc:subject>Crisis alimentaria</dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_2470?clang=es"/>
+    <dc:subject>Modelos de desarrollo</dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_4881"/>
+    <dc:subject>Monocultivo</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_4915"/>
+    <dc:subject>Seguridad alimentaria</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_10967"/>
+    <dc:subject>Soberanía alimentaria</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1310718737317"/>
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+    <dc:rights>IPDRS</dc:rights>
+    <dc:publisher>IPDRS</dc:publisher>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/10">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <dct:title xml:lang="es">Búsqueda bibliográfica sobre seguridad y soberanía alimentaria en Sudamérica</dct:title>
+    <dc:author>Rosario Guerra</dc:author>
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-10-21</dct:date>
+    <dct:extent>50</dct:extent>
+    <schema:image rdf:resource="https://www.sudamericarural.org/images/exploraciones/exploraciones_10.jpg"/>
+    <bibo:uri rdf:resource="https://www.sudamericarural.org/images/exploraciones/archivos/exploraciones_10_final6084db7c.pdf"/>
+    <dct:description xml:lang="es">Los contenidos relacionados con la Seguridad y Soberanía Alimentaria están cada vez más presentes en las agendas académicas, políticas y sociales del desarrollo rural en Sudamérica. Sin embargo, no se trata de un tema nuevo. Por el contrario, como puede verse en el presente texto, su tratamiento es fácilmente rastreable en documentos de investigación y propuestas de organizaciones y movimientos sociales, de gobiernos y de Organizaciones no Gubernamentales (ONG).</dct:description>
+    <dct:identifier>IPDRS-Exploraciones-10</dct:identifier>
+    <dc:type>IPDRS - Exploraciones</dc:type>
+    <dc:language>es</dc:language>
+    <dc:coverage>BOL</dc:coverage>
+    <dc:subject>Agricultura</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_203"/>
+    <dc:subject>Desarrollo rural  </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6701"/>
+    <dc:subject>Ecología</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_2467"/>
+    <dc:subject>Investigación </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6513"/>
+    <dc:subject>Políticas de desarrollo</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_2228"/>
+    <dc:subject>Seguridad alimentaria</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_10967"/>
+    <dc:subject>Soberanía alimentaria</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1310718737317"/>
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+    <dc:rights>IPDRS</dc:rights>
+    <dc:publisher>IPDRS</dc:publisher>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/9">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <dct:title xml:lang="es">Transgénicos en Sudamérica</dct:title>
+    <dc:author>Elizabeth Bravo</dc:author>
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-09-15</dct:date>
+    <dct:extent>41</dct:extent>
+    <schema:image rdf:resource="https://www.sudamericarural.org/images/exploraciones/exploraciones_9.jpg"/>
+    <bibo:uri rdf:resource="https://www.sudamericarural.org/images/exploraciones/archivos/exploraciones_9_transgenicos_en_sudamerica3d85d721.pdf"/>
+    <dct:description xml:lang="es">Este documento, dirigido a un amplio público de personas interesadas en los diversos temas del desarrollorural en Sudamérica, respecto a los cultivos transgenicos pretende mostrar, desde una perspectiva muy general, el origen del debate en la región,sus principales aspectos, los sujetos participantes y las líneas centrales de su contenido en los próximos años.</dct:description>
+    <dct:identifier>IPDRS-Exploraciones-9</dct:identifier>
+    <dc:type>IPDRS - Exploraciones</dc:type>
+    <dc:language>es</dc:language>
+    <dc:coverage>ECU</dc:coverage>
+    <dc:subject>Agroindustria</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_28831"/>
+    <dc:subject>Desarrollo rural  </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6701"/>
+    <dc:subject>Extranjerización de la tierra</dc:subject>
+    <dc:subject>Modelos de desarrollo</dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_4881"/>
+    <dc:subject>Semillas</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6946"/>
+    <dc:subject>Transgénicos</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_34283"/>
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+    <dc:rights>IPDRS</dc:rights>
+    <dc:publisher>IPDRS</dc:publisher>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/8">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <dct:title xml:lang="es">La tierra en Sudamérica</dct:title>
+    <dc:author>Silvia Lilian Ferro</dc:author>
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-06-23</dct:date>
+    <dct:extent>35</dct:extent>
+    <schema:image rdf:resource="https://www.sudamericarural.org/images/exploraciones/exploraciones_8_1.jpg"/>
+    <bibo:uri rdf:resource="https://www.sudamericarural.org/images/exploraciones/archivos/exploraciones_8.pdf"/>
+    <dct:description xml:lang="es">Este documento considera en perspectiva histórica el rol que las políticas comerciales y las políticas públicas que los Estados Nacionales implementan, y que tienen un papel decisivo en el incremento o disminución de las brechas de inequidad de acceso a las tierras rurales por parte de los distintos sectores sociales agrarios, así como la vinculación de estas políticas comerciales con la atenuación o intensificación de la conflictividad derivada, en general de una estructura social y económica agraria y en particular de una estructura de propiedad de la tierra con fuertes rasgos de desigualdad en Sudamérica.</dct:description>
+    <dct:identifier>IPDRS-Exploraciones-8</dct:identifier>
+    <dc:type>IPDRS - Exploraciones</dc:type>
+    <dc:language>es</dc:language>
+    <dc:coverage>ARG</dc:coverage>
+    <dc:subject>acceso a la tierra </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000090"/>
+    <dc:subject>derechos de propiedad</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_37942"/>
+    <dc:subject>Modelos de desarrollo</dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_4881"/>
+    <dc:subject>Políticas de desarrollo</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_2228"/>
+    <dc:subject>Reformas</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_bb4738d4"/>
+    <dc:subject>Seguridad alimentaria</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_10967"/>
+    <dc:subject>Soberanía alimentaria</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1310718737317"/>
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+    <dc:rights>IPDRS</dc:rights>
+    <dc:publisher>IPDRS</dc:publisher>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/7">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <dct:title xml:lang="es">Propiedad de la tierra en el MERCOSUR</dct:title>
+    <dc:author>Silvia Lilian Ferro</dc:author>
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-02-08</dct:date>
+    <dct:extent>27</dct:extent>
+    <schema:image rdf:resource="https://www.sudamericarural.org/images/exploraciones/exploraciones_7_1.jpg"/>
+    <bibo:uri rdf:resource="https://www.sudamericarural.org/images/exploraciones/archivos/exploraciones_7.pdf"/>
+    <dct:description xml:lang="es">Las asimetrías en la propiedad de la tierra en los países del MERCOSUR se originaron, desde mediados del Siglo XIX, en procesos históricos resultantes de políticas económicas y demográficas impulsadas por los incipientes Estados nacionales de la región. El tema de la tierra es tratado generalmente sólo como recurso productivo agrario, y con frecuencia aparece descontextualizado de los factores que determinan las condiciones de su acceso y uso por parte de los diferentes sectores socio-agrarios de cada país y en el plano regional. En el presente documento se analizan diacrónicamente estas variables, para dar cuenta de una realidad dinámica y compleja de las evidentes asimetrías en la propiedad de la tierra en los países del Cono Sur, y realiza prospectivas en vista de su protagonismo mundial en la producción y exportación de alimentos.</dct:description>
+    <dct:identifier>IPDRS-Exploraciones-7</dct:identifier>
+    <dc:type>IPDRS - Exploraciones</dc:type>
+    <dc:language>es</dc:language>
+    <dc:coverage>ARG</dc:coverage>
+    <dc:subject>Agricultura familiar</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1422957329186"/>
+    <dc:subject>Agroindustria</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_28831"/>
+    <dc:subject>Crisis alimentaria</dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_2470?clang=es"/>
+    <dc:subject>Crisis financiera</dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_2470"/>
+    <dc:subject>Ecología</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_2467"/>
+    <dc:subject>Modelos de desarrollo</dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_4881"/>
+    <dc:subject>Propiedad de la tierra </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_28718"/>
+    <dc:subject>renta de la tierra </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_7bea427c"/>
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+    <dc:rights>IPDRS</dc:rights>
+    <dc:publisher>IPDRS</dc:publisher>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/6">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <dct:title xml:lang="es">Mapuche: resistencia y propuestas</dct:title>
+    <dc:author>Elvis Espinoza Gutierrez</dc:author>
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-12-07</dct:date>
+    <dct:extent>29</dct:extent>
+    <schema:image rdf:resource="https://www.sudamericarural.org/images/exploraciones/exploraciones_6_1.jpg"/>
+    <bibo:uri rdf:resource="https://www.sudamericarural.org/images/exploraciones/archivos/exploraciones_6.pdf"/>
+    <dct:description xml:lang="es">Este documento pretende explicar las causas del denominado “conflicto mapuche”, vivido en Chile en los últimos meses, expresado, en principio, por 32 weichafes (guerreros, luchadores) que estuvieron en huelga de hambre en las cárceles de la VIII, IX y X región, donde se encuentran detenidos por la ley anti-terrorista forjada en el gobierno militar de Pinochet, en el siglo pasado, y ratificada por los gobiernos democráticos post-dictadura.</dct:description>
+    <dct:identifier>IPDRS-Exploraciones-6</dct:identifier>
+    <dc:type>IPDRS - Exploraciones</dc:type>
+    <dc:language>es</dc:language>
+    <dc:coverage>CHL</dc:coverage>
+    <dc:subject>Contaminación</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_28317"/>
+    <dc:subject>Modelos de desarrollo</dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_4881"/>
+    <dc:subject>Monocultivo</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_4915"/>
+    <dc:subject>pueblos indígenas </dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_331524"/>
+    <dc:subject>Transgénicos</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_34283"/>
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+    <dc:rights>IPDRS</dc:rights>
+    <dc:publisher>IPDRS</dc:publisher>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/5">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <dct:title xml:lang="es">Relaciones comerciales entre Bolivia y Paraguay</dct:title>
+    <dc:author>Marco Antonio Romay Hochkofler</dc:author>
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-09-16</dct:date>
+    <dct:extent>49</dct:extent>
+    <schema:image rdf:resource="https://www.sudamericarural.org/images/exploraciones/200x150_exploraciones_5.jpg"/>
+    <bibo:uri rdf:resource="https://www.sudamericarural.org/images/exploraciones/archivos/exploraciones_5.pdf"/>
+    <dct:description xml:lang="es">El documento analiza el relacionamiento comercial entre Bolivia y Paraguay, ofrece datos que pueden mejorar el conocimiento sobre la realidad de la región para contribuir a mayores oportunidades económicas para la población rural empobrecida del Chaco de ambos países, especialmente la indígena.</dct:description>
+    <dct:identifier>IPDRS-Exploraciones-5</dct:identifier>
+    <dc:type>IPDRS - Exploraciones</dc:type>
+    <dc:language>es</dc:language>
+    <dc:coverage>BOL</dc:coverage>
+    <dc:subject>Agroexportación</dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_2761"/>
+    <dc:subject>Agroindustria</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_28831"/>
+    <dc:subject>Modelos de desarrollo</dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_4881"/>
+    <dc:subject>Políticas de desarrollo</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_2228"/>
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+    <dc:rights>IPDRS</dc:rights>
+    <dc:publisher>IPDRS</dc:publisher>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/4">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <dct:title xml:lang="es">La agricultura chilena y el terremoto de 2010</dct:title>
+    <dc:author>Miguel Ignacio Jerez Nuñez</dc:author>
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-07-29</dct:date>
+    <dct:extent>23</dct:extent>
+    <schema:image rdf:resource="https://www.sudamericarural.org/images/exploraciones/exploraciones_4_tapa.jpg"/>
+    <bibo:uri rdf:resource="https://www.sudamericarural.org/images/exploraciones/archivos/exploraciones_4.pdf"/>
+    <dct:description xml:lang="es">El texto describe el impacto del terremoto de febrero de 2010 sobre la dinámica del mundo rural chileno, analizando el impacto económico por el daño a la infraestructura productiva, el impacto en la definición y orientación de las políticas agrarias y el impacto asociado a las transformaciones en los asentamientos humanos y las relaciones sociales subyacentes.</dct:description>
+    <dct:identifier>IPDRS-Exploraciones-4</dct:identifier>
+    <dc:type>IPDRS - Exploraciones</dc:type>
+    <dc:language>es</dc:language>
+    <dc:coverage>CHL</dc:coverage>
+    <dc:subject>Agricultura familiar</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1422957329186"/>
+    <dc:subject>Agroindustria</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_28831"/>
+    <dc:subject>Crisis alimentaria</dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_2470?clang=es"/>
+    <dc:subject>Desarrollo rural  </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6701"/>
+    <dc:subject>Desastres naturales </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_10391"/>
+    <dc:subject>Políticas agrarias</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_195"/>
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+    <dc:rights>IPDRS</dc:rights>
+    <dc:publisher>IPDRS</dc:publisher>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/2">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <dct:title xml:lang="es">Acerca de los cambios climáticos en Sudamérica </dct:title>
+    <dc:author>Rodrigo López Sánchez</dc:author>
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-04-23</dct:date>
+    <dct:extent>57</dct:extent>
+    <schema:image rdf:resource="https://www.sudamericarural.org/images/exploraciones/exploraciones2.jpg"/>
+    <bibo:uri rdf:resource="https://www.sudamericarural.org/images/exploraciones/archivos/exploraciones_3.pdf"/>
+    <dct:description xml:lang="es">El documento explica y analiza los impactos de los cambios climáticos en Sudamérica reflejados en el retroceso de los glaciares, la agricultura. los ecosistemas, la salud y las iniciativas de mitigación existentes en la región.</dct:description>
+    <dct:identifier>IPDRS-Exploraciones-2</dct:identifier>
+    <dc:type>IPDRS - Exploraciones</dc:type>
+    <dc:language>es</dc:language>
+    <dc:coverage>BOL</dc:coverage>
+    <dc:subject>Agricultura</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_203"/>
+    <dc:subject>Cambio climático </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1666"/>
+    <dc:subject>Contaminación</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_28317"/>
+    <dc:subject>Deforestación  </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_15590"/>
+    <dc:subject>Desertificación</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_2204"/>
+    <dc:subject>Organismos multilaterales</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_50260"/>
+    <dc:subject>Pobreza</dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_6151?clang=es"/>
+    <dc:subject>Seguridad alimentaria</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_10967"/>
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+    <dc:rights>IPDRS</dc:rights>
+    <dc:publisher>IPDRS</dc:publisher>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/3">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <dct:title xml:lang="es">Mapa de actores institucionales multilaterales para el desarrollo rural en Sudamérica</dct:title>
+    <dc:author>Germán Huanca Luna</dc:author>
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-04-23</dct:date>
+    <dct:extent>41</dct:extent>
+    <schema:image rdf:resource="https://www.sudamericarural.org/images/exploraciones/exploracion3.jpg"/>
+    <bibo:uri rdf:resource="https://www.sudamericarural.org/images/exploraciones/archivos/exploraciones_2.pdf"/>
+    <dct:description xml:lang="es">Este documento ofrece un mapa de los actores institucionales multilaterales (BID, FIDA, BM, FAO, IICA, CEPAL, USAID, GTZ Y UE) de carácter financiero o técnico, que trabajan en la temática de desarrollo rural sudamericano.</dct:description>
+    <dct:identifier>IPDRS-Exploraciones-3</dct:identifier>
+    <dc:type>IPDRS - Exploraciones</dc:type>
+    <dc:language>es</dc:language>
+    <dc:coverage>BOL</dc:coverage>
+    <dc:subject>Agencias de desarrollo </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_2224"/>
+    <dc:subject>Desarrollo rural  </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6701"/>
+    <dc:subject>Desarrollo sostenible </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_35332"/>
+    <dc:subject>Modelos de desarrollo</dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_4881"/>
+    <dc:subject>Organismos multilaterales</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_50260"/>
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+    <dc:rights>IPDRS</dc:rights>
+    <dc:publisher>IPDRS</dc:publisher>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.sudamericarural.org/index.php/nuestra-produccion/exploraciones/exploracion/1">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <dct:title xml:lang="es">Desarrollo rural e institucionalidad en los países andinos</dct:title>
+    <dc:author>Oscar Bazoberry Chali</dc:author>
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2008-08-29</dct:date>
+    <dct:extent>44</dct:extent>
+    <schema:image rdf:resource="https://www.sudamericarural.org/images/exploraciones/150x125_exploraciones_1.jpg"/>
+    <bibo:uri rdf:resource="https://www.sudamericarural.org/images/exploraciones/archivos/exploraciones_1.pdf"/>
+    <dct:description xml:lang="es">Estudio descriptivo y exploratorio sobre la situación general del desarrollo rural y sus principales actores en los cuatro países andinos, Bolivia, Colombia, Ecuador y Perú. Se realizó con la colaboración de consultores en cada país.</dct:description>
+    <dct:identifier>IPDRS-Exploraciones-1</dct:identifier>
+    <dc:type>IPDRS - Exploraciones</dc:type>
+    <dc:language>es</dc:language>
+    <dc:coverage>BOL</dc:coverage>
+    <dc:subject>acceso a la tierra </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9000090"/>
+    <dc:subject>Acuerdos de libre comercio</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_3ffda84e"/>
+    <dc:subject>Asalariados rurales</dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_8684"/>
+    <dc:subject>concentración de la tierra</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_8654e90e"/>
+    <dc:subject>Descentralización </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_2143"/>
+    <dc:subject>Extractivismo</dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_5d3b8015"/>
+    <dc:subject>Globalización</dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_37880"/>
+    <dc:subject>Modelos de desarrollo</dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_4881"/>
+    <dc:subject>pueblos indígenas </dc:subject>
+    <dct:subject rdf:resource="http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_331524"/>
+    <dc:subject>Urbanización  </dc:subject>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_8088"/>
+    <dc:license>All rights reserved</dc:license>
+    <dct:license rdf:resource="http://landportal.info/voc/license/all-rights-reserved"/>
+    <dc:rights>IPDRS</dc:rights>
+    <dc:publisher>IPDRS</dc:publisher>
+  </rdf:Description>
+</rdf:RDF>
