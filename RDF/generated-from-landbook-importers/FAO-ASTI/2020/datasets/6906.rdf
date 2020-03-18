@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:schema="http://schema.org/"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-ASTI">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#DataSet"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+    <schema:image rdf:resource="https://landportal.org/sites/landportal.org/files/asti-logo.jpg"/>
+    <schema:logo rdf:resource="https://landportal.org/sites/landportal.org/files/asti-logo.jpg"/>
+    <dct:identifier>FAO-ASTI</dct:identifier>
+    <skos:notation>FAO-ASTI</skos:notation>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_203"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1dfe5bfe"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_4182"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6513"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6705"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_8420"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INST"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_203"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_1dfe5bfe"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_4182"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_6513"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_6705"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_8420"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INST"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
+    <dct:license rdf:resource="http://purl.org/NET/rdflicense/cc-by-nc4.0"/>
+    <schema:license rdf:resource="http://purl.org/NET/rdflicense/cc-by-nc4.0"/>
+    <dct:publisher rdf:resource="http://data.landportal.info/organization/11005528-e13b-45b2-814a-5bb54c84bdfe"/>
+    <skos:prefLabel>ASTI - Agricultural Science and Technology Indicators (IFPRI/CGIAR/FAO)</skos:prefLabel>
+    <rdfs:label>ASTI - Agricultural Science and Technology Indicators (IFPRI/CGIAR/FAO)</rdfs:label>
+    <dct:title>ASTI - Agricultural Science and Technology Indicators (IFPRI/CGIAR/FAO)</dct:title>
+    <skos:definition>The ASTI (Agricultural Science and Technology Indicators) dataset contains open-access data and analysis on agricultural research investment and capacity in low and middle-income countries. This information is fundamental to understanding the contribution of agricultural science and technology (S&amp;amp;T) to agricultural growth. Indicators derived from such information allow the performance, inputs, and outcomes of agricultural S&amp;amp;T systems to be measured, monitored, and benchmarked. These indicators assist S&amp;amp;T stakeholders in formulating policy, setting priorities, and undertaking strategic planning, monitoring, and evaluation. They also provide information to governments, policy research institutes, universities, and private-sector organizations involved in public debate on the state of agricultural S&amp;amp;T.</skos:definition>
+    <dct:description>The ASTI (Agricultural Science and Technology Indicators) dataset contains open-access data and analysis on agricultural research investment and capacity in low and middle-income countries. This information is fundamental to understanding the contribution of agricultural science and technology (S&amp;amp;T) to agricultural growth. Indicators derived from such information allow the performance, inputs, and outcomes of agricultural S&amp;amp;T systems to be measured, monitored, and benchmarked. These indicators assist S&amp;amp;T stakeholders in formulating policy, setting priorities, and undertaking strategic planning, monitoring, and evaluation. They also provide information to governments, policy research institutes, universities, and private-sector organizations involved in public debate on the state of agricultural S&amp;amp;T.</dct:description>
+    <rdfs:comment>The ASTI (Agricultural Science and Technology Indicators) dataset contains open-access data and analysis on agricultural research investment and capacity in low and middle-income countries. This information is fundamental to understanding the contribution of agricultural science and technology (S&amp;amp;T) to agricultural growth. Indicators derived from such information allow the performance, inputs, and outcomes of agricultural S&amp;amp;T systems to be measured, monitored, and benchmarked. These indicators assist S&amp;amp;T stakeholders in formulating policy, setting priorities, and undertaking strategic planning, monitoring, and evaluation. They also provide information to governments, policy research institutes, universities, and private-sector organizations involved in public debate on the state of agricultural S&amp;amp;T.</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/24"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/datasets/datwb0"/>
+  </rdf:Description>
+
+</rdf:RDF>
