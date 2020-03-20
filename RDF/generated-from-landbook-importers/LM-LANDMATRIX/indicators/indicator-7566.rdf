@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/LM-N14">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_203"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_89d3dcbb"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_666dbc26"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_9a4f48b4"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INVEST"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_203"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_89d3dcbb"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_666dbc26"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_9a4f48b4"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INVEST"/>
+    <dct:identifier>LM-N14</dct:identifier>
+    <skos:notation>LM-N14</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/LM-LANDMATRIX"/>
+    <sdmx-attribute:unitMeasure>Number</sdmx-attribute:unitMeasure>
+    <rdfs:label>Total number of biofuel (Agriculture) deals</rdfs:label>
+    <skos:prefLabel>Total number of biofuel (Agriculture) deals</skos:prefLabel>
+    <dct:title>Total number of biofuel (Agriculture) deals</dct:title>
+    <skos:definition>Total number of biofuel (Agriculture) deals in a gven country over the overall time period 2000-2015. A &quot;deal&quot; is referred to as an intended, concluded or failed attempt to acquire at least 200 Ha of land through purchase, lease or concession. For more information, please see: http://www.landmatrix.org/en/about/.</skos:definition>
+    <dct:description>Total number of biofuel (Agriculture) deals in a gven country over the overall time period 2000-2015. A &quot;deal&quot; is referred to as an intended, concluded or failed attempt to acquire at least 200 Ha of land through purchase, lease or concession. For more information, please see: http://www.landmatrix.org/en/about/.</dct:description>
+    <rdfs:comment>Total number of biofuel (Agriculture) deals in a gven country over the overall time period 2000-2015. A &quot;deal&quot; is referred to as an intended, concluded or failed attempt to acquire at least 200 Ha of land through purchase, lease or concession. For more information, please see: http://www.landmatrix.org/en/about/.</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicators/lm-n14"/>
+  </rdf:Description>
+
+</rdf:RDF>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/LM-N9">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_5d3b8015"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_89d3dcbb"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_666dbc26"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_4182"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INVEST"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_5d3b8015"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_89d3dcbb"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_666dbc26"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_4182"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-INVEST"/>
+    <dct:identifier>LM-N9</dct:identifier>
+    <skos:notation>LM-N9</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/LM-LANDMATRIX"/>
+    <sdmx-attribute:unitMeasure>Number</sdmx-attribute:unitMeasure>
+    <rdfs:label>Total Number of Industry Deals</rdfs:label>
+    <skos:prefLabel>Total Number of Industry Deals</skos:prefLabel>
+    <dct:title>Total Number of Industry Deals</dct:title>
+    <skos:definition>Total number of deals having as main object purposes related to Industry, in a given country over the period 2000-2015. A &quot;deal&quot; is referred to as an intended, concluded or failed attempt to acquire at least 200 Ha of land through purchase, lease or concession.</skos:definition>
+    <dct:description>Total number of deals having as main object purposes related to Industry, in a given country over the period 2000-2015. A &quot;deal&quot; is referred to as an intended, concluded or failed attempt to acquire at least 200 Ha of land through purchase, lease or concession.</dct:description>
+    <rdfs:comment>Total number of deals having as main object purposes related to Industry, in a given country over the period 2000-2015. A &quot;deal&quot; is referred to as an intended, concluded or failed attempt to acquire at least 200 Ha of land through purchase, lease or concession.</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicators/indlm4"/>
+  </rdf:Description>
+
+</rdf:RDF>
