@@ -1,0 +1,6 @@
+DESCRIBE ?obs
+FROM <http://tmp.landportal.info>
+WHERE { 
+  ?obs a qb:Observation ;
+    cex:ref-indicator <http://data.landportal.info/indicator/WB-SI.POV.NAGP> 
+}
