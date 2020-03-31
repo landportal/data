@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:schema="http://schema.org/"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-GLPSR">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#DataSet"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+    <schema:image rdf:resource="https://landportal.org/sites/landportal.org/files/production_FAO-ILRI_v5_0.jpg"/>
+    <schema:logo rdf:resource="https://landportal.org/sites/landportal.org/files/production_FAO-ILRI_v5_0.jpg"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1666"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_2593"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_25243"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_97241aeb"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6448"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_7fc44e33"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_36580"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-ENVIR"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-PASTOR"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_1666"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_2593"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_25243"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_97241aeb"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_6448"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_7fc44e33"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_36580"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-ENVIR"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-PASTOR"/>
+    <dct:publisher rdf:resource="http://data.landportal.info/organization/11005528-e13b-45b2-814a-5bb54c84bdfe"/>
+    <dct:identifier>FAO-GLPSR</dct:identifier>
+    <skos:notation>FAO-GLPSR</skos:notation>
+    <dc:rights rdf:datatype="http://www.w3.org/2001/XMLSchema#string">To ensure wide dissemination of its information, FAO is committed to making its content freely available and encourages the use, reproduction and dissemination of the text, multimedia and data presented. Except where otherwise indicated, content may be copied, printed and downloaded for private study, research and teaching purposes, and for use in non-commercial products or services, provided that appropriate acknowledgement of FAO as the source and copyright holder is given and that FAO's endorsement of users' views, products or services is not stated or implied in any way. More details in the FAO Terms and conditions webpage.</dc:rights>
+    <skos:prefLabel>FAO/ILRI - Global Livestock Production Systems in Rangelands</skos:prefLabel>
+    <rdfs:label>FAO/ILRI - Global Livestock Production Systems in Rangelands</rdfs:label>
+    <dct:title>FAO/ILRI - Global Livestock Production Systems in Rangelands</dct:title>
+    <skos:definition>The dataset &quot;Global Livestock Production Systems in Rangelands&quot; presents a subset of data from the Map of Global Livestock Production Systems (version 5), a joint initiative between FAO and ILRI. It contains country-level indicators that measure the extension (in sq. km) of livestock-sistem only in rangeland-based areas, disaggregated by hyperarid (LGY) and arid/semi-arid (LGA) zones. The full reference for the Map of Global Livestock Production Systems (version 5) is: Robinson TP, Thornton PK, Franceschini G, Kruska RL, Chiozza F, et al., (2011): Global livestock production systems. Rome: Food and Agriculture Organization of the United Nations (FAO) and International Livestock Research Institute (ILRI). pp. 152. http://www.fao.org/docrep/014/i2414e/i2414e.pdf. Further Information on the Map of Global Livestock Production Systems is available here: http://www.fao.org/ag/againfo/resources/en/glw/GLW_prod-sys.html. For more information about the fulll data included in the The Gridded Livestock of the World (GLW) database, please refer to:Robinson, T.P., Wint, G.R.W., Conchedda, G., Van Boeckel, T.P., Ercoli, V., Palamara, E., Cinardi, G., D’Aietti, L., Hay, S.I and Gilbert, M. (2014) Mapping the global distribution of livestock. PLoS ONE 9(5): e96084. doi:10.1371/journal.pone.0096084.</skos:definition>
+    <dct:description>The dataset &quot;Global Livestock Production Systems in Rangelands&quot; presents a subset of data from the Map of Global Livestock Production Systems (version 5), a joint initiative between FAO and ILRI. It contains country-level indicators that measure the extension (in sq. km) of livestock-sistem only in rangeland-based areas, disaggregated by hyperarid (LGY) and arid/semi-arid (LGA) zones. The full reference for the Map of Global Livestock Production Systems (version 5) is: Robinson TP, Thornton PK, Franceschini G, Kruska RL, Chiozza F, et al., (2011): Global livestock production systems. Rome: Food and Agriculture Organization of the United Nations (FAO) and International Livestock Research Institute (ILRI). pp. 152. http://www.fao.org/docrep/014/i2414e/i2414e.pdf. Further Information on the Map of Global Livestock Production Systems is available here: http://www.fao.org/ag/againfo/resources/en/glw/GLW_prod-sys.html. For more information about the fulll data included in the The Gridded Livestock of the World (GLW) database, please refer to:Robinson, T.P., Wint, G.R.W., Conchedda, G., Van Boeckel, T.P., Ercoli, V., Palamara, E., Cinardi, G., D’Aietti, L., Hay, S.I and Gilbert, M. (2014) Mapping the global distribution of livestock. PLoS ONE 9(5): e96084. doi:10.1371/journal.pone.0096084.</dct:description>
+    <rdfs:comment>The dataset &quot;Global Livestock Production Systems in Rangelands&quot; presents a subset of data from the Map of Global Livestock Production Systems (version 5), a joint initiative between FAO and ILRI. It contains country-level indicators that measure the extension (in sq. km) of livestock-sistem only in rangeland-based areas, disaggregated by hyperarid (LGY) and arid/semi-arid (LGA) zones. The full reference for the Map of Global Livestock Production Systems (version 5) is: Robinson TP, Thornton PK, Franceschini G, Kruska RL, Chiozza F, et al., (2011): Global livestock production systems. Rome: Food and Agriculture Organization of the United Nations (FAO) and International Livestock Research Institute (ILRI). pp. 152. http://www.fao.org/docrep/014/i2414e/i2414e.pdf. Further Information on the Map of Global Livestock Production Systems is available here: http://www.fao.org/ag/againfo/resources/en/glw/GLW_prod-sys.html. For more information about the fulll data included in the The Gridded Livestock of the World (GLW) database, please refer to:Robinson, T.P., Wint, G.R.W., Conchedda, G., Van Boeckel, T.P., Ercoli, V., Palamara, E., Cinardi, G., D’Aietti, L., Hay, S.I and Gilbert, M. (2014) Mapping the global distribution of livestock. PLoS ONE 9(5): e96084. doi:10.1371/journal.pone.0096084.</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/24"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/dataset/fao-glpsr"/>
+  </rdf:Description>
+
+</rdf:RDF>

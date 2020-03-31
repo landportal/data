@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/FAO-210071-6132">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_10967"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_12069"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_6151"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FOOD"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_10967"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_12069"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_6151"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FOOD"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
+    <dct:identifier>FAO-210071-6132</dct:identifier>
+    <skos:notation>FAO-210071-6132</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/FAO-FS"/>
+    <sdmx-attribute:unitMeasure>Million people</sdmx-attribute:unitMeasure>
+    <rdfs:label>Number of severely food insecure people (million) (3-year average)</rdfs:label>
+    <skos:prefLabel>Number of severely food insecure people (million) (3-year average)</skos:prefLabel>
+    <dct:title>Number of severely food insecure people (million) (3-year average)</dct:title>
+    <skos:definition>This indicator is part of the FAO Suite of Food Security Indicators (2017) as &quot;Additional useful statistics&quot;. This indicator measures estimated number of people living in households classified as severely food insecure. It is calculated by multiplying the estimated percentage of people affected by severe food insecurity by the total population. The previous code used for this indicator was FAO-21007-6132 (Item code 21007, Element code 6132)</skos:definition>
+    <dct:description>This indicator is part of the FAO Suite of Food Security Indicators (2017) as &quot;Additional useful statistics&quot;. This indicator measures estimated number of people living in households classified as severely food insecure. It is calculated by multiplying the estimated percentage of people affected by severe food insecurity by the total population. The previous code used for this indicator was FAO-21007-6132 (Item code 21007, Element code 6132)</dct:description>
+    <rdfs:comment>This indicator is part of the FAO Suite of Food Security Indicators (2017) as &quot;Additional useful statistics&quot;. This indicator measures estimated number of people living in households classified as severely food insecure. It is calculated by multiplying the estimated percentage of people affected by severe food insecurity by the total population. The previous code used for this indicator was FAO-21007-6132 (Item code 21007, Element code 6132)</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/fao-210071-6132"/>
+  </rdf:Description>
+
+</rdf:RDF>

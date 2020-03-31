@@ -1,28 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
   xmlns:dct="http://purl.org/dc/terms/"
-  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
-  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
   xmlns:schema="http://schema.org/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
 
   <rdf:Description rdf:about="http://data.landportal.info/indicator/FAO-21032-6125">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
-    <dct:identifier>FAO-21032-6125</dct:identifier>
-    <skos:notation>FAO-21032-6125</skos:notation>
-    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FOOD"/>
-    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
     <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_10967"/>
     <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d"/>
     <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_195"/>
-    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FOOD"/>
-    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FOOD"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
     <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_10967"/>
     <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_aca7ac6d"/>
     <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_195"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FOOD"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-SOCEC"/>
+    <dct:identifier>FAO-21032-6125</dct:identifier>
+    <skos:notation>FAO-21032-6125</skos:notation>
     <dct:source rdf:resource="http://data.landportal.info/dataset/FAO-FS"/>
-    <sdmx-attribute:unitMeasure>Index (-2.5; 2.5)</sdmx-attribute:unitMeasure>
     <rdfs:label>Political stability and absence of violence/terrorism (index)</rdfs:label>
     <skos:prefLabel>Political stability and absence of violence/terrorism (index)</skos:prefLabel>
     <dct:title>Political stability and absence of violence/terrorism (index)</dct:title>
