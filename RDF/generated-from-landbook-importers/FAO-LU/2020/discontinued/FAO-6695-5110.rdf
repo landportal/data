@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:qb="http://purl.org/linked-data/cube#"
+	xmlns:sdmx-concept="http://purl.org/linked-data/sdmx/2009/concept#"
+	xmlns:cex="http://purl.org/weso/ontology/computex#" >
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-LU/observation/FAO-6695-5110_KGZ_2016">
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation" />
+    <rdfs:label xml:lang="en">Observation of KGZ within the period of 2016 for indicator FAO-6695-5110</rdfs:label>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-04-02Z</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-LU" />
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A" />
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw" />
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/KGZ" />
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-6695-5110" />
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2016" />
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">333</cex:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-LU/observation/FAO-6695-5110_SLV_2016">
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation" />
+    <rdfs:label xml:lang="en">Observation of SLV within the period of 2016 for indicator FAO-6695-5110</rdfs:label>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-04-02Z</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-LU" />
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A" />
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw" />
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/SLV" />
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-6695-5110" />
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2016" />
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</cex:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-LU/observation/FAO-6695-5110_SVN_2013">
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation" />
+    <rdfs:label xml:lang="en">Observation of SVN within the period of 2013 for indicator FAO-6695-5110</rdfs:label>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-04-02Z</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-LU" />
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A" />
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw" />
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/SVN" />
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-6695-5110" />
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2013" />
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</cex:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-LU/observation/FAO-6695-5110_SVN_2014">
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation" />
+    <rdfs:label xml:lang="en">Observation of SVN within the period of 2014 for indicator FAO-6695-5110</rdfs:label>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-04-02Z</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-LU" />
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A" />
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw" />
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/SVN" />
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-6695-5110" />
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2014" />
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</cex:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-LU/observation/FAO-6695-5110_SVN_2015">
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation" />
+    <rdfs:label xml:lang="en">Observation of SVN within the period of 2015 for indicator FAO-6695-5110</rdfs:label>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-04-02Z</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-LU" />
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A" />
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw" />
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/SVN" />
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-6695-5110" />
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2015" />
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</cex:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-LU/observation/FAO-6695-5110_SVN_2016">
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation" />
+    <rdfs:label xml:lang="en">Observation of SVN within the period of 2016 for indicator FAO-6695-5110</rdfs:label>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-04-02Z</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-LU" />
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A" />
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw" />
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/SVN" />
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-6695-5110" />
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2016" />
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</cex:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-LU/observation/FAO-6695-5110_UKR_2013">
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation" />
+    <rdfs:label xml:lang="en">Observation of UKR within the period of 2013 for indicator FAO-6695-5110</rdfs:label>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-04-02Z</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-LU" />
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A" />
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw" />
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/UKR" />
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-6695-5110" />
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2013" />
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</cex:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-LU/observation/FAO-6695-5110_UKR_2014">
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation" />
+    <rdfs:label xml:lang="en">Observation of UKR within the period of 2014 for indicator FAO-6695-5110</rdfs:label>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-04-02Z</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-LU" />
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A" />
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw" />
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/UKR" />
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-6695-5110" />
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2014" />
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</cex:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/FAO-LU/observation/FAO-6695-5110_UKR_2015">
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation" />
+    <rdfs:label xml:lang="en">Observation of UKR within the period of 2015 for indicator FAO-6695-5110</rdfs:label>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-04-02Z</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/FAO-LU" />
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A" />
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw" />
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/UKR" />
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/FAO-6695-5110" />
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2015" />
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</cex:value>
+  </rdf:Description>
+</rdf:RDF>
