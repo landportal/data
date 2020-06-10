@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/UN-SP_LGL_LNDAGSEC.B">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_4bd6790a"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_28718"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FOOD"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-GENDER"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_4bd6790a"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_28718"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FOOD"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-GENDER"/>
+    <dct:identifier>UN-SP_LGL_LNDAGSEC.B</dct:identifier>
+    <skos:notation>UN-SP_LGL_LNDAGSEC.B</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/UN-SDG_5.A.1"/>
+    <sdmx-attribute:unitMeasure>Percentage (%)</sdmx-attribute:unitMeasure>
+    <rdfs:label>People with ownership or secure rights over land/Total agricultural population (%)</rdfs:label>
+    <skos:prefLabel>People with ownership or secure rights over land/Total agricultural population (%)</skos:prefLabel>
+    <dct:title>People with ownership or secure rights over land/Total agricultural population (%)</dct:title>
+    <skos:definition>People with ownership or secure rights over agricultural land (out of total agricultural population), in percentage. This indicator is a prevalence measure. It measures the prevalence of people in the agricultural population with ownership or tenure rights over agricultural land, disaggregated by sex (Both sex in this case).</skos:definition>
+    <dct:description>People with ownership or secure rights over agricultural land (out of total agricultural population), in percentage. This indicator is a prevalence measure. It measures the prevalence of people in the agricultural population with ownership or tenure rights over agricultural land, disaggregated by sex (Both sex in this case).</dct:description>
+    <rdfs:comment>People with ownership or secure rights over agricultural land (out of total agricultural population), in percentage. This indicator is a prevalence measure. It measures the prevalence of people in the agricultural population with ownership or tenure rights over agricultural land, disaggregated by sex (Both sex in this case).</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/un-splgllndagsecb"/>
+  </rdf:Description>
+
+</rdf:RDF>

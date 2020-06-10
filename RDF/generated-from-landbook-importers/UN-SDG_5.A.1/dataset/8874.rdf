@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:schema="http://schema.org/"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/UN-SDG_5.A.1">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#DataSet"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+    <schema:image rdf:resource="https://landportal.org/sites/landportal.org/files/logo_SDG_5.PNG"/>
+    <schema:logo rdf:resource="https://landportal.org/sites/landportal.org/files/logo_SDG_5.PNG"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_119678e7"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_f29f3106"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_8420"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FOOD"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-GENDER"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_119678e7"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_f29f3106"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_8420"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-FOOD"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-GENDER"/>
+    <dct:identifier>UN-SDG_5.A.1</dct:identifier>
+    <skos:notation>UN-SDG_5.A.1</skos:notation>
+    <dct:license rdf:resource="http://purl.org/NET/rdflicense/allrightsreserved"/>
+    <schema:license rdf:resource="http://purl.org/NET/rdflicense/allrightsreserved"/>
+    <dct:publisher rdf:resource="http://data.landportal.info/organization/e82f9624-3a20-4f31-a61f-861982f6f1c5"/>
+    <skos:prefLabel>SDG 5.a.1 - Women’s ownership of agricultural land</skos:prefLabel>
+    <rdfs:label>SDG 5.a.1 - Women’s ownership of agricultural land</rdfs:label>
+    <dct:title>SDG 5.a.1 - Women’s ownership of agricultural land</dct:title>
+    <skos:definition>The data included in this dataset reflects indicator 5.a.1 of the Sustainable Development Goals (SDGs). This indicator is listed under &quot;SDG 5. Achieve gender equality and empower all women and girls&quot; (Target 5.1: &quot;End all forms of discrimination against all women and girls everywhere&quot;). Indicator 5.1.1 measures if whether or not legal frameworks are in place to promote, enforce and monitor equality and non‑discrimination on the basis of sex (Source: https://unstats.un.org/sdgs/metadata/). It is divided in two sub-indicators. Part (a) is an incidence measure. It measures how prevalent ownership or secure rights over agricultural land are in the reference population. Part (b) measures the share of women among owners or rights-bearers of agricultural land. Therefore it can be used to monitor the under-representation of women among the owners or holders of agricultural land. This is a de facto indicator which will measure progress towards SDG Target 5.a (Source: http://www.fao.org/sustainable-development-goals/indicators/5a1/en/).</skos:definition>
+    <dct:description>The data included in this dataset reflects indicator 5.a.1 of the Sustainable Development Goals (SDGs). This indicator is listed under &quot;SDG 5. Achieve gender equality and empower all women and girls&quot; (Target 5.1: &quot;End all forms of discrimination against all women and girls everywhere&quot;). Indicator 5.1.1 measures if whether or not legal frameworks are in place to promote, enforce and monitor equality and non‑discrimination on the basis of sex (Source: https://unstats.un.org/sdgs/metadata/). It is divided in two sub-indicators. Part (a) is an incidence measure. It measures how prevalent ownership or secure rights over agricultural land are in the reference population. Part (b) measures the share of women among owners or rights-bearers of agricultural land. Therefore it can be used to monitor the under-representation of women among the owners or holders of agricultural land. This is a de facto indicator which will measure progress towards SDG Target 5.a (Source: http://www.fao.org/sustainable-development-goals/indicators/5a1/en/).</dct:description>
+    <rdfs:comment>The data included in this dataset reflects indicator 5.a.1 of the Sustainable Development Goals (SDGs). This indicator is listed under &quot;SDG 5. Achieve gender equality and empower all women and girls&quot; (Target 5.1: &quot;End all forms of discrimination against all women and girls everywhere&quot;). Indicator 5.1.1 measures if whether or not legal frameworks are in place to promote, enforce and monitor equality and non‑discrimination on the basis of sex (Source: https://unstats.un.org/sdgs/metadata/). It is divided in two sub-indicators. Part (a) is an incidence measure. It measures how prevalent ownership or secure rights over agricultural land are in the reference population. Part (b) measures the share of women among owners or rights-bearers of agricultural land. Therefore it can be used to monitor the under-representation of women among the owners or holders of agricultural land. This is a de facto indicator which will measure progress towards SDG Target 5.a (Source: http://www.fao.org/sustainable-development-goals/indicators/5a1/en/).</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/24"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/dataset/un-sdg5a1"/>
+  </rdf:Description>
+
+</rdf:RDF>
