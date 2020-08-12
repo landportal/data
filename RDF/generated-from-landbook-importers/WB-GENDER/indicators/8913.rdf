@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/WB-SG.OWN.LDAJ.MA.ZS">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_4fad5356"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_1dfe5bfe"/>
+    <dct:subject rdf:resource="http://aims.fao.org/aos/agrovoc/c_28718"/>
+    <dct:subject rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-GENDER"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_4fad5356"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_1dfe5bfe"/>
+    <schema:about rdf:resource="http://aims.fao.org/aos/agrovoc/c_28718"/>
+    <schema:about rdf:resource="http://data.landportal.info/voc/landvoc/theme/T-GENDER"/>
+    <dct:identifier>WB-SG.OWN.LDAJ.MA.ZS</dct:identifier>
+    <skos:notation>WB-SG.OWN.LDAJ.MA.ZS</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/WB-GENDER"/>
+    <sdmx-attribute:unitMeasure>Percentage (%)</sdmx-attribute:unitMeasure>
+    <rdfs:label>Men who own land both alone and jointly (% of men)</rdfs:label>
+    <skos:prefLabel>Men who own land both alone and jointly (% of men)</skos:prefLabel>
+    <dct:title>Men who own land both alone and jointly (% of men)</dct:title>
+    <skos:definition>Men who own land both alone and jointly (% of men) is the percentage of men who both solely and jointly with someone else own a land which is legally registered with their name or cannot be sold without their signature. &quot;Both alone and jointly&quot; Implies a man owns a land alone and another land jointly with someone else. Men who own land both alone and jointly is the number of men who say the type of lands they own are the one they own alone as well as the one they own jointly with someone else, expressed as percentage of men who have been interviewed and It’s derived by dividing the number of men who responded they both alone and jointly with someone else own a land which legally registered with their name or can’t be sold without their signature by total number of men who have been interviewed. ‘Ownership’ implies that the land is legally registered in the man's name or, since official property records do not always exist or are not maintained, the land is recognized as his and cannot be sold without his signature or equivalent. ‘land’ includes all agricultural or non-agricultural land. Non-agricultural land refers to rural land that is not used for growing crops, and most land in urban areas.</skos:definition>
+    <dct:description>Men who own land both alone and jointly (% of men) is the percentage of men who both solely and jointly with someone else own a land which is legally registered with their name or cannot be sold without their signature. &quot;Both alone and jointly&quot; Implies a man owns a land alone and another land jointly with someone else. Men who own land both alone and jointly is the number of men who say the type of lands they own are the one they own alone as well as the one they own jointly with someone else, expressed as percentage of men who have been interviewed and It’s derived by dividing the number of men who responded they both alone and jointly with someone else own a land which legally registered with their name or can’t be sold without their signature by total number of men who have been interviewed. ‘Ownership’ implies that the land is legally registered in the man's name or, since official property records do not always exist or are not maintained, the land is recognized as his and cannot be sold without his signature or equivalent. ‘land’ includes all agricultural or non-agricultural land. Non-agricultural land refers to rural land that is not used for growing crops, and most land in urban areas.</dct:description>
+    <rdfs:comment>Men who own land both alone and jointly (% of men) is the percentage of men who both solely and jointly with someone else own a land which is legally registered with their name or cannot be sold without their signature. &quot;Both alone and jointly&quot; Implies a man owns a land alone and another land jointly with someone else. Men who own land both alone and jointly is the number of men who say the type of lands they own are the one they own alone as well as the one they own jointly with someone else, expressed as percentage of men who have been interviewed and It’s derived by dividing the number of men who responded they both alone and jointly with someone else own a land which legally registered with their name or can’t be sold without their signature by total number of men who have been interviewed. ‘Ownership’ implies that the land is legally registered in the man's name or, since official property records do not always exist or are not maintained, the land is recognized as his and cannot be sold without his signature or equivalent. ‘land’ includes all agricultural or non-agricultural land. Non-agricultural land refers to rural land that is not used for growing crops, and most land in urban areas.</rdfs:comment>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://landportal.org/book/indicator/wb-sgownldajmazs"/>
+  </rdf:Description>
+
+</rdf:RDF>
