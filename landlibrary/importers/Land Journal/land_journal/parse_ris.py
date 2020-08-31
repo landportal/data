@@ -16,8 +16,8 @@ llrs = set()
 
 def curate_RIS_MDI_file(filename):
     write_filename = "new-"+filename
-    with open(filename, 'r') as bibliography_file:
-        new_bibliography_file = open(write_filename, "w")
+    with open(filename, encoding="utf-8") as bibliography_file:
+        new_bibliography_file = open(write_filename, "w", encoding="utf-8")
         content = bibliography_file.readlines()
         record = 0
         for line in content:
@@ -36,14 +36,14 @@ def create_llrs(filename):
 
     curated_filename = curate_RIS_MDI_file(filename)
 
-    with open(curated_filename, 'r') as bibliography_file:
+    with open(curated_filename, 'r', encoding="utf-8") as bibliography_file:
         # using https://pypi.python.org/pypi/RISparser
         entries = readris(bibliography_file)
         for entry in entries:
             llrs.add(create_llr_from_RIS(entry))
 
-    print "**********************************"
-    print "new records (Set)= %d" %(len(llrs))
+    print("**********************************")
+    print("new records (Set)= %d" %(len(llrs)))
     return llrs
 
 
@@ -56,13 +56,13 @@ def create_llr_from_RIS(ris_entry):
 
     #title. Only one
     title = ris_entry["title"]
-    llr_record.set_title(title.decode('utf-8'))
+    llr_record.set_title(title)
 
     #subtitle
 
     # description
     description = ris_entry["abstract"]
-    llr_record.set_description(description.decode('utf-8'))
+    llr_record.set_description(description)
 
     #author. One or more
     authors = ris_entry["authors"]
@@ -92,7 +92,7 @@ def create_llr_from_RIS(ris_entry):
             "4" : "12",
         }
         month = switcher_pre_2019.get(issue, "2")
-    publish_date = year+"-"+month+"-31"# format (YYYY-MM-DD)
+    publish_date = llrutils.clean_date(year+"-"+month)# format (YYYY-MM-DD)
     llr_record.set_date(publish_date)
 
 
@@ -124,6 +124,9 @@ def create_llr_from_RIS(ris_entry):
     llr_record.set_data_provider(u"Land Journal")
 
     #image
+    #image_path = "private://feeds/cover-land-v"+volume+"-i"+issue+".png"
+    image_url = "https://www.mdpi.com/data/covers/land/cover-land-v"+volume+"-i"+issue+".png"
+    llr_record.set_image(image_url)
     #llr_record.set_image("private://feeds/LandJournal-thumbnail.png")
 
     #keywords
@@ -134,15 +137,15 @@ def create_llr_from_RIS(ris_entry):
 
     #geographical focus. list
     final_places = set()
-    final_places |= set(llrutils.flatten(filter(None,[llrutils.getISO3166_1code(k) for k in keywords])))
-    final_places |= set(llrutils.flatten(filter(None,[llrutils.getUNM49code(k) for k in keywords])))
+    final_places |= set(llrutils.flatten3(filter(None,[llrutils.getISO3166_1code(k) for k in keywords])))
+    final_places |= set(llrutils.flatten3(filter(None,[llrutils.getUNM49code(k) for k in keywords])))
     
     #NLTK for geo
     if not final_places:
         final_places |= set(llrutils.getPlaceET_fromText_NLTK(llr_record.get_title())) | set(llrutils.getPlaceET_fromText_GeoText(llr_record.get_title())) 
         final_places |= set(llrutils.getPlaceET_fromText_NLTK(llr_record.get_description())) | set(llrutils.getPlaceET_fromText_GeoText(llr_record.get_description())) 
 
-    final_places = set(filter(None,llrutils.flatten(final_places)))
+    final_places = set(filter(None,llrutils.flatten3(final_places)))
 
     if not final_places:
         final_places.add("001")
@@ -150,13 +153,17 @@ def create_llr_from_RIS(ris_entry):
     llr_record.set_geographical_focus(final_places)
 
     concepts = LANDVOC.get_concepts_direct(keywords)
+    
+    synonyms = LANDVOC.get_concepts_synonymsEN(keywords)
+
+    concepts.extend(synonyms)
 
     landjournal_mapping = set(LANDVOC_LANDJOURNAL.get_concepts_landjournal_related(keywords))
 
     #parse the title
     for concept in LANDVOC.parse_get_concepts(title):
         if concept != "land":
-            concepts.append(unicode(LANDVOC.get_EnglishPrefLabel(concept,lang="en")))
+            concepts.append(LANDVOC.get_EnglishPrefLabel(concept,lang="en"))
     
     concepts.extend(landjournal_mapping)
     
@@ -181,15 +188,15 @@ def create_llr_from_RIS(ris_entry):
     return llr_record
 
 def generate_csv(llrs, filename):
-    with open(filename,'w') as csv_file:
-        csv_file.write((u'\ufeff').encode('utf8')) #BOM
+    with open(filename,'w', encoding="utf-8") as csv_file:
+        #csv_file.write((u'\ufeff').encode('utf8')) #BOM
         # TODO: change headers
         headers = LandLibraryResource.get_csv_header_line()
-        csv_file.write(headers.encode('utf8'))
+        csv_file.write(headers)
 
         for llr in llrs:
             #print llr.__dict__
-            csv_file.write(llr.as_csv_line().encode('utf8'))
+            csv_file.write(llr.as_csv_line())
         csv_file.close()
 
 
@@ -203,10 +210,26 @@ def generate_csv(llrs, filename):
 
 ris_files = glob.glob("land*.ris")
 for ris_file in ris_files:
-    print ris_file
+    print(ris_file)
     create_llrs(ris_file)
     generate_csv(llrs, ris_file+'.csv')
     llrs = set()
     
-print concepts_list
-print [{x:concepts_list.count(x)} for x in set(concepts_list) if concepts_list.count(x)>4]
+print(concepts_list)
+more_than_one = [{x:concepts_list.count(x)} for x in set(concepts_list) if concepts_list.count(x)>1]
+more_than_one_flat = [list(e.keys())[0] for e in more_than_one]
+print(more_than_one_flat)
+
+already_in_csv = list()
+import csv
+with open('landvocLANDJOURNAL\land_journal-relations.csv') as csv_file:
+    csv_reader = csv.reader(csv_file, delimiter=';')
+    for row in csv_reader:
+        already = row[0]
+        already_in_csv.append(already)
+
+for x in more_than_one_flat:
+    if x not in already_in_csv and x not in LANDVOC.get_concepts():
+        print(x)
+
+

@@ -11,11 +11,10 @@ class LandVocLANDJOURNAL(object):
     def load_landjournal_landvoc_concepts(self, filename):
         #keyword - one or multiple concepts
         relations = {}
-        with open(filename) as landjournal_file:
+        with open(filename, encoding="utf-8") as landjournal_file:
             for line in landjournal_file:
                 landjournal_concept = line.strip().split(";")[0]
                 landvoc_concepts = map(str.strip, line.strip().split(";",1)[1].strip('"').split(";"))
-                landvoc_concepts = map(unicode, landvoc_concepts)
                 relations[landjournal_concept] = landvoc_concepts
         return relations
     

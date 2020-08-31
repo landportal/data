@@ -1,11 +1,11 @@
 irrigation;agricultural land management
 production;"agricultural land management;land use"
 sustainable agriculture;"agricultural land management;sustainable land management"
-agricultural land;agricultural landscape
-agricultural productivity;"agricultural landscape;farming systems;farmers;"
+agricultural land;agriculture
+agricultural productivity;"agriculture;farming systems;farmers"
 agricultural policy;agricultural and rural legislation
 livestock industry;agriculture
-agricultural resources;"agriculture;agricultural landscape"
+agricultural resources;agriculture
 agricultural products;"agriculture;farming systems"
 cadastral surveys;"cadastres;land administration"
 sida;development agencies
@@ -26,7 +26,7 @@ administracion de la tierra;land administration
 cartography;"land administration;land use mapping"
 environmental degradation;"land degradation;environment"
 land legislation;"land law;land policies"
-agricultural trade;"land markets;agricultural landscape;farmers"
+agricultural trade;"land markets;farmers"
 land policy;land policies
 settlement policy;land policies
 economic policy;"land policies;sustainable development;poverty"
@@ -36,7 +36,7 @@ land titles;"land titling;title deed"
 maps;land use mapping
 physical planning;land use planning
 rural planning;land use planning
-agricultural planning;"land use planning;agricultural landscape"
+agricultural planning;land use planning
 natural resources;natural resources management
 mineral resources development;natural resources management
 natural resources policy;"natural resources management;land policies"
@@ -62,10 +62,8 @@ green infrastructure;"land use planning;sustainable land management;urban areas"
 land cover change;"land cover;land cover mapping"
 land tenure;"land tenure;land tenure systems"
 land use change;land use
-landscape archaeology;agricultural landscape
-landscape;agricultural landscape
 livelihoods;local community
-remote sensing;"geomatics;geographical information systems"
+remote sensing;"geographical information systems"
 urban expansion;"urban areas;urbanization"
 urban planning;"urban areas;land use planning"
 land use/land cover change;"land use;land cover"
@@ -77,3 +75,6 @@ gender perspective;"women"
 land-use change;land use
 land transfer;land transfers
 land taxation;land tax
+croplands;farmland
+land tenure security;tenure security
+land-use planning;land use planning
