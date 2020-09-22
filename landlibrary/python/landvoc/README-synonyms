@@ -1,0 +1,23 @@
+#Get synonyms
+
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT ?concept ?enLabel 
+(GROUP_CONCAT(DISTINCT ?altLabelEn;separator="|") as ?synonymsEn)
+(GROUP_CONCAT(DISTINCT ?altLabelEs;separator="|") as ?synonymsEs)
+(GROUP_CONCAT(DISTINCT ?altLabelFr;separator="|") as ?synonymsFr)
+(GROUP_CONCAT(DISTINCT ?altLabelPt;separator="|") as ?synonymsPt)
+FROM <http://landvoc.org>
+WHERE {
+   ?concept rdf:type skos:Concept ;
+      skos:inScheme <http://landvoc.org/landvoc> ;
+      skos:prefLabel ?enLabel .
+   FILTER ( lang(?enLabel) = "en" ) .
+   OPTIONAL {?concept skos:altLabel ?altLabelEn; FILTER ( lang(?altLabelEn) = "en" )  }
+   OPTIONAL {?concept skos:altLabel ?altLabelEs; FILTER ( lang(?altLabelEs) = "es" )  }
+   OPTIONAL {?concept skos:altLabel ?altLabelFr; FILTER ( lang(?altLabesFr) = "fr" )  }
+   OPTIONAL {?concept skos:altLabel ?altLabelPt; FILTER ( lang(?altLabelPt) = "pt" )  }
+
+}  GROUP BY ?concept ?enLabel
+
