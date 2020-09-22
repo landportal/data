@@ -69,7 +69,8 @@ urban planning;"urban areas;land use planning"
 land use/land cover change;"land use;land cover"
 land-use and land-cover change;"land use;land cover"
 land use and land cover change;"land use;land cover"
-land use/cover changes;"land use;land cover"
+land use/cover changes;"land use;land cover;land use change;land cover change"
+land use/cover;"land use;land cover"
 "land cover and land use(LULC)";"land use;land cover"
 gender perspective;"women"
 land-use change;land use
@@ -78,3 +79,14 @@ land taxation;land tax
 croplands;farmland
 land tenure security;tenure security
 land-use planning;land use planning
+agroforestry;"forestry;agroforestry systems;community forestry"
+slum settlement;slums
+land use transition;land use
+natural resource management;natural resources management
+grazing management;grazing
+climate change mitigation;climate change
+protected area;protected areas
+land use intensity;land use
+communal land;common lands
+land and agrarian reform;"land reform;agrarian reform"
+post-mining land use;land use
